@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30f4\u30a1\u30a4\u30d1\u30fc\u30ba\u30fb\u30af\u30ea\u30fc\u30c9"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6236,
+        "ann": 10351,
+        "mal": 5505,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The story revolves around the members of a private military company (PMC), and the uneasy tension between them and the regular military after a war that caused massive environmental destruction.Source: Animekon",
+            "type": "anidb"
+        },
+        {
+            "content": "The story revolves around the members of a private military company (PMC), and the uneasy tension between them and the regular military after a war that caused massive environmental destruction.    (Source: Animekon)",
+            "type": "mal"
+        },
+        {
+            "content": "In a post-apocalyptic world private mecha police corperations works to protect cities from terrorists using robots to destroy the cities. The mecha police units consists of mainly 5 lone male warriors and 5 females doing dispatchservice from the main office. The warriors are paied a bonus pr. kill and are highly competetive even within their own units, but there are also competition between units which is part of the plot.&nbsp;",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2022,
+            "date": "2012-09-29T02:16:49",
+            "score": 6.97,
+            "type": "mal"
+        },
+        {
+            "count": 424,
+            "date": "2012-09-29T02:16:49",
+            "score": 6.69,
+            "type": "anidb"
+        },
+        {
+            "count": 242,
+            "date": "2012-09-29T02:16:49",
+            "score": 6.328,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Viper's Creed"
+}

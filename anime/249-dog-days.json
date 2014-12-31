@@ -1,0 +1,849 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30c9\u30c3\u30b0\u30c7\u30a4\u30ba"
+        },
+        {
+            "language": "pl",
+            "title": "Dni Quintasana"
+        }
+    ],
+    "aliases": [
+        "Dog Days "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/425828927",
+            "content": "#anime #Wiosna2011 Dog Days (\u30c9\u30c3\u30b0\u30c7\u30a4\u30ba) http://rdir.pl/1bvi7r",
+            "episode": 1,
+            "filename": "f6988cb4f2ec79595d6e7606c482bf60.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/55071175725944833"
+        },
+        {
+            "blip_url": "http://blip.pl/s/440232617",
+            "content": "Dog Days 02 - r\u00f3\u017cnica mi\u0119dzy Airmaksami a podr\u00f3bami ze stadionu za 20 z\u0142 jest widoczna go\u0142ym okiem",
+            "episode": 2,
+            "filename": "1625e18a503019dbb1df62468f40150b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/57769655212843008"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-02T16:30:00",
+            "episode": 1,
+            "score": 6.7704398827,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Himatsubushi-Ayako] Dog Days 01 [1280x720][FAC46F85].mkv",
+                    "group": "Himatsubushi-Ayako",
+                    "hash": "FAC46F85",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203530",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[LOLENCODE]_Dog_Days_01_[1280x720][FBD82E44].mkv",
+                    "group": "LOLENCODE",
+                    "hash": "FBD82E44",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=203555",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_01v2_[720p][B416ACB0].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "B416ACB0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203619",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 01 [1280x720 AAC] [F0E86E3A].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "F0E86E3A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=204412",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 01v2 [1280x720 H264 AAC] [057238D0].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "057238D0",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=204628",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 01 [720p] [2B464385].mkv",
+                    "group": "IB",
+                    "hash": "2B464385",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Dog Days 01 [720p][H264][EE044AFB].mkv",
+                    "group": "Ruri",
+                    "hash": "EE044AFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207162",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-09T16:30:00",
+            "episode": 2,
+            "score": 6.8532947431,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_02_[720p][6E9A0AE2].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "6E9A0AE2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 02 [720p] [BADA971D].mkv",
+                    "group": "IB",
+                    "hash": "BADA971D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 02 [1280x720 H264 AAC] [0CA82B6C].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "0CA82B6C",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=205871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Dog Days 02 [720p][H264][0635558D].mkv",
+                    "group": "Ruri",
+                    "hash": "0635558D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu-HiNA] Dog Days 02v2 [1280x720 H264 AAC] [399106DB].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "399106DB",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=207748",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-04-16T16:30:00",
+            "episode": 3,
+            "score": 6.8180205714,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_03_[720p][83703EF1].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "83703EF1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207019",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 03 [720p] [BCACD535].mkv",
+                    "group": "IB",
+                    "hash": "BCACD535",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu-HiNA] Dog Days 03 [1280x720 H264 AAC] [303EC37B].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "303EC37B",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=207596",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ruri]Dog Days 03 [720p][H264][0ABFD485].mkv",
+                    "group": "Ruri",
+                    "hash": "0ABFD485",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208960",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Dog_Days_-_03_[1280x720_H.264_AAC][56FF05DB].mkv",
+                    "group": "Chihiro",
+                    "hash": "56FF05DB",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Dog_Days_-_03_%5B1280x720_H.264_AAC%5D%5B56FF05DB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Dog_Days_-_03_[848x480_H.264_AAC][870F94D8].mkv",
+                    "group": "Chihiro",
+                    "hash": "870F94D8",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Dog_Days_-_03_%5B848x480_H.264_AAC%5D%5B870F94D8%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-23T16:30:00",
+            "episode": 4,
+            "score": 6.8053843153,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_04_[720p][0030DC90].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "0030DC90",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208849",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 04 [1280x720 H264 AAC] [773F88A3].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "773F88A3",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=209256",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ruri]Dog Days 04 [720p][H264][E5B46F0B].mkv",
+                    "group": "Ruri",
+                    "hash": "E5B46F0B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211268",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 04 [720p] [FC73CB55].mkv",
+                    "group": "IB",
+                    "hash": "FC73CB55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Dog_Days_-_04_[848x480_H.264_AAC][E3BA9301].mkv",
+                    "group": "Chihiro",
+                    "hash": "E3BA9301",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Dog_Days_-_04_%5B848x480_H.264_AAC%5D%5BE3BA9301%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Dog_Days_-_04_[1280x720_H.264_AAC][73C95CAB].mkv",
+                    "group": "Chihiro",
+                    "hash": "73C95CAB",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Dog_Days_-_04_%5B1280x720_H.264_AAC%5D%5B73C95CAB%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-30T16:30:00",
+            "episode": 5,
+            "score": 6.7866734694,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_05_[720p][4BDD03AD].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "4BDD03AD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210787",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 05v2 [1280x720 H264 AAC] [BE644FC8].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "BE644FC8",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=211151",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 05 [720p] [4ECD6678].mkv",
+                    "group": "IB",
+                    "hash": "4ECD6678",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211699",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ruri]Dog Days 05 [720p][H264][BC9E82AC].mkv",
+                    "group": "Ruri",
+                    "hash": "BC9E82AC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214800",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-07T16:30:00",
+            "episode": 6,
+            "score": 6.775390739,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_06_[720p][F92E3424].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "F92E3424",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212491",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hiryuu-HiNA] Dog Days 06 [1280x720 H264 AAC] [601EA7DD].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "601EA7DD",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=212801",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 5,
+                    "filename": "[Ruri]Dog Days 06 [720p][H264][F7FE35B5].mkv",
+                    "group": "Ruri",
+                    "hash": "F7FE35B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[IB] Dog Days - 06 [720p] [60185DB1].mkv",
+                    "group": "IB",
+                    "hash": "60185DB1",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=214685",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-14T16:30:00",
+            "episode": 7,
+            "score": 6.7783679158,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 07 [1280x720 H264 AAC] [F3A41B1E].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "F3A41B1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214460",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 07 [720p] [C500EB73].mkv",
+                    "group": "IB",
+                    "hash": "C500EB73",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=215086",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ruri]Dog Days 07 [720p][H264][97BF9A6A].mkv",
+                    "group": "Ruri",
+                    "hash": "97BF9A6A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217800",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_07_[720p][211E0B05].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "211E0B05",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219656",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-21T16:30:00",
+            "episode": 8,
+            "score": 6.7856294463,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hiryuu-HiNA] Dog Days 08 [1280x720 H264 AAC] [268C466E].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "268C466E",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=216088",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[IB] Dog Days - 08 [720p] [F3EA3CE7].mkv",
+                    "group": "IB",
+                    "hash": "F3EA3CE7",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=216592",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 5,
+                    "filename": "[Ruri]Dog Days 08 [720p][H264][5514AAFF].mkv",
+                    "group": "Ruri",
+                    "hash": "5514AAFF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_08_[720p][CF2D2990].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "CF2D2990",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220240",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-28T16:30:00",
+            "episode": 9,
+            "score": 6.7954644943,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 09 [1280x720 H264 AAC] [D095F00D].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "D095F00D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217772",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[LQ 1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 09 [LQ 1280x720 H264 AAC] [77532916].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "77532916",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 09 [720p] [55AAAF3B].mkv",
+                    "group": "IB",
+                    "hash": "55AAAF3B",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=218477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_09_[720p][A88016A6].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "A88016A6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221788",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ruri]Dog Days 09 [720p][H264][A500C4E9].mkv",
+                    "group": "Ruri",
+                    "hash": "A500C4E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223247",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-04T16:30:00",
+            "episode": 10,
+            "score": 6.8021107356,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 10 [1280x720 H264 AAC] [D1A36484].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "D1A36484",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219383",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[LQ 1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-HiNA] Dog Days 10 [LQ 1280x720 H264 AAC] [94C9D778].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "94C9D778",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219390",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 10 [720p] [E14122AB].mkv",
+                    "group": "IB",
+                    "hash": "E14122AB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_10_[720p][A76147F2].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "A76147F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221790",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ruri]Dog Days 10 [720p][H264][0A6AB38B].mkv",
+                    "group": "Ruri",
+                    "hash": "0A6AB38B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223249",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-11T16:30:00",
+            "episode": 11,
+            "score": 6.7980726549,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[IB] Dog Days - 11 [720p] [BD1AB4FD].mkv",
+                    "group": "IB",
+                    "hash": "BD1AB4FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hiryuu-HiNA] Dog Days 11 [1280x720 H264 AAC] [B19EA51F].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "B19EA51F",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=221212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[LQ 1280x720 H264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu-HiNA] Dog Days 11 [LQ 1280x720 H264 AAC] [7F18D345].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "7F18D345",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_11_[720p][BF011C08].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "BF011C08",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 4,
+                    "filename": "[Ruri]Dog Days 11 [720p][H264][D57B37FB].mkv",
+                    "group": "Ruri",
+                    "hash": "D57B37FB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227401",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-18T16:30:00",
+            "episode": 12,
+            "score": 6.8136990038,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_12_[720p][A310A984].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "A310A984",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222115",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu-HiNA] Dog Days 12 [1280x720 H264 AAC] [2EFB6576].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "2EFB6576",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[LQ 1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu-HiNA] Dog Days 12 [LQ 1280x720 H264 AAC] [911BCFFC].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "911BCFFC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Dog Days - 12 [720p] [DCD81E84].mkv",
+                    "group": "IB",
+                    "hash": "DCD81E84",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222588",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Dog Days 12 [720p][H264][B621166B].mkv",
+                    "group": "Ruri",
+                    "hash": "B621166B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227403",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-25T16:30:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ayako-Himatsubushi]_Dog_Days_-_13_[720p][7EE46EC4].mkv",
+                    "group": "Ayako-Himatsubushi",
+                    "hash": "7EE46EC4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223741",
+                    "version": 1
+                },
+                {
+                    "additional_info": "720p",
+                    "download_count": 2,
+                    "filename": "[IB] Dog Days - 13 END [720p] [4158EB8A].mkv",
+                    "group": "IB",
+                    "hash": "4158EB8A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224013",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Hiryuu-HiNA] Dog Days 13 [1280x720 H264 AAC] [C81AD324].mkv",
+                    "group": "Hiryuu-HiNA",
+                    "hash": "C81AD324",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=224105",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 3,
+                    "filename": "[Ruri]Dog Days 13 [720p][H264][CE0D43C1].mkv",
+                    "group": "Ruri",
+                    "hash": "CE0D43C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227405",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8206,
+        "ann": 12246,
+        "mal": 10155,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Shinku by\u0142 ca\u0142kowicie normalny...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cec1d4d2780d0242e69b30e1216aadab.jpg",
+            "hd": false
+        },
+        {
+            "description": "Niestety, pewnego dnia na jego drodze stan\u0105\u0142 PIES.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/daec7620767a9107d1a80e1ae7ecff5e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ab73eb68e95bbfd8666472ee9846353.jpg",
+            "hd": false
+        },
+        {
+            "description": "A dziewczyna przefarbowa\u0142a w\u0142osy na r\u00f3\u017c i dorobi\u0142a sobie psie uszy.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4c8ca69aefddbe18d04affdabd551a05.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c0366153c2e4e6b9b173685864b0102.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wojna nie wojna, relacja sama si\u0119 nie zrobi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8b0dbfdf49108a6f9f09a702fa60cb31.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zaci\u0119ta walka na \u015bmier\u0107 i \u017cycie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c8b60302e1e08893527be119d01cb8df.jpg",
+            "hd": false
+        },
+        {
+            "description": "Lornetkowa Ricotta z bardzo bliska patrzy, jak m\u0119czysz dziada",
+            "filename": "http://s.modriv.net/abp/images/screencaps/93c08ad3439375e961e4bbc584b8a5b0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc24b961acc1f880301a255ab9559acf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6d4b8ed1e0483c09338badcd4bde2fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "Panie i panowie, oto przedstawiam wam anime o niczym!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a8e7edeff11b854d0725a73b566ae863.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Jestem taki zajebisty\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/21fa69f339d2d1304f7c5572ca65d21b.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Dog Days (\u30c9\u30c3\u30b0\u30c7\u30a4\u30ba) http://rdir.pl/1bvi7r",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f6988cb4f2ec79595d6e7606c482bf60.jpg",
+            "hd": false
+        },
+        {
+            "description": "we're fucked",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e545a5f2dbf468731ece1afa7b7c6fa1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Fabu\u0142a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b1ce9ae365c86184f74c3e713c3ab275.jpg",
+            "hd": false
+        },
+        {
+            "description": "r\u00f3\u017cnica mi\u0119dzy Airmaksami a podr\u00f3bami ze stadionu za 20 z\u0142 jest widoczna go\u0142ym okiem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1625e18a503019dbb1df62468f40150b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Fabu\u0142y ci\u0105g dalszy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/36b0a0da026485ebd2eb283dc4ce11fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zwrot w akcji!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ec356241b6611cefaef7b67b0d0bdbee.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ody licealista, kt\u00f3rego jedyn\u0105 pasj\u0105 jest lekkoatletyka i wysi\u0142ek fizyczny, zostaje wezwany przez r\u00f3\u017cowow\u0142os\u0105 ksi\u0119\u017cniczk\u0119 z psimi uszami do bycia jej \"bohaterem\" w \u015bwiecie, w kt\u00f3rym koty i psy s\u0105 w stanie wojny, kt\u00f3ra to polega na sprawdzaniu sprawno\u015bci fizycznej wojownik\u00f3w.",
+            "type": "abp"
+        },
+        {
+            "content": "Republic of Biscotti faces a predicament by the invasion of Galette Leo Knights. In order to save the country, Princess Milchore summons a &quot;hero&quot; from the outer world. Shinku, a junior high school boy living in the Earth, is chosen as the hero.",
+            "type": "mal"
+        },
+        {
+            "content": "Princess Millhiore of the Biscotti Republic decides to summon a brave warrior from an alternate world to defend her country from the neighboring fiefdom of Garrett. The \"brave warrior\" turns out to be a boy named Cinque.Source: ANNNote: The first episode received a preview airing on Saturday, March 26 and Sunday, March 27, 2011 at Gamers Akihabara headquarters in Tokyo, Gamers Nagoya branch and Gamers Namba branch in Osaka. It was limited to 100 people at Nagoya and Namba and 80 people at Akihabara. Initially the preview was planned as part of an event at Animecontents Expo on Sunday, March 27, 2011 but the Expo was cancelled because of the Great Tohoku Kanto Earthquake. The regular television airing started on April 2, 2011.",
+            "type": "anidb"
+        },
+        {
+            "content": "In the land of Fronaldo, the Republic of Biscotti has been aggressively attacked by the Lion Kingdom of Galette. Facing potential defeat, Princess Millhiore summons a hero who can save the country. What she gets is Izumi Shinku, a middle-school boy from Japan. Awaiting him in Fronaldo is the task of becoming hero enough to defeat his enemies while learning the peculiar rules of battle in this strange new world.",
+            "type": "ann"
+        },
+        {
+            "content": "Sink Izumi is a cheerful and athletic half-Japanese, half-English boy who studies at Kinokawa International School in Japan, and has a normal life everyday until he suddenly got summoned to the alternate world of Flonyard (\u30d5\u30ed\u30cb\u30e3\u30eb\u30c9, Furonyarudo?). The people there look no different from humans, except for one thing; they have animal ears and tails. The one who summoned him is Millhiore, the dog-like Princess of the Biscotti Republic (\u30d3\u30b9\u30b3\u30c3\u30c6\u30a3\u5171\u548c\u56fd, Bisukotti Ky\u014dwa-koku?), who requested his assistance in their war against the forces of the feline-like Galette Lion Dominion (\u30ac\u30ec\u30c3\u30c8\u7345\u5b50\u56e3\u9818, Garetto Shishi Danrei?).",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 14047,
+            "date": "2012-09-29T13:19:58",
+            "score": 7.27,
+            "type": "mal"
+        },
+        {
+            "count": 1015,
+            "date": "2012-09-29T13:19:58",
+            "score": 6.72,
+            "type": "anidb"
+        },
+        {
+            "count": 633,
+            "date": "2012-09-29T13:19:58",
+            "score": 6.616,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Dog Days"
+}

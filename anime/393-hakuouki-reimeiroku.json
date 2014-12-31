@@ -1,0 +1,604 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u8584\u685c\u9b3c \u9ece\u660e\u9332"
+        }
+    ],
+    "aliases": [
+        "Hakuoki Reimeiroku",
+        "Hakuouki Reimeiroku"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-07-09T19:53:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330624",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330625",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_01_[8bit][1280x720][B59CDBB9].mkv",
+                    "group": "Tsuki",
+                    "hash": "B59CDBB9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_01_[10bit][1280x720][DE9A765B].mkv",
+                    "group": "Tsuki",
+                    "hash": "DE9A765B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[Ruri]Hakuouki Reimeiroku 01 [10bit][92FFE741].mkv",
+                    "group": "Ruri",
+                    "hash": "92FFE741",
+                    "url": "http://tracker.minglong.org/torrents/%5BRuri%5DHakuouki%20Reimeiroku%2001%20%5B10bit%5D%5B92FFE741%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-16T19:53:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_02_[8bit][1280x720][40FAB3E0].mkv",
+                    "group": "Tsuki",
+                    "hash": "40FAB3E0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_02_[10bit][1280x720][CEA39C1B].mkv",
+                    "group": "Tsuki",
+                    "hash": "CEA39C1B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334258",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[Ruri]Hakuouki Reimeiroku 02 [10bit][CB8CC390].mkv",
+                    "group": "Ruri",
+                    "hash": "CB8CC390",
+                    "url": "http://tracker.minglong.org/torrents/%5BRuri%5DHakuouki%20Reimeiroku%2002%20%5B10bit%5D%5BCB8CC390%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-23T19:53:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334956",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334958",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_03_[8bit][1280x720][D0E98C5A].mkv",
+                    "group": "Tsuki",
+                    "hash": "D0E98C5A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_03_[10bit][1280x720][7F60EFF2].mkv",
+                    "group": "Tsuki",
+                    "hash": "7F60EFF2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335241",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-30T19:53:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337152",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_04_[8bit][1280x720][6FD4042D].mkv",
+                    "group": "Tsuki",
+                    "hash": "6FD4042D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337543",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_04_[10bit][1280x720][9508B650].mkv",
+                    "group": "Tsuki",
+                    "hash": "9508B650",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337544",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-06T19:53:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339465",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_05_[8bit][1280x720][331006A1].mkv",
+                    "group": "Tsuki",
+                    "hash": "331006A1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_05_[10bit][1280x720][6D3125A3].mkv",
+                    "group": "Tsuki",
+                    "hash": "6D3125A3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340173",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-13T19:53:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341881",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341882",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 6,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_06_[10bit][1280x720][9B284BA2].mkv",
+                    "group": "Tsuki",
+                    "hash": "9B284BA2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 6,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_06_[8bit][1280x720][D9CEE45F].mkv",
+                    "group": "Tsuki",
+                    "hash": "D9CEE45F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342596",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-20T19:53:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344278",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344279",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_07_[8bit][1280x720][C98337A5].mkv",
+                    "group": "Tsuki",
+                    "hash": "C98337A5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 7,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_07_[10bit][1280x720][8E2441D0].mkv",
+                    "group": "Tsuki",
+                    "hash": "8E2441D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346449",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-27T19:53:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346547",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_08_[10bit][1280x720][C57F3E24].mkv",
+                    "group": "Tsuki",
+                    "hash": "C57F3E24",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347588",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_08_[8bit][1280x720][64064175].mkv",
+                    "group": "Tsuki",
+                    "hash": "64064175",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347587",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-03T19:53:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Hakuoki Reimeiroku - 09 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1763",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Hakuoki Reimeiroku - 09 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1764",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348862",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_09_[8bit][1280x720][D40E5A3C].mkv",
+                    "group": "Tsuki",
+                    "hash": "D40E5A3C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351274",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_09_[10bit][1280x720][001D74DC].mkv",
+                    "group": "Tsuki",
+                    "hash": "001D74DC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351275",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-10T19:53:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351484",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351486",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_10_[8bit][1280x720][350C3129].mkv",
+                    "group": "Tsuki",
+                    "hash": "350C3129",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352724",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_10_[10bit][1280x720][3A589DA9].mkv",
+                    "group": "Tsuki",
+                    "hash": "3A589DA9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352725",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-17T19:53:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353725",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353728",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_11_[8bit][1280x720][72459057].mkv",
+                    "group": "Tsuki",
+                    "hash": "72459057",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357448",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_11_[10bit][1280x720][40CBAFD1].mkv",
+                    "group": "Tsuki",
+                    "hash": "40CBAFD1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357449",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-24T19:53:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355748",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hakuoki Reimeiroku - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355749",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_12_END_[8bit][1280x720] [22F0AD42].mkv",
+                    "group": "Tsuki",
+                    "hash": "22F0AD42",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357451",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Hakuouki_Reimeiroku_-_12_END_[10bit][1280x720][B1E66662].mkv",
+                    "group": "Tsuki",
+                    "hash": "B1E66662",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357639",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8999,
+        "ann": 14088,
+        "mal": 13115,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 1264,
+            "date": "2012-09-29T14:34:19",
+            "score": 7.53,
+            "type": "mal"
+        },
+        {
+            "count": 46,
+            "date": "2012-09-29T14:34:19",
+            "score": 6.25,
+            "type": "anidb"
+        },
+        {
+            "count": 100,
+            "date": "2012-09-29T14:34:19",
+            "score": 5.065,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "275",
+    "title": "Hakuouki: Reimeiroku"
+}

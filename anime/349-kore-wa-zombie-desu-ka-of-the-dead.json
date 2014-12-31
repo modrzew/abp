@@ -1,0 +1,934 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3053\u308c\u306f\u30be\u30f3\u30d3\u3067\u3059\u304b? OF THE DEAD"
+        },
+        {
+            "language": "pl",
+            "title": "Czy to jest Zombie? \u017bYWYCH TRUP\u00d3W"
+        }
+    ],
+    "aliases": [
+        "Kore wa Zombie Desu ka - Of the Dead",
+        "Kore wa Zombie Desu ka\uff1f of the Dead",
+        "Kore wa Zombie Desu ka of the Dead",
+        "Kore wa Zombie Desuka Of the Dead"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1100065349",
+            "content": "#anime #Wiosna2012 Kore wa Zombie Desu ka? of the Dead (\u3053\u308c\u306f\u30be\u30f3\u30d3\u3067\u3059\u304b? OF THE DEAD) http://rdir.pl/1nawxm",
+            "episode": 1,
+            "filename": "687887f211f8748024130e408947dec7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190204756998893568"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1109483147",
+            "content": "Kore wa Zombie Desu ka? of the Dead 02 - id\u0105c do lasu, pami\u0119tajcie \u017ceby uwa\u017ca\u0107 na nied\u017awiedzie",
+            "episode": 2,
+            "filename": "6ad5432b99431ebd15e84ac7f6043858.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/191548049800167424"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1163429361",
+            "content": "Kore wa Zombie Desu ka? of the Dead 05 - tymczasem w Japonii wszystko po staremu",
+            "episode": 5,
+            "filename": "6f20298c92619147d405db92d37d2630.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/198432249258053632"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-04T18:00:00",
+            "episode": 1,
+            "score": 8.178542654,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 01 [720p][3884A0F9].mkv",
+                    "group": "Hadena",
+                    "hash": "3884A0F9",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2001%20%5B720p%5D%5B3884A0F9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 01 [480p][68C577E3].mkv",
+                    "group": "Hadena",
+                    "hash": "68C577E3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2001%20%5B480p%5D%5B68C577E3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 01v2 [720p][228F0AD1].mkv",
+                    "group": "Hadena",
+                    "hash": "228F0AD1",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2001v2%20%5B720p%5D%5B228F0AD1%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 01 [CBFA1695].mkv",
+                    "group": "Commie",
+                    "hash": "CBFA1695",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 01 [10bit][720p][3F59B944].mkv",
+                    "group": "Hadena",
+                    "hash": "3F59B944",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2001%20%5B10bit%5D%5B720p%5D%5B3F59B944%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 01 (1280x720 h264 AAC) [48B7AFC9].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "48B7AFC9",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_01_1280x720_h264_AAC_48B7AFC9.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 01 (848x480 h264 AAC) [60976686].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "60976686",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_01_848x480_h264_AAC_60976686.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_01_[10bit][1280x720][42BB150B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "42BB150B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302779",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_01_[8bit][1280x720][75294E1D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "75294E1D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302778",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-11T18:00:00",
+            "episode": 2,
+            "score": 8.1347619048,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 02 [33C0C551].mkv",
+                    "group": "Commie",
+                    "hash": "33C0C551",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304350",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 02 [720p][3AEBBE98].mkv",
+                    "group": "Hadena",
+                    "hash": "3AEBBE98",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2002%20%5B720p%5D%5B3AEBBE98%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 02 [480p][8E20D47B].mkv",
+                    "group": "Hadena",
+                    "hash": "8E20D47B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2002%20%5B480p%5D%5B8E20D47B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 02 [10bit][720p][6B6E6C70].mkv",
+                    "group": "Hadena",
+                    "hash": "6B6E6C70",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2002%20%5B10bit%5D%5B720p%5D%5B6B6E6C70%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 02 (1280x720 h264 AAC) [AE11533B].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "AE11533B",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_02_1280x720_h264_AAC_AE11533B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 02 (848x480 h264 AAC) [3FD5C6F9].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "3FD5C6F9",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_02_848x480_h264_AAC_3FD5C6F9.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_02_[10bit][1280x720][4F7F5A9A].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4F7F5A9A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_02_[8bit][1280x720][DA83B82E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DA83B82E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304821",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-18T18:00:00",
+            "episode": 3,
+            "score": 8.0533155894,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 03 [720p][A07DA2A8].mkv",
+                    "group": "Hadena",
+                    "hash": "A07DA2A8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2003%20%5B720p%5D%5BA07DA2A8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 03 [480p][5EE08F07].mkv",
+                    "group": "Hadena",
+                    "hash": "5EE08F07",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2003%20%5B480p%5D%5B5EE08F07%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 03 [725E4A04].mkv",
+                    "group": "Commie",
+                    "hash": "725E4A04",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306492",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_03_[10bit][1280x720][1D8B2A47].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1D8B2A47",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307934",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_03_[8bit][1280x720][0FC4BEF7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0FC4BEF7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307933",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 03 (1280x720 h264 AAC) [81B2E87D].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "81B2E87D",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_03_1280x720_h264_AAC_81B2E87D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 03 (848x480 h264 AAC) [B021599E].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "B021599E",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_03_848x480_h264_AAC_B021599E.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-25T18:00:00",
+            "episode": 4,
+            "score": 8.0640609555,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 04 [720p][98282AA6].mkv",
+                    "group": "Hadena",
+                    "hash": "98282AA6",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2004%20%5B720p%5D%5B98282AA6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 04 [480p][25090AA7].mkv",
+                    "group": "Hadena",
+                    "hash": "25090AA7",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2004%20%5B480p%5D%5B25090AA7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 04 [10bit][720p][43CCBBFC].mkv",
+                    "group": "Hadena",
+                    "hash": "43CCBBFC",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2004%20%5B10bit%5D%5B720p%5D%5B43CCBBFC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 04 [9C71F893].mkv",
+                    "group": "Commie",
+                    "hash": "9C71F893",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308829",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_04_[10bit][1280x720][7ED75699].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7ED75699",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309699",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_04_[8bit][1280x720][9D521DD1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9D521DD1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309698",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 04 (1280x720 h264 AAC) [3ACCC0BF].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "3ACCC0BF",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_04_1280x720_h264_AAC_3ACCC0BF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 04 (848x480 h264 AAC) [3D399E12].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "3D399E12",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_04_848x480_h264_AAC_3D399E12.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-02T18:00:00",
+            "episode": 5,
+            "score": 8.0312948826,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 05 [50CAEE23].mkv",
+                    "group": "Commie",
+                    "hash": "50CAEE23",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311005",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 05 [720p][3A3EB9BE].mkv",
+                    "group": "Hadena",
+                    "hash": "3A3EB9BE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2005%20%5B720p%5D%5B3A3EB9BE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 05 [480p][C9D6DB35].mkv",
+                    "group": "Hadena",
+                    "hash": "C9D6DB35",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2005%20%5B480p%5D%5BC9D6DB35%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 05 [10bit][720p][4E68E741].mkv",
+                    "group": "Hadena",
+                    "hash": "4E68E741",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2005%20%5B10bit%5D%5B720p%5D%5B4E68E741%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 05 (1280x720 h264 AAC) [E88DA439].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "E88DA439",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_05_1280x720_h264_AAC_E88DA439.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 05 (848x480 h264 AAC) [62972C60].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "62972C60",
+                    "url": "http://tracker.anime-index.org/Doki-AFFTW_Kore_wa_Zombie_Desu_ka_of_the_Dead_-_05_848x480_h264_AAC_62972C60.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_05_[10bit][1280x720][9FEF2CEF].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9FEF2CEF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_05_[8bit][1280x720][84667640].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "84667640",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318309",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-09T18:00:00",
+            "episode": 6,
+            "score": 8.0222973806,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 06 [720p][B5BED2A3].mkv",
+                    "group": "Hadena",
+                    "hash": "B5BED2A3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2006%20%5B720p%5D%5BB5BED2A3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 06 [10bit][720p][D04AB962].mkv",
+                    "group": "Hadena",
+                    "hash": "D04AB962",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2006%20%5B10bit%5D%5B720p%5D%5BD04AB962%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 06 [480p][B6501AF8].mkv",
+                    "group": "Hadena",
+                    "hash": "B6501AF8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2006%20%5B480p%5D%5BB6501AF8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 06 [4F9B62CA].mkv",
+                    "group": "Commie",
+                    "hash": "4F9B62CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313467",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 06 (1280x720 h264 AAC) [D75B9824].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "D75B9824",
+                    "url": "http://tracker.anime-index.org/download.php?f=%5BDoki-AFFTW%5D+Kore+wa+Zombie+Desu+ka+of+the+Dead+-+06+%281280x720+h264+AAC%29+%5BD75B9824%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 06 (848x480 h264 AAC) [019ED506].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "019ED506",
+                    "url": "http://tracker.anime-index.org/download.php?f=%5BDoki-AFFTW%5D+Kore+wa+Zombie+Desu+ka+of+the+Dead+-+06+%28848x480+h264+AAC%29+%5B019ED506%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_06_[8bit][1280x720][E07B15C6].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E07B15C6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_06_[10bit][1280x720][7B36040C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7B36040C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323856",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-16T18:00:00",
+            "episode": 7,
+            "score": 8.0221708281,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 07 [61D0BDA4].mkv",
+                    "group": "Commie",
+                    "hash": "61D0BDA4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315103",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 07 [720p][5EE1B593].mkv",
+                    "group": "Hadena",
+                    "hash": "5EE1B593",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2007%20%5B720p%5D%5B5EE1B593%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 07 [480p][50A74FC0].mkv",
+                    "group": "Hadena",
+                    "hash": "50A74FC0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2007%20%5B480p%5D%5B50A74FC0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 07 [10bit][720p][E737FCB3].mkv",
+                    "group": "Hadena",
+                    "hash": "E737FCB3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2007%20%5B10bit%5D%5B720p%5D%5BE737FCB3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_07_[8bit][1280x720][01E40F76].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "01E40F76",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_07_[10bit][1280x720][67B7B827].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "67B7B827",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 07 (1280x720 h264 AAC) [DC80F77A].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "DC80F77A",
+                    "url": "http://tracker.anime-index.org/%5BDoki-AFFTW%5D%20Kore%20wa%20Zombie%20Desu%20ka%20of%20the%20Dead%20-%2007%20(1280x720%20h264%20AAC)%20%5BDC80F77A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 07 (848x480 h264 AAC) [6D267D1F].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "6D267D1F",
+                    "url": "http://tracker.anime-index.org/%5BDoki-AFFTW%5D%20Kore%20wa%20Zombie%20Desu%20ka%20of%20the%20Dead%20-%2007%20(848x480%20h264%20AAC)%20%5B6D267D1F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-23T18:00:00",
+            "episode": 8,
+            "score": 8.0314420804,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 08 [720p][70F63654].mkv",
+                    "group": "Hadena",
+                    "hash": "70F63654",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2008%20%5B720p%5D%5B70F63654%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 08 [10bit][720p][2F61D9C9].mkv",
+                    "group": "Hadena",
+                    "hash": "2F61D9C9",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2008%20%5B10bit%5D%5B720p%5D%5B2F61D9C9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 08 [FB4A6820].mkv",
+                    "group": "Commie",
+                    "hash": "FB4A6820",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_08_[8bit][1280x720][AF9D5082].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "AF9D5082",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_08_[10bit][1280x720][93F22553].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "93F22553",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 08 (1280x720 h264 AAC) [A2709EE0].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "A2709EE0",
+                    "url": "http://tracker.anime-index.org/%5BDoki-AFFTW%5D%20Kore%20wa%20Zombie%20Desu%20ka%20of%20the%20Dead%20-%2008%20(1280x720%20h264%20AAC)%20%5BA2709EE0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 08 (848x480 h264 AAC) [7965B86D].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "7965B86D",
+                    "url": "http://tracker.anime-index.org/%5BDoki-AFFTW%5D%20Kore%20wa%20Zombie%20Desu%20ka%20of%20the%20Dead%20-%2008%20(848x480%20h264%20AAC)%20%5B7965B86D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-30T18:00:00",
+            "episode": 9,
+            "score": 8.0438511342,
+            "torrents": [
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 09 [10bit][720p][5A9F1EEA].mkv",
+                    "group": "Hadena",
+                    "hash": "5A9F1EEA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2009%20%5B10bit%5D%5B720p%5D%5B5A9F1EEA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 09 [720p][B512A0C7].mkv",
+                    "group": "Hadena",
+                    "hash": "B512A0C7",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2009%20%5B720p%5D%5BB512A0C7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 09 [F3189AF8].mkv",
+                    "group": "Commie",
+                    "hash": "F3189AF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319111",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 09 (1280x720 h264 AAC) [2219F50E].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "2219F50E",
+                    "url": "http://tracker.anime-index.org/%5BDoki-AFFTW%5D%20Kore%20wa%20Zombie%20Desu%20ka%20of%20the%20Dead%20-%2009%20(1280x720%20h264%20AAC)%20%5B2219F50E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 09 (848x480 h264 AAC) [DE9A3FBF].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "DE9A3FBF",
+                    "url": "http://tracker.anime-index.org/%5BDoki-AFFTW%5D%20Kore%20wa%20Zombie%20Desu%20ka%20of%20the%20Dead%20-%2009%20(848x480%20h264%20AAC)%20%5BDE9A3FBF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_09_[8bit][1280x720][2364F8BC].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "2364F8BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340850",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_09_[10bit][1280x720][40E75D9B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "40E75D9B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340851",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-06T18:00:00",
+            "episode": 10,
+            "score": 7.943047188,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 10 [720p][B5E380C2].mkv",
+                    "group": "Hadena",
+                    "hash": "B5E380C2",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2010%20%5B720p%5D%5BB5E380C2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Kore wa Zombie Desu ka\uff1f of the Dead - 10 [33114B21].mkv",
+                    "group": "Commie",
+                    "hash": "33114B21",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321134",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Kore wa Zombie Desu ka - Of the Dead - 10 [10bit][720p][F4A67475].mkv",
+                    "group": "Hadena",
+                    "hash": "F4A67475",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Kore%20wa%20Zombie%20Desu%20ka%20-%20Of%20the%20Dead%20-%2010%20%5B10bit%5D%5B720p%5D%5BF4A67475%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_10_END_[8bit][1280x720][84A4C01C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "84A4C01C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340852",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kore_wa_Zombie_Desuka_Of_the_Dead_-_10_END_[10bit][1280x720][5B0FE8E0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5B0FE8E0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340854",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 10 (1280x720 h264 AAC) [904B487D].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "904B487D",
+                    "url": "http://tracker.anime-index.org/%5BDoki-AFFTW%5D%20Kore%20wa%20Zombie%20Desu%20ka%20of%20the%20Dead%20-%2010%20(1280x720%20h264%20AAC)%20%5B904B487D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki-AFFTW] Kore wa Zombie Desu ka of the Dead - 10 (848x480 h264 AAC) [AC37AAB9].mkv",
+                    "group": "Doki-AFFTW",
+                    "hash": "AC37AAB9",
+                    "url": "http://tracker.anime-index.org/%5BDoki-AFFTW%5D%20Kore%20wa%20Zombie%20Desu%20ka%20of%20the%20Dead%20-%2010%20(848x480%20h264%20AAC)%20%5BAC37AAB9%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 10,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8476,
+        "ann": 13782,
+        "mal": 10790,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/35429180d00b466a736a053ed2b0cb5b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/85a94137102d28d1820d8bfe493705c2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kobiety na swoim miejscu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bdfc45cae56a0f920919d6c89351d51d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Za du\u017co chi\u0144skich bajek",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4fbc1d35af5ae8263db2f4140bd587e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/74cf0f97ecbbef6abbacff57cc8e6c81.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/afbc3f7cf7fe3a7e0fde72d13a06fdfc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b35eb220e146d53d5e56e074e9e6922d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d0461c93685bc34a88f3880bf9b833d1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9490067e39784bdb28a1cf67637b11c2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6991351d3124d196ede0f64aac250ac6.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Kore wa Zombie Desu ka? of the Dead (\u3053\u308c\u306f\u30be\u30f3\u30d3\u3067\u3059\u304b? OF THE DEAD) http://rdir.pl/1nawxm",
+            "filename": "http://s.modriv.net/abp/images/screencaps/687887f211f8748024130e408947dec7.jpg",
+            "hd": false
+        },
+        {
+            "description": "id\u0105c do lasu, pami\u0119tajcie \u017ceby uwa\u017ca\u0107 na nied\u017awiedzie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6ad5432b99431ebd15e84ac7f6043858.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/666d4cdd43ea567dfefc443314b540dd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ca35cc00e0ac2ef6220483c7ac5e5549.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8f094e273aa770ddf5c83688cfab717a.jpg",
+            "hd": false
+        },
+        {
+            "description": "tymczasem w Japonii wszystko po staremu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6f20298c92619147d405db92d37d2630.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/de537e2c4cfba85043c2c291fa0d4f29.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7481688d835b82baa28ec7e9aa5dd374.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 17913,
+            "date": "2012-09-29T14:10:53",
+            "score": 7.93,
+            "type": "mal"
+        },
+        {
+            "count": 658,
+            "date": "2012-09-29T14:10:53",
+            "score": 7.21,
+            "type": "anidb"
+        },
+        {
+            "count": 614,
+            "date": "2012-09-29T14:10:53",
+            "score": 7.074,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "228",
+    "title": "Kore wa Zombie Desu ka? of the Dead"
+}

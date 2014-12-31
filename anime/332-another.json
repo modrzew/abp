@@ -1,0 +1,1669 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30ca\u30b6\u30fc"
+        },
+        {
+            "language": "pl",
+            "title": "Inny"
+        }
+    ],
+    "aliases": [
+        "Another"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/902940019",
+            "content": "#anime #Zima2012 Another (\u30a2\u30ca\u30b6\u30fc) http://rdir.pl/1mi16n",
+            "episode": 1,
+            "filename": "f0af94e1404f2abd638baa096c490326.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161081242069118976"
+        },
+        {
+            "blip_url": "http://blip.pl/s/904517841",
+            "content": "Another 02 - martwa natura rodem ze studenckiej lod\u00f3wki",
+            "episode": 2,
+            "filename": "bba14c8b9e1aa06dbd0df215fc600fad.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/907731359",
+            "content": "Another 03 - a wo\u017any zawsze m\u00f3wi\u0142, \u017ceby nie biega\u0107 w szkole po schodach",
+            "episode": 3,
+            "filename": "3e4a6bd8091672046708535b7c17036c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161578689686028288"
+        },
+        {
+            "blip_url": "http://blip.pl/s/955190151",
+            "content": "Another 06 - typowa nudna lekcja w typowej japo\u0144skiej szkole",
+            "episode": 6,
+            "filename": "134dc7e0f3a59a769207a0a9420dfee7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/169811977256976384"
+        },
+        {
+            "blip_url": "http://blip.pl/s/976358109",
+            "content": "Another 07 - sesja zebra\u0142a krwawe \u017cniwo w tym semestrze",
+            "episode": 7,
+            "filename": "d71ce795b93df0f640427018e8cacbcb.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/172433316157456385"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1004342919",
+            "content": "Another 08 - wszyscy wiemy, \u017ce te arbuzy jeszcze zd\u0105\u017c\u0105 ich pozabija\u0107",
+            "episode": 8,
+            "filename": "17e50d251721b688d26a389aab114f8f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/176386578351009793"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1007543557",
+            "content": "Another 09 - w czasie deszczu koparki mog\u0105 szuka\u0107 schronienia w domach. Zanim wejdziesz do swojego, upewnij si\u0119, \u017ce nie m w nim \u017cadna z nich.",
+            "episode": 9,
+            "filename": "046e620009e0e0bfdfb3a625e1d93fb8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1089305501",
+            "content": "#anime #Zima2012 Another (\u30a2\u30ca\u30b6\u30fc) - nasza ocena: warte obejrzenia (wi\u0119cej: http://rdir.pl/1mi16n)",
+            "episode": 12,
+            "filename": "8037fbfde43da0085ee1e02633646053.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/188429797825839104"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-09T17:35:00",
+            "episode": 1,
+            "score": 7.9914531044,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Another - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 20,
+                    "filename": "[HorribleSubs] Another - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[CR-Modified]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Another - 01 [CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275319",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Another - 01 (720p) [3AD80981].mkv",
+                    "group": "Underwater",
+                    "hash": "3AD80981",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Another%20-%2001%20(720p)%20%5B3AD80981%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Another - 01 [E2D3C3A8].mkv",
+                    "group": "Commie",
+                    "hash": "E2D3C3A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275833",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 01 [1280x720 x264 AAC][FB9FC13A].mkv",
+                    "group": "Hadena",
+                    "hash": "FB9FC13A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277123",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_01_[157728B4].mkv",
+                    "group": "AniYoshi",
+                    "hash": "157728B4",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_01_157728B4.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Another_01_[720p][DD6E20FE].mkv",
+                    "group": "Taka",
+                    "hash": "DD6E20FE",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Another_01_%5B720p%5D%5BDD6E20FE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_01_[480p][3C004EF7].mkv",
+                    "group": "Taka",
+                    "hash": "3C004EF7",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Another_01_%5B480p%5D%5B3C004EF7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 2,
+                    "filename": "[CTSS] Another - 01 [H264 AAC 1280x720][38703648].mkv",
+                    "group": "CTSS",
+                    "hash": "38703648",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277566",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-16T17:35:00",
+            "episode": 2,
+            "score": 8.0013843985,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[CrunchySubs] Another - 02 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[CrunchySubs] Another - 02 [720p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[CR-Modified]",
+                    "download_count": 3,
+                    "filename": "[ReinWeiss] Another - 02 [CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277214",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[Underwater] Another - 02 (720p) [CDA5EE69].mkv",
+                    "group": "Underwater",
+                    "hash": "CDA5EE69",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Another%20-%2002%20(720p)%20%5BCDA5EE69%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Another - 02 [1280x720 x264 AAC][DDFAFB36].mkv",
+                    "group": "Hadena",
+                    "hash": "DDFAFB36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277336",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Another - 02 [70EB7DE8].mkv",
+                    "group": "Commie",
+                    "hash": "70EB7DE8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Another - 02 [36D84217].mkv",
+                    "group": "WhyNot",
+                    "hash": "36D84217",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277607",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CTSS] Another - 02 [H264 AAC 1280x720][cc8f73d7].mkv",
+                    "group": "CTSS",
+                    "hash": "cc8f73d7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277639",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_02_[90C11AB1].mkv",
+                    "group": "AniYoshi",
+                    "hash": "90C11AB1",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_02_90C11AB1.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_02_[720p][A6A5E3E0].mkv",
+                    "group": "Taka",
+                    "hash": "A6A5E3E0",
+                    "url": "http://takafansubs.com/torrents/%5BTaka%5D_Another_02_%5B720p%5D%5BA6A5E3E0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Taka]_Another_02_[480p][A06307BD].mkv",
+                    "group": "Taka",
+                    "hash": "A06307BD",
+                    "url": "http://takafansubs.com/torrents/%5BTaka%5D_Another_02_%5B480p%5D%5BA06307BD%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-23T17:35:00",
+            "episode": 3,
+            "score": 8.0559449873,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Another - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279046",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Another - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Another - 03 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Another - 03 (720p) [3BD1C7F6].mkv",
+                    "group": "Underwater",
+                    "hash": "3BD1C7F6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Another%20-%2003%20(720p)%20%5B3BD1C7F6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Another - 03 [A3862426].mkv",
+                    "group": "Commie",
+                    "hash": "A3862426",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279242",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Another - 03 [AFC77F0C].mkv",
+                    "group": "WhyNot",
+                    "hash": "AFC77F0C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280007",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 03 [1280x720 x264 AAC][21A0D53A].mkv",
+                    "group": "Hadena",
+                    "hash": "21A0D53A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280010",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AniYoshi]_Another_-_03_[132057A8].mkv",
+                    "group": "AniYoshi",
+                    "hash": "132057A8",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_03_132057A8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_03_[480p][619D6B25].mkv",
+                    "group": "Taka",
+                    "hash": "619D6B25",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_03_%5B480p%5D%5B619D6B25%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Another_03_[720p][D67136FD].mkv",
+                    "group": "Taka",
+                    "hash": "D67136FD",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_03_%5B720p%5D%5BD67136FD%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-30T17:35:00",
+            "episode": 4,
+            "score": 8.0700327489,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Another - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282101",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Another - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Another - 04 (720p) [4DC94240].mkv",
+                    "group": "Underwater",
+                    "hash": "4DC94240",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Another%20-%2004%20(720p)%20%5B4DC94240%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[CR-Modified]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Another - 04 [CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Another - 04 [8A298363].mkv",
+                    "group": "Commie",
+                    "hash": "8A298363",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Another - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282273",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[STINX-RIPS]_Another_-_04_(1920x1080_x264_AAC).mkv",
+                    "group": "STINX-RIPS",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282183",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 04 [1280x720 x264 AAC][C80B9120].mkv",
+                    "group": "Hadena",
+                    "hash": "C80B9120",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282573",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CTSS] Another - 04 [H264 AAC 1280x720][108110c6].mkv",
+                    "group": "CTSS",
+                    "hash": "108110c6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282646",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Another - 04 [76B62F51].mkv",
+                    "group": "WhyNot",
+                    "hash": "76B62F51",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282830",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[576p][10bit][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Another - 04 [576p][10bit][H.264][2A205000].mkv",
+                    "group": "OX-",
+                    "hash": "2A205000",
+                    "url": "http://1337x.org/download/298506/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_04_[8067635B].mkv",
+                    "group": "AniYoshi",
+                    "hash": "8067635B",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_04_8067635B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_04_[480p][3F464FFC].mkv",
+                    "group": "Taka",
+                    "hash": "3F464FFC",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_04_%5B480p%5D%5B3F464FFC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Another_04_[720p][DB6DE2DB].mkv",
+                    "group": "Taka",
+                    "hash": "DB6DE2DB",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_04_%5B720p%5D%5BDB6DE2DB%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-06T17:35:00",
+            "episode": 5,
+            "score": 8.1080717914,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Another - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Another - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284705",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Another - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Another - 05 (720p) [ECE8DC0C].mkv",
+                    "group": "Underwater",
+                    "hash": "ECE8DC0C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284779",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 05 [1280x720 x264 AAC][25505450].mkv",
+                    "group": "Hadena",
+                    "hash": "25505450",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284783",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Another - 05 [73521FB7].mkv",
+                    "group": "Commie",
+                    "hash": "73521FB7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284799",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Another - 05 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284805",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 05 [848x480 x264 AAC][2B4971A8].mkv",
+                    "group": "Hadena",
+                    "hash": "2B4971A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284829",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CTSS] Another - 05 [H264 AAC 1280x720][02739c71].mkv",
+                    "group": "CTSS",
+                    "hash": "02739c71",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285206",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Another - 05 [EF247092].mkv",
+                    "group": "WhyNot",
+                    "hash": "EF247092",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285400",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_05_[480p][B1BD2DC3].mkv",
+                    "group": "Taka",
+                    "hash": "B1BD2DC3",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_05_%5B480p%5D%5BB1BD2DC3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_05_[720p][E355BFB1].mkv",
+                    "group": "Taka",
+                    "hash": "E355BFB1",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_05_%5B720p%5D%5BE355BFB1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AniYoshi]_Another_-_05_[0C6FFF98].mkv",
+                    "group": "AniYoshi",
+                    "hash": "0C6FFF98",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_05_0C6FFF98.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-13T17:35:00",
+            "episode": 6,
+            "score": 8.0695280966,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Another - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Another - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286783",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Another - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286788",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Another - 06 [1280x720 x264 AAC][CC76CED9].mkv",
+                    "group": "Hadena",
+                    "hash": "CC76CED9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Another 06 [E598A78B].mkv",
+                    "group": "Commie",
+                    "hash": "E598A78B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286868",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Another - 06 [Hi10P 1280x720 x264 AAC][CB81A6C3].mkv",
+                    "group": "Hadena",
+                    "hash": "CB81A6C3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 06 [848x480 x264 AAC][DD66C164].mkv",
+                    "group": "Hadena",
+                    "hash": "DD66C164",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2006%20%5B848x480%20x264%20AAC%5D%5BDD66C164%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Another - 06 (720p) [250850A8].mkv",
+                    "group": "Underwater",
+                    "hash": "250850A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Another - 06 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Another - 06 [C383885D].mkv",
+                    "group": "WhyNot",
+                    "hash": "C383885D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 0,
+                    "filename": "[CTSS] Another - 06 [H264 AAC 1280x720][3ec5e435].mkv",
+                    "group": "CTSS",
+                    "hash": "3ec5e435",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287643",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Another_06_[480p][82E0A54C].mkv",
+                    "group": "Taka",
+                    "hash": "82E0A54C",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_06_%5B480p%5D%5B82E0A54C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_06_[720p][5A9B4F55].mkv",
+                    "group": "Taka",
+                    "hash": "5A9B4F55",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_06_%5B720p%5D%5B5A9B4F55%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_06_[66B95272].mkv",
+                    "group": "AniYoshi",
+                    "hash": "66B95272",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_06_66B95272.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-20T17:35:00",
+            "episode": 7,
+            "score": 8.151613539,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Another - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289127",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Another - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289130",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Another - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289131",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Another - 07 [33A0FCBA].mkv",
+                    "group": "Commie",
+                    "hash": "33A0FCBA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289182",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Another - 07 [848x480 x264 AAC][D1B49BE6].mkv",
+                    "group": "Hadena",
+                    "hash": "D1B49BE6",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2007%20%5B848x480%20x264%20AAC%5D%5BD1B49BE6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 07 [1280x720 x264 AAC][9E9C92E6].mkv",
+                    "group": "Hadena",
+                    "hash": "9E9C92E6",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2007%20%5B1280x720%20x264%20AAC%5D%5B9E9C92E6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 07 [Hi10P 1280x720 x264 AAC][85725877].mkv",
+                    "group": "Hadena",
+                    "hash": "85725877",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2007%20%5BHi10P%201280x720%20x264%20AAC%5D%5B85725877%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Another - 07 (720p) [42D7DA70].mkv",
+                    "group": "Underwater",
+                    "hash": "42D7DA70",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289208",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Another - 07 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Another - 07 [88A7E4ED].mkv",
+                    "group": "WhyNot",
+                    "hash": "88A7E4ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CTSS] Another - 07 [H264 AAC 1280x720][3e37f91f].mkv",
+                    "group": "CTSS",
+                    "hash": "3e37f91f",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290631",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_07_[480p][CF6F9225].mkv",
+                    "group": "Taka",
+                    "hash": "CF6F9225",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_07_%5B480p%5D%5BCF6F9225%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_07_[720p][3A75EAD5].mkv",
+                    "group": "Taka",
+                    "hash": "3A75EAD5",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_07_%5B720p%5D%5B3A75EAD5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_07_[BDA80EF4].mkv",
+                    "group": "AniYoshi",
+                    "hash": "BDA80EF4",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_07_BDA80EF4.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-27T17:35:00",
+            "episode": 8,
+            "score": 8.1683423175,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Another - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Another - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291587",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Another - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291592",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 08 [1280x720 x264 AAC][CBC1219F].mkv",
+                    "group": "Hadena",
+                    "hash": "CBC1219F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2008%20%5B1280x720%20x264%20AAC%5D%5BCBC1219F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Another - 08 (720p) [43A1B315].mkv",
+                    "group": "Underwater",
+                    "hash": "43A1B315",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Another - 08 [848x480 x264 AAC][06AA4116].mkv",
+                    "group": "Hadena",
+                    "hash": "06AA4116",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2008%20%5B848x480%20x264%20AAC%5D%5B06AA4116%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 08 [Hi10P 1280x720 x264 AAC][0A877DC3].mkv",
+                    "group": "Hadena",
+                    "hash": "0A877DC3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2008%20%5BHi10P%201280x720%20x264%20AAC%5D%5B0A877DC3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Another - 08 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Another - 08 [0C1429E5].mkv",
+                    "group": "Commie",
+                    "hash": "0C1429E5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Another - 08 [5A07BF86].mkv",
+                    "group": "WhyNot",
+                    "hash": "5A07BF86",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292255",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 0,
+                    "filename": "[CTSS] Another - 08 [H264 AAC 1280x720][b19b00b5].mkv",
+                    "group": "CTSS",
+                    "hash": "b19b00b5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292378",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_08_[3C44F61F].mkv",
+                    "group": "AniYoshi",
+                    "hash": "3C44F61F",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_08_3C44F61F.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-05T17:35:00",
+            "episode": 9,
+            "score": 8.1878888889,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Another - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293593",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Another - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Another - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 09 [1280x720 x264 AAC][93DE5410].mkv",
+                    "group": "Hadena",
+                    "hash": "93DE5410",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2009%20%5B1280x720%20x264%20AAC%5D%5B93DE5410%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Another - 09 [194B3BED].mkv",
+                    "group": "Commie",
+                    "hash": "194B3BED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293661",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 09 [848x480 x264 AAC][86E1E449].mkv",
+                    "group": "Hadena",
+                    "hash": "86E1E449",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2009%20%5B848x480%20x264%20AAC%5D%5B86E1E449%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Another - 09 (720p) [A3B47634].mkv",
+                    "group": "Underwater",
+                    "hash": "A3B47634",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Another - 09 [Hi10P 1280x720 x264 AAC][66A1E63B].mkv",
+                    "group": "Hadena",
+                    "hash": "66A1E63B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2009%20%5BHi10P%201280x720%20x264%20AAC%5D%5B66A1E63B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Another - 09 [C12CA353].mkv",
+                    "group": "WhyNot",
+                    "hash": "C12CA353",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293996",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Another - 09 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294228",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 0,
+                    "filename": "[CTSS] Another - 09 [H264 AAC 1280x720][45df95f7].mkv",
+                    "group": "CTSS",
+                    "hash": "45df95f7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_09_[79CADA63].mkv",
+                    "group": "AniYoshi",
+                    "hash": "79CADA63",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_09_79CADA63.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_09_[480p][36259D8E].mkv",
+                    "group": "Taka",
+                    "hash": "36259D8E",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Another_09_%5B480p%5D%5B36259D8E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Another_09_[720p][875374D5].mkv",
+                    "group": "Taka",
+                    "hash": "875374D5",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Another_09_%5B720p%5D%5B875374D5%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-12T17:35:00",
+            "episode": 10,
+            "score": 8.2058275629,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Another - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295558",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] Another - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295561",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Another - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295565",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Another - 10 [AC08059D].mkv",
+                    "group": "Commie",
+                    "hash": "AC08059D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295608",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Another - 10 (720p) [C73427AB].mkv",
+                    "group": "Underwater",
+                    "hash": "C73427AB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295642",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 10 [1280x720 x264 AAC][994D91AB].mkv",
+                    "group": "Hadena",
+                    "hash": "994D91AB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2010%20%5B1280x720%20x264%20AAC%5D%5B994D91AB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 10 [848x480 x264 AAC][4FDB636A].mkv",
+                    "group": "Hadena",
+                    "hash": "4FDB636A",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2010%20%5B848x480%20x264%20AAC%5D%5B4FDB636A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Another - 10 [Hi10P 1280x720 x264 AAC][55EB18D0].mkv",
+                    "group": "Hadena",
+                    "hash": "55EB18D0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2010%20%5BHi10P%201280x720%20x264%20AAC%5D%5B55EB18D0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Another - 10 [9F6AF406].mkv",
+                    "group": "WhyNot",
+                    "hash": "9F6AF406",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295940",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Another - 10 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295955",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 0,
+                    "filename": "[CTSS] Another - 10 [H264 AAC 1280x720][ac3af895].mkv",
+                    "group": "CTSS",
+                    "hash": "ac3af895",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296723",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_10_[917426A3].mkv",
+                    "group": "AniYoshi",
+                    "hash": "917426A3",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_10_917426A3.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-19T17:35:00",
+            "episode": 11,
+            "score": 8.245780662,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Another - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297390",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Another - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297391",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Another - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 11 [1280x720 x264 AAC][9D8D13C8].mkv",
+                    "group": "Hadena",
+                    "hash": "9D8D13C8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2011%20%5B1280x720%20x264%20AAC%5D%5B9D8D13C8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Another - 11 [326943F8].mkv",
+                    "group": "Commie",
+                    "hash": "326943F8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297456",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Another - 11 [848x480 x264 AAC][06D311DE].mkv",
+                    "group": "Hadena",
+                    "hash": "06D311DE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2011%20%5B848x480%20x264%20AAC%5D%5B06D311DE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Underwater] Another - 11 (720p) [7ECAE7E8].mkv",
+                    "group": "Underwater",
+                    "hash": "7ECAE7E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Another - 11 [Hi10P 1280x720 x264 AAC][81159A7A].mkv",
+                    "group": "Hadena",
+                    "hash": "81159A7A",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2011%20%5BHi10P%201280x720%20x264%20AAC%5D%5B81159A7A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Another - 11 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297549",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Another - 11 [C8DD1B05].mkv",
+                    "group": "WhyNot",
+                    "hash": "C8DD1B05",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297975",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_11_[480p][6A6BB84D].mkv",
+                    "group": "Taka",
+                    "hash": "6A6BB84D",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_11_%5B480p%5D%5B6A6BB84D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Taka]_Another_11_[720p][62DCBA0A].mkv",
+                    "group": "Taka",
+                    "hash": "62DCBA0A",
+                    "url": "http://tracker.minglong.org/torrents/%5BTaka%5D_Another_11_%5B720p%5D%5B62DCBA0A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_11_[07A24A2F].mkv",
+                    "group": "AniYoshi",
+                    "hash": "07A24A2F",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_11_07A24A2F.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-26T18:35:00",
+            "episode": 12,
+            "score": 8.1751335263,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Another - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299386",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Another - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Another - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Another - 12 END [1280x720 x264 AAC][9591AD9A].mkv",
+                    "group": "Hadena",
+                    "hash": "9591AD9A",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2012%20END%20%5B1280x720%20x264%20AAC%5D%5B9591AD9A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Another - 12 END [848x480 x264 AAC][70DA2D03].mkv",
+                    "group": "Hadena",
+                    "hash": "70DA2D03",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2012%20END%20%5B848x480%20x264%20AAC%5D%5B70DA2D03%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Another - 12 (720p) [2E47E19A].mkv",
+                    "group": "Underwater",
+                    "hash": "2E47E19A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Another - 12 [A4DFEEE7].mkv",
+                    "group": "Commie",
+                    "hash": "A4DFEEE7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299475",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p CR-Modified]",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Another - 12 [1080p CR-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299496",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Another - 12 END [Hi10P 1280x720 x264 AAC][60E00439].mkv",
+                    "group": "Hadena",
+                    "hash": "60E00439",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Another%20-%2012%20END%20%5BHi10P%201280x720%20x264%20AAC%5D%5B60E00439%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Another - 12 [B7647ADA].mkv",
+                    "group": "WhyNot",
+                    "hash": "B7647ADA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300036",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Another_12_[720p][DF9C598C].mkv",
+                    "group": "Taka",
+                    "hash": "DF9C598C",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Another_12_%5B720p%5D%5BDF9C598C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AniYoshi]_Another_-_12_[89D26A67].mkv",
+                    "group": "AniYoshi",
+                    "hash": "89D26A67",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Another_-_12_89D26A67.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8556,
+        "ann": 13258,
+        "mal": 11111,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/26d45ec47fde5247973becd6b9e30315.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ac2080d0c0238b8da9da3fe631e5d6d5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f513b7e7e3d07462e6d0a1362401d9c0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a6bb6d83af1505f76f2d6876232d3eb2.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Another (\u30a2\u30ca\u30b6\u30fc) http://rdir.pl/1mi16n",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f0af94e1404f2abd638baa096c490326.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3980505120117347accba464dbf57c59.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49c52b88cd603716137e958a5008a324.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d234295c1438899fa00f1ea4df61cd91.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e6e86f1ecaa900561c8d3f84aea42083.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7a718caff2eebc940c46c39762a0937b.jpg",
+            "hd": false
+        },
+        {
+            "description": "martwa natura rodem ze studenckiej lod\u00f3wki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bba14c8b9e1aa06dbd0df215fc600fad.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/81b589eb5d679fbb2b7651bd5d497d77.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/080dd05f27ebe839b89a7b9288dbff65.jpg",
+            "hd": false
+        },
+        {
+            "description": "a wo\u017any zawsze m\u00f3wi\u0142, \u017ceby nie biega\u0107 w szkole po schodach",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e4a6bd8091672046708535b7c17036c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0eb1ec80e4eb125a70a84a0a12980eff.jpg",
+            "hd": false
+        },
+        {
+            "description": "typowa nudna lekcja w typowej japo\u0144skiej szkole",
+            "filename": "http://s.modriv.net/abp/images/screencaps/134dc7e0f3a59a769207a0a9420dfee7.jpg",
+            "hd": false
+        },
+        {
+            "description": "sesja zebra\u0142a krwawe \u017cniwo w tym semestrze",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d71ce795b93df0f640427018e8cacbcb.jpg",
+            "hd": false
+        },
+        {
+            "description": "wszyscy wiemy, \u017ce te arbuzy jeszcze zd\u0105\u017c\u0105 ich pozabija\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/17e50d251721b688d26a389aab114f8f.jpg",
+            "hd": false
+        },
+        {
+            "description": "HORROR PSYCHOLOGICZNY!!!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/026eb6ed37433d87fd1ba515e000fb8c.jpg",
+            "hd": false
+        },
+        {
+            "description": "w czasie deszczu koparki mog\u0105 szuka\u0107 schronienia w domach. Zanim wejdziesz do swojego, upewnij si\u0119, \u017ce nie m w nim \u017cadna z nich.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/046e620009e0e0bfdfb3a625e1d93fb8.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Another (\u30a2\u30ca\u30b6\u30fc) - nasza ocena: warte obejrzenia (wi\u0119cej: http://rdir.pl/1mi16n)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8037fbfde43da0085ee1e02633646053.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8d5a38b115469c21af06bef5090487c8.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Popularna w ca\u0142ej szkole prymuska pewnego dnia umiera w niewyja\u015bnionych okoliczno\u015bciach. Jej klasa postanawia jednak zachowywa\u0107 si\u0119 jak gdyby wci\u0105\u017c \u017cy\u0142a. W mi\u0119dzyczasie do klasy do\u0142\u0105cza ch\u0142opiec imieniem Kouichi, kt\u00f3ry usi\u0142uje zrozumie\u0107 dziwne zachowanie swojej klasy. W centrum wszystkiego zdaje si\u0119 sta\u0107 tajemnicza Mei Misaki.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a horror/mystery novel by Ayatsuji Yukito, originally serialised in the Yasei Jidai magazine.26 years ago, in a third-year classroom of a middle school, there was a student named Misaki. As an honours student, also good at sports, the charming guy was popular with his classmates. When he suddenly died, his classmates decided to carry on as if he was still alive until graduation. Then, in the spring of 1998, a boy named Sakakibara Kouichi transfers to that class, and he grows suspicious of the fearful atmosphere in that classroom. In particular, there is a beautiful, aloof girl named Misaki Mei who wears an eyepatch and is always alone drawing pictures.",
+            "type": "anidb"
+        },
+        {
+            "content": "When K\u014dichi Sasakibara transfers to his new school, he can sense something frightening in the atmosphere of his new class, a secret none of them will talk about. At the center is the beautiful girl Mei Misaki. K\u014dichi is immediately drawn to her mysterious aura, but then he begins to realize that no one else in the class is aware of her presence.",
+            "type": "ann"
+        },
+        {
+            "content": "26 years ago, in a third-year classroom of a middle school, there was a student named Misaki. As an honors student who was also good at sports, the charming girl was popular with her classmates. When she suddenly died, her classmates decided to carry on as if she was still alive until graduation. Then, in the spring of 1998, a boy named Sakakibara Kouichi transfers to the class, and he grows suspicious of the fearful atmosphere in that classroom. In particular, there is a beautiful, aloof girl named Mei Misaki who wears an eyepatch and is always alone drawing pictures.",
+            "type": "mal"
+        },
+        {
+            "content": "In 1972, a very popular honor student named Misaki died partway through the school year in Yomiyama North Middle School\u2019s class 3-3. The rest of the students, devastated by the unexpected loss, decided to carry on as if their classmate were still alive, going so far as to keep the desk in place and bringing it to the graduation ceremony. Yet no one could explain why their classmate, already dead, was present on the graduation photo.[1]",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 46205,
+            "date": "2012-09-29T14:05:52",
+            "score": 8.17,
+            "type": "mal"
+        },
+        {
+            "count": 1555,
+            "date": "2012-09-29T14:05:52",
+            "score": 7.54,
+            "type": "anidb"
+        },
+        {
+            "count": 1463,
+            "date": "2012-09-29T14:05:52",
+            "score": 8.069,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Another"
+}

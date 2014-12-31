@@ -1,0 +1,53 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30b9\u30e9\u30af\u30e9\u30a4\u30f32"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6769,
+        "ann": 10932,
+        "mal": 6676,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Kontynuacja <a href=\"http://abp.modriv.net/pokaz/2-asura-cryin-\">pierwszej serii</a>.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 10725,
+            "date": "2012-09-29T02:09:32",
+            "score": 7.66,
+            "type": "mal"
+        },
+        {
+            "count": 929,
+            "date": "2012-09-29T02:09:32",
+            "score": 7.24,
+            "type": "anidb"
+        },
+        {
+            "count": 710,
+            "date": "2012-09-29T02:09:32",
+            "score": 7.599,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "2",
+    "title": "Asura Cryin' 2"
+}

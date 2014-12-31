@@ -1,0 +1,390 @@
+{
+    "additional_titles": [],
+    "aliases": [
+        "Minami-ke Tadaima",
+        "Minami-ke Tadaima- "
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-01-05T16:00:00",
+            "episode": 1,
+            "score": 7.6463287671,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Minami-ke Tadaima - 01 [720p] [5FF741EE].mkv",
+                    "group": "Hadena",
+                    "hash": "5FF741EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389988",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_01_[h264-720p][0E4FF870].mkv",
+                    "group": "UTW",
+                    "hash": "0E4FF870",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390065",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Minami-ke Tadaima - 01v2 [720p] [59C0BDCE].mkv",
+                    "group": "Hadena",
+                    "hash": "59C0BDCE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2001v2%20%5B720p%5D%20%5B59C0BDCE%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[Hurr] Minami-ke Tadaima- 01 [400p][431C34A9].mkv",
+                    "group": "Hurr",
+                    "hash": "431C34A9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395219",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-12T16:00:00",
+            "episode": 2,
+            "score": 7.72235196,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_02_[h264-720p][9ED67AE1].mkv",
+                    "group": "UTW",
+                    "hash": "9ED67AE1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392476",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-19T16:00:00",
+            "episode": 3,
+            "score": 7.77208,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_03_[h264-720p][4B8CE535].mkv",
+                    "group": "UTW",
+                    "hash": "4B8CE535",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Minami-ke Tadaima - 03 [720p] [7F8E368D].mkv",
+                    "group": "Hadena",
+                    "hash": "7F8E368D",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2003%20%5B720p%5D%20%5B7F8E368D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-26T16:00:00",
+            "episode": 4,
+            "score": 7.7868345908,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Minami-ke Tadaima - 04 [720p] [36E19B70].mkv",
+                    "group": "Hadena",
+                    "hash": "36E19B70",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2004%20%5B720p%5D%20%5B36E19B70%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_04_[h264-720p][E3511466].mkv",
+                    "group": "UTW",
+                    "hash": "E3511466",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397594",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-02T16:00:00",
+            "episode": 5,
+            "score": 7.7998993037,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Minami-ke Tadaima - 05 [720p] [3F56FC94].mkv",
+                    "group": "Hadena",
+                    "hash": "3F56FC94",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2005%20%5B720p%5D%20%5B3F56FC94%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_05_[h264-720p][E69262E4].mkv",
+                    "group": "UTW",
+                    "hash": "E69262E4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400158",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-09T16:00:00",
+            "episode": 6,
+            "score": 7.8133655172,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_06_[h264-720p][B94A1A55].mkv",
+                    "group": "UTW",
+                    "hash": "B94A1A55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402544",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-16T16:00:00",
+            "episode": 7,
+            "score": 7.7993278837,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Minami-ke Tadaima - 07 [720p] [247D6057].mkv",
+                    "group": "Hadena",
+                    "hash": "247D6057",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2007%20%5B720p%5D%20%5B247D6057%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_07_[h264-720p][76B612DD].mkv",
+                    "group": "UTW",
+                    "hash": "76B612DD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405069",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-23T16:00:00",
+            "episode": 8,
+            "score": 7.8173301642,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Minami-ke Tadaima - 08 [720p] [A8CDBAB6].mkv",
+                    "group": "Hadena",
+                    "hash": "A8CDBAB6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407181",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_08_[h264-720p][02A6EFD3].mkv",
+                    "group": "UTW",
+                    "hash": "02A6EFD3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407268",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-02T16:00:00",
+            "episode": 9,
+            "score": 7.798810766,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_09_[h264-720p][02EB4A5A].mkv",
+                    "group": "UTW",
+                    "hash": "02EB4A5A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Minami-ke Tadaima - 09 [720p] [EA10F5A9].mkv",
+                    "group": "Hadena",
+                    "hash": "EA10F5A9",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2009%20%5B720p%5D%20%5BEA10F5A9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Minami-ke Tadaima - 09v2 [720p] [BB89452A].mkv",
+                    "group": "Hadena",
+                    "hash": "BB89452A",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2009v2%20%5B720p%5D%20%5BBB89452A%5D.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-03-09T16:00:00",
+            "episode": 10,
+            "score": 7.7895569521,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Minami-ke Tadaima - 10 [720p] [B44CFA70].mkv",
+                    "group": "Hadena",
+                    "hash": "B44CFA70",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Minami-ke Tadaima - 10v2 [720p] [C2640867].mkv",
+                    "group": "Hadena",
+                    "hash": "C2640867",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411934",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_10_[h264-720p][7E880D07].mkv",
+                    "group": "UTW",
+                    "hash": "7E880D07",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411946",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-16T16:00:00",
+            "episode": 11,
+            "score": 7.8101600298,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_11_[h264-720p][1C0E9FA0].mkv",
+                    "group": "UTW",
+                    "hash": "1C0E9FA0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Hadena] Minami-ke Tadaima - 11 [AB0C3DE3].mkv",
+                    "group": "Hadena",
+                    "hash": "AB0C3DE3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2011%20%5BAB0C3DE3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Minami-ke Tadaima - 11 [720p] [AB0C3DE3].mkv",
+                    "group": "Hadena",
+                    "hash": "AB0C3DE3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2011%20%5B720p%5D%20%5BAB0C3DE3%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-23T16:00:00",
+            "episode": 12,
+            "score": 7.7932750706,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 13,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_12_[h264-720p][D1911F82].mkv",
+                    "group": "UTW",
+                    "hash": "D1911F82",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416345",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-30T16:00:00",
+            "episode": 13,
+            "score": 7.8393445169,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Minami-ke Tadaima - 13 [720p] [8A905C58].mkv",
+                    "group": "Hadena",
+                    "hash": "8A905C58",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Minami-ke%20Tadaima%20-%2013%20%5B720p%5D%20%5B8A905C58%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Minami-ke_Tadaima_-_13_[h264-720p][311D49EF].mkv",
+                    "group": "UTW",
+                    "hash": "311D49EF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418566",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9075,
+        "ann": 14829,
+        "mal": 14511,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 184,
+            "date": "2013-04-01T04:24:07",
+            "score": 7.7,
+            "type": "anidb"
+        },
+        {
+            "count": 2901,
+            "date": "2013-04-01T04:24:07",
+            "score": 7.85,
+            "type": "mal"
+        },
+        {
+            "count": 134,
+            "date": "2013-04-01T04:24:07",
+            "score": 7.8,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": true,
+    "sequel_parent": "Minami-ke Omatase",
+    "title": "Minami-ke Tadaima"
+}

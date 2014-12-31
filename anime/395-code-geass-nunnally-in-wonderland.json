@@ -1,0 +1,78 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b3\u30fc\u30c9\u30ae\u30a2\u30b9\uff5c\u30ca\u30ca\u30ea\u30fcin\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9"
+        },
+        {
+            "language": "pl",
+            "title": "Kod GayAss: Nunnally w Krainie Czar\u00f3w"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-07-27T00:00:00",
+            "episode": 1,
+            "score": 6.6053587545,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Notgg]_Code_Geass_Nunnally_in_Wonderland_[720p]_[83CF3062].mkv",
+                    "group": "Notgg",
+                    "hash": "83CF3062",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336802",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[Notgg]_Code_Geass_Nunnally_in_Wonderland_[1080p]_[811908C7].mkv",
+                    "group": "Notgg",
+                    "hash": "811908C7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336929",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 1,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 8914,
+        "ann": 13974,
+        "mal": 12685,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 4466,
+            "date": "2012-09-29T14:34:51",
+            "score": 6.67,
+            "type": "mal"
+        },
+        {
+            "count": 255,
+            "date": "2012-09-29T14:34:51",
+            "score": 4.83,
+            "type": "anidb"
+        },
+        {
+            "count": 149,
+            "date": "2012-09-29T14:34:51",
+            "score": 6.221,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "Code Geass",
+    "title": "Code Geass: Nunnally in Wonderland"
+}

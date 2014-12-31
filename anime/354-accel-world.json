@@ -1,0 +1,1536 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30af\u30bb\u30eb\u30fb\u30ef\u30fc\u30eb\u30c9"
+        },
+        {
+            "language": "pl",
+            "title": "Przysp. \u015awiat"
+        }
+    ],
+    "aliases": [
+        "Accel World"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1102562835",
+            "content": "#anime #Wiosna2012 Accel World (\u30a2\u30af\u30bb\u30eb\u30fb\u30ef\u30fc\u30eb\u30c9) http://rdir.pl/1nba3f",
+            "episode": 1,
+            "filename": "5706479d55b6f10067f6be5d2df3e41b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190559315483033601"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-06T17:30:00",
+            "episode": 1,
+            "score": 7.7800071174,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[st0ned] Accel World - 01 [720p][1CC96397].mkv",
+                    "group": "st0ned",
+                    "hash": "1CC96397",
+                    "url": "http://db.tt/F51kCa6g",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Asenshi] Accel World - 01 [F3E53DAA].mkv",
+                    "group": "Asenshi",
+                    "hash": "F3E53DAA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302480",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 18,
+                    "filename": "[UTW]_Accel_World_-_01_[h264-720p][F574698F].mkv",
+                    "group": "UTW",
+                    "hash": "F574698F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 26,
+                    "filename": "[Commie] Accel World - 01 [30E0CD08].mkv",
+                    "group": "Commie",
+                    "hash": "30E0CD08",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[WhatStory] Accel World - 01v2 [3BD9C860].mkv",
+                    "group": "WhatStory",
+                    "hash": "3BD9C860",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304587",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Accel World - 01 [10bit][720p][E3ECE008].mkv",
+                    "group": "Hadena",
+                    "hash": "E3ECE008",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2001%20%5B10bit%5D%5B720p%5D%5BE3ECE008%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[Hadena] Accel World - 01 [480p][0DD820BD].mkv",
+                    "group": "Hadena",
+                    "hash": "0DD820BD",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2001%20%5B480p%5D%5B0DD820BD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Accel World - 01 [720p][E130ACB8].mkv",
+                    "group": "Hadena",
+                    "hash": "E130ACB8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2001%20%5B720p%5D%5BE130ACB8%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-13T17:30:00",
+            "episode": 2,
+            "score": 7.76,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Accel World - 02 [6D571204].mkv",
+                    "group": "Commie",
+                    "hash": "6D571204",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304650",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 23,
+                    "filename": "[Commie] Accel World - 02v2 [95DB6780].mkv",
+                    "group": "Commie",
+                    "hash": "95DB6780",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304665",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 10,
+                    "filename": "[UTW]_Accel_World_-_02_[h264-720p][FE38D8F7].mkv",
+                    "group": "UTW",
+                    "hash": "FE38D8F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Asenshi] Accel World - 02 [7033DEDF].mkv",
+                    "group": "Asenshi",
+                    "hash": "7033DEDF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhatStory] Accel World - 02 [0C631DC1].mkv",
+                    "group": "WhatStory",
+                    "hash": "0C631DC1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 9,
+                    "filename": "[Hadena] Accel World - 02 [10bit][720p][27E13341].mkv",
+                    "group": "Hadena",
+                    "hash": "27E13341",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2002%20%5B10bit%5D%5B720p%5D%5B27E13341%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Accel World - 02 [480p][99D55ADD].mkv",
+                    "group": "Hadena",
+                    "hash": "99D55ADD",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2002%20%5B480p%5D%5B99D55ADD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[Hadena] Accel World - 02 [720p][B72FA820].mkv",
+                    "group": "Hadena",
+                    "hash": "B72FA820",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2002%20%5B720p%5D%5BB72FA820%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 7,
+                    "filename": "[Clip-sub] Accel World - 02 (1280x720 H264) [5623D28F].mkv",
+                    "group": "Clip-sub",
+                    "hash": "5623D28F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332966",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264]",
+                    "download_count": 1,
+                    "filename": "[Clip-sub] Accel World - 02 (848x480 H264) [1E4227AC].mkv",
+                    "group": "Clip-sub",
+                    "hash": "1E4227AC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332968",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-20T17:30:00",
+            "episode": 3,
+            "score": 7.7020624741,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 25,
+                    "filename": "[Commie] Accel World - 03 [7CB826BE].mkv",
+                    "group": "Commie",
+                    "hash": "7CB826BE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306893",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Asenshi] Accel World - 03 [6415ADE6].mkv",
+                    "group": "Asenshi",
+                    "hash": "6415ADE6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306900",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 21,
+                    "filename": "[UTW]_Accel_World_-_03_[h264-720p][F2385A07].mkv",
+                    "group": "UTW",
+                    "hash": "F2385A07",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306906",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhatStory] Accel World - 03 [05A26F71].mkv",
+                    "group": "WhatStory",
+                    "hash": "05A26F71",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307102",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Accel World - 03 [10bit][720p][DC34FE4F].mkv",
+                    "group": "Hadena",
+                    "hash": "DC34FE4F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2003%20%5B10bit%5D%5B720p%5D%5BDC34FE4F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[Hadena] Accel World - 03 [480p][DD873921].mkv",
+                    "group": "Hadena",
+                    "hash": "DD873921",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2003%20%5B480p%5D%5BDD873921%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[Hadena] Accel World - 03 [720p][5ACF0EF2].mkv",
+                    "group": "Hadena",
+                    "hash": "5ACF0EF2",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2003%20%5B720p%5D%5B5ACF0EF2%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-27T17:30:00",
+            "episode": 4,
+            "score": 7.7375667915,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Accel World - 04 [720p][5BF19F0B].mkv",
+                    "group": "Hadena",
+                    "hash": "5BF19F0B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2004%20%5B720p%5D%5B5BF19F0B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[Hadena] Accel World - 04 [480p][6142A177].mkv",
+                    "group": "Hadena",
+                    "hash": "6142A177",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2004%20%5B480p%5D%5B6142A177%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 15,
+                    "filename": "[Hadena] Accel World - 04 [10bit][720p][3E31C9AA].mkv",
+                    "group": "Hadena",
+                    "hash": "3E31C9AA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2004%20%5B10bit%5D%5B720p%5D%5B3E31C9AA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Commie] Accel World - 04 [48581D7D].mkv",
+                    "group": "Commie",
+                    "hash": "48581D7D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309165",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 21,
+                    "filename": "[UTW]_Accel_World_-_04_[h264-720p][804561F7].mkv",
+                    "group": "UTW",
+                    "hash": "804561F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309204",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Asenshi] Accel World - 04 [89A37461].mkv",
+                    "group": "Asenshi",
+                    "hash": "89A37461",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309748",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[WhatStory] Accel World - 04 [FE67F2BB].mkv",
+                    "group": "WhatStory",
+                    "hash": "FE67F2BB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310287",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-04T17:30:00",
+            "episode": 5,
+            "score": 7.7802089647,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Accel World - 05 [720p][4554111E].mkv",
+                    "group": "Hadena",
+                    "hash": "4554111E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2005%20%5B720p%5D%5B4554111E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Accel World - 05 [480p][82BD47DD].mkv",
+                    "group": "Hadena",
+                    "hash": "82BD47DD",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2005%20%5B480p%5D%5B82BD47DD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 10,
+                    "filename": "[Hadena] Accel World - 05 [10bit][720p][89B2C293].mkv",
+                    "group": "Hadena",
+                    "hash": "89B2C293",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2005%20%5B10bit%5D%5B720p%5D%5B89B2C293%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 19,
+                    "filename": "[UTW]_Accel_World_-_05_[h264-720p][40681175].mkv",
+                    "group": "UTW",
+                    "hash": "40681175",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311486",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[Commie] Accel World - 05 [69CD5CCE].mkv",
+                    "group": "Commie",
+                    "hash": "69CD5CCE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311522",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Asenshi] Accel World - 05 [3BE04C61].mkv",
+                    "group": "Asenshi",
+                    "hash": "3BE04C61",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312341",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhatStory] Accel World - 05 [2FC2D26C].mkv",
+                    "group": "WhatStory",
+                    "hash": "2FC2D26C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313749",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-11T17:30:00",
+            "episode": 6,
+            "score": 7.7958487074,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Accel World - 06 [720p][C133CD9F].mkv",
+                    "group": "Hadena",
+                    "hash": "C133CD9F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2006%20%5B720p%5D%5BC133CD9F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Accel World - 06 [480p][17CAA848].mkv",
+                    "group": "Hadena",
+                    "hash": "17CAA848",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2006%20%5B480p%5D%5B17CAA848%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 10,
+                    "filename": "[Hadena] Accel World - 06 [10bit][720p][19787BB3].mkv",
+                    "group": "Hadena",
+                    "hash": "19787BB3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2006%20%5B10bit%5D%5B720p%5D%5B19787BB3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Commie] Accel World - 06 [1276A70D].mkv",
+                    "group": "Commie",
+                    "hash": "1276A70D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313468",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 19,
+                    "filename": "[UTW]_Accel_World_-_06_[h264-720p][2AE6B0EC].mkv",
+                    "group": "UTW",
+                    "hash": "2AE6B0EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313499",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Asenshi] Accel World - 06 [5ED7188D].mkv",
+                    "group": "Asenshi",
+                    "hash": "5ED7188D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314520",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhatStory] Accel World - 06 [B0F1C5AB].mkv",
+                    "group": "WhatStory",
+                    "hash": "B0F1C5AB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315130",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-18T17:30:00",
+            "episode": 7,
+            "score": 7.8016753639,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[Hadena] Accel World - 07 [720p][3F302079].mkv",
+                    "group": "Hadena",
+                    "hash": "3F302079",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2007%20%5B720p%5D%5B3F302079%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Accel World - 07 [480p][7FDAA6BC].mkv",
+                    "group": "Hadena",
+                    "hash": "7FDAA6BC",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2007%20%5B480p%5D%5B7FDAA6BC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 16,
+                    "filename": "[UTW]_Accel_World_-_07_[h264-720p][34F53483].mkv",
+                    "group": "UTW",
+                    "hash": "34F53483",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhatStory] Accel World - 07 [543884C8].mkv",
+                    "group": "WhatStory",
+                    "hash": "543884C8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315372",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Accel World - 07 [7A23166C].mkv",
+                    "group": "Commie",
+                    "hash": "7A23166C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 12,
+                    "filename": "[Hadena] Accel World - 07 [10bit][720p][29E7DEEA].mkv",
+                    "group": "Hadena",
+                    "hash": "29E7DEEA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2007%20%5B10bit%5D%5B720p%5D%5B29E7DEEA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Asenshi] Accel World - 07 [9CEC57B4].mkv",
+                    "group": "Asenshi",
+                    "hash": "9CEC57B4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316974",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-25T17:30:00",
+            "episode": 8,
+            "score": 7.8005664154,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 18,
+                    "filename": "[Commie] Accel World - 08 [EDFD4441].mkv",
+                    "group": "Commie",
+                    "hash": "EDFD4441",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317242",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[Hadena] Accel World - 08 [720p][28E57E2D].mkv",
+                    "group": "Hadena",
+                    "hash": "28E57E2D",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2008%20%5B720p%5D%5B28E57E2D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Accel World - 08 [10bit][720p][017EAC0B].mkv",
+                    "group": "Hadena",
+                    "hash": "017EAC0B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2008%20%5B10bit%5D%5B720p%5D%5B017EAC0B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Accel World - 08 [3DCA1184].mkv",
+                    "group": "Asenshi",
+                    "hash": "3DCA1184",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 17,
+                    "filename": "[UTW]_Accel_World_-_08_[h264-720p][B22DA8EC].mkv",
+                    "group": "UTW",
+                    "hash": "B22DA8EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[WhatStory] Accel World - 08 [145595E8].mkv",
+                    "group": "WhatStory",
+                    "hash": "145595E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317304",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Accel World - 08v2 [10bit][720p][A118DAAA].mkv",
+                    "group": "Hadena",
+                    "hash": "A118DAAA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2008v2%20%5B10bit%5D%5B720p%5D%5BA118DAAA%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[Hadena] Accel World - 08v2 [720p][98557BA5].mkv",
+                    "group": "Hadena",
+                    "hash": "98557BA5",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2008v2%20%5B720p%5D%5B98557BA5%5D.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-06-01T17:30:00",
+            "episode": 9,
+            "score": 7.8144291887,
+            "torrents": [
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Accel World - 09 [10bit][720p][15C37BBB].mkv",
+                    "group": "Hadena",
+                    "hash": "15C37BBB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2009%20%5B10bit%5D%5B720p%5D%5B15C37BBB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Accel World - 09 [720p][3F4606B0].mkv",
+                    "group": "Hadena",
+                    "hash": "3F4606B0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2009%20%5B720p%5D%5B3F4606B0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Accel_World_-_09_[h264-720p][C16BFEEA].mkv",
+                    "group": "UTW",
+                    "hash": "C16BFEEA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319446",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Asenshi] Accel World - 09 [F96C691A].mkv",
+                    "group": "Asenshi",
+                    "hash": "F96C691A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319447",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[Commie] Accel World - 09 [14222343].mkv",
+                    "group": "Commie",
+                    "hash": "14222343",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319668",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhatStory] Accel World - 09 [8B90E2CC].mkv",
+                    "group": "WhatStory",
+                    "hash": "8B90E2CC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319710",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-15T17:30:00",
+            "episode": 10,
+            "score": 7.8255223765,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[Hadena] Accel World - 10 [720p][571A8929].mkv",
+                    "group": "Hadena",
+                    "hash": "571A8929",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2010%20%5B720p%5D%5B571A8929%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Accel World - 10 [67D41612].mkv",
+                    "group": "Commie",
+                    "hash": "67D41612",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 12,
+                    "filename": "[UTW]_Accel_World_-_10_[h264-720p][B385423A].mkv",
+                    "group": "UTW",
+                    "hash": "B385423A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323412",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Accel World - 10 [C6B761C8].mkv",
+                    "group": "Asenshi",
+                    "hash": "C6B761C8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323531",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[WhatStory] Accel World - 10 [7C808087].mkv",
+                    "group": "WhatStory",
+                    "hash": "7C808087",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323812",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-22T17:30:00",
+            "episode": 11,
+            "score": 7.8248761668,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Accel World - 11 [720p][3A5D1B3C].mkv",
+                    "group": "Hadena",
+                    "hash": "3A5D1B3C",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2011%20%5B720p%5D%5B3A5D1B3C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Accel World - 11 [BF752E7E].mkv",
+                    "group": "Commie",
+                    "hash": "BF752E7E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325042",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 15,
+                    "filename": "[UTW]_Accel_World_-_11_[h264-720p][7D3851F8].mkv",
+                    "group": "UTW",
+                    "hash": "7D3851F8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325044",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Accel World - 11 [10bit][720p][CD3AA575].mkv",
+                    "group": "Hadena",
+                    "hash": "CD3AA575",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2011%20%5B10bit%5D%5B720p%5D%5BCD3AA575%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhatStory] Accel World - 11 [1F6DB9E1].mkv",
+                    "group": "WhatStory",
+                    "hash": "1F6DB9E1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325312",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Asenshi] Accel World - 11 [9543129C].mkv",
+                    "group": "Asenshi",
+                    "hash": "9543129C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325375",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-29T17:30:00",
+            "episode": 12,
+            "score": 7.8280674302,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[Hadena] Accel World - 12 [720p][34F89AE6].mkv",
+                    "group": "Hadena",
+                    "hash": "34F89AE6",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2012%20%5B720p%5D%5B34F89AE6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Accel World - 12 [10bit][720p][5840BD22].mkv",
+                    "group": "Hadena",
+                    "hash": "5840BD22",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2012%20%5B10bit%5D%5B720p%5D%5B5840BD22%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Accel World - 12 [2B481EEC].mkv",
+                    "group": "Commie",
+                    "hash": "2B481EEC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 14,
+                    "filename": "[UTW]_Accel_World_-_12_[h264-720p][C413B3F5].mkv",
+                    "group": "UTW",
+                    "hash": "C413B3F5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327205",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[WhatStory] Accel World - 12 [E7FE7310].mkv",
+                    "group": "WhatStory",
+                    "hash": "E7FE7310",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Asenshi] Accel World - 12 [10D8A017].mkv",
+                    "group": "Asenshi",
+                    "hash": "10D8A017",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331182",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-06T17:30:00",
+            "episode": 13,
+            "score": 7.8222323488,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Accel World - 13 [720p][D5F687A3].mkv",
+                    "group": "Hadena",
+                    "hash": "D5F687A3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2013%20%5B720p%5D%5BD5F687A3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Accel World - 13 [E5D4378A].mkv",
+                    "group": "Commie",
+                    "hash": "E5D4378A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329394",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[WhatStory] Accel World - 13 [BC0F692C].mkv",
+                    "group": "WhatStory",
+                    "hash": "BC0F692C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329402",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Accel_World_-_13_[h264-720p][041CB93E].mkv",
+                    "group": "UTW",
+                    "hash": "041CB93E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329431",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Accel World - 13 [CD62DBF1].mkv",
+                    "group": "Asenshi",
+                    "hash": "CD62DBF1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331183",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-13T17:30:00",
+            "episode": 14,
+            "score": 7.8350244053,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[Hadena] Accel World - 14 [720p][7F3D3E2B].mkv",
+                    "group": "Hadena",
+                    "hash": "7F3D3E2B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2014%20%5B720p%5D%5B7F3D3E2B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhatStory] Accel World - 14 [319B7142].mkv",
+                    "group": "WhatStory",
+                    "hash": "319B7142",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331523",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 20,
+                    "filename": "[Commie] Accel World - 14 [74AD395D].mkv",
+                    "group": "Commie",
+                    "hash": "74AD395D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331526",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 11,
+                    "filename": "[UTW]_Accel_World_-_14_[h264-720p][80310C3D].mkv",
+                    "group": "UTW",
+                    "hash": "80310C3D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[inshuheki] Accel World - 14 [1FA6A684].mkv",
+                    "group": "inshuheki",
+                    "hash": "1FA6A684",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334207",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-20T17:30:00",
+            "episode": 15,
+            "score": 7.8162966343,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[Hadena] Accel World - 15 [720p][DC81CB11].mkv",
+                    "group": "Hadena",
+                    "hash": "DC81CB11",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333769",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Accel_World_-_15_[h264-720p][BEA70582].mkv",
+                    "group": "UTW",
+                    "hash": "BEA70582",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 19,
+                    "filename": "[Commie] Accel World - 15 [B0A963FC].mkv",
+                    "group": "Commie",
+                    "hash": "B0A963FC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333862",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhatStory] Accel World - 15 [16222A49].mkv",
+                    "group": "WhatStory",
+                    "hash": "16222A49",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333972",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-27T17:30:00",
+            "episode": 16,
+            "score": 7.8172864334,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[Hadena] Accel World - 16 [720p][F4E201DA].mkv",
+                    "group": "Hadena",
+                    "hash": "F4E201DA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2016%20%5B720p%5D%5BF4E201DA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Accel World - 16 [F6F9F5D9].mkv",
+                    "group": "Commie",
+                    "hash": "F6F9F5D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335963",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 11,
+                    "filename": "[UTW]_Accel_World_-_16_[h264-720p][442DA48A].mkv",
+                    "group": "UTW",
+                    "hash": "442DA48A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[WhatStory] Accel World - 16 [41A551E6].mkv",
+                    "group": "WhatStory",
+                    "hash": "41A551E6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338662",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-03T17:30:00",
+            "episode": 17,
+            "score": 7.8177698084,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Accel World - 17 [720p][54E7086F].mkv",
+                    "group": "Hadena",
+                    "hash": "54E7086F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2017%20%5B720p%5D%5B54E7086F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[Commie] Accel World - 17 [F1078D77].mkv",
+                    "group": "Commie",
+                    "hash": "F1078D77",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_Accel_World_-_17_[h264-720p][E6C151E7].mkv",
+                    "group": "UTW",
+                    "hash": "E6C151E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338304",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhatStory] Accel World - 17 [FEDC3DAA].mkv",
+                    "group": "WhatStory",
+                    "hash": "FEDC3DAA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338674",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-10T17:30:00",
+            "episode": 18,
+            "score": 7.8093434157,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Accel World - 18 [720p][C543F1D1].mkv",
+                    "group": "Hadena",
+                    "hash": "C543F1D1",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2018%20%5B720p%5D%5BC543F1D1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 13,
+                    "filename": "[UTW]_Accel_World_-_18_[h264-720p][552E67BA].mkv",
+                    "group": "UTW",
+                    "hash": "552E67BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340631",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Accel World - 18 [9AFA731C].mkv",
+                    "group": "Commie",
+                    "hash": "9AFA731C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340698",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[WhatStory] Accel World - 18 [D6A8E60E].mkv",
+                    "group": "WhatStory",
+                    "hash": "D6A8E60E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340963",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-17T17:30:00",
+            "episode": 19,
+            "score": 7.8093037669,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 29,
+                    "filename": "[Hadena] Accel World - 19 [720p][56D7FB8A].mkv",
+                    "group": "Hadena",
+                    "hash": "56D7FB8A",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2019%20%5B720p%5D%5B56D7FB8A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 14,
+                    "filename": "[UTW]_Accel_World_-_19_[h264-720p][5CADDCEF].mkv",
+                    "group": "UTW",
+                    "hash": "5CADDCEF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Commie] Accel World - 19 [2ACB9E4C].mkv",
+                    "group": "Commie",
+                    "hash": "2ACB9E4C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343056",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[WhatStory] Accel World - 19 [EE762BB3].mkv",
+                    "group": "WhatStory",
+                    "hash": "EE762BB3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343699",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-24T17:30:00",
+            "episode": 20,
+            "score": 7.7992876844,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Accel World - 20 [720p][753C92AF].mkv",
+                    "group": "Hadena",
+                    "hash": "753C92AF",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2020%20%5B720p%5D%5B753C92AF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 12,
+                    "filename": "[UTW]_Accel_World_-_20_[h264-720p][F273BD8C].mkv",
+                    "group": "UTW",
+                    "hash": "F273BD8C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345219",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Accel World - 20 [2A6AAEFD].mkv",
+                    "group": "Commie",
+                    "hash": "2A6AAEFD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhatStory] Accel World - 20 [D9D11FE0].mkv",
+                    "group": "WhatStory",
+                    "hash": "D9D11FE0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345497",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-31T17:30:00",
+            "episode": 21,
+            "score": 7.8004138435,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 5,
+                    "filename": "[CR] Accel World - 21 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1692",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[Hadena] Accel World - 21 [720p][D5D4F09B].mkv",
+                    "group": "Hadena",
+                    "hash": "D5D4F09B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2021%20%5B720p%5D%5BD5D4F09B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Accel World - 21 [CCEB1A36].mkv",
+                    "group": "Commie",
+                    "hash": "CCEB1A36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_Accel_World_-_21_[h264-720p][FF165E66].mkv",
+                    "group": "UTW",
+                    "hash": "FF165E66",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347611",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhatStory] Accel World - 21 [16FED0D3].mkv",
+                    "group": "WhatStory",
+                    "hash": "16FED0D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350349",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-07T17:30:00",
+            "episode": 22,
+            "score": 7.800589367,
+            "torrents": [
+                {
+                    "additional_info": "[720x400]",
+                    "download_count": 8,
+                    "filename": "[CR] Accel World - 22 [720x400].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1895",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[Hadena] Accel World - 22 [720p][05C190A7].mkv",
+                    "group": "Hadena",
+                    "hash": "05C190A7",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2022%20%5B720p%5D%5B05C190A7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Accel World - 22 [6710B6F2].mkv",
+                    "group": "Commie",
+                    "hash": "6710B6F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350102",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Accel_World_-_22_[h264-720p][67F16C7C].mkv",
+                    "group": "UTW",
+                    "hash": "67F16C7C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350182",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhatStory] Accel World - 22 [562FB9F9].mkv",
+                    "group": "WhatStory",
+                    "hash": "562FB9F9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350427",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-14T17:30:00",
+            "episode": 23,
+            "score": 7.8061098262,
+            "torrents": [
+                {
+                    "additional_info": "[720x400]",
+                    "download_count": 2,
+                    "filename": "[CR] Accel World - 23 [720x400].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1977",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Accel World - 23 [720p][720A9139].mkv",
+                    "group": "Hadena",
+                    "hash": "720A9139",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2023%20%5B720p%5D%5B720A9139%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Accel World - 23 [49ED301E].mkv",
+                    "group": "Commie",
+                    "hash": "49ED301E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352381",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_Accel_World_-_23_[h264-720p][22F168A9].mkv",
+                    "group": "UTW",
+                    "hash": "22F168A9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhatStory] Accel World - 23 [BF18A180].mkv",
+                    "group": "WhatStory",
+                    "hash": "BF18A180",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352635",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-21T17:30:00",
+            "episode": 24,
+            "score": 7.9200535558,
+            "torrents": [
+                {
+                    "additional_info": "[720x400]",
+                    "download_count": 1,
+                    "filename": "[CR] Accel World - 24 [720x400].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2056",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Accel World - 24 END [720p][8FA06B67].mkv",
+                    "group": "Hadena",
+                    "hash": "8FA06B67",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Accel%20World%20-%2024%20END%20%5B720p%5D%5B8FA06B67%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Accel_World_-_24_[h264-720p][1DF1511D].mkv",
+                    "group": "UTW",
+                    "hash": "1DF1511D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354607",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Accel World - 24 [812C0023].mkv",
+                    "group": "Commie",
+                    "hash": "812C0023",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhatStory] Accel World - 24 [0346610E].mkv",
+                    "group": "WhatStory",
+                    "hash": "0346610E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354949",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8691,
+        "ann": 13857,
+        "mal": 11759,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Typowe gimnazjum",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6bf9b324e44a710a8bc52128ed6dd126.jpg",
+            "hd": false
+        },
+        {
+            "description": "A w Afryce dzieci g\u0142oduj\u0105!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ddc840b22ee11122b0118d7b8137efe1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4fc8ec37e037a7d45c079afee208218.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/176d4a1682c98711b684490619e58352.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a949b13bfb9ddb0a4a469a6d120aa54a.jpg",
+            "hd": false
+        },
+        {
+            "description": "I po\u0142\u0105czy\u0142a ich ni\u0107 - co prawda nie z\u0142ota, ani czerwona",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e1434650603dba43f0f71eb4a7cdf855.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Accel World (\u30a2\u30af\u30bb\u30eb\u30fb\u30ef\u30fc\u30eb\u30c9) http://rdir.pl/1nba3f",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5706479d55b6f10067f6be5d2df3e41b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/50b2dba4f99d434d90817b4501fb7511.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b52f99ab6c8c7e0ba145f52c700a5de0.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on a light novel series by Kawahara Reki, with illustrations by HIMA.One autumn day in 2046, Haruyuki has an encounter with Kuroyuki-hime, the prettiest girl in his school. For the middle school boy who is often bullied, the meeting changes his life. Through a mysterious piece of software she gave him, Haruyuki learns about the existence of the virtual Accel World. It was after that fateful encounter that Haruyuki of the lowest school caste becomes Burst Linker, a courageous knight defending a princess.Source: ANNNote: The first two episodes received a pre-airing held in collaboration with various stores and webstreaming services. The first one took place at Gamers's Akihabara head office in Tokyo on Friday, March 23, 2012. Others took place at Softmap Akihabara also on March 23, 2012, Animate Nipponbashi in Osaka on March 24, 2012 and Comic Toranoana in Nagoya on March 25, 2012. Attendance was limited to 400 people, 100 for each location, and participants were chosen through a post-card lottery held until Wednesday, March 7, 2012. Additional webcasts were streamed at Bandai Channel on March 26, 2012, at PlayStation Store between Wednesday, March 28 and Tuesday, April 3, 2012, at Warner on Demand between April 1 and April 2, 2012 and at Nico Nico Douga on April 2, 2012. Viewership was limited to 1000 accounts for all services except Nico Nico Douga, which was limited to 2000. The regular TV broadcast started on April 7, 2012.Note 2: The setting is the same as that of Sword Art Online, another series by the same author.",
+            "type": "anidb"
+        },
+        {
+            "content": "In 2046, people can access a virtual network known as the Neurolinker via their cellphone terminals. A perpetual victim of bullying, middle school student Haruyuki spends his time absorbed in games in a corner of his local network. One day he is approached by the most famous girl in his school, Kuroyukihime (Black Snow Princess). She gives him a strange program called Brain Burst that has the power to \"accelerate the world.\"",
+            "type": "ann"
+        },
+        {
+            "content": "The year is 2046. Haruyuki Arita is a young boy who finds himself on the lowest social rungs of his school. Ashamed of his miserable life, Haruyuki can only cope by indulging in virtual games. But that all changes when Kuroyukihime, the most popular girl in school, introduces him to a mysterious program called Brain Burst and a virtual reality called the Accel World.   (Source: VIZ Media)",
+            "type": "mal"
+        },
+        {
+            "content": "In the year 2046, Neuro-synchronization, a technology system that allows humans to manipulate their five senses, has become widespread to the point where people can access the Internet and enter virtual worlds through a device known as a Neuro-Linker. Haruyuki \"Haru\" Arita is a short, fat boy who has low-self esteem due to constant bullying. To escape the torment of real life, he logs in to the school's virtual world network where he plays squash alone and always gets the highest score.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 17910,
+            "date": "2012-09-29T14:12:31",
+            "score": 7.96,
+            "type": "mal"
+        },
+        {
+            "count": 779,
+            "date": "2012-09-29T14:12:31",
+            "score": 7.31,
+            "type": "anidb"
+        },
+        {
+            "count": 730,
+            "date": "2012-09-29T14:12:31",
+            "score": 7.591,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Accel World"
+}

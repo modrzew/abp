@@ -1,0 +1,903 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6c37\u83d3"
+        }
+    ],
+    "aliases": [
+        "Hyouka"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1222839795",
+            "content": "Hyouka 06 - Oreki zachorowa\u0142 na rzadk\u0105 chorob\u0119, kt\u00f3ry objawia si\u0119 bardzo trudnymi do pozbycia si\u0119 naro\u015blami",
+            "episode": 6,
+            "filename": "8e6ae8c83a677b0bbdedb809883090ca.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/207188442537398272"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1411987005",
+            "content": "Hyouka 16 - kogo\u015b tutaj r\u0105czki \u015bwierzbi\u0105",
+            "episode": 16,
+            "filename": "b4e4b27799907049d593368524a43bd7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/234378557701361664"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-22T17:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Hyouka - 01 [7CBD29BC].mkv",
+                    "group": "Commie",
+                    "hash": "7CBD29BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Mazui]_Hyouka_-_01_[8529356F].mkv",
+                    "group": "Mazui",
+                    "hash": "8529356F",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Hyouka_-_01_8529356F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Hyouka_-_01_[E9789E94].mkv",
+                    "group": "gg",
+                    "hash": "E9789E94",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307926",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mazui]_Hyouka_-_01v2_[F2B20F65].mkv",
+                    "group": "Mazui",
+                    "hash": "F2B20F65",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309219",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[gg]_Hyouka_-_01v2_[A63EB43A].mkv",
+                    "group": "gg",
+                    "hash": "A63EB43A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310223",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Lady-chan] Hyouka 01 [E1003CCD].mkv",
+                    "group": "Diogo4D-Lady-chan",
+                    "hash": "E1003CCD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313575",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-29T17:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Hyouka - 02 [3AE68C1E].mkv",
+                    "group": "Commie",
+                    "hash": "3AE68C1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309803",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Mazui]_Hyouka_-_02_[356D9C93].mkv",
+                    "group": "Mazui",
+                    "hash": "356D9C93",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Hyouka - 02v2 [82AF6EF7].mkv",
+                    "group": "Commie",
+                    "hash": "82AF6EF7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309819",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Hyouka_-_02_[41D2B48B].mkv",
+                    "group": "gg",
+                    "hash": "41D2B48B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309934",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Lady-chan] Hyouka 02 [E2EEF532].mkv",
+                    "group": "Diogo4D-Lady-chan",
+                    "hash": "E2EEF532",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319378",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-06T17:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Hyouka - 03 [CED1D963].mkv",
+                    "group": "Commie",
+                    "hash": "CED1D963",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Mazui]_Hyouka_-_03_[DF5E813A].mkv",
+                    "group": "Mazui",
+                    "hash": "DF5E813A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312143",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Hyouka_-_03_[86EE2BA4].mkv",
+                    "group": "gg",
+                    "hash": "86EE2BA4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312176",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-13T17:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Commie] Hyouka - 04 [AA61A624].mkv",
+                    "group": "Commie",
+                    "hash": "AA61A624",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314050",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Mazui]_Hyouka_-_04_[1B7C7E04].mkv",
+                    "group": "Mazui",
+                    "hash": "1B7C7E04",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Hyouka_-_04_[B75D5B0D].mkv",
+                    "group": "gg",
+                    "hash": "B75D5B0D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314492",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-20T17:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Mazui]_Hyouka_-_05_[B4982783].mkv",
+                    "group": "Mazui",
+                    "hash": "B4982783",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315973",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Hyouka - 05 [9773D745].mkv",
+                    "group": "Commie",
+                    "hash": "9773D745",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316053",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Hyouka_-_05_[75E1E997].mkv",
+                    "group": "gg",
+                    "hash": "75E1E997",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316089",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Hyouka_-_05v2_[42303B54].mkv",
+                    "group": "gg",
+                    "hash": "42303B54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316121",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-05-27T17:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Hyouka - 06 [F6C90034].mkv",
+                    "group": "Commie",
+                    "hash": "F6C90034",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317929",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Mazui]_Hyouka_-_06_[A426AAE4].mkv",
+                    "group": "Mazui",
+                    "hash": "A426AAE4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Hyouka_-_06_[65A7FB17].mkv",
+                    "group": "gg",
+                    "hash": "65A7FB17",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321233",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-03T17:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Mazui]_Hyouka_-_07_[078F97DC].mkv",
+                    "group": "Mazui",
+                    "hash": "078F97DC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Hyouka - 07 [7CA72A38].mkv",
+                    "group": "Commie",
+                    "hash": "7CA72A38",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320006",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Hyouka_-_07_[7B6EBFB7].mkv",
+                    "group": "gg",
+                    "hash": "7B6EBFB7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324686",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-10T17:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Hyouka_-_08_[C213DEE1].mkv",
+                    "group": "Mazui",
+                    "hash": "C213DEE1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322002",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[Commie] Hyouka - 08 [3C5D980E].mkv",
+                    "group": "Commie",
+                    "hash": "3C5D980E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322016",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-17T17:00:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Hyouka_-_09_[695133C4].mkv",
+                    "group": "Mazui",
+                    "hash": "695133C4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Commie] Hyouka - 09 [9CA138C8].mkv",
+                    "group": "Commie",
+                    "hash": "9CA138C8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323887",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-24T17:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 21,
+                    "filename": "[Commie] Hyouka - 10 [887B8BB8].mkv",
+                    "group": "Commie",
+                    "hash": "887B8BB8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325656",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Mazui]_Hyouka_-_10_[724679C8].mkv",
+                    "group": "Mazui",
+                    "hash": "724679C8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325659",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-01T17:00:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Mazui]_Hyouka_-_11_[42DF00DB].mkv",
+                    "group": "Mazui",
+                    "hash": "42DF00DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Hyouka - 11 [557B3CFB].mkv",
+                    "group": "Commie",
+                    "hash": "557B3CFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Mazui]_Hyouka_-_11.5_[LQ][EBACBACC].mkv",
+                    "group": "Mazui",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mazui]_Hyouka_-_11.5_[3C10E2F9].mkv",
+                    "group": "Mazui",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392763",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-08T17:00:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 18,
+                    "filename": "[Commie] Hyouka - 12 [792BB444].mkv",
+                    "group": "Commie",
+                    "hash": "792BB444",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330061",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Hyouka_-_12_[F156E03F].mkv",
+                    "group": "Mazui",
+                    "hash": "F156E03F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330060",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-15T17:00:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Mazui]_Hyouka_-_13_[61A6EA94].mkv",
+                    "group": "Mazui",
+                    "hash": "61A6EA94",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 21,
+                    "filename": "[Commie] Hyouka - 13 [E75E264A].mkv",
+                    "group": "Commie",
+                    "hash": "E75E264A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332266",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Mazui]_Hyouka_-_13v2_[BE011245].mkv",
+                    "group": "Mazui",
+                    "hash": "BE011245",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333187",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[Hi10p][1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[OnF-Supremes]_Hyouka_13_[Hi10p][1280x720_x264_AAC][6DCC2A8B].mkv",
+                    "group": "OnF-Supremes",
+                    "hash": "6DCC2A8B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334711",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-22T17:00:00",
+            "episode": 14,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Mazui]_Hyouka_-_14_[A74CB077].mkv",
+                    "group": "Mazui",
+                    "hash": "A74CB077",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Hyouka - 14 [17745CCD].mkv",
+                    "group": "Commie",
+                    "hash": "17745CCD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334486",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-29T17:00:00",
+            "episode": 15,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[Mazui]_Hyouka_-_15_[1F3EB982].mkv",
+                    "group": "Mazui",
+                    "hash": "1F3EB982",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336629",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Hyouka - 15 [46AD9250].mkv",
+                    "group": "Commie",
+                    "hash": "46AD9250",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337208",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-05T17:00:00",
+            "episode": 16,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 19,
+                    "filename": "[Mazui]_Hyouka_-_16_[0D8901A5].mkv",
+                    "group": "Mazui",
+                    "hash": "0D8901A5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338979",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Hyouka - 16 [3BD19860].mkv",
+                    "group": "Commie",
+                    "hash": "3BD19860",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339227",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-12T17:00:00",
+            "episode": 17,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[Mazui]_Hyouka_-_17_[4DD6ED44].mkv",
+                    "group": "Mazui",
+                    "hash": "4DD6ED44",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Hyouka - 17 [8C66557A].mkv",
+                    "group": "Commie",
+                    "hash": "8C66557A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341297",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-19T17:00:00",
+            "episode": 18,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Mazui]_Hyouka_-_18_[008C19AC].mkv",
+                    "group": "Mazui",
+                    "hash": "008C19AC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343610",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Hyouka - 18 [5A256B90].mkv",
+                    "group": "Commie",
+                    "hash": "5A256B90",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343654",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-26T17:00:00",
+            "episode": 19,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Mazui]_Hyouka_-_19_[D1759CAA].mkv",
+                    "group": "Mazui",
+                    "hash": "D1759CAA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Hyouka - 19 [3A064B8F].mkv",
+                    "group": "Commie",
+                    "hash": "3A064B8F",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=345989",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-02T17:00:00",
+            "episode": 20,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Mazui]_Hyouka_-_20_[C94B68A7].mkv",
+                    "group": "Mazui",
+                    "hash": "C94B68A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348201",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Hyouka - 20 [C49674B5].mkv",
+                    "group": "Commie",
+                    "hash": "C49674B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348231",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-09T17:00:00",
+            "episode": 21,
+            "score": 8.1267885249,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Mazui]_Hyouka_-_21_[54C11F60].mkv",
+                    "group": "Mazui",
+                    "hash": "54C11F60",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350773",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Hyouka - 21 [D8E746A7].mkv",
+                    "group": "Commie",
+                    "hash": "D8E746A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350791",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-16T17:00:00",
+            "episode": 22,
+            "score": 8.2988124929,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Mazui]_Hyouka_-_22_[1CA88F50].mkv",
+                    "group": "Mazui",
+                    "hash": "1CA88F50",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353168",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Hyouka - 22 [F0218084].mkv",
+                    "group": "Commie",
+                    "hash": "F0218084",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353184",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 22,
+    "episodes_length": 25,
+    "external_sites": {
+        "anidb": 8855,
+        "ann": 13817,
+        "mal": 12189,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4f2396f860cc28474a8b2830bde16b28.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bc8a34550f8046dee572fedf04ea025e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b3d414c4794d06fecb45dc9b6ebc2b3a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/618933a83d49c533b7a71df0977555bd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fe603f08bcad3cf493a9e213872cfb4b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eae357e9bff0fb1f03077c5090f1c588.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b6b055f763e3ce25923de7e3eebfd3b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8fedb11e21b8bd90666e4bda7fd4f096.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6459c5de66cedb79c28b9c82e82425c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5321a043fb1a367c51c9ab889f241d33.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/88dc89ec71f503a01680f9f1141e366a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6229fa7c4d45d6f8c936fc5393457a42.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b0c20aacaf335ff0f1c475b8c66a00da.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kejon w mojej Hyouce?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/911edf1df7e2220bcc758f916b804140.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4ad897ae631f75392bf252193f781d10.jpg",
+            "hd": false
+        },
+        {
+            "description": "Oreki zachorowa\u0142 na rzadk\u0105 chorob\u0119, kt\u00f3ry objawia si\u0119 bardzo trudnymi do pozbycia si\u0119 naro\u015blami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8e6ae8c83a677b0bbdedb809883090ca.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/093d53fbfebf304ac5b7a0231278746a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c1661126c6b5c965555fa6013905eddf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b71b8d717acb835f1797e4781af12c80.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/41912c7331c1d1d18d8b459bb42208ce.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/95de5122c19fe089ac855fbb799afe33.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawie jak FABU\u0141A",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5a118052de4d499ca130055dc131e2bb.jpg",
+            "hd": false
+        },
+        {
+            "description": "kogo\u015b tutaj r\u0105czki \u015bwierzbi\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b4e4b27799907049d593368524a43bd7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/31f892f37991336bf7086069b0661d9c.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "The story follows a boy named Houtarou who is not assertive about getting involved, but was ordered by his older sister to join the classic literature club. In the club, he gets close to the truth about an incident, involving a female member's uncle, which happened 45 years ago. The energy-saving boy is joined by an inquisitive girl in this adolescent mystery.Source: ANNNote: The first episode received an early screening at a special event held at Kadokawa Cinema Shinjuku on 14.04.2012. The regular TV broadcast started on 23.04.2012.",
+            "type": "anidb"
+        },
+        {
+            "content": "H\u014dtar\u014d Oreki doesn't like to do things that he considers a waste of energy. However, things start to change when he enters high school because even though he does not want to join any non-compulsory school activities, his older sister requested him to join the deserted Classics Club so that it won't get demolished. Unknown to him, another student Eru Chitanda already planned to join; but instead of being free from club obligations, H\u014dtar\u014d eventually joined as he is strangely unable to refuse nor to escape from Eru's passionate gaze of curiosity. Together with his friends Satoshi and Mayaka, they began to discuss a variety of mysteries in school that only H\u014dtar\u014d seems to be able to solve; including the mystery that lingered on from Eru's childhood memory.",
+            "type": "ann"
+        },
+        {
+            "content": "Oreki Houtarou is a minimalistic high school boy. One day, he joins the Classic Literature Club at his elder sister's request.   There he meets Chitanda Eru, Fukube Satoshi, and Ibara Mayaka. Chitanda is a calm beautiful girl but she turns into an embodiment of curiosity once she says, \"I'm interested in it (Watashi, Kininarimasu)\". Fukube is a smiling boy with a fantastic memory who calls himself a database. Ibara is a short girl and is strict with others and herself. She loves Fukube, but he always dodges her approaches.   They begin to investigate a case that occurred 45 years ago. Hints of the mystery are buried in an old collection of works of the former members of Classics Club. The collection is titled \"Hyouka.\"",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 18108,
+            "date": "2012-09-29T14:16:31",
+            "score": 8.31,
+            "type": "mal"
+        },
+        {
+            "count": 821,
+            "date": "2012-09-29T14:16:31",
+            "score": 8.08,
+            "type": "anidb"
+        },
+        {
+            "count": 607,
+            "date": "2012-09-29T14:16:31",
+            "score": 8.222,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Hyouka"
+}

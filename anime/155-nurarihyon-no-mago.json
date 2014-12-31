@@ -1,0 +1,853 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u306c\u3089\u308a\u3072\u3087\u3093\u306e\u5b6b"
+        },
+        {
+            "language": "pl",
+            "title": "Wnuczek Nurarihyona"
+        }
+    ],
+    "aliases": [
+        "Nurarihyon no Mago"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/108842211",
+            "content": "#anime #Lato2010 Nurarihyon no Mago (\u306c\u3089\u308a\u3072\u3087\u3093\u306e\u5b6b) http://rdir.pl/gsb4j",
+            "episode": 1,
+            "filename": "4b994da7864b064c2235ff36c1e1e2a6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/17969924163"
+        },
+        {
+            "blip_url": "http://blip.pl/s/114916352",
+            "content": "Nurarihyon no Mago 02 - nieletni pij\u0105cy alkohol: kolejny dow\u00f3d na potwierdzenie tezy, \u017ce #anime s\u0105 dzie\u0142em szatana",
+            "episode": 2,
+            "filename": "8b72048a47ca8837ac5a0593980f98c8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18639845340"
+        },
+        {
+            "blip_url": "http://blip.pl/s/125277802",
+            "content": "Nurarihyon no Mago 04 - i szczur si\u0119 nada gdy nie ma z kim pogada\u0107; szkoda tylko, \u017ce za takie rzeczy l\u0105duje si\u0119 w psychiatryku",
+            "episode": 4,
+            "filename": "6381340bec9d305657b8bbe4122e0347.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/19859563022"
+        },
+        {
+            "blip_url": "http://blip.pl/s/130415559",
+            "content": "Nurarihyon no Mago 05 - YOU GONNA GET RAPED",
+            "episode": 5,
+            "filename": "77f0949e7aef4e7631b1b7990eb6b8d5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/20416967435"
+        },
+        {
+            "blip_url": "http://blip.pl/s/136235569",
+            "content": "Nurarihyon no Mago 06 - odcinek z gor\u0105cymi \u017ar\u00f3d\u0142ami... a ch\u0142opcy, jak zawsze, podgl\u0105daj\u0105",
+            "episode": 6,
+            "filename": "ad4a9afb61a2b61cc70bc023775778af.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21028597701"
+        },
+        {
+            "blip_url": "http://blip.pl/s/156756807",
+            "content": "Nurarihyon no Mago 10 - hit na jesie\u0144 w TVN: \"Taniec z youkaiami\"",
+            "episode": 10,
+            "filename": "4f0c29aded9d6b96649117fc3b261ec2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/167642829",
+            "content": "Nurarihyon no Mago 12 - mora\u0142 odcinka: nigdy, przenigdy nie nale\u017cy dopuszcza\u0107 do walk wewn\u0105trzharemowych",
+            "episode": 12,
+            "filename": "b424a1be2898db99c725794871988b61.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/25253516733"
+        },
+        {
+            "blip_url": "http://blip.pl/s/179881473",
+            "content": "Nurarihyon no Mago 14 - B\u0118DZIE KIN\u00d3WKA KEJONA?!?",
+            "episode": 14,
+            "filename": "33f3e65e632639d1fb8d5a6dfe9d0264.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26587981276"
+        },
+        {
+            "blip_url": "http://blip.pl/s/186711095",
+            "content": "Nurarihyon no Mago 15 - \u015anie\u017cne Dziewcz\u0119 dwie sekundy po zobaczeniu penisa Rikuo w postaci cz\u0142owieka",
+            "episode": 15,
+            "filename": "a02be95292009ac03f0b0d0e00a86063.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27284902066"
+        },
+        {
+            "blip_url": "http://blip.pl/s/196408393",
+            "content": "Nurarihyon no Mago 17 - tak by zapewne wygl\u0105da\u0142a Yui z Kejona, gdyby by\u0142a youkaiem",
+            "episode": 17,
+            "filename": "7f6e9b0d3fe7c6853da85748cda814c4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/28977753674"
+        },
+        {
+            "blip_url": "http://blip.pl/s/201449243",
+            "content": "Nurarihyon no Mago 18 - z braku laku jeszcze raz Yui w postaci youkaia, tym razem z bliska",
+            "episode": 18,
+            "filename": "12dd976c56f19399e1bdfc69b84bd729.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/301292719181824"
+        },
+        {
+            "blip_url": "http://blip.pl/s/244697821",
+            "content": "Nurarihyon no Mago 23 - okazuje si\u0119, \u017ce nawet youkaie nie maj\u0105 szans w starciu z wampirami",
+            "episode": 23,
+            "filename": "3b0b5208cd25c68d79c60f6bcefef79e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12859888979943424"
+        },
+        {
+            "blip_url": "http://blip.pl/s/254484727",
+            "content": "Nurarihyon no Mago 24 - ciekawe co na zachowanie Tamazukiego powiedzieliby obro\u0144cy praw zwierz\u0105t",
+            "episode": 24,
+            "filename": "3566606a483d5aee18c500bcc09b9767.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15425998325555200"
+        },
+        {
+            "blip_url": "http://blip.pl/s/275197695",
+            "content": "#anime #Lato2010 Nurarihyon no Mago (\u306c\u3089\u308a\u3072\u3087\u3093\u306e\u5b6b) - nasza ocena: ogl\u0105daj tylko je\u015bli si\u0119 nudzisz (wi\u0119cej: http://rdir.pl/gsb4j)",
+            "episode": 25,
+            "filename": "07d079b9e6ad2db9aee6ed5a63b26235.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21284893157752832"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-07-05T18:44:00",
+            "episode": 1,
+            "score": 7.5516339869,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-12T18:44:00",
+            "episode": 2,
+            "score": 7.531832345,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-19T18:44:00",
+            "episode": 3,
+            "score": 7.522598989,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-26T18:44:00",
+            "episode": 4,
+            "score": 7.5460190726,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-02T18:44:00",
+            "episode": 5,
+            "score": 7.555690178,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-09T18:44:00",
+            "episode": 6,
+            "score": 7.5708372711,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-16T18:44:00",
+            "episode": 7,
+            "score": 7.5979841573,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-23T18:44:00",
+            "episode": 8,
+            "score": 7.6099151889,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-30T18:44:00",
+            "episode": 9,
+            "score": 7.6412542373,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Nurarihyon no Mago - 09v2 [3E7043B5].mkv",
+                    "group": "Commie",
+                    "hash": "3E7043B5",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166483",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-09-06T18:44:00",
+            "episode": 10,
+            "score": 7.6543894374,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Nurarihyon no Mago - 10v2 [CC86036E].mkv",
+                    "group": "Commie",
+                    "hash": "CC86036E",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166530",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Phuzy]_Nurarihyon_no_Mago_-_10_(1280x720_H264)_[4FB577A8].mkv",
+                    "group": "Phuzy",
+                    "hash": "4FB577A8",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190764",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-13T18:44:00",
+            "episode": 11,
+            "score": 7.6784012251,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Nurarihyon no Mago - 11v2 [2638E4AA].mkv",
+                    "group": "Commie",
+                    "hash": "2638E4AA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168709",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-09-20T18:44:00",
+            "episode": 12,
+            "score": 7.6799081228,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Nurarihyon no Mago - 12 [AA1E76C4].mkv",
+                    "group": "Commie",
+                    "hash": "AA1E76C4",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168710",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Nurarihyon no Mago - 12.5 [2268B4D5].mkv",
+                    "group": "Commie",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181978",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-04T18:44:00",
+            "episode": 13,
+            "score": 7.6842106323,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Nurarihyon no Mago - 13 [7F853B3A].mkv",
+                    "group": "Commie",
+                    "hash": "7F853B3A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181979",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-11T18:44:00",
+            "episode": 14,
+            "score": 7.6868720728,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[aRK-Nishishi] Nurarihyon no Mago - 14 [1280x720p x264 AAC][48F7E357].mkv",
+                    "group": "aRK-Nishishi",
+                    "hash": "48F7E357",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=163315",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720] [130c2566]",
+                    "download_count": 1,
+                    "filename": "[SubDesu] Nurarihyon no Mago 14 (1280x720) [130c2566].mkv",
+                    "group": "SubDesu",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167064",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Nurarihyon no Mago - 14 [71499CAB].mkv",
+                    "group": "Commie",
+                    "hash": "71499CAB",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181980",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-18T18:44:00",
+            "episode": 15,
+            "score": 7.693694697,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[aRK-Nishishi] Nurarihyon no Mago - 15 [1280x720p x264 AAC][78BF946E].mkv",
+                    "group": "aRK-Nishishi",
+                    "hash": "78BF946E",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164990",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Nurarihyon no Mago - 15 [24DFEA34].mkv",
+                    "group": "WhyNot",
+                    "hash": "24DFEA34",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=165101",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Nurarihyon no Mago - 15v2 [ECF7C779].mkv",
+                    "group": "WhyNot",
+                    "hash": "ECF7C779",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=165368",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SubDesu] Nurarihyon no Mago 15 [720p][F4ABBED0].mkv",
+                    "group": "SubDesu",
+                    "hash": "F4ABBED0",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167168",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Nurarihyon no Mago - 15 [B3CB522F].mkv",
+                    "group": "Commie",
+                    "hash": "B3CB522F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181981",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-25T18:44:00",
+            "episode": 16,
+            "score": 7.6870610225,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[aRK-Nishishi] Nurarihyon no Mago - 16 [1280x720p x264 AAC][A1E97A87].mkv",
+                    "group": "aRK-Nishishi",
+                    "hash": "A1E97A87",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166728",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Nurarihyon no Mago - 16 [A2147D95].mkv",
+                    "group": "WhyNot",
+                    "hash": "A2147D95",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166729",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SubDesu] Nurarihyon no Mago 16 [720p][D465776B].mkv",
+                    "group": "SubDesu",
+                    "hash": "D465776B",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168156",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Nurarihyon no Mago - 16 [CA7CDC76].mkv",
+                    "group": "Commie",
+                    "hash": "CA7CDC76",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181982",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-01T18:44:00",
+            "episode": 17,
+            "score": 7.6889332858,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Nurarihyon no Mago - 17 [1BB2E180].mkv",
+                    "group": "WhyNot",
+                    "hash": "1BB2E180",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[aRK-Nishishi] Nurarihyon no Mago - 17 [1280x720p x264 AAC][0C23A56F].mkv",
+                    "group": "aRK-Nishishi",
+                    "hash": "0C23A56F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168474",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SubDesu] Nurarihyon no Mago 17 [720p][45B7924E].mkv",
+                    "group": "SubDesu",
+                    "hash": "45B7924E",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=169603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Nurarihyon no Mago - 17 [A29EF086].mkv",
+                    "group": "Commie",
+                    "hash": "A29EF086",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181983",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-08T17:44:00",
+            "episode": 18,
+            "score": 7.6883425299,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[aRK-Nishishi] Nurarihyon no Mago - 18 [1280x720p x264 AAC][193AE50C].mkv",
+                    "group": "aRK-Nishishi",
+                    "hash": "193AE50C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170482",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago - 18 [FCAFF71B].mkv",
+                    "group": "WhyNot",
+                    "hash": "FCAFF71B",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=170484",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-15T17:44:00",
+            "episode": 19,
+            "score": 7.6825244957,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-22T17:44:00",
+            "episode": 20,
+            "score": 7.684032874,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-29T17:44:00",
+            "episode": 21,
+            "score": 7.6834595385,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[SubDesu] Nurarihyon no Mago 21.mkv",
+                    "group": "SubDesu",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178370",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-06T17:44:00",
+            "episode": 22,
+            "score": 7.684453431,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SubDesu] Nurarihyon no Mago 22.mkv",
+                    "group": "SubDesu",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178557",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-13T17:44:00",
+            "episode": 23,
+            "score": 7.6838190595,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Nurarihyon no Mago - 23 [BC9241C7].mkv",
+                    "group": "WhyNot",
+                    "hash": "BC9241C7",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=178782",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[aRK-Nishishi] Nurarihyon no Mago - 23 [1280x720p x264 AAC][0BF382B0].mkv",
+                    "group": "aRK-Nishishi",
+                    "hash": "0BF382B0",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178824",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SubDesu] Nurarihyon no Mago 23 [720p][1F7D8384].mkv",
+                    "group": "SubDesu",
+                    "hash": "1F7D8384",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179931",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-20T17:44:00",
+            "episode": 24,
+            "score": 7.6835548319,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago - 24 [625509F3].mkv",
+                    "group": "WhyNot",
+                    "hash": "625509F3",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=180117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[aRK-Nishishi] Nurarihyon no Mago - 24 [1280x720p x264 AAC][223841F9].mkv",
+                    "group": "aRK-Nishishi",
+                    "hash": "223841F9",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180181",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-27T17:44:00",
+            "episode": 25,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[aRK-Nishishi] Nurarihyon no Mago - 25 [1280x720p x264 AAC][B30A52F2].mkv",
+                    "group": "aRK-Nishishi",
+                    "hash": "B30A52F2",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181699",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago - 25 [D0098060].mkv",
+                    "group": "WhyNot",
+                    "hash": "D0098060",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=181773",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7404,
+        "ann": 11174,
+        "mal": 7592,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ff9d83e4602203403bd062aabfdff0e2.jpg",
+            "hd": false
+        },
+        {
+            "description": "GAR",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d072ef389c44b0e0cedc6d53789a3947.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nawet youkaie musz\u0105 si\u0119 godzinami stroi\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aa4ec6fd30618648983961b0009486b4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/165a7077e3efb5fecf52e283cbac3b43.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/992b7ff10a28138780acf3d285f03945.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7a017c7965ef739fc435d451978dfd2c.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2010 Nurarihyon no Mago (\u306c\u3089\u308a\u3072\u3087\u3093\u306e\u5b6b) http://rdir.pl/gsb4j",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b994da7864b064c2235ff36c1e1e2a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "nieletni pij\u0105cy alkohol: kolejny dow\u00f3d na potwierdzenie tezy, \u017ce #anime s\u0105 dzie\u0142em szatana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8b72048a47ca8837ac5a0593980f98c8.jpg",
+            "hd": false
+        },
+        {
+            "description": "i szczur si\u0119 nada gdy nie ma z kim pogada\u0107; szkoda tylko, \u017ce za takie rzeczy l\u0105duje si\u0119 w psychiatryku",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6381340bec9d305657b8bbe4122e0347.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/80b325d7d8161a4cb230c76c90459610.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f13a8f98e2b26653fcc71f200164e3a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Idziemy Expi\u0107!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1a34732a59f0ea33786ed884b720513d.jpg",
+            "hd": false
+        },
+        {
+            "description": "YOU GONNA GET RAPED",
+            "filename": "http://s.modriv.net/abp/images/screencaps/77f0949e7aef4e7631b1b7990eb6b8d5.jpg",
+            "hd": false
+        },
+        {
+            "description": "odcinek z gor\u0105cymi \u017ar\u00f3d\u0142ami... a ch\u0142opcy, jak zawsze, podgl\u0105daj\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad4a9afb61a2b61cc70bc023775778af.jpg",
+            "hd": false
+        },
+        {
+            "description": "Prawie jak walka Pokemon\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/74d5b0f0bcb9467f75cb728d7f52c726.jpg",
+            "hd": false
+        },
+        {
+            "description": "hit na jesie\u0144 w TVN: \"Taniec z youkaiami\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4f0c29aded9d6b96649117fc3b261ec2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Youkai...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3055c1f6ff1f11de793d6fccfe51e507.jpg",
+            "hd": false
+        },
+        {
+            "description": "...na...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/24767f38483a88bbab79055a1fff2401.jpg",
+            "hd": false
+        },
+        {
+            "description": "...rowerze...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8ce414107c61aaa535a80b43af5b800c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Drobnych staruszk\u00f3w z dziwn\u0105 g\u0142ow\u0105 nale\u017cy si\u0119 ba\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad96f8b042cb84ab0ca570109ce118cf.jpg",
+            "hd": false
+        },
+        {
+            "description": "A ju\u017c na pewno nie nale\u017cy zaprasza\u0107 ich do domu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b95defb7dff23fa2bf7a7e2fa2673a9e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/854d71c36f428fb1372196478f697ccb.jpg",
+            "hd": false
+        },
+        {
+            "description": "mora\u0142 odcinka: nigdy, przenigdy nie nale\u017cy dopuszcza\u0107 do walk wewn\u0105trzharemowych",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b424a1be2898db99c725794871988b61.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8235154a74de389b7ad3928b578b1443.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8b2aaa4dd80f114b6e02cbbe7d101828.jpg",
+            "hd": false
+        },
+        {
+            "description": "B\u0118DZIE KIN\u00d3WKA KEJONA?!?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/33f3e65e632639d1fb8d5a6dfe9d0264.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/60626e08b70753655a4caf3ce7e17f94.jpg",
+            "hd": false
+        },
+        {
+            "description": "Drim Tim",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b2c19abd17712422b38d1532e7b48df.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kto powiedzia\u0142, \u017ce youkaie musz\u0105 by\u0107 straszne?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/debe3bb24985bd64fa19addd695b12fa.jpg",
+            "hd": false
+        },
+        {
+            "description": "MAGIKARP?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/471d969759fad1f689b1fbb0265da4a3.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u015anie\u017cne Dziewcz\u0119 dwie sekundy po zobaczeniu penisa Rikuo w postaci cz\u0142owieka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a02be95292009ac03f0b0d0e00a86063.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/97279d62d68b28b1c43be005e350fc19.jpg",
+            "hd": false
+        },
+        {
+            "description": "Walka Pokemon\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5e70618b051b51ac277d9b9c043d4e7f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4979981188adcfec5f4d4ffc2037d4f7.jpg",
+            "hd": true
+        },
+        {
+            "description": "Pojedynek na w\u0142osy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d7866d60b8238f0b2c7c13a63b6bbec9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3147c495d218fb25e07f100ecf70c147.jpg",
+            "hd": false
+        },
+        {
+            "description": "tak by zapewne wygl\u0105da\u0142a Yui z Kejona, gdyby by\u0142a youkaiem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f6e9b0d3fe7c6853da85748cda814c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "z braku laku jeszcze raz Yui w postaci youkaia, tym razem z bliska",
+            "filename": "http://s.modriv.net/abp/images/screencaps/12dd976c56f19399e1bdfc69b84bd729.jpg",
+            "hd": false
+        },
+        {
+            "description": "okazuje si\u0119, \u017ce nawet youkaie nie maj\u0105 szans w starciu z wampirami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3b0b5208cd25c68d79c60f6bcefef79e.jpg",
+            "hd": false
+        },
+        {
+            "description": "ciekawe co na zachowanie Tamazukiego powiedzieliby obro\u0144cy praw zwierz\u0105t",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3566606a483d5aee18c500bcc09b9767.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Przed wyruszeniem w drog\u0119 nale\u017cy zebra\u0107 dru\u017cyn\u0119\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/57bdf2559311bf04b86d30784ff63e7e.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2010 Nurarihyon no Mago (\u306c\u3089\u308a\u3072\u3087\u3093\u306e\u5b6b) - nasza ocena: ogl\u0105daj tylko je\u015bli si\u0119 nudzisz (wi\u0119cej: http://rdir.pl/gsb4j)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/07d079b9e6ad2db9aee6ed5a63b26235.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Historia \u017cycia m\u0142odego Rikou, kt\u00f3ry za dziadka ma youkaia i w\u0142a\u015bnie ma po nim odziedziczy\u0107 jego spu\u015bcizn\u0119 - klan Nurarihyon wraz z przyleg\u0142o\u015bciami.",
+            "type": "abp"
+        },
+        {
+            "content": "Rikuo Nura appears to be an average middle school student. No one knows that he comes home every day to a house full of youkai, nor that he transforms into the all-powerful leader of these spirits at night. However, much to the disappointment of many, Rikuo is determined to live as normal a life as possible.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Shiibashi Hiroshi's Nurarihyon no Mago shounen manga.In the story, Nura Rikuo, a kid who is part human and a quarter youkai (demon), lives in a house full of spirits along with his grandfather. Trying to escape his fate of acting like a demon, he does good deeds in order to avoid becoming one \u2014 despite his grandfather's wish to succeed him as master of the Nurari youkai clan.",
+            "type": "anidb"
+        },
+        {
+            "content": "Rikuo Nura, is 3 parts human and a quarter Demon, lives in a house of spirits with his grandfather, The current clan head of the Nura youkai. Rikou is set to be the next clan head, despit the fact he dilikes his demon side. He soon come to terms with his demon blood and decides to take his position as young master of the Nura house. However there are those who will certainly not allow it to be easy.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 20192,
+            "date": "2012-09-29T12:44:16",
+            "score": 7.86,
+            "type": "mal"
+        },
+        {
+            "count": 1281,
+            "date": "2012-09-29T12:44:16",
+            "score": 7.39,
+            "type": "anidb"
+        },
+        {
+            "count": 978,
+            "date": "2012-09-29T12:44:16",
+            "score": 7.788,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Nurarihyon no Mago"
+}

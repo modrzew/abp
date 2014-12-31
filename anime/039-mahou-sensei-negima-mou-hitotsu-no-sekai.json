@@ -1,0 +1,175 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u9b54\u6cd5\u5148\u751f\u30cd\u30ae\u307e!\u3082\u3046\u3072\u3068\u3064\u306e\u4e16\u754c"
+        },
+        {
+            "language": "pl",
+            "title": "Magister Negi Magi: Kolejny \u015awiat"
+        }
+    ],
+    "aliases": [
+        "Mahou Sensei Negima! ~Mou Hitotsu no Sekai~",
+        "Mahou Sensei Negima!~Mou Hitosu no Sekai~ OAD ",
+        "Mahou Sensei Negima! Mou Hitotsu no Sekai OVA "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/85622038",
+            "content": "Mahou Sensei Negima! Mou Hitotsu no Sekai 03 - z braku lepszego obrazka Asuna w prawie-HD",
+            "episode": 3,
+            "filename": "9001b873f5b76a801bfe8efa1cbc3218.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14842506231"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2009-09-17T00:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2009-11-17T00:00:00",
+            "episode": 2,
+            "score": 8.3792922374,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-17T00:00:00",
+            "episode": 3,
+            "score": 8.3344948779,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-17T00:00:00",
+            "episode": 4,
+            "score": 8.3215865751,
+            "torrents": [
+                {
+                    "additional_info": "[OAD] ",
+                    "download_count": 1,
+                    "filename": "[Piro]_Mahou_Sensei_Negima!_~Mou_Hitotsu_no_Sekai~_-_04_[OAD]_[4CA40B95].mkv",
+                    "group": "Piro",
+                    "hash": "4CA40B95",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168165",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mamiko]_Mahou_Sensei_Negima!_Mou_Hitotsu_no_Sekai_OVA_04_[A446C5DD].mkv",
+                    "group": "Mamiko",
+                    "hash": "A446C5DD",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179008",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-16T23:00:00",
+            "episode": 5,
+            "score": 8.326557037,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 5,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 6489,
+        "ann": 10713,
+        "mal": 6050,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ff7dc4e92af8c403b3fd5fa3126b9cda.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e256fdbde30cc08d59bad1cb6cc443c7.jpg",
+            "hd": false
+        },
+        {
+            "description": "z braku lepszego obrazka Asuna w prawie-HD",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9001b873f5b76a801bfe8efa1cbc3218.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6c0e27f5d2ca17b4a5ec0f7e7ca738fa.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c8dcd4114f2be0b23890c6d68f5d8c68.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d9612688e1c4f89e3f8c8a6038de0b4e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Party w komplecie, mo\u017cna i\u015b\u0107 expi\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/897bce20514ccc2f3ba47b17662ac2a4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8755393246265b71fe4993675c217085.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a0eadb9fdd5347e9eb86a0789cc75930.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b76c746f076c343f6470a51cc92c1e4e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4e07e563a9e9a5161f94b57d8742cbd3.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Adaptacja anime kilku w\u0105tk\u00f3w z mangi.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2761,
+            "date": "2012-09-29T02:09:12",
+            "score": 8.14,
+            "type": "mal"
+        },
+        {
+            "count": 318,
+            "date": "2012-09-29T02:09:12",
+            "score": 7.61,
+            "type": "anidb"
+        },
+        {
+            "count": 213,
+            "date": "2012-09-29T02:09:12",
+            "score": 8.194,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Mahou Sensei Negima! Shiroki Tsubasa Ala Alba",
+    "title": "Mahou Sensei Negima! Mou Hitotsu no Sekai"
+}

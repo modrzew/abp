@@ -1,0 +1,2330 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b4\u30b7\u30c3\u30af"
+        },
+        {
+            "language": "pl",
+            "title": "Id\u017a, Chory"
+        }
+    ],
+    "aliases": [
+        "Gosick"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/285083917",
+            "content": "#anime #Zima2011 Gosick (\u30b4\u30b7\u30c3\u30af) http://rdir.pl/15i337",
+            "episode": 1,
+            "filename": "40b42f341363f8ff9852296774f7ee1c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/23725519690268673"
+        },
+        {
+            "blip_url": "http://blip.pl/s/299734697",
+            "content": "Gosick 02 - wrogowie #anime maj\u0105 kolejny argument do swojej kolekcji: promuj\u0105 palenie tytoniu przez osoby niepe\u0142noletnie!",
+            "episode": 2,
+            "filename": "cbf58dd3f882261d231d4d71b294879d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27321739444756480"
+        },
+        {
+            "blip_url": "http://blip.pl/s/307796159",
+            "content": "Gosick 03 - uczmy si\u0119 historii razem z #anime: I Wojna \u015awiatowa",
+            "episode": 3,
+            "filename": "0a7f4550aa8f1f11a983911e7d2b844d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/29239302248468480"
+        },
+        {
+            "blip_url": "http://blip.pl/s/320302899",
+            "content": "Gosick 04 - do\u015bwiadczenie \u017cyciowe podpowiada nam, \u017ce Victorica najprawdopodobniej jest wampirem",
+            "episode": 4,
+            "filename": "10a696b22bf2335d591da26eed2204e3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/32217331799162880"
+        },
+        {
+            "blip_url": "http://blip.pl/s/352834407",
+            "content": "Gosick 07 - trzeciego dnia miesi\u0105ca ostatniego, wy\u015bwietlanie kinowej wersji anime pewnego rozpocz\u0119te zostanie!",
+            "episode": 7,
+            "filename": "7a98cf93fe5c4815d0cb8bdc63133029.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/39855561369583616"
+        },
+        {
+            "blip_url": "http://blip.pl/s/363694391",
+            "content": "Gosick 08 - im in ur house burnin ur roofz",
+            "episode": 8,
+            "filename": "4652e4c1d585e7889765e1cda713588e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/42399756932218882"
+        },
+        {
+            "blip_url": "http://blip.pl/s/372225631",
+            "content": "Gosick 09 - sprawa nie do rozwi\u0105zania... czy raczej: nie do zawi\u0105zania",
+            "episode": 9,
+            "filename": "843b7a8d0dbe98cca91aad1dff58e294.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/44133183238844416"
+        },
+        {
+            "blip_url": "http://blip.pl/s/398002287",
+            "content": "Gosick 10 - Victorica w wersji m\u0119skiej - not sure if want",
+            "episode": 10,
+            "filename": "55a983ca93ec125d478928c27b579367.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/49536699503611904"
+        },
+        {
+            "blip_url": "http://blip.pl/s/440208651",
+            "content": "Gosick 12 - Victorique przyznaj\u0105ca, \u017ce jest w czym\u015b s\u0142absza? Co si\u0119 z tym \u015bwiatem dzieje...",
+            "episode": 12,
+            "filename": "3097bbe9c78405d9cf1e28075966488b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/57762683281354752"
+        },
+        {
+            "blip_url": "http://blip.pl/s/464600173",
+            "content": "Gosick 14 - cotygodniowa dawka Victoriki",
+            "episode": 14,
+            "filename": "f965bb5f1a84f2f335611fe7907925c4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/61922826537545728"
+        },
+        {
+            "blip_url": "http://blip.pl/s/482763741",
+            "content": "Gosick 15 - Ian, mimo szczerych stara?, raczej nie zda podstawy z chemii",
+            "episode": 15,
+            "filename": "ebdd5a60e857104b863ea7847690eb3d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/65430901139570688"
+        },
+        {
+            "blip_url": "http://blip.pl/s/489765587",
+            "content": "Gosick 16 - cotygodniowa dawka Victoriki",
+            "episode": 16,
+            "filename": "e76637df623e7855bf822ae44def9149.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/66953622835052544"
+        },
+        {
+            "blip_url": "http://blip.pl/s/508354545",
+            "content": "Gosick 17 - cotygodniowa dawka Victoriki",
+            "episode": 17,
+            "filename": "96c3b55e22d0958d7ffc40d8dff3af3e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/70277003114332161"
+        },
+        {
+            "blip_url": "http://blip.pl/s/520165745",
+            "content": "Gosick 18 - cotygodniowa dawka Victoriki",
+            "episode": 18,
+            "filename": "c9578223da82350cb33aa139dd1f5892.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/72256761284931586"
+        },
+        {
+            "blip_url": "http://blip.pl/s/541765321",
+            "content": "Gosick 19 - cotygodniowa dawka Victoriki",
+            "episode": 19,
+            "filename": "0607748ca285f05c787b7d34bae61975.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/75990582350188545"
+        },
+        {
+            "blip_url": "http://blip.pl/s/556062871",
+            "content": "Gosick 21 - cotygodniowa dawka Victoriki",
+            "episode": 21,
+            "filename": "8400f5c3987f6b736ffa375d8dc22a66.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/79952542053838848"
+        },
+        {
+            "blip_url": "http://blip.pl/s/569721755",
+            "content": "Gosick 22 - cotygodniowa dawka Victoriki",
+            "episode": 22,
+            "filename": "401913480f5ae2b9ade1921f1641d127.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/82546096387264512"
+        },
+        {
+            "blip_url": "http://blip.pl/s/586249799",
+            "content": "Gosick 23 - cotygodniowa dawka Victoriki",
+            "episode": 23,
+            "filename": "d568310d995883946f601e9da5aadce7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/86218200194355201"
+        },
+        {
+            "blip_url": "http://blip.pl/s/592083863",
+            "content": "#anime #Zima2011 Gosick (????) - nasza ocena: warte obejrzenia (wi?cej: http://rdir.pl/15i337)",
+            "episode": 24,
+            "filename": "085f398961f47cd7c8f986f7e1b8add9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/87673531969712128"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-01-07T17:23:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184556",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki]_Gosick_-_01_[1280x720][FCD4C531].mkv",
+                    "group": "Tsuki",
+                    "hash": "FCD4C531",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184919",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_01_[1280x720][6047BFF6].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "6047BFF6",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=185183",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Victorique]_Gosick_-_01v2_[h264-720p][800E4683].mkv",
+                    "group": "Victorique",
+                    "hash": "800E4683",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=185877",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Gosick_-_01_(1280x720_x264_AAC)[D6825167].mkv",
+                    "group": "Derp",
+                    "hash": "D6825167",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Inochi]_GOSICK_-_01_[1689519F].mkv",
+                    "group": "Inochi",
+                    "hash": "1689519F",
+                    "url": "http://inochi.fansub-torrents.com/%5BInochi%5D_GOSICK_-_01_%5B1689519F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tokimeki]_Gosick_-_01_[720p][D32EC926].mkv",
+                    "group": "Tokimeki",
+                    "hash": "D32EC926",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 5,
+                    "filename": "[SS] Gosick - 01 (1280x720 h264) [7A023ADE].mkv",
+                    "group": "SS",
+                    "hash": "7A023ADE",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1386",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-14T17:23:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gosick - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186189",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Derp]_Gosick_-_02_(1280x720_x264_AAC)[B8D5E446].mkv",
+                    "group": "Derp",
+                    "hash": "B8D5E446",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186467",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Kenpai] Gosick - 02 (1280x720p x264 AAC) [C7D2D4E1].mkv",
+                    "group": "Kenpai",
+                    "hash": "C7D2D4E1",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Victorique]_Gosick_-_02_[h264-720p][DFE95680].mkv",
+                    "group": "Victorique",
+                    "hash": "DFE95680",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_02_[1280x720][A5F8F11F].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "A5F8F11F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187192",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC] v2 ",
+                    "download_count": 0,
+                    "filename": "[Kenpai] Gosick - 02 (1280x720p x264 AAC) v2 [E87F7443].mkv",
+                    "group": "Kenpai",
+                    "hash": "E87F7443",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187317",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Tokimeki]_Gosick_-_02_[720p][65FD3EA4].mkv",
+                    "group": "Tokimeki",
+                    "hash": "65FD3EA4",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Inochi]_GOSICK_-_02_[2B458908].mkv",
+                    "group": "Inochi",
+                    "hash": "2B458908",
+                    "url": "http://inochi.fansub-torrents.com/%5BInochi%5D_GOSICK_-_02_%5B2B458908%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 1,
+                    "filename": "[SS] Gosick - 02 (1280x720 h264) [7EF71AA1].mkv",
+                    "group": "SS",
+                    "hash": "7EF71AA1",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1388",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-21T17:23:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gosick - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187754",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Derp]_Gosick_-_03_(1280x720_x264_AAC).mkv",
+                    "group": "Derp",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Kenpai] Gosick - 03 (1280x720p x264 AAC) [500A7AC8].mkv",
+                    "group": "Kenpai",
+                    "hash": "500A7AC8",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_03_[1280x720][74C9DD24].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "74C9DD24",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188831",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Tokimeki]_Gosick_-_03_[720p][4DC0B533].mkv",
+                    "group": "Tokimeki",
+                    "hash": "4DC0B533",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Victorique]_Gosick_-_03_[h264-720p][6B8BECCB].mkv",
+                    "group": "Victorique",
+                    "hash": "6B8BECCB",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 03 (1280x720 h264) [826F4E71].mkv",
+                    "group": "SS",
+                    "hash": "826F4E71",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1390",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-28T17:23:00",
+            "episode": 4,
+            "score": 7.8186926808,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gosick - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Derp]_Gosick_-_04_(1280x720_x264_AAC)[A3BD4ABA].mkv",
+                    "group": "Derp",
+                    "hash": "A3BD4ABA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190124",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Victorique]_Gosick_-_04_[h264-720p][A50D6DFB].mkv",
+                    "group": "Victorique",
+                    "hash": "A50D6DFB",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190410",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Kenpai] Gosick - 04 (1280x720p x264 AAC) [49B0346C].mkv",
+                    "group": "Kenpai",
+                    "hash": "49B0346C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190413",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_04_[1280x720][11F2560A].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "11F2560A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190418",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Tokimeki]_Gosick_-_04_[720p][293F465C].mkv",
+                    "group": "Tokimeki",
+                    "hash": "293F465C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=192194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 4,
+                    "filename": "[SS] Gosick - 04 (1280x720 h264) [352D329C].mkv",
+                    "group": "SS",
+                    "hash": "352D329C",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1392",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-04T17:23:00",
+            "episode": 5,
+            "score": 7.8567986111,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=191617",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Gosick_-_05_(1280x720_x264_AAC)[7968590A].mkv",
+                    "group": "Derp",
+                    "hash": "7968590A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=191800",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_05_[1280x720][46DE5B0A].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "46DE5B0A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=191973",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_05_[h264-720p][48A2CC96].mkv",
+                    "group": "Victorique",
+                    "hash": "48A2CC96",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=192079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 05 (1280x720 h264) [82F5D93F].mkv",
+                    "group": "SS",
+                    "hash": "82F5D93F",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1394",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tokimeki]_Gosick_-_05_[720p][ED023A47].mkv",
+                    "group": "Tokimeki",
+                    "hash": "ED023A47",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193900",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-11T17:23:00",
+            "episode": 6,
+            "score": 7.8893128132,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Gosick - 06 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_06_[1280x720][FEB80EF4].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "FEB80EF4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193417",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Gosick_-_06_(1280x720_x264_AAC)[14871CEA].mkv",
+                    "group": "Derp",
+                    "hash": "14871CEA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193509",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Gosick - 06 [0b802a8f].mkv",
+                    "group": "Splazm",
+                    "hash": "0b802a8f",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193558",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_06_[h264-720p][62161A73].mkv",
+                    "group": "Victorique",
+                    "hash": "62161A73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193848",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Kenpai] Gosick - 06 (1280x720p x264 AAC) [B3907289].mkv",
+                    "group": "Kenpai",
+                    "hash": "B3907289",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193888",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 06 (1280x720 h264) [F62961C9].mkv",
+                    "group": "SS",
+                    "hash": "F62961C9",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1398",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-18T17:23:00",
+            "episode": 7,
+            "score": 7.8944592346,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Gosick - 07 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194785",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Gosick 07 [81166805].mkv",
+                    "group": "Splazm",
+                    "hash": "81166805",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Gosick_-_07_(1280x720_x264_AAC)[03BD9AC8].mkv",
+                    "group": "Derp",
+                    "hash": "03BD9AC8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194922",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Kenpai] Gosick - 07 (1280x720p x264 AAC) [08D7ED3C].mkv",
+                    "group": "Kenpai",
+                    "hash": "08D7ED3C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_07_[h264-720p][6B9E844E].mkv",
+                    "group": "Victorique",
+                    "hash": "6B9E844E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194956",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_07_[1280x720][87697360].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "87697360",
+                    "url": "http://www.nyaa.eu/?page=download&tid=195288",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-25T17:23:00",
+            "episode": 8,
+            "score": 7.9052065472,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gosick - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196223",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Splazm] Gosick - 08 [b82cecf6].mkv",
+                    "group": "Splazm",
+                    "hash": "b82cecf6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_08_[1280x720][43ED9202].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "43ED9202",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Kenpai] Gosick - 08 (1280x720p x264 AAC) [A35189F5].mkv",
+                    "group": "Kenpai",
+                    "hash": "A35189F5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196543",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Derp]_Gosick_-_08_(1280x720_x264_AAC)[99CF59ED].mkv",
+                    "group": "Derp",
+                    "hash": "99CF59ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196754",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Victorique]_Gosick_-_08_[h264-720p][7A8D6DE0].mkv",
+                    "group": "Victorique",
+                    "hash": "7A8D6DE0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196880",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-04T17:23:00",
+            "episode": 9,
+            "score": 7.9268592788,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=197877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Gosick - 09 [569d1131].mkv",
+                    "group": "Splazm",
+                    "hash": "569d1131",
+                    "url": "http://www.nyaa.eu/?page=download&tid=197886",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Kenpai] Gosick - 09 (1280x720p x264 AAC) [A5070D78].mkv",
+                    "group": "Kenpai",
+                    "hash": "A5070D78",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198027",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_09_[1280x720][0298E8FC].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "0298E8FC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_09_[h264-720p][C2FCE226].mkv",
+                    "group": "Victorique",
+                    "hash": "C2FCE226",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198253",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Gosick_-_09_(1280x720_x264_AAC)[778083E2].mkv",
+                    "group": "Derp",
+                    "hash": "778083E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorica]_Gosick_-_09_[h264-720p][12d2cfde].mkv",
+                    "group": "Victorica",
+                    "hash": "12d2cfde",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=200557",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-14T17:23:00",
+            "episode": 10,
+            "score": 7.9430297474,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Derp]_Gosick_-_10_(1280x720_x264_AAC)[6B718AC9].mkv",
+                    "group": "Derp",
+                    "hash": "6B718AC9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200285",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Victorique]_Gosick_-_10_[h264-720p][60CD59D9].mkv",
+                    "group": "Victorique",
+                    "hash": "60CD59D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200396",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Kenpai] Gosick - 10 (1280x720p x264 AAC) [DAE8868C].mkv",
+                    "group": "Kenpai",
+                    "hash": "DAE8868C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200551",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Victorica]_Gosick_-_10_[h264-720p][aace5cb1].mkv",
+                    "group": "Victorica",
+                    "hash": "aace5cb1",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=200568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Splazm] Gosick - 10 [726c9be6].mkv",
+                    "group": "Splazm",
+                    "hash": "726c9be6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200628",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_10_[1280x720][722F9D35].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "722F9D35",
+                    "url": "http://www.nyaa.eu/?page=download&tid=201404",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Chihiro]_Gosick_-_10_[848x480_H.264_AAC][F3C2932B].mkv",
+                    "group": "Chihiro",
+                    "hash": "F3C2932B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=201455",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Chihiro]_Gosick_-_10_[1280x720_H.264_AAC][A7D57BF2].mkv",
+                    "group": "Chihiro",
+                    "hash": "A7D57BF2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=201456",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[CrunchySubs] Gosick - 10 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207319",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-01T17:23:00",
+            "episode": 11,
+            "score": 7.9453716551,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gosick - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Splazm] Gosick - 11 [5798a871].mkv",
+                    "group": "Splazm",
+                    "hash": "5798a871",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203338",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_11_[1280x720][192CC309].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "192CC309",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Victorique]_Gosick_-_11_[h264-720p][5615059C].mkv",
+                    "group": "Victorique",
+                    "hash": "5615059C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203694",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Derp]_Gosick_-_11_(1280x720_x264_AAC)[23F896B8].mkv",
+                    "group": "Derp",
+                    "hash": "23F896B8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Gosick_-_11_[848x480_H.264_AAC][064E61EF].mkv",
+                    "group": "Chihiro",
+                    "hash": "064E61EF",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_11_%5B848x480_H.264_AAC%5D%5B064E61EF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Gosick_-_11_[1280x720_H.264_AAC][B0CC244D].mkv",
+                    "group": "Chihiro",
+                    "hash": "B0CC244D",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_11_%5B1280x720_H.264_AAC%5D%5BB0CC244D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-08T17:23:00",
+            "episode": 12,
+            "score": 7.9419657306,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gosick - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Gosick_-_12_(1280x720_x264_AAC)[62E83274].mkv",
+                    "group": "Derp",
+                    "hash": "62E83274",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Remux-HorribleSubs] Gosick - 12 [720p].mkv",
+                    "group": "Remux-HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Splazm] Gosick - 12 [e91bdfa8].mkv",
+                    "group": "Splazm",
+                    "hash": "e91bdfa8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Victorique]_Gosick_-_12_[h264-720p][4BE0CB68].mkv",
+                    "group": "Victorique",
+                    "hash": "4BE0CB68",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_12_[1280x720][5D224E5D].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "5D224E5D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205513",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 1,
+                    "filename": "[SS] Gosick - 12 (1280x720 h264) [5C26C16F].mkv",
+                    "group": "SS",
+                    "hash": "5C26C16F",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1427",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-15T18:23:00",
+            "episode": 13,
+            "score": 7.9520768594,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gosick - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Remux-HorribleSubs] Gosick - 13 [720p].mkv",
+                    "group": "Remux-HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=206656",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Splazm] Gosick - 13 [e323741d].mkv",
+                    "group": "Splazm",
+                    "hash": "e323741d",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Victorique]_Gosick_-_13_[h264-720p][DE144905].mkv",
+                    "group": "Victorique",
+                    "hash": "DE144905",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206963",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_13_[1280x720][8C28CB3E].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "8C28CB3E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_13_[848x480_H.264_AAC][38234031].mkv",
+                    "group": "Chihiro",
+                    "hash": "38234031",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_13_%5B848x480_H.264_AAC%5D%5B38234031%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_13_[1280x720_H.264_AAC][3E139D49].mkv",
+                    "group": "Chihiro",
+                    "hash": "3E139D49",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_13_%5B1280x720_H.264_AAC%5D%5B3E139D49%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 13 (1280x720 h264) [264BE8E3].mkv",
+                    "group": "SS",
+                    "hash": "264BE8E3",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1429",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-22T18:23:00",
+            "episode": 14,
+            "score": 7.9722974795,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[CrunchySubs] Gosick - 14 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208338",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Remux-HorribleSubs] Gosick - 14 [720p].mkv",
+                    "group": "Remux-HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Splazm] Gosick - 14 [b6daed01].mkv",
+                    "group": "Splazm",
+                    "hash": "b6daed01",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208421",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_14_[1280x720][FFA9D072].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "FFA9D072",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208941",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Victorique]_Gosick_-_14_[h264-720p][BAE178B9].mkv",
+                    "group": "Victorique",
+                    "hash": "BAE178B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_14_[1280x720_H.264_AAC][40EF9276].mkv",
+                    "group": "Chihiro",
+                    "hash": "40EF9276",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_14_%5B1280x720_H.264_AAC%5D%5B40EF9276%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_14_[848x480_H.264_AAC][D8AFEB92].mkv",
+                    "group": "Chihiro",
+                    "hash": "D8AFEB92",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_14_%5B848x480_H.264_AAC%5D%5BD8AFEB92%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 14 (1280x720 h264) [9767DE1C].mkv",
+                    "group": "SS",
+                    "hash": "9767DE1C",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1431",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-29T18:23:00",
+            "episode": 15,
+            "score": 7.976226507,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Gosick - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[sheckers] Gosick - 15 [720p].mkv",
+                    "group": "sheckers",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Splazm] Gosick - 15 [20921b46].mkv",
+                    "group": "Splazm",
+                    "hash": "20921b46",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=210342",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Victorique]_Gosick_-_15_[h264-720p][9057F00E].mkv",
+                    "group": "Victorique",
+                    "hash": "9057F00E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211072",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 6,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_15_[1280x720][5F50123E].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "5F50123E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211195",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Gosick_-_15_[848x480_H.264_AAC][512E2258].mkv",
+                    "group": "Chihiro",
+                    "hash": "512E2258",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_15_%5B848x480_H.264_AAC%5D%5B512E2258%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Chihiro]_Gosick_-_15_[1280x720_H.264_AAC][C305767E].mkv",
+                    "group": "Chihiro",
+                    "hash": "C305767E",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_15_%5B1280x720_H.264_AAC%5D%5BC305767E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 5,
+                    "filename": "[SS] Gosick - 15 (1280x720 h264) [6242597C].mkv",
+                    "group": "SS",
+                    "hash": "6242597C",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1433",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-06T18:23:00",
+            "episode": 16,
+            "score": 7.9763340876,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212021",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Gosick - 16 [A2C9F274].mkv",
+                    "group": "Splazm",
+                    "hash": "A2C9F274",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212084",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[sheckers] Gosick - 16 [720p].mkv",
+                    "group": "sheckers",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212092",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_16_[h264-720p][C227F576].mkv",
+                    "group": "Victorique",
+                    "hash": "C227F576",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212622",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_16_[1280x720][80FA600B].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "80FA600B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212844",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_16_[848x480_H.264_AAC][45C9309C].mkv",
+                    "group": "Chihiro",
+                    "hash": "45C9309C",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_16_%5B848x480_H.264_AAC%5D%5B45C9309C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_16_[1280x720_H.264_AAC][D73FA691].mkv",
+                    "group": "Chihiro",
+                    "hash": "D73FA691",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_16_%5B1280x720_H.264_AAC%5D%5BD73FA691%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 16 (1280x720 h264) [EE691D2D].mkv",
+                    "group": "SS",
+                    "hash": "EE691D2D",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1435",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-13T18:23:00",
+            "episode": 17,
+            "score": 7.9783743912,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213635",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[sheckers] Gosick - 17 [720p].mkv",
+                    "group": "sheckers",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213783",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chiki] Gosick - 17 (720p) [F4EC7420].mkv",
+                    "group": "Chiki",
+                    "hash": "F4EC7420",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213787",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs] Gosick - 17v2 (720p) [8C483E43].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "8C483E43",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=213929",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_17_[1280x720][370DE111].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "370DE111",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214043",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_17_[h264-720p][D1839C79].mkv",
+                    "group": "Victorique",
+                    "hash": "D1839C79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_17_[848x480_H.264_AAC][DE58C31A].mkv",
+                    "group": "Chihiro",
+                    "hash": "DE58C31A",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_17_%5B848x480_H.264_AAC%5D%5BDE58C31A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_17_[1280x720_H.264_AAC][B459E124].mkv",
+                    "group": "Chihiro",
+                    "hash": "B459E124",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_17_%5B1280x720_H.264_AAC%5D%5BB459E124%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 17 (1280x720 h264) [119F90E1].mkv",
+                    "group": "SS",
+                    "hash": "119F90E1",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1437",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-20T18:23:00",
+            "episode": 18,
+            "score": 7.9793186657,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gosick - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215158",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_18_[1280x720][12ADE065].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "12ADE065",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Victorique]_Gosick_-_18_[h264-720p][0BC019D1].mkv",
+                    "group": "Victorique",
+                    "hash": "0BC019D1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215626",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 18 (1280x720 h264) [2F108400].mkv",
+                    "group": "SS",
+                    "hash": "2F108400",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1439",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_18_[848x480_H.264_AAC][36569EE6].mkv",
+                    "group": "Chihiro",
+                    "hash": "36569EE6",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_18_%5B848x480_H.264_AAC%5D%5B36569EE6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_18_[1280x720_H.264_AAC][C3B581F9].mkv",
+                    "group": "Chihiro",
+                    "hash": "C3B581F9",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_18_%5B1280x720_H.264_AAC%5D%5BC3B581F9%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-27T18:23:00",
+            "episode": 19,
+            "score": 7.9784071717,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gosick - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216926",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[sheckers] Gosick - 19 [720p].mkv",
+                    "group": "sheckers",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216997",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SoftSubs] Gosick - 19 [720p].mkv",
+                    "group": "SoftSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216987",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Victorique]_Gosick_-_19_[h264-720p][4272B1DB].mkv",
+                    "group": "Victorique",
+                    "hash": "4272B1DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217412",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_19_[1280x720][34D0A61F].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "34D0A61F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217528",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 1,
+                    "filename": "[SS] Gosick - 19 (1280x720 h264) [5B9DFFFD].mkv",
+                    "group": "SS",
+                    "hash": "5B9DFFFD",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1441",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Chihiro]_Gosick_-_19_[848x480_H.264_AAC][A2F19F52].mkv",
+                    "group": "Chihiro",
+                    "hash": "A2F19F52",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_19_%5B848x480_H.264_AAC%5D%5BA2F19F52%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Chihiro]_Gosick_-_19_[1280x720_H.264_AAC][D44B80DE].mkv",
+                    "group": "Chihiro",
+                    "hash": "D44B80DE",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_19_%5B1280x720_H.264_AAC%5D%5BD44B80DE%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-03T18:23:00",
+            "episode": 20,
+            "score": 8.0039872629,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218596",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[SoftSubs] Gosick - 20 [480p].mkv",
+                    "group": "SoftSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[sheckers] Gosick - 20 [720p].mkv",
+                    "group": "sheckers",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218713",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_20_[1280x720][64D9A29C].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "64D9A29C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218950",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_20_[h264-720p][C46DD8EC].mkv",
+                    "group": "Victorique",
+                    "hash": "C46DD8EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 20 (1280x720 h264) [CA8D7C94].mkv",
+                    "group": "SS",
+                    "hash": "CA8D7C94",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1443",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_20_[848x480_H.264_AAC][33EED3F7].mkv",
+                    "group": "Chihiro",
+                    "hash": "33EED3F7",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_20_%5B848x480_H.264_AAC%5D%5B33EED3F7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_20_[1280x720_H.264_AAC][D44A8B32].mkv",
+                    "group": "Chihiro",
+                    "hash": "D44A8B32",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_20_%5B1280x720_H.264_AAC%5D%5BD44A8B32%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264][1280x720]",
+                    "download_count": 1,
+                    "filename": "[FTP-A]Gosick_20[H264](1280x720)[532BA070].mkv",
+                    "group": "FTP-A",
+                    "hash": "532BA070",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=227282",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-10T18:23:00",
+            "episode": 21,
+            "score": 8.0061979318,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220128",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[sheckers] Gosick - 21 [720p].mkv",
+                    "group": "sheckers",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_21_[h264-720p][AF8764D6].mkv",
+                    "group": "Victorique",
+                    "hash": "AF8764D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220464",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_21_[1280x720][4090E40E].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "4090E40E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 21 (1280x720 h264) [422F0274].mkv",
+                    "group": "SS",
+                    "hash": "422F0274",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1446",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_21_[848x480_H.264_AAC][2F5AF9F0].mkv",
+                    "group": "Chihiro",
+                    "hash": "2F5AF9F0",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_21_%5B848x480_H.264_AAC%5D%5B2F5AF9F0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_21_[1280x720_H.264_AAC][E38FA787].mkv",
+                    "group": "Chihiro",
+                    "hash": "E38FA787",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_21_%5B1280x720_H.264_AAC%5D%5BE38FA787%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264][1280x720]",
+                    "download_count": 1,
+                    "filename": "[FTP-A]Gosick_21[H264](1280x720)[616F85E4].mkv",
+                    "group": "FTP-A",
+                    "hash": "616F85E4",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=227292",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-17T18:23:00",
+            "episode": 22,
+            "score": 8.0157936648,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[sheckers] Gosick - 22 [720p].mkv",
+                    "group": "sheckers",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_22_[h264-720p][A55EF4BD].mkv",
+                    "group": "Victorique",
+                    "hash": "A55EF4BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222142",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_22_[1280x720][CCB76BB2].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "CCB76BB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 22 (1280x720 h264) [FD7ACF4D].mkv",
+                    "group": "SS",
+                    "hash": "FD7ACF4D",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1448",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_22_[848x480_H.264_AAC][5EBBADC2].mkv",
+                    "group": "Chihiro",
+                    "hash": "5EBBADC2",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_22_%5B848x480_H.264_AAC%5D%5B5EBBADC2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Gosick_-_22_[1280x720_H.264_AAC][987E5C7E].mkv",
+                    "group": "Chihiro",
+                    "hash": "987E5C7E",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Gosick_-_22_%5B1280x720_H.264_AAC%5D%5B987E5C7E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-24T18:23:00",
+            "episode": 23,
+            "score": 8.0362541068,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gosick - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223350",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_23_[h264-720p][F5741445].mkv",
+                    "group": "Victorique",
+                    "hash": "F5741445",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224467",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_23_[1280x720][87BB0669].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "87BB0669",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225937",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[SS] Gosick - 23 (1280x720 h264) [00EB69EC].mkv",
+                    "group": "SS",
+                    "hash": "00EB69EC",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1450",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-01T18:23:00",
+            "episode": 24,
+            "score": 8.2789589324,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gosick - 24 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224849",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[sheckers] Gosick - 24 [720p].mkv",
+                    "group": "sheckers",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224917",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Rizlim] Gosick 24 [1280x720 x264 AAC].mkv",
+                    "group": "Rizlim",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224916",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Victorique]_Gosick_-_24_[h264-720p][301F460E].mkv",
+                    "group": "Victorique",
+                    "hash": "301F460E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Gosick_-_24_END_[1280x720][5D42AB97].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "5D42AB97",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225938",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 2,
+                    "filename": "[SS] Gosick - 24 (1280x720 h264) [A79C6B7A].mkv",
+                    "group": "SS",
+                    "hash": "A79C6B7A",
+                    "url": "http://static-subs.com/releases/torrent.php?id=1452",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7719,
+        "ann": 11759,
+        "mal": 8425,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2880f94974fc7eb1d96daa0f312a24c7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/932b105934bbd22fdbbd5c0a8bff7ccf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4e11bc1a4bef28ec0d7c635e88440cb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/03485f2b4ef45c82dad6c0db8c755881.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ta fryzura",
+            "filename": "http://s.modriv.net/abp/images/screencaps/60a2835408292102658727d3bd2dc9cd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5442afa758ca8fc1cedf95e66214450d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/82ce8a556932f3e2ea998a0488caefa0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f1aaf0a85b073ccaf526220f2964f367.jpg",
+            "hd": false
+        },
+        {
+            "description": ":|",
+            "filename": "http://s.modriv.net/abp/images/screencaps/679c245e9c645d27a626dfcd701389d2.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2011 Gosick (\u30b4\u30b7\u30c3\u30af) http://rdir.pl/15i337",
+            "filename": "http://s.modriv.net/abp/images/screencaps/40b42f341363f8ff9852296774f7ee1c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/088b2dd0240d657db8aa43e04008b469.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fcdd6c06f6c95f0346209e3d732fb213.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e5c684e63adcbeb05ab87ea0ee214759.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0075456632f4612d11503db7552699e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "COCK GOES HERE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f0f626ab951c23f8eb279463cd51bd9a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c1c4bf097b16edfd3dd6f24d3e4e565.jpg",
+            "hd": false
+        },
+        {
+            "description": "Co\u015b mu do \u0142ba strzeli\u0142o",
+            "filename": "http://s.modriv.net/abp/images/screencaps/305ce579eefcf9bc5adf4214eb7eb191.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/835b35e298b21c7e37bfc50ae2954fe1.jpg",
+            "hd": false
+        },
+        {
+            "description": "wrogowie #anime maj\u0105 kolejny argument do swojej kolekcji: promuj\u0105 palenie tytoniu przez osoby niepe\u0142noletnie!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cbf58dd3f882261d231d4d71b294879d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/408b882523ea34088fb4b9767eeae85e.jpg",
+            "hd": false
+        },
+        {
+            "description": "uczmy si\u0119 historii razem z #anime: I Wojna \u015awiatowa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a7f4550aa8f1f11a983911e7d2b844d.jpg",
+            "hd": false
+        },
+        {
+            "description": "do\u015bwiadczenie \u017cyciowe podpowiada nam, \u017ce Victorica najprawdopodobniej jest wampirem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/10a696b22bf2335d591da26eed2204e3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/00dbc909049b1681c6e382ad72dca1d9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba1e570b6daae10f618cff4173142ed1.jpg",
+            "hd": false
+        },
+        {
+            "description": "trzeciego dnia miesi\u0105ca ostatniego, wy\u015bwietlanie kinowej wersji anime pewnego rozpocz\u0119te zostanie!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7a98cf93fe5c4815d0cb8bdc63133029.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak, tak, do kin\u00f3wki kejona ju\u017c tylko oko\u0142o 9 miesi\u0119cy.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4a4f0bf8ba0ad4b6a87d681f2e7cbda6.jpg",
+            "hd": false
+        },
+        {
+            "description": "im in ur house burnin ur roofz",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4652e4c1d585e7889765e1cda713588e.jpg",
+            "hd": false
+        },
+        {
+            "description": "czy\u017cby to te s\u0142ynne do niczego nie potrzebne Picaraty?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/13e638de644d6511db66a1b9e144c369.jpg",
+            "hd": false
+        },
+        {
+            "description": "sprawa nie do rozwi\u0105zania... czy raczej: nie do zawi\u0105zania",
+            "filename": "http://s.modriv.net/abp/images/screencaps/843b7a8d0dbe98cca91aad1dff58e294.jpg",
+            "hd": false
+        },
+        {
+            "description": "Victorica w wersji m\u0119skiej - not sure if want",
+            "filename": "http://s.modriv.net/abp/images/screencaps/55a983ca93ec125d478928c27b579367.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/70b96fc40e171b1edd78d600f429ddaf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/35e24439d71ced4ff006600c5b9c4178.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ma\u0142e dziewczynki lec\u0105 na cukierki, niezale\u017cnie od miejsca i epoki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d44b0b304de147756c14dbcfec731aa2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Victorique przyznaj\u0105ca, \u017ce jest w czym\u015b s\u0142absza? Co si\u0119 z tym \u015bwiatem dzieje...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3097bbe9c78405d9cf1e28075966488b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3a2b4a191d7031a4386b220390332ed9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Victorique zobaczy\u0142a Kujo i jego \"trzeciego syna oficera armii imperialnej\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b388eae35089068ba3289737b8d89128.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d4a90aff9b46cb9311d2ecbfc8778d2f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eee08cae30afa8473e9443f2fd131b68.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kujo, I am disappoint",
+            "filename": "http://s.modriv.net/abp/images/screencaps/620ed89cc6406914a277720e128ce648.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Victoriki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f965bb5f1a84f2f335611fe7907925c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5bbd2d6fe4f91c98d9bf9955ea667822.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ian, mimo szczerych stara?, raczej nie zda podstawy z chemii",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ebdd5a60e857104b863ea7847690eb3d.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Victoriki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e76637df623e7855bf822ae44def9149.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Victoriki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96c3b55e22d0958d7ffc40d8dff3af3e.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Victoriki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c9578223da82350cb33aa139dd1f5892.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4735d24670ab29a2507a67dca617644.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7b0350469e94a369133cfe5c0e681649.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3a10cc58985dccd37369734ed97dba5f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e984afe83a5870456532869207dec87d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8c7fcf5b055acee5cdc2f498fb7eb2ee.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ae93bd211ef15d71465fbd9846d0e7d.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Victoriki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0607748ca285f05c787b7d34bae61975.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/345453b8fbf22166453bfd2f857ff094.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f700173b7394846001f9505322eb89f4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/adfb4f95f16bfd4a124546a4d56f1462.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4a70b6dec983cd14562a60d90ba8c17d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/55857daf22002059331f4fcef5b5180a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f34ef5cf5d7a3d5d57328f4c0b4e7941.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Victoriki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8400f5c3987f6b736ffa375d8dc22a66.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9a9041d6024c64ad7458409ef213f2a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c9a46bb366e658a1d56a3f010c2e2f6c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75829c4cee3a62fd9fc37efb973fd919.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c642098449b0c47b6055829a3b8301d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/afbe059fef86c9ec6cdcd50491d5d40d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/feab011aba800869adc780e1d5be9604.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Victoriki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/401913480f5ae2b9ade1921f1641d127.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mo?esz zacz?? si? ba?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f33b23e17ff969a94ca52ba321e1edac.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/874d15968767e232e68a11d2c207b158.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c9cb20f2f1edc0e2b1d0fae168e61566.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Victoriki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d568310d995883946f601e9da5aadce7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/74881adbd68c035534d3e4383697f023.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/81b6ada3b3f67e81e78646c846c14a02.jpg",
+            "hd": false
+        },
+        {
+            "description": "A to akurat nie Victorique",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c725565e27a6aadd0f734ceb7b4af51.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/524f41193c80234154bddb3461b419ba.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2011 Gosick (????) - nasza ocena: warte obejrzenia (wi?cej: http://rdir.pl/15i337)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/085f398961f47cd7c8f986f7e1b8add9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e9dcfae58038425482e75d697dcb2e7.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Japo\u0144ski m\u0142odzieniec trafia do szko\u0142y dla arystokrat\u00f3w gdzie\u015b mi\u0119dzy Francj\u0105 a W\u0142ochami. Poznaje tam z\u0142otow\u0142os\u0105 niewiast\u0119 o prezencji lalki, z kt\u00f3r\u0105 sp\u0119dza czas na rozwi\u0105zywaniu kryminalnych zagadek Sauville, przy kt\u00f3rych nawet Horatio C. by wymi\u0119k\u0142.",
+            "type": "abp"
+        },
+        {
+            "content": "The year is 1924, the place, Sauville, a small European country neatly tucked beside the Alps...    Kazuya Kujo has been studying abroad at the prestigious Saint Marguerite Academy, where urban legends and horror stories are all the rage. Most Kazuya ignores but the story of the Queen Berry, a mysterious ghost ship, really gets to him. Of course, his brainy friend Victorique is much more intrigued by true stories, and she uses her unrivaled logic to solve mysteries even the town&#039;s famous detective can&#039;t. Ironically, it is Victorique&#039;s inquisitive nature that leads the duo to board a ship that matches the Queen Berry&#039;s description to a tee, a ship that might just hold the key to solving a sinister mystery...    (Source: Tokyopop)",
+            "type": "mal"
+        },
+        {
+            "content": "Gosick takes place in 1924 in a small, fictional French-speaking European country of Saubure. The story centres on Kujou Kazuya, the third son of a Japanese Imperial soldier, who is a transfer student to St. Marguerite Academy, where urban legends and horror stories are all the rage. There he meets Victorique, a mysterious yet beautiful and brilliant girl who never comes to class and spends her days reading the entire content of the library or solving mysteries that even detectives can't solve. The series mostly focuses on Kazuya and Victorique getting involved in different mystery cases and their struggle to solve them, at the same time forming important bonds with different people.Note: The first episode screened at a special event on 27.12.2010 for 300 lucky fans who were chosen via lottery. The first televised airing took place on 08.01.2011.",
+            "type": "anidb"
+        },
+        {
+            "content": "GOSICK takes place in 1924 in a small, made-up European country of Sauville. The story centers on Kazuya Kujo, the third son of a Japanese Imperial soldier, who is a transfer student to St. Marguerite Academy, where urban legends and horror stories are all the rage. There he meets Victorique, a mysterious yet beautiful and brilliant girl who never comes to class and spends her days reading the entire content of the library or solving mysteries that even detectives can't solve.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 31776,
+            "date": "2012-09-29T12:56:20",
+            "score": 8.29,
+            "type": "mal"
+        },
+        {
+            "count": 2056,
+            "date": "2012-09-29T12:56:20",
+            "score": 7.96,
+            "type": "anidb"
+        },
+        {
+            "count": 1633,
+            "date": "2012-09-29T12:56:20",
+            "score": 8.27,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Gosick"
+}

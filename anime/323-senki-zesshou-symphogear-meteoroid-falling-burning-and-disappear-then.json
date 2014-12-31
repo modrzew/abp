@@ -1,0 +1,752 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2 Meteoroid-falling, burning, and disappear, then..."
+        },
+        {
+            "language": "pl",
+            "title": "Epopeja Bitewnych Ksi\u0119\u017cniczek Symfobieg: Meteroidospadanie, palenie i znikanie, a potem..."
+        }
+    ],
+    "aliases": [
+        "Senki Zesshou Symphogear",
+        "Senki Zessho Symphogear"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/890062361",
+            "content": "#anime #Zima2012 Senki Zesshou Symphogear (\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2) http://rdir.pl/1mfy22",
+            "episode": 1,
+            "filename": "85beace7215f71acb99976c7fc843b9f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/157909362042605568"
+        },
+        {
+            "blip_url": "http://blip.pl/s/891038625",
+            "content": "Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then... 02 - zwyk\u0142y dzie\u0144 pracownik\u00f3w tajnej organizacji",
+            "episode": 2,
+            "filename": "8c397f9c39303db470255497dd9c1766.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/159091041478250496"
+        },
+        {
+            "blip_url": "http://blip.pl/s/904722201",
+            "content": "Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then... 03 - Gaga? W mojej chi\u0144skiej bajce?!",
+            "episode": 3,
+            "filename": "db652715ecfe9d7dd9345c8e2fff40c6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161244710806106112"
+        },
+        {
+            "blip_url": "http://blip.pl/s/936019976",
+            "content": "Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then... 04 - znalaz\u0142a camripa tej s\u0142ynnej kin\u00f3wki",
+            "episode": 4,
+            "filename": "242fbac0e281e87256dca9684e7ad3b0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/165423628199006208"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-06T15:30:00",
+            "episode": 1,
+            "score": 7.4411996713,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 01 [E6264EDD].mkv",
+                    "group": "Commie",
+                    "hash": "E6264EDD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274509",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 2,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 01 [8bit][E5DC47D2].mkv",
+                    "group": "GetWet",
+                    "hash": "E5DC47D2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274528",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 2,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 01 [10bit][56B4567E].mkv",
+                    "group": "GetWet",
+                    "hash": "56B4567E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274529",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[GetWet-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 01 [GetWet-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275882",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-13T15:30:00",
+            "episode": 2,
+            "score": 7.1777688654,
+            "torrents": [
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ayako] Senki Zesshou Symphogear - 02 [720p][H264][6CBC447F].mkv",
+                    "group": "Ayako",
+                    "hash": "6CBC447F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277331",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ayako] Senki Zesshou Symphogear - 02v2 [720p][H264][F1F0B00A].mkv",
+                    "group": "Ayako",
+                    "hash": "F1F0B00A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277517",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-01-20T15:30:00",
+            "episode": 3,
+            "score": 7.0379243584,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Senki_Zessho_Symphogear_-_03_[4A5F96EB].mkv",
+                    "group": "gg",
+                    "hash": "4A5F96EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278203",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 03 [5AFE6337].mkv",
+                    "group": "Commie",
+                    "hash": "5AFE6337",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 03 [8bit][D6E14399].mkv",
+                    "group": "GetWet",
+                    "hash": "D6E14399",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278572",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 03 [10bit][0B9AF94B].mkv",
+                    "group": "GetWet",
+                    "hash": "0B9AF94B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278571",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[GetWet-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 03 [GetWet-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278794",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 0,
+                    "filename": "[Ayako] Senki Zesshou Symphogear - 03 [720p][H264][AE6FDFC6].mkv",
+                    "group": "Ayako",
+                    "hash": "AE6FDFC6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283172",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-27T15:30:00",
+            "episode": 4,
+            "score": 6.9768567404,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 04 [0EBAA899].mkv",
+                    "group": "Commie",
+                    "hash": "0EBAA899",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280867",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 1,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 04 [8bit][6209FCFB].mkv",
+                    "group": "GetWet",
+                    "hash": "6209FCFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 04 [10bit][6CC5D4EA].mkv",
+                    "group": "GetWet",
+                    "hash": "6CC5D4EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281760",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[GetWet-Modified][10bit]",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 04 [GetWet-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281785",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-03T15:30:00",
+            "episode": 5,
+            "score": 6.9397309417,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 05 [1F6598DE].mkv",
+                    "group": "Commie",
+                    "hash": "1F6598DE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283656",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 05 [8bit][5D6FA24A].mkv",
+                    "group": "GetWet",
+                    "hash": "5D6FA24A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285658",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 05 [10bit][765D59A4].mkv",
+                    "group": "GetWet",
+                    "hash": "765D59A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285659",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[GetWet-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 05 [GetWet-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285713",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-10T15:30:00",
+            "episode": 6,
+            "score": 6.9072234483,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 06 [769E643A].mkv",
+                    "group": "Commie",
+                    "hash": "769E643A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286300",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Commie-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 06 [Commie-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288268",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 06v2 [8bit][EDB6FDE8].mkv",
+                    "group": "GetWet",
+                    "hash": "EDB6FDE8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291995",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 06v2 [10bit][5F89186B].mkv",
+                    "group": "GetWet",
+                    "hash": "5F89186B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291996",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-02-17T15:30:00",
+            "episode": 7,
+            "score": 6.877235256,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 07 [8367C06A].mkv",
+                    "group": "Commie",
+                    "hash": "8367C06A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Commie-Modified][10bit]",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 07 [Commie-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288361",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 07 [10bit][656AC9FF].mkv",
+                    "group": "GetWet",
+                    "hash": "656AC9FF",
+                    "url": "http://tracker.minglong.org/torrents/%5BGetWet%5D%20Senki%20Zesshou%20Symphogear%20-%2007%20%5B10bit%5D%5B656AC9FF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 07 [8bit][28F582F1].mkv",
+                    "group": "GetWet",
+                    "hash": "28F582F1",
+                    "url": "http://tracker.minglong.org/torrents/%5BGetWet%5D%20Senki%20Zesshou%20Symphogear%20-%2007%20%5B8bit%5D%5B28F582F1%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-24T15:30:00",
+            "episode": 8,
+            "score": 6.8536784943,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 08 [330D9D2F].mkv",
+                    "group": "Commie",
+                    "hash": "330D9D2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290484",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Commie-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 08 [Commie-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290500",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 08 [8bit][6EC4AA52].mkv",
+                    "group": "GetWet",
+                    "hash": "6EC4AA52",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296851",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 08 [10bit][EF01D546].mkv",
+                    "group": "GetWet",
+                    "hash": "EF01D546",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296852",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-02T15:30:00",
+            "episode": 9,
+            "score": 6.824608,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 09 [5E45CC81].mkv",
+                    "group": "Commie",
+                    "hash": "5E45CC81",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293046",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Commie-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 09 [Commie-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293124",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 09 [8bit][335C14D6].mkv",
+                    "group": "GetWet",
+                    "hash": "335C14D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302421",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 09 [10bit][7561BB01].mkv",
+                    "group": "GetWet",
+                    "hash": "7561BB01",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302422",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-09T15:30:00",
+            "episode": 10,
+            "score": 6.80127897,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 10 [945EE87C].mkv",
+                    "group": "Commie",
+                    "hash": "945EE87C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294813",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Commie-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 10 [Commie-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295045",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 10 [10bit][D54EBD32].mkv",
+                    "group": "GetWet",
+                    "hash": "D54EBD32",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302805",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 10 [8bit][2EF48199].mkv",
+                    "group": "GetWet",
+                    "hash": "2EF48199",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302804",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-16T15:30:00",
+            "episode": 11,
+            "score": 6.7791657519,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 11 [65F220B4].mkv",
+                    "group": "Commie",
+                    "hash": "65F220B4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Commie-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 11 [Commie-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296918",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 1,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 11 [8bit][130C429A].mkv",
+                    "group": "GetWet",
+                    "hash": "130C429A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 11 [10bit][627D1E8E].mkv",
+                    "group": "GetWet",
+                    "hash": "627D1E8E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312908",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-23T15:30:00",
+            "episode": 12,
+            "score": 6.758121466,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 12 [350D0B60].mkv",
+                    "group": "Commie",
+                    "hash": "350D0B60",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298847",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Commie-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 12 [Commie-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 12 [8bit][CBE18D09].mkv",
+                    "group": "GetWet",
+                    "hash": "CBE18D09",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323553",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 12 [10bit][750CC19E].mkv",
+                    "group": "GetWet",
+                    "hash": "750CC19E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323554",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-30T16:30:00",
+            "episode": 13,
+            "score": 6.7519610759,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Senki Zesshou Symphogear - 13 [AD8672BC].mkv",
+                    "group": "Commie",
+                    "hash": "AD8672BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301343",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Commie-Modified][10bit]",
+                    "download_count": 0,
+                    "filename": "[ReinWeiss] Senki Zesshou Symphogear - 13 [Commie-Modified][10bit].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301390",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 13 [8bit][6CD279AE].mkv",
+                    "group": "GetWet",
+                    "hash": "6CD279AE",
+                    "url": "http://tracker.minglong.org/torrents/%5BGetWet%5D%20Senki%20Zesshou%20Symphogear%20-%2013%20%5B8bit%5D%5B6CD279AE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[GetWet] Senki Zesshou Symphogear - 13 [10bit][610D062F].mkv",
+                    "group": "GetWet",
+                    "hash": "610D062F",
+                    "url": "http://tracker.minglong.org/torrents/%5BGetWet%5D%20Senki%20Zesshou%20Symphogear%20-%2013%20%5B10bit%5D%5B610D062F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8709,
+        "ann": 13659,
+        "mal": 11751,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "g\u0142\u00f3wna loli bohaterka...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bba11610a36b6d25423d315e4a0d28ed.jpg",
+            "hd": false
+        },
+        {
+            "description": "...i jej \"nieco\" inna forma",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6c975dd03a94eece2f80f6ac2ba18f54.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/15bcaf99082ec9da3b1d7ae6c9ea3c40.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9ca2f1a9c08684826686f9be5ba3704d.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u017ali kosmici - strach si\u0119 ba\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0842c0def353ff8f96790647dfc8796d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1f9fdfe13fc1423ffc5f2871771aa874.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bacacdbe7f0d4fdfff3fc2033a5136a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c110ca1d91c1eca529487ab5a24d51c7.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Senki Zesshou Symphogear (\u6226\u59eb\u7d76\u5531\u30b7\u30f3\u30d5\u30a9\u30ae\u30a2) http://rdir.pl/1mfy22",
+            "filename": "http://s.modriv.net/abp/images/screencaps/85beace7215f71acb99976c7fc843b9f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Gate of Babylon",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ab037056a95db3c6e7ef82b63ba27db5.jpg",
+            "hd": false
+        },
+        {
+            "description": "nawet idolki wygl\u0105daj\u0105 lepiej na tle eksplozji",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b583c175d01e2b50d78a8ff77965d114.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ebaebd7febad461958aa6d59de981786.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1040eab1c283eb8a7f0469a062491674.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6a023049f72ae50348207347a9d05fac.jpg",
+            "hd": false
+        },
+        {
+            "description": "zwyk\u0142y dzie\u0144 pracownik\u00f3w tajnej organizacji",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8c397f9c39303db470255497dd9c1766.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1878ce149d914636464541070929a172.jpg",
+            "hd": false
+        },
+        {
+            "description": "Gaga? W mojej chi\u0144skiej bajce?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db652715ecfe9d7dd9345c8e2fff40c6.jpg",
+            "hd": false
+        },
+        {
+            "description": "znalaz\u0142a camripa tej s\u0142ynnej kin\u00f3wki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/242fbac0e281e87256dca9684e7ad3b0.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Para idolek ratuje \u015bwiat przed kosmitami u\u017cywaj\u0105c broni o nazwie Symphogear.",
+            "type": "abp"
+        },
+        {
+            "content": "Since the dawn of time, humanity has been threatened by the disaster called Noise. When it occurs, people die, and there are no countermeasures. Except one...The top-secret Symphogear System, capable of eliminating Noise, has been deployed in Japan. Unknown to the general public, a pair of girls wielding Symphogears strive relentless to protect society from the ravages of Noise. It would surprise people even more to know that their protectors are none other than chart-topping singing duo Zwei Wing: Amou Kanade and Kazanari Tsubasa.Tachibana Hibiki and Kohinata Miku are two normal girls just enrolling in Lydian Private Music Academy. There, they meet Tsubasa and become involved in the struggle against Noise.~ translated and adapted from official site by CranstonNote: The first episode received a premiere airing on Monday, December 26, 2011 at Shinjuku Milano 1 in Tokyo. It was limited to 1000 people. The deadline for application was December 02, 2011. The regular television airing started on January 6, 2012.",
+            "type": "anidb"
+        },
+        {
+            "content": "Two years ago, a pair of idols, Tsubasa Kazanari and Kanade Am\u014d, collectively known as ZweiWing, fought against an alien race known as Noise using armor known as Symphogear. To protect a girl named Hibiki Tachibana, who got severely wounded by the Noise, Kanade sacrificed herself. Two years later, as Tsubasa has fought the Noise alone, Hibiki ends up gaining the same power as Kanade.",
+            "type": "ann"
+        },
+        {
+            "content": "Two years ago, a pair of idols, Tsubasa Kazanari and Kanade Amou, collectively known as ZweiWing, fought against an alien race known as Noise using armor known as Symphogear. To protect a girl named Hibiki Tachibana, who got severely wounded by the Noise, Kanade sacrificed herself. Two years later, as Tsubasa has fought the Noise alone, Hibiki ends up gaining the same power as Kanade.  (Source: ANN/Wikipedia)",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 6416,
+            "date": "2012-09-29T14:03:05",
+            "score": 6.7,
+            "type": "mal"
+        },
+        {
+            "count": 468,
+            "date": "2012-09-29T14:03:05",
+            "score": 6.09,
+            "type": "anidb"
+        },
+        {
+            "count": 275,
+            "date": "2012-09-29T14:03:05",
+            "score": 6.776,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Senki Zesshou Symphogear: Meteoroid-Falling, Burning, and Disappear, Then..."
+}

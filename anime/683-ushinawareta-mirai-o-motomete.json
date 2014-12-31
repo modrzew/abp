@@ -1,0 +1,542 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5931\u308f\u308c\u305f\u672a\u6765\u3092\u6c42\u3081\u3066"
+        }
+    ],
+    "aliases": [
+        "Ushinawareta Mirai wo Motomete",
+        "Ushinawareta Mirai o Motomete"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-10-04T13:30:00",
+            "episode": 1,
+            "score": 5.74,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=605356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=605357",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Penguin] Ushinawareta Mirai wo Motomete - 01 [3830317A].mkv",
+                    "group": "Penguin",
+                    "hash": "3830317A",
+                    "url": "http://www.nyaa.se/?page=download&tid=605915",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Waku-Oyatsu] Ushinawareta Mirai wo Motomete - 01 (1280x720 10bit h264 AAC) [31B67767].mkv",
+                    "group": "Waku-Oyatsu",
+                    "hash": "31B67767",
+                    "url": "http://tracker.minglong.org/torrents/%5BWaku-Oyatsu%5D%20Ushinawareta%20Mirai%20wo%20Motomete%20-%2001%20(1280x720%2010bit%20h264%20AAC)%20%5B31B67767%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(Project-gxs)_Ushinawareta_Mirai_o_Motomete_-_01_(10bit_720p).mkv",
+                    "group": "Project-gxs",
+                    "hash": "",
+                    "url": "http://www.anirena.com/dl/11213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=611031",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Penguin] Ushinawareta Mirai wo Motomete - 01v2 [720p][CC4BDA7D].mkv",
+                    "group": "Penguin",
+                    "hash": "CC4BDA7D",
+                    "url": "http://www.nyaa.se/?page=download&tid=613424",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-10-11T13:30:00",
+            "episode": 2,
+            "score": 5.5,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=608297",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=608299",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Waku-Oyatsu] Ushinawareta Mirai wo Motomete - 02 (1280x720 10bit h264 AAC) [F779D696].mkv",
+                    "group": "Waku-Oyatsu",
+                    "hash": "F779D696",
+                    "url": "http://tracker.minglong.org/torrents/%5BWaku-Oyatsu%5D%20Ushinawareta%20Mirai%20wo%20Motomete%20-%2002%20(1280x720%2010bit%20h264%20AAC)%20%5BF779D696%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=611032",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(Project-gxs)_Ushinawareta_Mirai_o_Motomete_-_02_(10bit_720p).mkv",
+                    "group": "Project-gxs",
+                    "hash": "",
+                    "url": "http://www.anirena.com/dl/11460",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Penguin] Ushinawareta Mirai wo Motomete - 02 [720p][3AA65DFB].mkv",
+                    "group": "Penguin",
+                    "hash": "3AA65DFB",
+                    "url": "http://www.nyaa.se/?page=download&tid=613425",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-18T13:30:00",
+            "episode": 3,
+            "score": 5.38,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=611264",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=611266",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=611267",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Penguin] Ushinawareta Mirai wo Motomete - 03 [720p][99F61317].mkv",
+                    "group": "Penguin",
+                    "hash": "99F61317",
+                    "url": "http://www.nyaa.se/?page=download&tid=616039",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Ushinawareta Mirai wo Motomete - 03 (1280x720 10bit h264 AAC) [FB01D610].mkv",
+                    "group": "Oyatsu",
+                    "hash": "FB01D610",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Ushinawareta%20Mirai%20wo%20Motomete%20-%2003%20(1280x720%2010bit%20h264%20AAC)%20%5BFB01D610%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-25T13:30:00",
+            "episode": 4,
+            "score": 5.37,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=614876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=614877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=614878",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-01T12:30:00",
+            "episode": 5,
+            "score": 5.3,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=618093",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=618094",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=618096",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-08T12:30:00",
+            "episode": 6,
+            "score": 5.31,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=621019",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=621021",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=624721",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-15T12:30:00",
+            "episode": 7,
+            "score": 5.32,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623720",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-22T12:30:00",
+            "episode": 8,
+            "score": 5.29,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=626195",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=626196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=626197",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-29T12:30:00",
+            "episode": 9,
+            "score": 5.25,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=628870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=628871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=628872",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-06T12:30:00",
+            "episode": 10,
+            "score": 5.18,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=631603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=631602",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=631604",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-13T12:30:00",
+            "episode": 11,
+            "score": 5.17,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=634212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=634211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=634213",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-20T12:30:00",
+            "episode": 12,
+            "score": 5.38,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=636674",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=636673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ushinawareta Mirai wo Motomete - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=636672",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10372,
+        "ann": 16169,
+        "mal": 21845,
+        "schedule": 3522
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Ushinawareta Mirai o Motomete is set in Uchihama Academy (\u5185\u6d5c\u5b66\u5712, Uchihama Gakuen?) and with the number of new students at the school increasing every year, a new school building is constructed. Before they move to the new building, the school will hold one last General Club Festival at the old building before it is closed down. Each of the clubs decide to give it their all to make it a success. S\u014d Akiyama is a member of the astronomy club, and just before the festival is to begin, the student executive committee asks the club's members to calm the uneasiness among the students in regard to mysterious incidents at the old building.",
+            "type": "wiki"
+        },
+        {
+            "content": "Uchihama Academy is growing by leaps and bounds. With the construction of a new school building, there will be one last General Club Festival at the old building that is slated to be closed. The students vow to go all out to make this final cultural festival a success.The Astronomy Club of which Akiyama Sou is a member is filled with the big names on campus. Just before the festival on October 1, the club receives a request from the student executive committee to calm the uneasiness among the students. There are reports of ghost sightings, accidents, sleeping sickness, and other mysterious incidents at the old building. When Furukawa Yui, a quiet girl who transferred late into the school, appears before Sou, the gears of fate slowly begin to move.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "The Astronomy Club of the protagonist Sou Akiyama is filled with the big names on campus. Just before the festival on October 1, the club receives a request from the student executive committee to calm the uneasiness among the students. There are reports of ghost sightings, accidents, sleeping sickness, and other mysterious incidents at the old building. When Yui Furukawa, a quiet girl who transferred late into the school, appears before Sou, the gears of fate slowly begin to move.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 158,
+            "date": "2014-12-31T03:10:26",
+            "score": 5.38,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Ushinawareta Mirai o Motomete"
+}

@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d0\u30b9\u30ab\u30c3\u30b7\u30e5\uff01"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6255,
+        "ann": 10545,
+        "mal": 5675,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "On the planet Earthdash, its inhabitants gaze on its moon and the technologically advanced lunar city of Mooneyes with awe. Dan JD, a boy living in Rollingtown on Earthdash's surface, gets caught up in Bigfoot Basketball \u2014 a fast-paced sport played with giant Bigfoot robots.",
+            "type": "anidb"
+        },
+        {
+            "content": "On the planet Earthdash, its inhabitants gaze on its moon and the technologically advanced lunar city of Mooneyes with awe. Dan JD, a boy living in Rollingtown on Earthdash&rsquo;s surface, gets caught up in Bigfoot Basketball &mdash; a fast-paced sport played with giant Bigfoot robots.    (Source: AniDB)",
+            "type": "mal"
+        },
+        {
+            "content": "On the planet Earthdash, its inhabitants gaze on its moon and the technologically advanced lunar city of Mooneyes with awe. Dan JD, a boy living in Rollingtown on Earthdash\u2019s surface, gets caught up in Bigfoot Basketball\u2014a fast-paced sport played with giant Bigfoot robots.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7917,
+            "date": "2012-09-29T02:18:20",
+            "score": 7.48,
+            "type": "mal"
+        },
+        {
+            "count": 1061,
+            "date": "2012-09-29T02:18:20",
+            "score": 7.34,
+            "type": "anidb"
+        },
+        {
+            "count": 632,
+            "date": "2012-09-29T02:18:20",
+            "score": 7.276,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Basquash!"
+}

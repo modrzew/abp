@@ -1,0 +1,53 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6dbc\u5bae\u30cf\u30eb\u30d2\u306e\u6182\u9b31 (2009)"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 28,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6367,
+        "ann": 10924,
+        "mal": 4382,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Ekranizacja kolejnych przyg\u00f3d pewnego dziewcz\u0119cia, kt\u00f3re ma moc zmieniania \u015bwiata.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 53121,
+            "date": "2012-09-29T02:06:15",
+            "score": 7.25,
+            "type": "mal"
+        },
+        {
+            "count": 3047,
+            "date": "2012-09-29T02:06:15",
+            "score": 7.0,
+            "type": "anidb"
+        },
+        {
+            "count": 2861,
+            "date": "2012-09-29T02:06:15",
+            "score": 7.156,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "The Melancholy of Haruhi Suzumiya",
+    "title": "The Melancholy of Haruhi Suzumiya (2009)"
+}

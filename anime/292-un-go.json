@@ -1,0 +1,822 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30f3 \u30b4"
+        },
+        {
+            "language": "pl",
+            "title": "NIE-ID\u0179"
+        }
+    ],
+    "aliases": [
+        "UN-GO"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/0",
+            "content": "#anime #Jesie\u01442011 Un-Go (\u30a2\u30f3 \u30b4) http://rdir.pl/1ltsk8",
+            "episode": 1,
+            "filename": "aa6e22e5b2c109970ba3f9e0c6a62730.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-13T17:45:00",
+            "episode": 1,
+            "score": 7.41,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] UN-GO - 01v2 (1280x720 h264 AAC) [7CA9214F].mkv",
+                    "group": "Doki",
+                    "hash": "7CA9214F",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_01v2_1280x720_h264_AAC_7CA9214F.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] UN-GO - 01v2 (848x480 h264 AAC) [A64371DE].mkv",
+                    "group": "Doki",
+                    "hash": "A64371DE",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_01v2_848x480_h264_AAC_A64371DE.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AFP-Diogo4D] UN-GO 01 [A83D3DA7].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "A83D3DA7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254147",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-20T17:45:00",
+            "episode": 2,
+            "score": 7.36,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] UN-GO - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254103",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] UN-GO - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254105",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] UN-GO - 02 (1280x720 h264 AAC) [3A254285].mkv",
+                    "group": "Doki",
+                    "hash": "3A254285",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_02_1280x720_h264_AAC_3A254285.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] UN-GO - 02 (848x480 h264 AAC) [35D40CE5].mkv",
+                    "group": "Doki",
+                    "hash": "35D40CE5",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_02_848x480_h264_AAC_35D40CE5.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 2,
+                    "filename": "[CCS-Hadena] Un-Go - 02 [HD][11EFA5FC].mkv",
+                    "group": "CCS-Hadena",
+                    "hash": "11EFA5FC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] UN-GO - 02 [DE7B01FD].mkv",
+                    "group": "Commie",
+                    "hash": "DE7B01FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254442",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AFP-Diogo4D] UN-GO 02 [35F6C040].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "35F6C040",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255366",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-27T17:45:00",
+            "episode": 3,
+            "score": 7.3018798151,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] UN-GO - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255780",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] UN-GO - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] UN-GO - 03 (1280x720 h264 AAC) [505CEA43].mkv",
+                    "group": "Doki",
+                    "hash": "505CEA43",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_03_1280x720_h264_AAC_505CEA43.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] UN-GO - 03 (848x480 h264 AAC) [11A8DEAE].mkv",
+                    "group": "Doki",
+                    "hash": "11A8DEAE",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_03_848x480_h264_AAC_11A8DEAE.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] UN-GO - 03 [7B35AB88].mkv",
+                    "group": "Commie",
+                    "hash": "7B35AB88",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256927",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AFP-Diogo4D] UN-GO 03 [86EB773D].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "86EB773D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259345",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-03T16:45:00",
+            "episode": 4,
+            "score": 7.3423618922,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] UN-GO - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] UN-GO - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257593",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] UN-GO - 04 (1280x720 h264 AAC) [5D43EC86].mkv",
+                    "group": "Doki",
+                    "hash": "5D43EC86",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_04_1280x720_h264_AAC_5D43EC86.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] UN-GO - 04 (848x480 h264 AAC) [479FDE8A].mkv",
+                    "group": "Doki",
+                    "hash": "479FDE8A",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_04_848x480_h264_AAC_479FDE8A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] UN-GO - 04 [0EAFA820].mkv",
+                    "group": "Commie",
+                    "hash": "0EAFA820",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AFP-Diogo4D] UN-GO 04 [B31B1DF9].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "B31B1DF9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261044",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-10T16:45:00",
+            "episode": 5,
+            "score": 7.3438376828,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] UN-GO - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259304",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] UN-GO - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259305",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] UN-GO - 05 (1280x720 h264 AAC) [335D98E2].mkv",
+                    "group": "Doki",
+                    "hash": "335D98E2",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_05_1280x720_h264_AAC_335D98E2.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] UN-GO - 05 (848x480 h264 AAC) [FE83C016].mkv",
+                    "group": "Doki",
+                    "hash": "FE83C016",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_05_848x480_h264_AAC_FE83C016.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] UN-GO - 05 [C98642CE].mkv",
+                    "group": "Commie",
+                    "hash": "C98642CE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260944",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[AFP-Diogo4D] UN-GO 05 [5514A9EB].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "5514A9EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262837",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-17T16:45:00",
+            "episode": 6,
+            "score": 7.3840675997,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] UN-GO - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] UN-GO - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260833",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Doki] UN-GO - 06 (1280x720 h264 AAC) [045ADDB8].mkv",
+                    "group": "Doki",
+                    "hash": "045ADDB8",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_06_1280x720_h264_AAC_045ADDB8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] UN-GO - 06 (848x480 h264 AAC) [07653E3D].mkv",
+                    "group": "Doki",
+                    "hash": "07653E3D",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_06_848x480_h264_AAC_07653E3D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] UN-GO - 06 [6ED16DB2].mkv",
+                    "group": "Commie",
+                    "hash": "6ED16DB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263825",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[AFP-Diogo4D] UN-GO 06 [06881FCB].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "06881FCB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264004",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-24T16:45:00",
+            "episode": 7,
+            "score": 7.3983600594,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] UN-GO - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262502",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] UN-GO - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262503",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[CR-Alesianduke] UN-GO - 07v2 [720p].mkv",
+                    "group": "CR-Alesianduke",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262675",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] UN-GO - 07 (1280x720 h264 AAC) [4921427B].mkv",
+                    "group": "Doki",
+                    "hash": "4921427B",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_07_1280x720_h264_AAC_4921427B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] UN-GO - 07 (848x480 h264 AAC) [E88CA6F0].mkv",
+                    "group": "Doki",
+                    "hash": "E88CA6F0",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_07_848x480_h264_AAC_E88CA6F0.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubsXtreme] UN-GO - 07 [720p].mkv",
+                    "group": "HorribleSubsXtreme",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262552",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] UN-GO - 07 [17C817D0].mkv",
+                    "group": "Commie",
+                    "hash": "17C817D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AFP-Diogo4D] UN-GO 07 [D8A2276C].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "D8A2276C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293675",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-01T16:45:00",
+            "episode": 8,
+            "score": 7.4208775223,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] UN-GO - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] UN-GO - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264219",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Un-Go - 08 [1280x720 x264 AAC][3B278BBE].mkv",
+                    "group": "Hadena",
+                    "hash": "3B278BBE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Un-Go%20-%2008%20%5B1280x720%20x264%20AAC%5D%5B3B278BBE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] UN-GO - 08 (1280x720 h264 AAC) [DDADDC76].mkv",
+                    "group": "Doki",
+                    "hash": "DDADDC76",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_08_1280x720_h264_AAC_DDADDC76.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] UN-GO - 08 (848x480 h264 AAC) [C1C498AF].mkv",
+                    "group": "Doki",
+                    "hash": "C1C498AF",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_08_848x480_h264_AAC_C1C498AF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] UN-GO - 08 [156BE415].mkv",
+                    "group": "Commie",
+                    "hash": "156BE415",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AFP-Diogo4D] UN-GO 08 [2333A6A5].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "2333A6A5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300198",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-08T16:45:00",
+            "episode": 9,
+            "score": 7.4500154902,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] UN-GO - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266329",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] UN-GO - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Un-Go - 09 [1280x720 x264 AAC][22854DA2].mkv",
+                    "group": "Hadena",
+                    "hash": "22854DA2",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Un-Go%20-%2009%20%5B1280x720%20x264%20AAC%5D%5B22854DA2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] UN-GO - 09 (1280x720 h264 AAC) [B1F23FCC].mkv",
+                    "group": "Doki",
+                    "hash": "B1F23FCC",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_09_1280x720_h264_AAC_B1F23FCC.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] UN-GO - 09 (848x480 h264 AAC) [5A5706C4].mkv",
+                    "group": "Doki",
+                    "hash": "5A5706C4",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_09_848x480_h264_AAC_5A5706C4.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] UN-GO - 09 [A118633E].mkv",
+                    "group": "Commie",
+                    "hash": "A118633E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267754",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] UN-GO - 09v2 (1280x720 h264 AAC) [46FA3332].mkv",
+                    "group": "Doki",
+                    "hash": "46FA3332",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_09v2_1280x720_h264_AAC_46FA3332.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] UN-GO - 09v2 (848x480 h264 AAC) [E9E6D2D8].mkv",
+                    "group": "Doki",
+                    "hash": "E9E6D2D8",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_09v2_848x480_h264_AAC_E9E6D2D8.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-12-15T16:45:00",
+            "episode": 10,
+            "score": 7.4600978786,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] UN-GO - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268685",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] UN-GO - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268686",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Un-Go - 10 [1280x720 x264 AAC][BF7978FB].mkv",
+                    "group": "Hadena",
+                    "hash": "BF7978FB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Un-Go%20-%2010%20%5B1280x720%20x264%20AAC%5D%5BBF7978FB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] UN-GO - 10 (1280x720 h264 AAC) [E22EA6EF].mkv",
+                    "group": "Doki",
+                    "hash": "E22EA6EF",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_10_1280x720_h264_AAC_E22EA6EF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] UN-GO - 10 (848x480 h264 AAC) [A0136F18].mkv",
+                    "group": "Doki",
+                    "hash": "A0136F18",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_10_848x480_h264_AAC_A0136F18.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] UN-GO - 10 [D34808C1].mkv",
+                    "group": "Commie",
+                    "hash": "D34808C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270397",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-22T16:45:00",
+            "episode": 11,
+            "score": 7.6448418992,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] UN-GO - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270566",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] UN-GO - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[CCS]UN-GO_-_11-End[720p] [4FC8D3AB].mkv",
+                    "group": "CCS",
+                    "hash": "4FC8D3AB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270682",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Un-Go - 11 END [1280x720 x264 AAC][4C5A4DD7].mkv",
+                    "group": "Hadena",
+                    "hash": "4C5A4DD7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] UN-GO - 11 [287891DE].mkv",
+                    "group": "Commie",
+                    "hash": "287891DE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271436",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] UN-GO - 11 (1280x720 h264 AAC) [EDAB84C0].mkv",
+                    "group": "Doki",
+                    "hash": "EDAB84C0",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_11_1280x720_h264_AAC_EDAB84C0.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] UN-GO - 11 (848x480 h264 AAC) [0BA3E243].mkv",
+                    "group": "Doki",
+                    "hash": "0BA3E243",
+                    "url": "http://tracker.anime-index.org/Doki_UN-GO_-_11_848x480_h264_AAC_0BA3E243.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 11,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8485,
+        "ann": 13002,
+        "mal": 10798,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "#anime #Jesie\u01442011 Un-Go (\u30a2\u30f3 \u30b4) http://rdir.pl/1ltsk8",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aa6e22e5b2c109970ba3f9e0c6a62730.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fba65ad80a1c0a045fe2375ce948bb0a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad45eb9a2d796315dc4e7e0d41f90ccc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/77101f964c348baa3626f0b75df4df6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/71c619278cc1ab22093f249f8e67baf9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/517f9817a39796d5bca4fbb9ac26918d.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Yuuki i Inga wsp\u00f3\u0142pracuj\u0105 w celu rozwi\u0105zania zagadek, kt\u00f3re nastapi\u0105 w najbli\u017cszej przysz\u0142o\u015bci.",
+            "type": "abp"
+        },
+        {
+            "content": "* Loosely adapted from Sakaguchi Ango's novel Meiji Kaika Ango Torimonochou.A full-fledged detective story about a detective and handsome boy combo who tackle the world's most difficult crimes together for reasons of their own. The profession of private detective fell out of favor long ago, and yet, that's how the young man, Yuuki Shinjuurou identifies himself. With his superior deductive powers, Shinjuurou solves various challenging cases. Meanwhile, Inga, an attractive young lad, serves as Shinjuurou's buddy. But contrary to his cute looks, he's a sharp, arrogant rogue. Why Inga sticks with Shinjuurou is as of yet unknown. The setting of the story is a postwar, future Tokyo that still bears the scars of war. Ruling the land is Media King Kaishou Rinroku, who through politics and industry has the communications infrastructure under his thumb. Kaishou has used a clear head and the massive amount of information at his fingertips to lead to the solution of a great number of cases. But there's an underside to Kaishou's brilliant deduction work, which is that Yuuki Shinjuurou, the Last Great Detective, is the one who actually uncovered the truth in those cases. However, the public doesn't know this and thus refers to Shinjuurou as the Defeated Detective. Still, Shinjuurou, together with Inga, can't help but search for the truth.",
+            "type": "anidb"
+        },
+        {
+            "content": "With the help of his strange assistant Inga, \"defeated detective\" Shinj\u016br\u014d Y\u016bki solves crimes in a near future Japan still suffering from the ravages of war. Problem is, the credit always ends up going to super detective Rinroku Kaish\u014d.",
+            "type": "ann"
+        },
+        {
+            "content": "\"UN-GO\" is a full-fledged detective story about a detective and handsome boy combo who tackle the world's most difficult crimes together for reasons of their own.   The profession of private detective fell out of favor long ago, and yet, that's how the young man, Shinjurou Yuuki identifies himself. With his superior deductive powers, Shinjurou solves various challenging cases. Meanwhile, Inga, an attractive young lad, serves as Shinjurou's \"buddy\". But contrary to his cute looks, he's a sharp, arrogant rogue. Why Inga sticks with Shinjurou is as yet unknown.   The setting of the story is a postwar, future Tokyo that still bears the scars of war. Ruling the land is Media King Rinroku Kaishou, who through politics and industry has the communications infrastructure under his thumb. Kaishou has used a clear head and the massive amount of information at his fingertips to lead to the solution of a great number of cases. But there's an underside to Kaishou's brilliant deduction work, which is that Shinjurou Yuuki, \"the Last Great Detective\", is the one who actually uncovered \"the truth\" in those cases.   However, the public doesn't know this and thus refers to Shinjurou as the \"Defeated Detective\". Still, Shinjurou, together with Inga, can't help but search for the truth.  (Source: Crunchyroll)",
+            "type": "mal"
+        },
+        {
+            "content": "Based on the works of Ango Sakaguchi, the story follows Shinj\u016br\u014d Y\u016bki, a detective who solves mysteries with his strange partner, Inga in a future Japan that has been affected by a major war and terrorist attacks after JSDF forces were deployed as peacekeepers abroad.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 13985,
+            "date": "2012-09-29T13:42:52",
+            "score": 7.65,
+            "type": "mal"
+        },
+        {
+            "count": 653,
+            "date": "2012-09-29T13:42:52",
+            "score": 7.425,
+            "type": "ann"
+        },
+        {
+            "count": 892,
+            "date": "2012-09-29T13:42:52",
+            "score": 7.23,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Un-Go"
+}

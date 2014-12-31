@@ -1,0 +1,594 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u9583\u4e71\u30ab\u30b0\u30e9"
+        }
+    ],
+    "aliases": [
+        "Senran Kagura"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-01-06T12:30:00",
+            "episode": 1,
+            "score": 6.6334782609,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[SubDESU] Senran Kagura - 01 (1280x720 x264 AAC)[0D79041E].mkv",
+                    "group": "SubDESU",
+                    "hash": "0D79041E",
+                    "url": "http://www.anirena.com/dl/672",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Senran Kagura - 01 [BF222BBC].mkv",
+                    "group": "Commie",
+                    "hash": "BF222BBC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Senran Kagura 01 [Hi10P 1280x720 H264] [3A5512C5].mkv",
+                    "group": "Hiryuu",
+                    "hash": "3A5512C5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391309",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Senran Kagura 01v2 [Hi10P 1280x720 H264] [FA628D64].mkv",
+                    "group": "Hiryuu",
+                    "hash": "FA628D64",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391570",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 01 [9E91C9D0].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "9E91C9D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391633",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-13T12:30:00",
+            "episode": 2,
+            "score": 6.4186748193,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 6,
+                    "filename": "[Hiryuu] Senran Kagura 02 [Hi10P 1280x720 H264] [CE205670].mkv",
+                    "group": "Hiryuu",
+                    "hash": "CE205670",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392766",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 10,
+                    "filename": "[SubDESU] Senran Kagura - 02 (1280x720 x264 AAC) [6CC7EDE1].mkv",
+                    "group": "SubDESU",
+                    "hash": "6CC7EDE1",
+                    "url": "http://www.anirena.com/dl/806",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Senran Kagura - 02 [D4957192].mkv",
+                    "group": "Commie",
+                    "hash": "D4957192",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393216",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 02 [02633C8B].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "02633C8B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394428",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-20T12:30:00",
+            "episode": 3,
+            "score": 6.3525859232,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Senran Kagura 03 [Hi10P 1280x720 H264] [675938BA].mkv",
+                    "group": "Hiryuu",
+                    "hash": "675938BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Senran Kagura - 03 (1280x720 x264 AAC) [0D79041E].mkv",
+                    "group": "SubDESU",
+                    "hash": "0D79041E",
+                    "url": "http://www.anirena.com/dl/964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Senran Kagura - 03 [FAA7CE98].mkv",
+                    "group": "Commie",
+                    "hash": "FAA7CE98",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 03 [15892270].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "15892270",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397438",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-27T12:30:00",
+            "episode": 4,
+            "score": 6.3538426689,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 5,
+                    "filename": "[Hiryuu] Senran Kagura 04 [Hi10P 1280x720 H264] [9D1948E0].mkv",
+                    "group": "Hiryuu",
+                    "hash": "9D1948E0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397893",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Senran Kagura - 04  (1280x720 x264 AAC)[08CB2099].mkv",
+                    "group": "SubDESU",
+                    "hash": "08CB2099",
+                    "url": "http://www.anirena.com/dl/1046",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Senran Kagura - 04 [51AF7C5A].mkv",
+                    "group": "Commie",
+                    "hash": "51AF7C5A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 04 [B20F04FD].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "B20F04FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399548",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-03T12:30:00",
+            "episode": 5,
+            "score": 6.3185342198,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Senran Kagura 05 [Hi10P 1280x720 H264] [BEE7AC5B].mkv",
+                    "group": "Hiryuu",
+                    "hash": "BEE7AC5B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Senran Kagura - 05 [31179A97].mkv",
+                    "group": "Commie",
+                    "hash": "31179A97",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Senran Kagura - 05 (1280x720 x264 AAC) [C8230C29].mkv",
+                    "group": "SubDESU",
+                    "hash": "C8230C29",
+                    "url": "http://www.anirena.com/dl/1208",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 05 [EC250162].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "EC250162",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402284",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-10T12:30:00",
+            "episode": 6,
+            "score": 6.2752825063,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Senran Kagura 06 [Hi10P 1280x720 H264] [3EFC9CA1].mkv",
+                    "group": "Hiryuu",
+                    "hash": "3EFC9CA1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402864",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Senran Kagura - 06 [624AF2C2].mkv",
+                    "group": "Commie",
+                    "hash": "624AF2C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403504",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU] Senran Kagura - 06 (1280x720 x264 AAC) [FF2BE152].mkv",
+                    "group": "SubDESU",
+                    "hash": "FF2BE152",
+                    "url": "http://www.anirena.com/dl/1363",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 06 [00A1AD8B].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "00A1AD8B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404796",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-17T12:30:00",
+            "episode": 7,
+            "score": 6.2569168378,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Senran Kagura 07v0 [1280x720 H264] [18819CAF].mkv",
+                    "group": "Hiryuu",
+                    "hash": "18819CAF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405264",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Senran Kagura 07 [Hi10P 1280x720 H264] [696BC6A8].mkv",
+                    "group": "Hiryuu",
+                    "hash": "696BC6A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405803",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Senran Kagura - 07 [5820BB2E].mkv",
+                    "group": "Commie",
+                    "hash": "5820BB2E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406379",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU] Senran Kagura - 07 (1280x720 x264 AAC) [88838825].mkv",
+                    "group": "SubDESU",
+                    "hash": "88838825",
+                    "url": "http://www.anirena.com/dl/1488",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 07 [BFA34717].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "BFA34717",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407465",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-24T12:30:00",
+            "episode": 8,
+            "score": 6.2390191,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Senran Kagura 08 [Hi10P 1280x720 H264] [556DB25A].mkv",
+                    "group": "Hiryuu",
+                    "hash": "556DB25A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407795",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Senran Kagura - 08 [2D1B72E2].mkv",
+                    "group": "Commie",
+                    "hash": "2D1B72E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408090",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 08 [779A7DC3].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "779A7DC3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411126",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SubDESU] Senran Kagura - 08 (1280x720 x264 AAC) [4CDBCB9B].mkv",
+                    "group": "SubDESU",
+                    "hash": "4CDBCB9B",
+                    "url": "http://www.anirena.com/dl/1786",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-03T12:30:00",
+            "episode": 9,
+            "score": 6.2468736212,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Senran Kagura 09 [Hi10P 1280x720 H264] [ABE163B8].mkv",
+                    "group": "Hiryuu",
+                    "hash": "ABE163B8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409782",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Senran Kagura - 09 [F7A3C30A].mkv",
+                    "group": "Commie",
+                    "hash": "F7A3C30A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410402",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Senran Kagura - 09 (1280x720 x264 AAC) [98FCA2D7].mkv",
+                    "group": "SubDESU",
+                    "hash": "98FCA2D7",
+                    "url": "http://www.anirena.com/dl/1787",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 09 [46E7176D].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "46E7176D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411789",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-10T12:30:00",
+            "episode": 10,
+            "score": 6.2319305389,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Senran Kagura - 10 [9E417541].mkv",
+                    "group": "Commie",
+                    "hash": "9E417541",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412713",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Senran Kagura 10 [Hi10P 1280x720 H264] [714F6E1E].mkv",
+                    "group": "Hiryuu",
+                    "hash": "714F6E1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412741",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 10 [BCA16767].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "BCA16767",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413975",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SubDESU] Senran Kagura - 10 (1280x720 x264 AAC) [4E6B4AAB].mkv",
+                    "group": "SubDESU",
+                    "hash": "4E6B4AAB",
+                    "url": "http://www.anirena.com/dl/1957",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-17T12:30:00",
+            "episode": 11,
+            "score": 6.2330637926,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Senran Kagura - 11 [9C85D3ED].mkv",
+                    "group": "Commie",
+                    "hash": "9C85D3ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414958",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 11 [7E5730F8].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "7E5730F8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415221",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Senran Kagura 11 [Hi10P 1280x720 H264] [895C2059].mkv",
+                    "group": "Hiryuu",
+                    "hash": "895C2059",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416556",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU] Senran Kagura - 11 (1280x720 x264 AAC) [FD9DC9A2].mkv",
+                    "group": "SubDESU",
+                    "hash": "FD9DC9A2",
+                    "url": "http://www.anirena.com/dl/2103",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-24T12:30:00",
+            "episode": 12,
+            "score": 6.4014020101,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Senran Kagura 12 [Hi10P 1280x720 H264] [94BE529F].mkv",
+                    "group": "Hiryuu",
+                    "hash": "94BE529F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416577",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Senran Kagura - 12 [7BC33640].mkv",
+                    "group": "Commie",
+                    "hash": "7BC33640",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[BakeSubs-Diogo4D] Senran Kagura 12 [CD0C26F6].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "CD0C26F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419130",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Senran Kagura - 12 END (1280x720 x264 AAC) [18020C99].mkv",
+                    "group": "SubDESU",
+                    "hash": "18020C99",
+                    "url": "http://www.anirena.com/dl/2356",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9166,
+        "ann": 14280,
+        "mal": 15119,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "TV anime project of Marvelous AQL's action game series Senran Kagura.",
+            "type": "mal"
+        },
+        {
+            "content": "There was a time when there were ninja serving the powerful, hired for intelligence missions, destruction, or assassination. While the times have changed, the need for ninja has not vanished. In a particular school, there are girls who are secretly in training to become ninja. Ninjas-in-training, Asuka, Katsuragi, Hibari, Ikaruga, and Yagyuu each have a secret technique scroll that they protect at all times. This features their tumultuous school life as they pursue the path of the ninja!",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2181,
+            "date": "2013-03-25T07:40:19",
+            "score": 6.56,
+            "type": "mal"
+        },
+        {
+            "count": 101,
+            "date": "2013-03-25T07:40:19",
+            "score": 4.99,
+            "type": "anidb"
+        },
+        {
+            "count": 106,
+            "date": "2013-03-23T07:50:36",
+            "score": 4.483,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Senran Kagura"
+}

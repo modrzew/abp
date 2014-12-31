@@ -1,0 +1,696 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u307e\u3058\u3082\u3058\u308b\u308b\u3082"
+        }
+    ],
+    "aliases": [
+        "Majimoji Rurumo"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-07-09T14:00:00",
+            "episode": 1,
+            "score": 6.13,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 01 [h264-720p][6956B169].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "6956B169",
+                    "url": "http://www.nyaa.se/?page=download&tid=573156",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=573922",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=573926",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=573927",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 01 (1280x720 10bit AAC) [7DBC6DAB].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "7DBC6DAB",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2001%20(1280x720%2010bit%20AAC)%20%5B7DBC6DAB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 01v2 (1280x720 10bit AAC) [8CFBAB60].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "8CFBAB60",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2001v2%20(1280x720%2010bit%20AAC)%20%5B8CFBAB60%5D.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-07-16T14:00:00",
+            "episode": 2,
+            "score": 6.4784038462,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 02 [h264-720p][7AACC633].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "7AACC633",
+                    "url": "http://www.nyaa.se/?page=download&tid=575977",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 02 (1280x720 10bit AAC) [69F1291B].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "69F1291B",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2002%20(1280x720%2010bit%20AAC)%20%5B69F1291B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576857",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-23T14:00:00",
+            "episode": 3,
+            "score": 6.293625,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 03 [h264-720p][12F74CA6].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "12F74CA6",
+                    "url": "http://www.nyaa.se/?page=download&tid=578968",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=579851",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=579852",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=579853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 03 (1280x720 10bit AAC) [AF466F96].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "AF466F96",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2003%20(1280x720%2010bit%20AAC)%20%5BAF466F96%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-30T14:00:00",
+            "episode": 4,
+            "score": 6.2460629921,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 04 [h264-720p][224C2776].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "224C2776",
+                    "url": "http://www.nyaa.se/?page=download&tid=581869",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582683",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582684",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582685",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 04 (1280x720 10bit AAC) [7913CAB3].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "7913CAB3",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2004%20(1280x720%2010bit%20AAC)%20%5B7913CAB3%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-06T14:00:00",
+            "episode": 5,
+            "score": 6.183390411,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 05 [h264-720p][CC7C70ED].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CC7C70ED",
+                    "url": "http://www.nyaa.se/?page=download&tid=584700",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 05 (1280x720 10bit AAC) [9B170839].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "9B170839",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2005%20(1280x720%2010bit%20AAC)%20%5B9B170839%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-13T14:00:00",
+            "episode": 6,
+            "score": 6.157525,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 06 [h264-720p][9F6E863F].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "9F6E863F",
+                    "url": "http://www.nyaa.se/?page=download&tid=587486",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 06 (1280x720 10bit AAC) [90C0EAF7].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "90C0EAF7",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2006%20(1280x720%2010bit%20AAC)%20%5B90C0EAF7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588247",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588249",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-20T14:00:00",
+            "episode": 7,
+            "score": 6.066746988,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 07 [h264-720p][E8DD5E5B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "E8DD5E5B",
+                    "url": "http://www.nyaa.se/?page=download&tid=590354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 07 (1280x720 10bit AAC) [070C3A69].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "070C3A69",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2007%20(1280x720%2010bit%20AAC)%20%5B070C3A69%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 07v2 (1280x720 10bit AAC) [11C867A9].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "11C867A9",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2007v2%20(1280x720%2010bit%20AAC)%20%5B11C867A9%5D.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-08-27T14:00:00",
+            "episode": 8,
+            "score": 5.9413072626,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 08 [h264-720p][CE292C37].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CE292C37",
+                    "url": "http://www.nyaa.se/?page=download&tid=593412",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=594279",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=594280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=594281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 08 (1280x720 10bit AAC) [57C8D5F7].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "57C8D5F7",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2008%20(1280x720%2010bit%20AAC)%20%5B57C8D5F7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-03T14:00:00",
+            "episode": 9,
+            "score": 5.9285,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 09 [h264-720p][29C7A7BA].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "29C7A7BA",
+                    "url": "http://www.anirena.com/dl/10237",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=595947",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=595948",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=595949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 09 (1280x720 10bit AAC) [70562841].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "70562841",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2009%20(1280x720%2010bit%20AAC)%20%5B70562841%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-10T14:00:00",
+            "episode": 10,
+            "score": 5.9938802083,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 10 [h264-720p][021CE0A6].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "021CE0A6",
+                    "url": "http://www.anirena.com/dl/10457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 10 (1280x720 10bit AAC) [268001FA].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "268001FA",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2010%20(1280x720%2010bit%20AAC)%20%5B268001FA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=598885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=598886",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=598887",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-17T14:00:00",
+            "episode": 11,
+            "score": 6.0151530612,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 11 [h264-720p][C763F82E].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "C763F82E",
+                    "url": "http://www.nyaa.se/?page=download&tid=598999",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599662",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599663",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599664",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 11 (1280x720 10bit AAC) [D34F68F0].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "D34F68F0",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2011%20(1280x720%2010bit%20AAC)%20%5BD34F68F0%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-24T14:00:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Majimoji Rurumo - 12 [h264-720p][ECA9A0D3].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "ECA9A0D3",
+                    "url": "http://www.anirena.com/dl/10949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=602434",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=602435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Majimoji Rurumo - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=602437",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Majimoji Rurumo - 12 (1280x720 10bit AAC) [FC17F25E].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "FC17F25E",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Majimoji%20Rurumo%20-%2012%20(1280x720%2010bit%20AAC)%20%5BFC17F25E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10609,
+        "ann": 16094,
+        "mal": 23945,
+        "schedule": 3435
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Shibaki is a high school boy only interested in girls. However, he has been branded as the most perverted boy at school, and the girls go out of their way to avoid him. When he finds a book in the library about how to summon witches, he tries it as a joke; unexpectedly, though, the book works, and a cute witch named Rurumo appears to grant him a wish. Shibaki helps Rurumo and she in return refuses to take his soul.After some time, he thinks about his meeting with Rurumo, and wishes he could see her again. His wish is granted immediately, as Rurumo falls from the sky and crash-lands in front of him, tasked with getting him to use up 666 magic tickets that grant wishes before she can become a witch again. However, according to Rurumo's familiar, what she does not know is that each ticket he uses will shorten his life span, and, when the last ticket is used, he will die.Source: Manga Fox",
+            "type": "anidb"
+        },
+        {
+            "content": "Shibaki is a high-school boy whose only interest is girls. Except he's been branded as the most perverted boy at school and girls avoid him like the plague. One day he finds a book in the library about how to summon witches. He tries it as a joke, but it turns out to be the real thing. An apprentice witch named Rurumo appears to grant him a wish. Shibaki helps Rurumo and she in return refuses to take his soul. When the story starts, Shibaki wishes he could see Rurumo again. His wishes is granted immediately as Rurumo falls from the sky and crash lands in front of him. He finds out that as punishment for not taking his soul she's been busted down to an apprentice demon. Now, she must complete the task of getting Shibaki to use up 666 magic tickets that grant wishes before she can become a witch again. However, what she doesn't know is that each time he uses a ticket it shortens his life. When the last ticket is used up, Shibaki will die. Shibaki knows this because Rurumo's familiar black cat Chiro tell him as part of the \"contract\" for giving him the tickets. Now, Shibaki has a choice, make a wish and help Rurumo become a witch again or resist the temptation and try to save his own life.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 99,
+            "date": "2014-09-21T07:43:02",
+            "score": 6.03,
+            "type": "anidb"
+        },
+        {
+            "count": 97,
+            "date": "2014-09-23T03:12:28",
+            "score": 6.0,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Majimoji Rurumo"
+}

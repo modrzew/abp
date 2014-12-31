@@ -1,0 +1,601 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "pupa"
+        }
+    ],
+    "aliases": [
+        "Pupa"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-01-09T19:00:00",
+            "episode": 1,
+            "score": 4.9,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Pupa - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Pupa - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Pupa - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510324",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Vivid] Pupa - 01 [CE1D736E].mkv",
+                    "group": "Vivid",
+                    "hash": "CE1D736E",
+                    "url": "http://www.nyaa.se/?page=download&tid=510389",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[MX 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[shi0n] Pupa - 01 (MX 1280x720 x264 AAC).mkv",
+                    "group": "shi0n",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510479",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[V2]",
+                    "download_count": 0,
+                    "filename": "[t4w] Pupa - 01 [V2][87071AC9].mkv",
+                    "group": "t4w",
+                    "hash": "87071AC9",
+                    "url": "http://www.nyaa.se/?page=download&tid=510568",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-16T19:00:00",
+            "episode": 2,
+            "score": 4.5,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Pupa - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512924",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Pupa - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512925",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512926",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 02 [29AC546C].mkv",
+                    "group": "Vivid",
+                    "hash": "29AC546C",
+                    "url": "http://www.nyaa.se/?page=download&tid=513024",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-23T19:00:00",
+            "episode": 3,
+            "score": 4.9073333333,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Pupa - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515548",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Pupa - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515549",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Pupa - 03 [C2A4713D].mkv",
+                    "group": "Vivid",
+                    "hash": "C2A4713D",
+                    "url": "http://www.nyaa.se/?page=download&tid=515582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[t4w] Pupa - 03 [C36F971E].mkv",
+                    "group": "t4w",
+                    "hash": "C36F971E",
+                    "url": "http://www.nyaa.se/?page=download&tid=517015",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-30T19:00:00",
+            "episode": 4,
+            "score": 4.9287445652,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518055",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Pupa - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518056",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518057",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 04 [ECE1D3CE].mkv",
+                    "group": "Vivid",
+                    "hash": "ECE1D3CE",
+                    "url": "http://www.nyaa.se/?page=download&tid=518125",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-06T19:00:00",
+            "episode": 5,
+            "score": 4.9912978723,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520474",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520476",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Pupa - 05 [E49BF40E].mkv",
+                    "group": "Vivid",
+                    "hash": "E49BF40E",
+                    "url": "http://www.nyaa.se/?page=download&tid=520520",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-13T19:00:00",
+            "episode": 6,
+            "score": 4.3835522388,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Pupa - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Pupa - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522798",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 06 [A53701EB].mkv",
+                    "group": "Vivid",
+                    "hash": "A53701EB",
+                    "url": "http://www.nyaa.se/?page=download&tid=522833",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-20T18:30:00",
+            "episode": 7,
+            "score": 4.3394549763,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Pupa - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525105",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525106",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 07 [6E829877].mkv",
+                    "group": "Vivid",
+                    "hash": "6E829877",
+                    "url": "http://www.nyaa.se/?page=download&tid=525156",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-27T18:30:00",
+            "episode": 8,
+            "score": 4.3444642857,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Pupa - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527467",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527468",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 08 [C3BDDAD5].mkv",
+                    "group": "Vivid",
+                    "hash": "C3BDDAD5",
+                    "url": "http://www.nyaa.se/?page=download&tid=527513",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-06T18:30:00",
+            "episode": 9,
+            "score": 4.3491304348,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529928",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529930",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529931",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 09 [E704A1D9].mkv",
+                    "group": "Vivid",
+                    "hash": "E704A1D9",
+                    "url": "http://www.nyaa.se/?page=download&tid=529981",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-13T18:30:00",
+            "episode": 10,
+            "score": 4.3267672414,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532217",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Pupa - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532219",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 10 [4288231D].mkv",
+                    "group": "Vivid",
+                    "hash": "4288231D",
+                    "url": "http://www.nyaa.se/?page=download&tid=532258",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-20T18:30:00",
+            "episode": 11,
+            "score": 4.2690871369,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534318",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534319",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Pupa - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534325",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 11 [86A9347B].mkv",
+                    "group": "Vivid",
+                    "hash": "86A9347B",
+                    "url": "http://www.nyaa.se/?page=download&tid=534372",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-27T18:30:00",
+            "episode": 12,
+            "score": 3.6165102041,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Pupa - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536714",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Pupa - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536721",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Pupa - 12 [C8BAD397].mkv",
+                    "group": "Vivid",
+                    "hash": "C8BAD397",
+                    "url": "http://www.nyaa.se/?page=download&tid=536799",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 5,
+    "external_sites": {
+        "anidb": 9804,
+        "ann": 15248,
+        "mal": 19315,
+        "schedule": 3272
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The manga series Pupa is written and illustrated by Sayaka Mogi and was serialized in Earth Star Entertainment's Comic Earth Star magazine between March 12, 2011,[1] and December 12, 2013. An extra chapter will be published in the magazine's February 2014 issue.[2] As of September 12, 2013, the series has been compiled in four tank\u014dbon volumes[3][4] and its final, fifth volume is scheduled for release in February 2014.[2] An anime adaptation produced by Studio Deen and directed by Tomomi Mochizuki with character designs by Maki Fujii is scheduled to premiere on January 9, 2014, following a delay from its initial October 2013 premiere.[5] The series' first eight episodes will be screened in advance on December 21, 2013, at the Aeon Cinema Makuhari Shintoshin theater in Chiba Prefecture.[6]",
+            "type": "wiki"
+        },
+        {
+            "content": "The life-and-death sibling story follows Hasegawa Utsutsu and Yume, a boy and his little sister who find themselves all alone. One day, Yume sees a mysterious red butterfly and her body undergoes a strange metamorphosis \u2014 into a creature that eats humans. Utsutsu struggles to find a way to restore his sister.Source: ANNNote: The first eight episodes were pre-aired at a special event on 21.12.2013, regular TV broadcast started on 10.01.2014.",
+            "type": "anidb"
+        },
+        {
+            "content": "Growing up with an abusive father, Utsutsu is highly protective of his younger sister Yume. One day, Yume sees a red butterfly and contracts the strange Pupa virus. She begins to sprout grotesque wings and to indiscriminately attack both animals and humans. Hoping to find a way to stop the advance of the virus, Utsutsu seeks out Maria, a researcher who knows the secret of Pupa. He decides to sacrifice his own body as live bait for the sake of saving Yume.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 224,
+            "date": "2014-04-17T11:12:51",
+            "score": 3.74,
+            "type": "anidb"
+        },
+        {
+            "count": 227,
+            "date": "2014-04-17T11:12:52",
+            "score": 3.693,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Pupa"
+}

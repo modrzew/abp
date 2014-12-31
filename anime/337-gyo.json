@@ -1,0 +1,104 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ae\u30e7"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-02-15T00:00:00",
+            "episode": 1,
+            "score": 6.2091803279,
+            "torrents": [
+                {
+                    "additional_info": "[BD 720p AAC]",
+                    "download_count": 7,
+                    "filename": "[WhyNot] Gyo - OVA [v0][BD 720p AAC][E2F6B2AA].mkv",
+                    "group": "WhyNot",
+                    "hash": "E2F6B2AA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289593",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 H.264 Vorbis]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Gyo - OVA v1 (1280x720 H.264 Vorbis)[E3A3CEB5].mkv",
+                    "group": "NyanTaku",
+                    "hash": "E3A3CEB5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292007",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10-bit]",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Gyo_[10-bit][C549FBB8].mkv",
+                    "group": "GotWoot",
+                    "hash": "C549FBB8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295634",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 1,
+    "episodes_length": 70,
+    "external_sites": {
+        "anidb": 8315,
+        "ann": 13361,
+        "mal": 10417,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Na Okinawie co\u015b \u015bmierdzi. Rybami. Martwymi. Okazuje si\u0119, \u017ce ryby te wy\u0142a\u017c\u0105 z morza na metalowych, doczepianych nogach, zara\u017caj\u0105c ludzi straszliw\u0105 chorob\u0105. Kiedy Kaori zostaje zainfekowana, jej ch\u0142opak Tadashi usi\u0142uje znale\u017a\u0107 wyj\u015bcie z tej beznadziejnej sytuacji, o ile takowe w og\u00f3le istnieje. ",
+            "type": "abp"
+        },
+        {
+            "content": "To celebrate their graduation from university Kaori and her two friends visit Okinawa in southern Japan for a short vacation. At the vacation house, provided by Tadashi's uncle, a numbing stench awaits the girls, and can be traced to a horrendously deformed, legged fish that Kaori kills. More and more of these creatures appear and portend a horrific change for the animal life in the area. A phone call from Kaori's fianc\u00e9 Tadashi in Tokyo quickly shows the scope of this epidemic, when he is also attacked by these mechanized fish. Kaori immediately sets out on an perilous voyage to find out what happened to Tadashi, helped by Shirakawa \u2014 a videographer in search of the truth behind all this...\u2014 written by foo2",
+            "type": "anidb"
+        },
+        {
+            "content": "Okinawa is taken by an influx of disturbingly bizarre walking fishes that are leaving the ocean and are heading to the cities. Amid this freakish event, a girl named Kaori loses contact with her boyfriend Tadashi who lives in Tokyo. She heads to the capital to try to locate him only to find out that the metropolis has been taken over by the fish and their foul stench.",
+            "type": "ann"
+        },
+        {
+            "content": "Something in Okinawa reeks, and it isn't long before Kaori and her friends realize that the smell is coming from dead fish, which are walking out of the sea. The fish are fused to metal legs and are infected with a disease contractable by humans that was invented as a weapon by unknown sources. After what happens to Tadashi, Kaori finds herself in a new world very much like the old one but with the stench of death.",
+            "type": "mal"
+        },
+        {
+            "content": "The plot of Gyo centers around the \"death stench\", a revolting smell first encountered in connection with creatures appearing to be bizarre fish with scuttling, sharp metal legs. At first they appear merely as smaller fish, but later also as larger sea creatures such as sharks and even a whale.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5097,
+            "date": "2012-09-29T14:07:34",
+            "score": 6.02,
+            "type": "mal"
+        },
+        {
+            "count": 548,
+            "date": "2012-09-29T14:07:34",
+            "score": 5.43,
+            "type": "anidb"
+        },
+        {
+            "count": 129,
+            "date": "2012-09-29T14:07:34",
+            "score": 5.467,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Gyo"
+}

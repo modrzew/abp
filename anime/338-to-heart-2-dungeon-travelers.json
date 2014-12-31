@@ -1,0 +1,59 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "ToHeart2\u30c0\u30f3\u30b8\u30e7\u30f3\u30c8\u30e9\u30d9\u30e9\u30fc\u30ba"
+        },
+        {
+            "language": "pl",
+            "title": "DoSerca2: Obie\u017cypodziemiowie"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-02-22T00:00:00",
+            "episode": 1,
+            "score": 6.0893617021,
+            "torrents": []
+        },
+        {
+            "date": "2012-03-21T00:00:00",
+            "episode": 2,
+            "score": 6.4451612903,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 2,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 8690,
+        "ann": 13633,
+        "mal": 11773,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 359,
+            "date": "2012-09-29T14:07:51",
+            "score": 6.54,
+            "type": "mal"
+        },
+        {
+            "count": 46,
+            "date": "2012-09-29T14:07:52",
+            "score": 5.94,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "To Heart 2",
+    "title": "To Heart 2: Dungeon Travelers"
+}

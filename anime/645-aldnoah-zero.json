@@ -1,0 +1,701 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30eb\u30c9\u30ce\u30a2\u30fb\u30bc\u30ed"
+        }
+    ],
+    "aliases": [
+        "Aldnoah Zero",
+        "Aldnoah.Zero"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-07-05T17:00:00",
+            "episode": 1,
+            "score": 7.7,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571571",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571666",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Aldnoah.Zero - 01 [F1217DE7].mkv",
+                    "group": "Commie",
+                    "hash": "F1217DE7",
+                    "url": "http://www.nyaa.se/?page=download&tid=571811",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571815",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 01 [FF3C94D2].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "FF3C94D2",
+                    "url": "http://www.nyaa.se/?page=download&tid=571921",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-12T17:00:00",
+            "episode": 2,
+            "score": 7.481686747,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=574180",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=574185",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=574191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 02 [FBC05FD6].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "FBC05FD6",
+                    "url": "http://www.nyaa.se/?page=download&tid=574461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Aldnoah.Zero - 02 [6B56F623].mkv",
+                    "group": "Commie",
+                    "hash": "6B56F623",
+                    "url": "http://www.nyaa.se/?page=download&tid=574468",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-19T17:00:00",
+            "episode": 3,
+            "score": 7.61193125,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=577146",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=577148",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=577149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 03 [A96442C5].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "A96442C5",
+                    "url": "http://www.nyaa.se/?page=download&tid=577433",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Aldnoah.Zero - 03 [6C35E690].mkv",
+                    "group": "Commie",
+                    "hash": "6C35E690",
+                    "url": "http://www.nyaa.se/?page=download&tid=577500",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-26T17:00:00",
+            "episode": 4,
+            "score": 7.8808439898,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580123",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580125",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580126",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 04 [79F89A8F].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "79F89A8F",
+                    "url": "http://www.nyaa.se/?page=download&tid=580457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Aldnoah.Zero - 04 [200B2EE7].mkv",
+                    "group": "Commie",
+                    "hash": "200B2EE7",
+                    "url": "http://www.nyaa.se/?page=download&tid=581596",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-02T17:00:00",
+            "episode": 5,
+            "score": 7.8165617978,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582888",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582891",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 05 [D3A0C9CE].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "D3A0C9CE",
+                    "url": "http://www.nyaa.se/?page=download&tid=583270",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Aldnoah.Zero - 05 [BAE74265].mkv",
+                    "group": "Commie",
+                    "hash": "BAE74265",
+                    "url": "http://www.nyaa.se/?page=download&tid=584061",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-09T17:00:00",
+            "episode": 6,
+            "score": 7.7681360825,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585810",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585813",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 06 [C8FF760B].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "C8FF760B",
+                    "url": "http://www.nyaa.se/?page=download&tid=586049",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Aldnoah.Zero - 06 [E9A0909E].mkv",
+                    "group": "Commie",
+                    "hash": "E9A0909E",
+                    "url": "http://www.nyaa.se/?page=download&tid=588075",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-16T17:00:00",
+            "episode": 7,
+            "score": 7.8048512241,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588488",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588489",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588490",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Aldnoah.Zero - 07 [F7A171A6].mkv",
+                    "group": "Commie",
+                    "hash": "F7A171A6",
+                    "url": "http://www.nyaa.se/?page=download&tid=588655",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 07 [9FA35A09].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "9FA35A09",
+                    "url": "http://www.nyaa.se/?page=download&tid=588855",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-23T17:00:00",
+            "episode": 8,
+            "score": 7.8710277296,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591468",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591471",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591473",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 08 [86B004EC].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "86B004EC",
+                    "url": "http://www.nyaa.se/?page=download&tid=591894",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Aldnoah.Zero - 08 [CE4BB332].mkv",
+                    "group": "Commie",
+                    "hash": "CE4BB332",
+                    "url": "http://commie.anirena.com/dl/10088",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-30T17:00:00",
+            "episode": 9,
+            "score": 7.8617850163,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[Zero-Subs] Aldnoah Zero - 09 [720p].mkv",
+                    "group": "Zero-Subs",
+                    "hash": "",
+                    "url": "http://www.anirena.com/dl/10007",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=594451",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=594501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=594503",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 09 [2BA3129A].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "2BA3129A",
+                    "url": "http://torcache.net/torrent/F9A3BC9201F89B2CA73820F98797CE17AA5996F8.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Aldnoah.Zero - 09 [B47E3D77].mkv",
+                    "group": "Commie",
+                    "hash": "B47E3D77",
+                    "url": "http://torrentcaching.com/torrent/1E24599C9650DFEBB83EC76C7EE077C7D4087F55.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-06T17:00:00",
+            "episode": 10,
+            "score": 7.8901692308,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596198",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Aldnoah.Zero - 10 [08841A74].mkv",
+                    "group": "Commie",
+                    "hash": "08841A74",
+                    "url": "http://www.nyaa.se/?page=download&tid=596461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Aldnoah.Zero - 10v2 [01900F57].mkv",
+                    "group": "Commie",
+                    "hash": "01900F57",
+                    "url": "http://www.nyaa.se/?page=download&tid=596519",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 10 [4A8505C8].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "4A8505C8",
+                    "url": "http://www.nyaa.se/?page=download&tid=596696",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-13T17:00:00",
+            "episode": 11,
+            "score": 7.7976067251,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597029",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597030",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597049",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 11 [3887C49B].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "3887C49B",
+                    "url": "http://www.nyaa.se/?page=download&tid=597618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Aldnoah.Zero - 11 [55C7973D].mkv",
+                    "group": "Commie",
+                    "hash": "55C7973D",
+                    "url": "http://www.nyaa.se/?page=download&tid=598474",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-20T17:00:00",
+            "episode": 12,
+            "score": 7.7939898551,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Aldnoah Zero - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Aldnoah.Zero - 12 [37D4B12D].mkv",
+                    "group": "Commie",
+                    "hash": "37D4B12D",
+                    "url": "http://www.nyaa.se/?page=download&tid=600034",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid-Watashi] Aldnoah Zero - 12 [3336ACC0].mkv",
+                    "group": "Vivid-Watashi",
+                    "hash": "3336ACC0",
+                    "url": "http://www.nyaa.se/?page=download&tid=600138",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10445,
+        "ann": 16028,
+        "mal": 22729,
+        "schedule": 3441
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "In 1972, a hypergate was discovered on the surface of the moon, and humanity began migrating to Mars and settling there. However, eventually the seeds of war were sown and then the war breaks between humans on Earth and those who immigrated to Mars.[4][5]",
+            "type": "wiki"
+        },
+        {
+            "content": "In 1972, the Apollo 17 mission discovered a hypergate to Mars on the surface of the moon. Soon a war breaks out between Earth and Mars, and Martian soldiers begin to descend from the sky, riding steel giants, intent on exterminating humanity.",
+            "type": "ann"
+        },
+        {
+            "content": "In 1972, a hypergate was discovered on the surface of the moon, and humanity began using it to colonize Mars. Years later, war breaks out between Earth and the Martian colonists.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 397,
+            "date": "2014-09-21T03:10:14",
+            "score": 7.87,
+            "type": "anidb"
+        },
+        {
+            "count": 293,
+            "date": "2014-09-21T03:10:14",
+            "score": 7.691,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Aldnoah.Zero"
+}

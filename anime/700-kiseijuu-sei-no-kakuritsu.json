@@ -1,0 +1,901 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5bc4\u751f\u7363 \u30bb\u30a4\u306e\u683c\u7387"
+        }
+    ],
+    "aliases": [
+        "Kiseijuu Sei No Kakuritsu",
+        "Parasyte - the maxim",
+        "[Underwater] Parasyte - the maxim",
+        "Kiseijuu - Sei no Kakuritsu"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-10-08T18:29:00",
+            "episode": 1,
+            "score": 7.9546666667,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=606938",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=606939",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=606943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Parasyte - the maxim - 01 (720p) [B6C960B9].mkv",
+                    "group": "Underwater",
+                    "hash": "B6C960B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=607836",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 1,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_01_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/E8541A397FCCC6C3718453858BD7FD80E17BB5D5.torrent ",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[dn92][Underwater] Parasyte - the maxim - 01 [720p][335DC0BC].mkv",
+                    "group": "dn92",
+                    "hash": "335DC0BC",
+                    "url": "http://tracker.anime-index.org/download.php?id=b8f0360ca7d967ab1ff5c66dee38886cd89752ce&f=%5BMinitheatre.org%5D%5Bdn92%5D%5BUnderwater%5D%20Parasyte%20-%20the%20maxim%20-%2001%20%5B720p%5D%5B335DC0BC%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Kiseijuu_-_Sei_no_Kakuritsu_-_01_[1280x720][BAA7714C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BAA7714C",
+                    "url": "http://www.nyaa.se/?page=download&tid=609592",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_01_[720p][8CA07B3E].mkv",
+                    "group": "Watashi",
+                    "hash": "8CA07B3E",
+                    "url": "http://www.nyaa.se/?page=download&tid=611610",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-15T18:39:00",
+            "episode": 2,
+            "score": 8.1237468354,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=609958",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=609959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=609963",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Parasyte - the maxim - 02 (720p) [75E0CA5C].mkv",
+                    "group": "Underwater",
+                    "hash": "75E0CA5C",
+                    "url": "http://www.nyaa.se/?page=download&tid=610033",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[dn92][Underwater] Parasyte - the maxim - 02 [720p][6B45A561].mkv",
+                    "group": "dn92",
+                    "hash": "6B45A561",
+                    "url": "http://tracker.anime-index.org/download.php?id=edeb3fa4bb80bfd82d563f67fd7001bc76874269&f=%5BMinitheatre.org%5D%5Bdn92%5D%5BUnderwater%5D%20Parasyte%20-%20the%20maxim%20-%2002%20%5B720p%5D%5B6B45A561%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_02_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/FE27BC821EDFF3E18FD51C1E485652C715904AC7.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_02_[720p][0401F474].mkv",
+                    "group": "Watashi",
+                    "hash": "0401F474",
+                    "url": "http://www.nyaa.se/?page=download&tid=611611",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kiseijuu_-_Sei_no_Kakuritsu_-_02_[1280x720][A2F55863].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A2F55863",
+                    "url": "http://www.nyaa.se/?page=download&tid=613592",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-22T18:29:00",
+            "episode": 3,
+            "score": 8.097162069,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=613302",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=613305",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=613310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Parasyte - the maxim - 03 (720p) [B86EFA6C].mkv",
+                    "group": "Underwater",
+                    "hash": "B86EFA6C",
+                    "url": "http://www.nyaa.se/?page=download&tid=613377",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_03_[720p][C97FE200].mkv",
+                    "group": "Watashi",
+                    "hash": "C97FE200",
+                    "url": "http://www.nyaa.se/?page=download&tid=613380",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[dn92][Underwater] Parasyte - the maxim - 03 [720p][D8CBDC12].mkv",
+                    "group": "dn92",
+                    "hash": "D8CBDC12",
+                    "url": "http://tracker.anime-index.org/download.php?id=b8a018c91e7938919d1148fe674910baa3d078f6&f=%5BMinitheatre.org%5D%5Bdn92%5D%5BUnderwater%5D%20Parasyte%20-%20the%20maxim%20-%2003%20%5B720p%5D%5BD8CBDC12%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_03_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/52119C38FC334EA035013A3AD053566F0AA34716.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kiseijuu_-_Sei_no_Kakuritsu_-_03_[1280x720][5B53ACDE].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5B53ACDE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHatsuyuki%5D_Kiseijuu_-_Sei_no_Kakuritsu_-_03_%5B1280x720%5D%5B5B53ACDE%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-29T17:29:00",
+            "episode": 4,
+            "score": 8.0061768293,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=616822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=616823",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=616828",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Parasyte - the maxim - 04 (720p) [D4DB1EED].mkv",
+                    "group": "Underwater",
+                    "hash": "D4DB1EED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=616889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_04_[720p][A7E97910].mkv",
+                    "group": "Watashi",
+                    "hash": "A7E97910",
+                    "url": "http://www.nyaa.se/?page=download&tid=616943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[dn92][Underwater] Parasyte - the maxim - 04 [720p][F6EEE1AE].mkv",
+                    "group": "dn92",
+                    "hash": "F6EEE1AE",
+                    "url": "http://tracker.anime-index.org/download.php?id=e608d5762dd39e7c43c19c601a31453a156f0ca9&f=%5BMinitheatre.org%5D%5Bdn92%5D%5BUnderwater%5D%20Parasyte%20-%20the%20maxim%20-%2004%20%5B720p%5D%5BF6EEE1AE%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_04_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/C444FAE6D0380946CC2E9E0F4F29C4E63BE67D83.torrent ",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kiseijuu_-_Sei_no_Kakuritsu_-_04_[1280x720][447EA6AC].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "447EA6AC",
+                    "url": "http://tracker.minglong.org/torrents/%5BHatsuyuki%5D_Kiseijuu_-_Sei_no_Kakuritsu_-_04_%5B1280x720%5D%5B447EA6AC%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-05T17:29:00",
+            "episode": 5,
+            "score": 7.9950274725,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=619721",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=619722",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=619739",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_05_[720p][06FB8820].mkv",
+                    "group": "Watashi",
+                    "hash": "06FB8820",
+                    "url": "http://www.nyaa.se/?page=download&tid=619803",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Parasyte - the maxim - 05 (720p) [94B480C1].mkv",
+                    "group": "Underwater",
+                    "hash": "94B480C1",
+                    "url": "http://www.nyaa.se/?page=download&tid=619855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_05_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/aakajlrh82b3sn6/%28project-gxs%29_Kiseijuu_Sei_No_Kakuritsu_-_05_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Kiseijuu_-_Sei_no_Kakuritsu_-_05_[1280x720][D49D0D3D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D49D0D3D",
+                    "url": "http://tracker.minglong.org/torrents/%5BHatsuyuki%5D_Kiseijuu_-_Sei_no_Kakuritsu_-_05_%5B1280x720%5D%5BD49D0D3D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-12T17:29:00",
+            "episode": 6,
+            "score": 8.1118241206,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=622556",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=622557",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=622563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_06_[720p][4DBE3A1C].mkv",
+                    "group": "Watashi",
+                    "hash": "4DBE3A1C",
+                    "url": "http://www.nyaa.se/?page=download&tid=622613",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Parasyte - the maxim - 06 (720p) [A3E32D68].mkv",
+                    "group": "Underwater",
+                    "hash": "A3E32D68",
+                    "url": "http://www.nyaa.se/?page=download&tid=622654",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-19T17:29:00",
+            "episode": 7,
+            "score": 8.1548983834,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=625140",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=625142",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=625147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_07_[720p][A861D49C].mkv",
+                    "group": "Watashi",
+                    "hash": "A861D49C",
+                    "url": "http://www.nyaa.se/?page=download&tid=625211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Parasyte - the maxim - 07 (720p) [08386AB8].mkv",
+                    "group": "Underwater",
+                    "hash": "08386AB8",
+                    "url": "http://www.nyaa.se/?page=download&tid=625235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_07_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/l56hv721yt7tp4u/%28project-gxs%29_Kiseijuu_Sei_No_Kakuritsu_-_07_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-26T17:29:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=627730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=627732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=627735",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Parasyte - the maxim - 08 (720p) [31F17D16].mkv",
+                    "group": "Underwater",
+                    "hash": "31F17D16",
+                    "url": "http://www.nyaa.se/?page=download&tid=627801",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_08_[720p][D8234E54].mkv",
+                    "group": "Watashi",
+                    "hash": "D8234E54",
+                    "url": "http://www.nyaa.se/?page=download&tid=627802",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_08_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/z9hdfgt5nkeel8a/%28project-gxs%29_Kiseijuu_Sei_No_Kakuritsu_-_08_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-26T17:59:00",
+            "episode": 9,
+            "score": 8.205,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=627742",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=627743",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=627745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_09_[720p][6FDE09D8].mkv",
+                    "group": "Watashi",
+                    "hash": "6FDE09D8",
+                    "url": "http://www.nyaa.se/?page=download&tid=627803",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Parasyte - the maxim - 09 (720p) [43FD80FC].mkv",
+                    "group": "Underwater",
+                    "hash": "43FD80FC",
+                    "url": "http://www.nyaa.se/?page=download&tid=627828",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_09_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/epjiler24z9pt99/%28project-gxs%29_Kiseijuu_Sei_No_Kakuritsu_-_09_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-03T17:29:00",
+            "episode": 10,
+            "score": 8.1645226337,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=630398",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=630399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=630400",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_-_10_[720p][E24FF37F].mkv",
+                    "group": "Watashi",
+                    "hash": "E24FF37F",
+                    "url": "http://www.nyaa.se/?page=download&tid=630487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Parasyte - the maxim - 10 (720p) [FF56CD07].mkv",
+                    "group": "Underwater",
+                    "hash": "FF56CD07",
+                    "url": "http://www.nyaa.se/?page=download&tid=630563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Kiseijuu_Sei_No_Kakuritsu_-_10_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/lil3u5zcl2smcad/%28project-gxs%29_Kiseijuu_Sei_No_Kakuritsu_-_10_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-10T17:29:00",
+            "episode": 11,
+            "score": 8.2223818526,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=633153",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=633154",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=633159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Watashi]_Parasyte_-_the_maxim_11_[720p][98D5B7B4].mkv",
+                    "group": "Watashi",
+                    "hash": "98D5B7B4",
+                    "url": "http://www.nyaa.se/?page=download&tid=633199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Parasyte - the maxim - 11 (720p) [249EC532].mkv",
+                    "group": "Underwater",
+                    "hash": "249EC532",
+                    "url": "http://www.nyaa.eu/?page=download&tid=633417",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-24T17:29:00",
+            "episode": 12,
+            "score": 8.2757068063,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=638198",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=638201",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Parasyte - the maxim - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=638202",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2015-01-07T17:29:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-14T17:29:00",
+            "episode": 14,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-21T17:29:00",
+            "episode": 15,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-28T17:29:00",
+            "episode": 16,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-04T17:29:00",
+            "episode": 17,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-11T17:29:00",
+            "episode": 18,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-18T17:29:00",
+            "episode": 19,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-25T17:29:00",
+            "episode": 20,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-04T17:29:00",
+            "episode": 21,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-11T17:29:00",
+            "episode": 22,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-18T17:29:00",
+            "episode": 23,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-25T17:29:00",
+            "episode": 24,
+            "score": 0.0,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10272,
+        "ann": 15855,
+        "mal": 22535,
+        "schedule": 3551
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Parasyte centers around a 17-year-old teen named Shinichi Izumi, who lives with his mother and father in a quiet neighborhood in Tokyo. One night, worm-like aliens called Parasites invade Earth, taking over the brains of human hosts by entering through their ears or noses. One Parasite attempts to crawl into Shinichi's ear while he sleeps, but fails as Shinichi is wearing headphones, and enters his body by burrowing into his arm instead. In the Japanese version, it takes over his right hand and is named Migi (\u30df\u30ae\u30fc?), after the Japanese word for 'right'; Tokyopop's version, in which the images are flipped horizontally, has the Parasite take over Shinichi's left hand and it is named Lefty. Because Shinichi was able to prevent Migi from travelling further up into his brain, both beings retain their separate intellect and personality. As the duo encounter other Parasites, they capitalize on their strange situation and gradually form a strong bond, working together to survive. This gives them an edge in battling other Parasites who frequently attack the pair upon realization that Shinichi's human brain is still intact. Shinichi feels compelled to fight other Parasites, who devour humans as food, while enlisting Migi's help.",
+            "type": "wiki"
+        },
+        {
+            "content": "Shinichi Izumi is a normal high school boy whose right hand has become infected with an alien parasite that names itself \"Migi\" (\"right\"). Migi is the first parasite to develop a symbiotic relationship with its host, as he and Shinichi slowly develop a grudging friendship. Migi isn't the only Parasite on earth, however, and as cases of Parasites killing humans begin to emerge, humans seek to kill off Parasites. Shinichi and Migi find themselves caught in between these two sides of the struggle over planet earth.",
+            "type": "ann"
+        },
+        {
+            "content": "* Based on Iwaaki Hitoshi's science-fiction horror manga by the same name.The 17-year-old Izumi Shinichi lives with his mother and father in a quiet neighborhood in Tokyo. One night, worm-like aliens called Parasytes invade Earth, taking over the brains of human hosts by entering through their ears or noses. One Parasytes attempts to crawl into Shinichi's ear while he sleeps, but fails since he is wearing headphones, and enters his body by burrowing into his arm instead, taking over his right hand and is named Migi.Because Shinichi was able to prevent Migi from travelling further up into his brain, both beings retain their separate intellect and personality. As the duo encounter other Parasytes, they capitalize on their strange situation and gradually form a strong bond, working together to survive. This gives them an edge in battling other Parasytes who frequently attack the pair upon realization that Shinichi's human brain is still intact. Shinichi feels compelled to fight other Parasytes, who devour humans as food, while enlisting Migi's help.Source: Wikipedia",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 311,
+            "date": "2014-12-31T03:05:31",
+            "score": 8.31,
+            "type": "anidb"
+        },
+        {
+            "count": 262,
+            "date": "2014-12-19T03:05:03",
+            "score": 8.235,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Kiseijuu: Sei no Kakuritsu"
+}

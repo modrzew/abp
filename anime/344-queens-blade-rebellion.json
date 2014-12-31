@@ -1,0 +1,590 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30af\u30a4\u30fc\u30f3\u30ba\u30d6\u30ec\u30a4\u30c9 \u30ea\u30d9\u30ea\u30aa\u30f3"
+        },
+        {
+            "language": "pl",
+            "title": "Ostrze Kr\u00f3lowej: Rebelia"
+        }
+    ],
+    "aliases": [
+        "Queen`s Blade ~Rebellion~ #",
+        "Queen's Blade Rebellion"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-04-02T03:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-XHD 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NSFW]_Queen`s_Blade_~Rebellion~_#01v3_(AT-XHD_1280x720_x264_AAC).mkv",
+                    "group": "NSFW",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304127",
+                    "version": 3
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 0,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 01 (AT-X) [318DC6C1].mkv",
+                    "group": "OhShit",
+                    "hash": "318DC6C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307985",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-09T03:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306270",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306271",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 1,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 02 (AT-X) [5D77B9F3].mkv",
+                    "group": "OhShit",
+                    "hash": "5D77B9F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306566",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-16T03:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308555",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308557",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308558",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 0,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 03 (AT-X) [C25043D8].mkv",
+                    "group": "OhShit",
+                    "hash": "C25043D8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308877",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-23T03:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 1,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 04 (AT-X) [D08323E4].mkv",
+                    "group": "OhShit",
+                    "hash": "D08323E4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310897",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-30T03:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312979",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 1,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 05 (AT-X) [87A0A823].mkv",
+                    "group": "OhShit",
+                    "hash": "87A0A823",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313009",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-07T03:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314810",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 1,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 06 (AT-X) [E41D3C2D].mkv",
+                    "group": "OhShit",
+                    "hash": "E41D3C2D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314821",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-14T03:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316773",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316775",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316779",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 2,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 07 (AT-X) [D7668C12].mkv",
+                    "group": "OhShit",
+                    "hash": "D7668C12",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316912",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-21T03:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318878",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318879",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 3,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 08 (AT-X) [B94C1A79].mkv",
+                    "group": "OhShit",
+                    "hash": "B94C1A79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318914",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-28T03:00:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320847",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320848",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320849",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 1,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 09 (AT-X) [749F4096].mkv",
+                    "group": "OhShit",
+                    "hash": "749F4096",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321025",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-04T03:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322864",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322865",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322866",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 1,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 10 (AT-X) [B9E087CA].mkv",
+                    "group": "OhShit",
+                    "hash": "B9E087CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322916",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 1,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 10v2 (AT-X) [316D1E3B].mkv",
+                    "group": "OhShit",
+                    "hash": "316D1E3B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323037",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-06-11T03:00:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324596",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324597",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 3,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 11 (AT-X) [169A349E].mkv",
+                    "group": "OhShit",
+                    "hash": "169A349E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324640",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-18T03:00:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Queen's Blade Rebellion - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326570",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 0,
+                    "filename": "[OhShit] Queen's Blade Rebellion - 12 (AT-X) [1A76B3F0].mkv",
+                    "group": "OhShit",
+                    "hash": "1A76B3F0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326613",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8737,
+        "ann": 13747,
+        "mal": 11859,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 1349,
+            "date": "2012-09-29T14:09:27",
+            "score": 6.68,
+            "type": "mal"
+        },
+        {
+            "count": 130,
+            "date": "2012-09-29T14:09:27",
+            "score": 6.03,
+            "type": "anidb"
+        },
+        {
+            "count": 117,
+            "date": "2012-09-29T14:09:27",
+            "score": 5.853,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "89",
+    "title": "Queen's Blade: Rebellion"
+}

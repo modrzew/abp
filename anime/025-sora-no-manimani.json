@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5b99\u306e\u307e\u306b\u307e\u306b"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6398,
+        "ann": 10652,
+        "mal": 6098,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Historia m\u0142odego ch\u0142opaka, kt\u00f3ry zostaje wci\u0105gni\u0119ty przez dawn\u0105 znajom\u0105 do wsp\u00f3\u0142tworzenia klubu astronomicznego.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on the manga by Kashiwabara Mami.Ooyagi Saku returns to his old town after seven years and becomes reacquainted with a childhood friend, the ever-boisterous Akeno Mihoshi; but the reunion is far from merry since his last piece of memory between them is of her falling off a tree and him diving to save her. Regardless, Mihoshi focuses her all into improving their tattered relationship and forces Saku to join her astronomy club.Source: Mangaupdates",
+            "type": "anidb"
+        },
+        {
+            "content": "Saku Ooyagi returns to his hometown after seven years and is soon reacquainted with his childhood friend, Mihoshi Akeno. The reunion is far from merry since the last memory they have of each other is of her falling off a tree and him saving her. In any case, Mihoshi is determined to improve their relationship and forces Saku to join the astronomy club she founded.",
+            "type": "mal"
+        },
+        {
+            "content": "Sakura Ooyagi returns to his old hometown in order to start school at S\u014dei High School. On the first day, he runs into an old childhood friend: a junior named Mihoshi Akeno. As children, the two used to play together, with Mihoshi, or Mii-chan, being extremely fond of astronomy. After convincing Sakura to join the school's astronomy club, another girl, Hime Makita, joins the club in hopes of winning over Sakura. The anime tells the story of the 6 club members as they soar through their lives, each maturing and changing their outlooks on life.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7594,
+            "date": "2012-09-29T02:04:47",
+            "score": 7.35,
+            "type": "mal"
+        },
+        {
+            "count": 907,
+            "date": "2012-09-29T02:04:47",
+            "score": 7.21,
+            "type": "anidb"
+        },
+        {
+            "count": 494,
+            "date": "2012-09-29T02:04:47",
+            "score": 7.25,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Sora no Manimani"
+}

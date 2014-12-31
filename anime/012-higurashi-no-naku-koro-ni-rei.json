@@ -1,0 +1,57 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b\u793c"
+        },
+        {
+            "language": "pl",
+            "title": "Gdy Cykady P\u0142acz\u0105: Podzi\u0119kowanie"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 5,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 5634,
+        "ann": 9199,
+        "mal": 3652,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Odcinek 1: fanserwis. Odcinki 2 do 4: powa\u017cna fabu\u0142a. Odcinek 5: WSZYSTKIEGO PR\u00d3CZ FABU\u0141Y PO TROCHU.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 26956,
+            "date": "2012-09-29T02:01:01",
+            "score": 7.74,
+            "type": "mal"
+        },
+        {
+            "count": 1562,
+            "date": "2012-09-29T02:01:01",
+            "score": 7.44,
+            "type": "anidb"
+        },
+        {
+            "count": 1463,
+            "date": "2012-09-29T02:01:01",
+            "score": 7.38,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Higurashi no Naku Koro ni Kai",
+    "title": "Higurashi no Naku Koro ni Rei"
+}

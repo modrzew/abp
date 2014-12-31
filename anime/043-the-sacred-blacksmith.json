@@ -1,0 +1,69 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u8056\u5263\u306e\u5200\u935b\u51b6"
+        },
+        {
+            "language": "pl",
+            "title": "Przenaj\u015bwi\u0119tszy Kowal"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6546,
+        "ann": 10874,
+        "mal": 5940,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Przygody m\u0142odej dziewczyny z du\u017cymi cyckami, kt\u00f3ra nic nie umie, badassa z katanami, jego elfiej pomocnicy robi\u0105cej te katany i ich przyjaci\u00f3\u0142.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on the light novel series by Miura Isao.The story takes place after an abominable war that foisted a \"Devil Contract\" upon a land. Cecily Cambell, a former noble's daughter who joined a knighthood, encounters a man who dispatches some hoodlums with one sweep of a mysterious sword. The man possesses the power of the same \"Devil Contract\" that has become taboo, now that peace has been restored. Cecily has been searching for a blacksmith who can repair an old sword she inherited from her father, and that mysterious young man happens to be blacksmith named Luke. This encounter launches their adventures together.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "Once upon a time, there was a tragic war, in which the power of the devils was involved. After the war, the devils&#039; power was banned and the world was restored to peace. Cecily Campbell is a knight, who has been looking for a blacksmith to repair her old sword given by her father. One day, she saw a man fighting with a ruffian who used the tabooed devil&#039;s power. The man defeated him with one blow of his weirdly shaped sword. The man turned out to be a blacksmith called Luke. The fateful encounter was the beginning of the adventure.",
+            "type": "mal"
+        },
+        {
+            "content": "As the newest head of the prestigious Campbell household, young Cecily Campbell is following family tradition by becoming a Knight Guard of the Independent Trade City of Housman and taking up the family sword. While being attacked by a crazed veteran knight, she was saved by Luke, the Sacred Blacksmith. Alongside Lisa, his assistant, Luke has the power to forge powerful swords capable of defeating the so feared demons\u2014demons which could once again bring the world close to an end.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 18717,
+            "date": "2012-09-29T02:10:35",
+            "score": 6.99,
+            "type": "mal"
+        },
+        {
+            "count": 1606,
+            "date": "2012-09-29T02:10:35",
+            "score": 6.53,
+            "type": "anidb"
+        },
+        {
+            "count": 1554,
+            "date": "2012-09-29T02:10:35",
+            "score": 6.789,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "The Sacred Blacksmith"
+}

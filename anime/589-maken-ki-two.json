@@ -1,0 +1,483 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30de\u30b1\u30f3\u59eb\u3063! \u901a"
+        }
+    ],
+    "aliases": [
+        "Maken-ki! Two"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-01-15T17:30:00",
+            "episode": 1,
+            "score": 5.42,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512502",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512503",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Maken-Ki! Two - 01 (720p) [3F11B50A].mkv",
+                    "group": "SubDESU",
+                    "hash": "3F11B50A",
+                    "url": "http://www.anirena.com/dl/6605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_01_[1280x720][F7B896A2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F7B896A2",
+                    "url": "http://www.nyaa.se/?page=download&tid=513373",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_01v2_[1280x720][CBC0234A].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CBC0234A",
+                    "url": "http://www.nyaa.se/?page=download&tid=515703",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-01-22T17:30:00",
+            "episode": 2,
+            "score": 5.5,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515080",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515081",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Maken-Ki! Two - 02 (720p) [CB7867A0].mkv",
+                    "group": "SubDESU",
+                    "hash": "CB7867A0",
+                    "url": "http://www.anirena.com/dl/6760",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_02_[10bit][1280x720][CDF80C72].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CDF80C72",
+                    "url": "http://www.nyaa.se/?page=download&tid=516045",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-29T17:30:00",
+            "episode": 3,
+            "score": 5.44,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517669",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Maken-Ki! Two - 03 (720p) [120E41A2].mkv",
+                    "group": "SubDESU",
+                    "hash": "120E41A2",
+                    "url": "http://www.anirena.com/dl/6870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_03_[10bit][1280x720][F1909D75].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F1909D75",
+                    "url": "http://www.nyaa.se/?page=download&tid=519546",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-05T17:30:00",
+            "episode": 4,
+            "score": 5.44,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520122",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SubDESU] Maken-Ki! Two - 04 (720p) [2719AF99].mkv",
+                    "group": "SubDESU",
+                    "hash": "2719AF99",
+                    "url": "http://www.anirena.com/dl/7023",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_04_[10bit][1280x720][5688F752].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5688F752",
+                    "url": "http://www.nyaa.se/?page=download&tid=522879",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-12T17:30:00",
+            "episode": 5,
+            "score": 5.51,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522425",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522426",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_05_[10bit][1280x720][90B2D13E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "90B2D13E",
+                    "url": "http://www.nyaa.se/?page=download&tid=523510",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Maken-Ki! Two - 05 (720p) [503DD2D3].mkv",
+                    "group": "SubDESU",
+                    "hash": "503DD2D3",
+                    "url": "http://www.anirena.com/dl/7246",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-19T17:30:00",
+            "episode": 6,
+            "score": 5.51,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524769",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524771",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Maken-Ki! Two - 06 (720p) [5FD9DBA8].mkv",
+                    "group": "SubDESU",
+                    "hash": "5FD9DBA8",
+                    "url": "http://www.anirena.com/dl/7350",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_06_[10bit][1280x720][75E86434].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "75E86434",
+                    "url": "http://www.nyaa.se/?page=download&tid=525557",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-26T17:30:00",
+            "episode": 7,
+            "score": 5.6,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527119",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527122",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Maken-Ki! Two - 07 (720p) [96A157E0].mkv",
+                    "group": "SubDESU",
+                    "hash": "96A157E0",
+                    "url": "http://www.anirena.com/dl/7484",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_07_[10bit][1280x720][F7405E08].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F7405E08",
+                    "url": "http://www.nyaa.se/?page=download&tid=528302",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-05T17:30:00",
+            "episode": 8,
+            "score": 5.43,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529524",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529525",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Maken-Ki! Two - 08 (720p) [6A211E33].mkv",
+                    "group": "SubDESU",
+                    "hash": "6A211E33",
+                    "url": "http://www.anirena.com/dl/7612",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_08_[10bit][1280x720][86A269EA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "86A269EA",
+                    "url": "http://www.nyaa.se/?page=download&tid=533250",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-12T17:30:00",
+            "episode": 9,
+            "score": 5.46,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531880",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Maken-Ki! Two - 09 (720p) [49254117].mkv",
+                    "group": "SubDESU",
+                    "hash": "49254117",
+                    "url": "http://www.anirena.com/dl/7755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_09_[10bit][1280x720][A313258D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A313258D",
+                    "url": "http://www.nyaa.se/?page=download&tid=533412",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-19T17:30:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534005",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Maken-ki! Two - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534006",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Maken-ki!_Two_-_10_[10bit][1280x720][9264FAF0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9264FAF0",
+                    "url": "http://www.nyaa.se/?page=download&tid=536195",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Maken-Ki! Two - 10v2 (720p) [F9675FA4].mkv",
+                    "group": "SubDESU",
+                    "hash": "F9675FA4",
+                    "url": "http://www.anirena.com/dl/7937",
+                    "version": 2
+                }
+            ]
+        }
+    ],
+    "episodes_count": 10,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9406,
+        "ann": 15335,
+        "mal": 15565,
+        "schedule": 3249
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on a manga by Takeda Hiromitsu formerly serialised in Dragon Age Pure, but moved to Gekkan Dragon Age when the magazine was cancelled.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 41,
+            "date": "2014-03-13T05:30:56",
+            "score": 5.46,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": true,
+    "sequel_parent": "297",
+    "title": "Maken-ki! Two"
+}

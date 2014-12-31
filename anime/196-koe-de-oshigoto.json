@@ -1,0 +1,221 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3053\u3048\u3067\u304a\u3057\u3054\u3068!"
+        },
+        {
+            "language": "pl",
+            "title": "Pracuj\u0105c G\u0142osem!"
+        }
+    ],
+    "aliases": [
+        "Koe de Oshigoto ",
+        "Koe De Oshigoto!"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/217710539",
+            "content": "#anime #Jesie\u01442010 Koe de Oshigoto! (\u3053\u3048\u3067\u304a\u3057\u3054\u3068!) http://rdir.pl/12dx25",
+            "episode": 1,
+            "filename": "57303e0fff347eb376aeec17abb3a043.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/5390966294843392"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-11-16T23:00:00",
+            "episode": 1,
+            "score": 7.7490032859,
+            "torrents": []
+        },
+        {
+            "date": "2011-04-29T23:00:00",
+            "episode": 2,
+            "score": 7.7235607683,
+            "torrents": [
+                {
+                    "additional_info": "[BD 1920x1080 x264 FLAC]",
+                    "download_count": 4,
+                    "filename": "[Ayako-Nishishi-Eechi] Koe De Oshigoto! - 02 (BD 1920x1080 x264 FLAC)[6A56C808].mkv",
+                    "group": "Ayako-Nishishi-Eechi",
+                    "hash": "6A56C808",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213193",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD 1280x720 H264 AC3]",
+                    "download_count": 5,
+                    "filename": "[Ayako-Nishishi-Eechi] Koe De Oshigoto! - 02 (BD 1280x720 H264 AC3)[E71E7BCD].mkv",
+                    "group": "Ayako-Nishishi-Eechi",
+                    "hash": "E71E7BCD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213298",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BDRip 720p]",
+                    "download_count": 5,
+                    "filename": "[GotWoot]_Koe_de_Oshigoto_02_[BDRip_720p][9B8B1BE2].mkv",
+                    "group": "GotWoot",
+                    "hash": "9B8B1BE2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215389",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 2,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 7625,
+        "ann": 11670,
+        "mal": 8876,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4e817b0caa18392666e509601b0dc885.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/58e5625e393985c6ff7315874421e3a5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/27340f63702dc002c347bc19221c68fc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6aa22434a7d0d3726f1ec2dba3b939cc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/14eb373833963493fa3de8517ca21685.jpg",
+            "hd": false
+        },
+        {
+            "description": "Uczmy si\u0119 japo\u0144skiego z anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9b4ef8c43d06ca440810997f222560f6.jpg",
+            "hd": false
+        },
+        {
+            "description": "T\u0119czowa pa\u0142a, tego tylko nam brakowa\u0142o",
+            "filename": "http://s.modriv.net/abp/images/screencaps/954bcacc553950d8dd232dfa954374df.jpg",
+            "hd": false
+        },
+        {
+            "description": "DAZZLING THE STAGE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/58eb09051093a4adb5debb65907c96b9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bce9fb4e4260a5c8001e635d5e378633.jpg",
+            "hd": false
+        },
+        {
+            "description": "Lekcja 2!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/af22a4557902da3acb6572b6b6c3a881.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f720aa529df2dc6a626d0f57ecae2cdc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/82d8af845c6c1adaa9cbbe08c1ca3d8a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7abe4d673739aeb6b1473d867352f31.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d710dc65486e8a88f5b48a1d2530b93.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jak my\u015blicie, co to jest? (podpowied\u017a: nie, to nie s\u0105 \u017celki)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7468da3d96eec399d35b2eb4d21f983c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/18f6ebfa52566a211f8ca8289572b2cc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f440b6a3cfe286720a90f23e12d47cbf.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Koe de Oshigoto! (\u3053\u3048\u3067\u304a\u3057\u3054\u3068!) http://rdir.pl/12dx25",
+            "filename": "http://s.modriv.net/abp/images/screencaps/57303e0fff347eb376aeec17abb3a043.jpg",
+            "hd": false
+        },
+        {
+            "description": "KIN\u00d3WKA NAJLEPSZEGO ANIME MUZYCZNEGO 2009?!?!?!???",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5514deb5e89d4604d2c0c352346da0f6.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142oda niewiasta zostaje wrobiona przez swoj\u0105 siostr\u0119 w podk\u0142adanie g\u0142osu do eroge. W trakcie jednej z sesji nagraniowych okazuje si\u0119, \u017ce posiada niespotykan\u0105 supermoc: potrafi dosta\u0107 orgazmu korzystaj\u0105c jedynie ze spro\u015bnych d\u017awi\u0119k\u00f3w i w\u0142asnej wyobra\u017ani.",
+            "type": "abp"
+        },
+        {
+            "content": "Koe de Oshigoto! is a story about Aoyagi Kanna, a 16 year-old girl who was asked to become an erotic game voice actress on her 16th birthday by her 28 year-old sister at her company.    (Source: MU)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on a seinen manga by Konno Azure serialised in Comic Gum.The story is about Aoyagi Kanna, a 16-year-old girl, who was asked to become an eroge seiyuu (voice actress for erotic games) on her 16th birthday by her 28-year-old sister, Yayoi, at her eroge company. She disagreed at first, but after thinking about all the things her sister did for her she finally agreed. But as high school student, knowing nothing about eroge, is this actually the right job for her?",
+            "type": "anidb"
+        },
+        {
+            "content": "On her 16th birthday Kanna Aoyagi is asked by her 28-year-old sister Yayoi to become an eroge seiy\u016b (erotic game voice actress) at her sister's eroge company. Kanna disagrees at first, but after she thinks about all the things her sister has done for her she finally relents. But being a high school student and knowing nothing about eroge, can she do the job properly\u2026",
+            "type": "ann"
+        },
+        {
+            "content": "Koe de Oshigoto! is a story about Kanna Aoyagi, a 16 year-old girl who was asked to become an eroge voice actress on her 16th birthday by her 28 year-old sister. She didn't want to at first, but after she thought about all of the things her sister did for her when she was growing up, and knowing that she owed her sister, she finally agreed. But being a high school student and knowing nothing about eroge, or erotic video games, can she do the job properly?",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7848,
+            "date": "2012-09-29T13:06:59",
+            "score": 7.52,
+            "type": "mal"
+        },
+        {
+            "count": 612,
+            "date": "2012-09-29T13:06:59",
+            "score": 7.3,
+            "type": "anidb"
+        },
+        {
+            "count": 337,
+            "date": "2012-09-29T13:06:59",
+            "score": 7.316,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Koe de Oshigoto!"
+}

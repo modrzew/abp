@@ -1,0 +1,136 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u84bc\u3044\u4e16\u754c\u306e\u4e2d\u5fc3\u3067"
+        },
+        {
+            "language": "pl",
+            "title": "W P\u0119pku Niebieskiego \u015awiata"
+        }
+    ],
+    "aliases": [
+        "Aoi Sekai no Chuushin de"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-10-20T15:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Aoi Sekai no Chuushin de - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Aoi Sekai no Chuushin de - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364587",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Aoi Sekai no Chuushin de - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364591",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-27T15:00:00",
+            "episode": 2,
+            "score": 6.2602205882,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Aoi Sekai no Chuushin de - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Aoi Sekai no Chuushin de - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387353",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Aoi Sekai no Chuushin de - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387354",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 3,
+    "episodes_length": 25,
+    "external_sites": {
+        "anidb": 9091,
+        "ann": 14778,
+        "mal": 15133,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Segua Kingdom has been losing the war against Ninterdo Empire but the tables are turned by the appearance of a boy called Gear. All the characters are parodies of Nintendo or Sega games such as Sonic the Hedgehog, Super Mario Bros., The Legend of Zelda etc.",
+            "type": "mal"
+        },
+        {
+            "content": "All the characters are parodies of Nintendo or Sega games such as Sonic the Hedgehog, Super Mario Bros., The Legend of Zelda etc. Segua Kingdom has been losing the war against Ninterdo Empire but the tables are turned by the appearance of a boy called Gear (a parody of Sonic the Hedgehog).",
+            "type": "anidb"
+        },
+        {
+            "content": "In the battle between parodical Segua (Sega) Kingdom and Ninterdo (Nintendo) Empire, the light-footed Gear (Sonic) appeared to defend his kingdom from the threat of Ninterdo's powerful emperor, Marcus (Mario).",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 1936,
+            "date": "2013-01-15T03:31:42",
+            "score": 6.35,
+            "type": "mal"
+        },
+        {
+            "count": 74,
+            "date": "2013-01-15T03:31:42",
+            "score": 4.63,
+            "type": "anidb"
+        },
+        {
+            "count": 108,
+            "date": "2013-01-15T03:31:42",
+            "score": 5.318,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Aoi Sekai no Chuushin de"
+}

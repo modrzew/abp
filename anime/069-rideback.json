@@ -1,0 +1,69 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30e9\u30a4\u30c9\u30d0\u30c3\u30af"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6235,
+        "ann": 8049,
+        "mal": 4618,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "\u015aredniostare dziewcz\u0119 (w wieku studenckim) utalentowane w ta\u0144cu w wyniku pewnego zbiegu okoliczno\u015bci zaczyna <del>je\u017adzi\u0107</del> ta\u0144czy\u0107 na motomechu - tytu\u0142owym RideBacku.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a manga by Kasahara Tetsurou.In a future world where an organization called the GGP has taken control of the world, Ogata Rin was a promising up-and-comming ballet dancer, but suffered a serious injury and decided to quit. Years later in college she comes across a club building and soon finds herself intrigued by a transforming motorcycle like vehicle called a Rideback. She discovers that her unique ballet skills with balance and finesse make her a born natural on a Rideback. However, those same skills also get her into serious trouble with the government.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "Ride Back is about a girl who is the daughter of a famous dancer. During one of her performances she falls and then quits her dancing career. Some time later when she joins the Theatrical Academy, she finds out about a Ride Back club and then rides the bike to waste some time because of the very rainy weather outside. But something is wrong with the bike and she loses control. While trying to stop she finds out that the bike responds to her movements. She is able to sort of dance with the bike and gets inspired by it.",
+            "type": "mal"
+        },
+        {
+            "content": "In a future world where an organization called the GGP has taken control of the world, Rin Ogata was a promising up-and-comming ballet dancer, but suffered a serious injury and decided to quit. Years later in college she comes across a club building and soon finds herself intrigued by a transforming motorcycle like vehicle called a Rideback. She discovers that her unique ballet skills with balance and finesse make her a born natural on a Rideback. However, those same skills also get her into serious trouble with the government.",
+            "type": "ann"
+        },
+        {
+            "content": "In the future, an organization called the GGP has taken control of the world. Rin Ogata was a promising up-and-coming ballet dancer, but suffered a serious injury while dancing and decided to quit. Years later in college, she comes across a club building and soon finds herself intrigued by a transforming motorcycle-like robotic vehicle called a \"Rideback\". She soon finds that her unique ballet skills with balance and finesse make her a born natural on a Rideback.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 10349,
+            "date": "2012-09-29T02:17:58",
+            "score": 7.5,
+            "type": "mal"
+        },
+        {
+            "count": 2101,
+            "date": "2012-09-29T02:17:58",
+            "score": 7.74,
+            "type": "anidb"
+        },
+        {
+            "count": 2103,
+            "date": "2012-09-29T02:17:58",
+            "score": 7.858,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "RideBack"
+}

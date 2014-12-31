@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u92fc\u6bbb\u306e\u30ec\u30ae\u30aa\u30b9"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 5911,
+        "ann": 10243,
+        "mal": 4186,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on a light novel series by Amagi Shuusuke, illustrated by Miyuu.In the distant future, a polluted world has been overtaken by havoc-wreaking creatures called filth monsters. Humanity, having been forced to relocate itself, must live in isolated mobile cities called Regios. A mysteriously skilled fighter named Layfon Alseif enrolls in the Academy city of Zuellni and is immediately noticed by Nina Antalk, leader of the 17th Military Arts Unit. He then reluctantly joins her squad, uncertain of what future awaits him and his new teammates within the city as well as the impending dangers in the midst of a plagued world.",
+            "type": "anidb"
+        },
+        {
+            "content": "In a post-apocalyptic world overrun with mutated beasts called Limbeekoon or Filth Monsters, humanity is forced to live in large mobile cities called Regios and learn to use special weapons called Dite, by harnessing the power of Kei to defend themselves. In the Academy City of Zuellni, Layfon Alseif is hoping to start a new life and forget his past. However, his past has caught the attention of Karian Loss, the manipulative Student Council President and Nina Antalk, a Military Arts student and Captain of the 17th Military Arts Platoon, who instantly recognizes his abilities and decides he&rsquo;s the perfect candidate to join her group. However, with a secret past that won&rsquo;t leave him alone and unknown powers beyond normal, Layfon just might not take it.",
+            "type": "mal"
+        },
+        {
+            "content": "In the distant future, a polluted world has been overtaken by havoc-wreaking creatures called filth monsters. Humanity, having been forced to relocate itself, must live in isolated mobile cities called Regios. A mysteriously skilled fighter named Layfon Alseif enrolls in the Academy city of Zuellni and is immediately noticed by Nina Antalk, leader of the 17th Military Arts Unit. He then reluctantly joins her squad, uncertain of what future awaits him and his new teammates within the city as well as the impending dangers in the midst of a plagued world.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 21923,
+            "date": "2012-09-29T02:17:41",
+            "score": 7.74,
+            "type": "mal"
+        },
+        {
+            "count": 2311,
+            "date": "2012-09-29T02:17:41",
+            "score": 7.66,
+            "type": "anidb"
+        },
+        {
+            "count": 1877,
+            "date": "2012-09-29T02:17:41",
+            "score": 7.812,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Chrome Shelled Regios"
+}

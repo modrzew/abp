@@ -1,0 +1,142 @@
+{
+    "additional_titles": [],
+    "aliases": [
+        "Black Lagoon OVA - Roberta's Blood Trail",
+        "Black Lagoon - Roberta's Blood Trail OVA ",
+        "Black Lagoon - Roberta's Blood Trail "
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2010-06-27T00:00:00",
+            "episode": 1,
+            "score": 8.5026882227,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-08T00:00:00",
+            "episode": 2,
+            "score": 8.4615629877,
+            "torrents": [
+                {
+                    "additional_info": "[BD][480p]",
+                    "download_count": 3,
+                    "filename": "[TastyMelon] Black Lagoon OVA - Roberta\\'s Blood Trail - 02 [BD][480p][2171CC3B].mkv",
+                    "group": "TastyMelon",
+                    "hash": "2171CC3B",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166069",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][720p]",
+                    "download_count": 4,
+                    "filename": "[TastyMelon] Black Lagoon OVA - Roberta\\'s Blood Trail - 02 [BD][720p][CA3E3178].mkv",
+                    "group": "TastyMelon",
+                    "hash": "CA3E3178",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166070",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][1080p]",
+                    "download_count": 4,
+                    "filename": "[TastyMelon] Black Lagoon OVA - Roberta\\'s Blood Trail - 02 [BD][1080p][932E5936].mkv",
+                    "group": "TastyMelon",
+                    "hash": "932E5936",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166071",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD480p]",
+                    "download_count": 1,
+                    "filename": "[AL-TTZ]Black Lagoon - Roberta\\'s Blood Trail OVA 02[BD480p][338C640D].mkv",
+                    "group": "AL-TTZ",
+                    "hash": "338C640D",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168988",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD720p]",
+                    "download_count": 1,
+                    "filename": "[AL-TTZ]Black Lagoon - Roberta\\'s Blood Trail OVA 02[BD720p][919BBDAD].mkv",
+                    "group": "AL-TTZ",
+                    "hash": "919BBDAD",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168989",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD1080p]",
+                    "download_count": 1,
+                    "filename": "[AL-TTZ]Black Lagoon - Roberta\\'s Blood Trail OVA 02[BD1080p][43109BC9].mkv",
+                    "group": "AL-TTZ",
+                    "hash": "43109BC9",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Doutei]Black Lagoon - Roberta\\'s Blood Trail 02 [68286CEA].mkv",
+                    "group": "Doutei",
+                    "hash": "68286CEA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169726",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-06T23:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2011-03-01T23:00:00",
+            "episode": 4,
+            "score": 8.4996892631,
+            "torrents": []
+        },
+        {
+            "date": "2011-06-22T00:00:00",
+            "episode": 5,
+            "score": 8.5029119134,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 5,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 6645,
+        "ann": 10166,
+        "mal": 4901,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 15224,
+            "date": "2012-09-29T13:06:35",
+            "score": 8.22,
+            "type": "mal"
+        },
+        {
+            "count": 1556,
+            "date": "2012-09-29T13:06:35",
+            "score": 8.11,
+            "type": "anidb"
+        },
+        {
+            "count": 968,
+            "date": "2012-09-29T13:06:35",
+            "score": 8.103,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "Black Lagoon: The Second Barrage",
+    "title": "Black Lagoon: Roberta's Blood Trail"
+}

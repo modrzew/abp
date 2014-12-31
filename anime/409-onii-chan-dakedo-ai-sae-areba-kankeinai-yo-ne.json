@@ -1,0 +1,922 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u304a\u5144\u3061\u3083\u3093\u3060\u3051\u3069\u611b\u3055\u3048\u3042\u308c\u3070\u95a2\u4fc2\u306a\u3044\u3088\u306d\u3063"
+        },
+        {
+            "language": "pl",
+            "title": "I Co z Tego, \u017ce to M\u00f3j Braciszek? I Tak Go Kocham!"
+        }
+    ],
+    "aliases": [
+        "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!",
+        "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-10-05T16:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Coppola] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 01 [C1B03588].mkv",
+                    "group": "Coppola",
+                    "hash": "C1B03588",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Coppola-Modified]",
+                    "download_count": 6,
+                    "filename": "[ReinWeiss] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 01 [Coppola-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359556",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01v0 (1280x720 h264 AAC) [5752618E].mkv",
+                    "group": "Doki",
+                    "hash": "5752618E",
+                    "url": "http://tracker.anime-index.org/download.php?id=7d1a86ef788ded5d5876c8268409661e7ccb7cb4&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+01v0+%281280x720+h264+AAC%29+%5B5752618E%5D.mkv.torrent",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01 (1280x720 Hi10P AAC) [B66EEF09].mkv",
+                    "group": "Doki",
+                    "hash": "B66EEF09",
+                    "url": "http://tracker.anime-index.org/download.php?id=415f173c5a8dd5def4c1f5f2103e88af4b3a3cf3&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+01+%281280x720+Hi10P+AAC%29+%5BB66EEF09%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01 (848x480 h264 AAC) [1AC40C60].mkv",
+                    "group": "Doki",
+                    "hash": "1AC40C60",
+                    "url": "http://tracker.anime-index.org/download.php?id=56ba3fcf01abbb033880c0b4d2bd6ce614afef30&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+01+%28848x480+h264+AAC%29+%5B1AC40C60%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 01 [Hi10P 1280x720 H264] [D60E7A71].mkv",
+                    "group": "Hiryuu",
+                    "hash": "D60E7A71",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361406",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361761",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-xWayOut] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 01 [824A1546].mkv",
+                    "group": "Diogo4D-xWayOut",
+                    "hash": "824A1546",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364370",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 01v2 [Hi10P 1280x720 H264] [0064EE02].mkv",
+                    "group": "Hiryuu",
+                    "hash": "0064EE02",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370555",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-10-12T16:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 02 [720p] [4AAB102B].mkv",
+                    "group": "Hadena",
+                    "hash": "4AAB102B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!%20-%2002%20%5B720p%5D%20%5B4AAB102B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 (1280x720 h264 AAC) [31F0B419].mkv",
+                    "group": "Doki",
+                    "hash": "31F0B419",
+                    "url": "http://tracker.anime-index.org/download.php?id=5d81c7836b0b9d611852dab630aff47b19776212&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+02+%281280x720+h264+AAC%29+%5B31F0B419%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 (1280x720 Hi10P AAC) [32B160CA].mkv",
+                    "group": "Doki",
+                    "hash": "32B160CA",
+                    "url": "http://tracker.anime-index.org/download.php?id=d9efafe026b9ce17a5c2d180d7e5bdca3d1c99b3&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+02+%281280x720+Hi10P+AAC%29+%5B32B160CA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 (848x480 h264 AAC) [F3776727].mkv",
+                    "group": "Doki",
+                    "hash": "F3776727",
+                    "url": "http://tracker.anime-index.org/download.php?id=05861b26ca53b46c06ec34c2f11e6967ae16d053&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+02+%28848x480+h264+AAC%29+%5BF3776727%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364052",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-xWayOut] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 02 [E1BCD9B6].mkv",
+                    "group": "Diogo4D-xWayOut",
+                    "hash": "E1BCD9B6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369216",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 02 [Hi10P 1280x720 H264] [938FC0AA].mkv",
+                    "group": "Hiryuu",
+                    "hash": "938FC0AA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370556",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-19T16:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720][x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 03 [1280x720] [x264 AAC] [909A42C4].mkv",
+                    "group": "Hadena",
+                    "hash": "909A42C4",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!%20-%2003%20%5B1280x720%5D%20%5Bx264%20AAC%5D%20%5B909A42C4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 03 (1280x720 h264 AAC) [9DF9162B].mkv",
+                    "group": "Doki",
+                    "hash": "9DF9162B",
+                    "url": "http://tracker.anime-index.org/download.php?id=911c1e06a87437611c1902f58c14102cba70d8e6&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+03+%281280x720+h264+AAC%29+%5B9DF9162B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 03 (1280x720 Hi10P AAC) [7C020F20].mkv",
+                    "group": "Doki",
+                    "hash": "7C020F20",
+                    "url": "http://tracker.anime-index.org/download.php?id=6f04ad425ca2951439a206a504490d1be9378579&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+03+%281280x720+Hi10P+AAC%29+%5B7C020F20%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 03 (848x480 h264 AAC) [3AB37365].mkv",
+                    "group": "Doki",
+                    "hash": "3AB37365",
+                    "url": "http://tracker.anime-index.org/download.php?id=400ec45d05101817edb5f3b599a232a008123306&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+03+%28848x480+h264+AAC%29+%5B3AB37365%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367057",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 03 [Hi10P 1280x720 H264] [DAFF5100].mkv",
+                    "group": "Hiryuu",
+                    "hash": "DAFF5100",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370557",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-xWayOut] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 03 [9C5DDE68].mkv",
+                    "group": "Diogo4D-xWayOut",
+                    "hash": "9C5DDE68",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370954",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-26T16:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[640x360][web-rip]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 04 [640x360] [web-rip] [0F428BB8].mkv",
+                    "group": "Hadena",
+                    "hash": "0F428BB8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!%20-%2004%20%5B640x360%5D%20%5Bweb-rip%5D%20%5B0F428BB8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!_-_04 [1280x720] [x264 AAC] [AAD0D621].mkv",
+                    "group": "Hadena",
+                    "hash": "AAD0D621",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!_-_04%20%5B1280x720%5D%20%5Bx264%20AAC%5D%20%5BAAD0D621%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 04 (1280x720 h264 AAC) [DAA2C637].mkv",
+                    "group": "Doki",
+                    "hash": "DAA2C637",
+                    "url": "http://tracker.anime-index.org/download.php?id=b2900e6c11aee86e328b8e7d42a08eb8ba32775e&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+04+%281280x720+h264+AAC%29+%5BDAA2C637%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 04 (1280x720 Hi10P AAC) [E7563DE0].mkv",
+                    "group": "Doki",
+                    "hash": "E7563DE0",
+                    "url": "http://tracker.anime-index.org/download.php?id=943f2aa6af1bf37af98f9af2287e20ee07958675&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+04+%281280x720+Hi10P+AAC%29+%5BE7563DE0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 04 (848x480 h264 AAC) [4541DD43].mkv",
+                    "group": "Doki",
+                    "hash": "4541DD43",
+                    "url": "http://tracker.anime-index.org/download.php?id=e11130751f0e9972a2cf81505295a33d6a59f535&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+04+%28848x480+h264+AAC%29+%5B4541DD43%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 04 [Hi10P 1280x720 H264] [598D6380].mkv",
+                    "group": "Hiryuu",
+                    "hash": "598D6380",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372904",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374263",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374264",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-xWayOut] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 04 [3A8C701A].mkv",
+                    "group": "Diogo4D-xWayOut",
+                    "hash": "3A8C701A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376390",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-02T15:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720][x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!_-_05 [1280x720] [x264 AAC][F08DD80F].mkv",
+                    "group": "Hadena",
+                    "hash": "F08DD80F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!_-_05%20%5B1280x720%5D%20%5Bx264%20AAC%5D%5BF08DD80F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 05 (1280x720 h264 AAC) [3FE9ACEF].mkv",
+                    "group": "Doki",
+                    "hash": "3FE9ACEF",
+                    "url": "http://tracker.anime-index.org/download.php?id=564615859aaeca4521ec0b536e5b9e36242b2838&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+05+%281280x720+h264+AAC%29+%5B3FE9ACEF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 05 (1280x720 Hi10P AAC) [2DC51E92].mkv",
+                    "group": "Doki",
+                    "hash": "2DC51E92",
+                    "url": "http://tracker.anime-index.org/download.php?id=602e69bb767d53803355fc8c0330676a9a044099&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+05+%281280x720+Hi10P+AAC%29+%5B2DC51E92%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 05 (848x480 h264 AAC) [089EE655].mkv",
+                    "group": "Doki",
+                    "hash": "089EE655",
+                    "url": "http://tracker.anime-index.org/download.php?id=52b4381baa0788dbb9b97e47eaa02d0dd3ef26e0&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+05+%28848x480+h264+AAC%29+%5B089EE655%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-xWayOut] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 05 [7262993B].mkv",
+                    "group": "Diogo4D-xWayOut",
+                    "hash": "7262993B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 05 [Hi10P 1280x720 H264] [D6C12783].mkv",
+                    "group": "Hiryuu",
+                    "hash": "D6C12783",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377060",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-09T15:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 06 (1280x720 h264 AAC) [3BAAC90B].mkv",
+                    "group": "Doki",
+                    "hash": "3BAAC90B",
+                    "url": "http://tracker.anime-index.org/download.php?id=9f24de131deb256ecaa2e62887324b2007d86d32&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+06+%281280x720+h264+AAC%29+%5B3BAAC90B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 06 (848x480 h264 AAC) [3E4EA181].mkv",
+                    "group": "Doki",
+                    "hash": "3E4EA181",
+                    "url": "http://tracker.anime-index.org/download.php?id=6ee610fecd679aeeb7783f574c14cb7f4ac9b089&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+06+%28848x480+h264+AAC%29+%5B3E4EA181%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 06 (1280x720 Hi10P AAC) [CF174562].mkv",
+                    "group": "Doki",
+                    "hash": "CF174562",
+                    "url": "http://tracker.anime-index.org/download.php?id=0ddcd85f0f7386d54e4d0616f4da0d9f2021d1aa&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+06+%281280x720+Hi10P+AAC%29+%5BCF174562%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374806",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374843",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 06 [Hi10P 1280x720 H264] [A4E692F7].mkv",
+                    "group": "Hiryuu",
+                    "hash": "A4E692F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379948",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-xWayOut] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 06 [B7322CFE].mkv",
+                    "group": "Diogo4D-xWayOut",
+                    "hash": "B7322CFE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383687",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-16T15:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 07 v2 [1280x720] [16F5A5E5].mkv",
+                    "group": "Hadena",
+                    "hash": "16F5A5E5",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!%20-%2007%20v2%20%5B1280x720%5D%20%5B16F5A5E5%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 (1280x720 h264 AAC) [27D76E48].mkv",
+                    "group": "Doki",
+                    "hash": "27D76E48",
+                    "url": "http://tracker.anime-index.org/download.php?id=5f1ce86b7a416043794c99f07dbd4e68e59e9164&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+07+%281280x720+h264+AAC%29+%5B27D76E48%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 (848x480 h264 AAC) [9EC59098].mkv",
+                    "group": "Doki",
+                    "hash": "9EC59098",
+                    "url": "http://tracker.anime-index.org/download.php?id=d8544608019f62eefae8a6cfef86da4f5ec07b64&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+07+%28848x480+h264+AAC%29+%5B9EC59098%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 (1280x720 Hi10P AAC) [33031C56].mkv",
+                    "group": "Doki",
+                    "hash": "33031C56",
+                    "url": "http://tracker.anime-index.org/download.php?id=0790cb685a7b7db5e104e491ec8a47273d41516f&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+07+%281280x720+Hi10P+AAC%29+%5B33031C56%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2558",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377073",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 07 [Hi10P 1280x720 H264] [FFAE608E].mkv",
+                    "group": "Hiryuu",
+                    "hash": "FFAE608E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390173",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-23T15:00:00",
+            "episode": 8,
+            "score": 6.8149718219,
+            "torrents": [
+                {
+                    "additional_info": "[640x360]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 08 [640x360] [2F985461].mkv",
+                    "group": "Hadena",
+                    "hash": "2F985461",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!%20-%2008%20%5B640x360%5D%20%5B2F985461%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 08 [720] [4A21DFC4].mkv",
+                    "group": "Hadena",
+                    "hash": "4A21DFC4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 08 (1280x720 h264 AAC) [4169FF55].mkv",
+                    "group": "Doki",
+                    "hash": "4169FF55",
+                    "url": "http://tracker.anime-index.org/download.php?id=d5dfbb9f974ec0f1b3785634d7c9b4c087c534ad&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+08+%281280x720+h264+AAC%29+%5B4169FF55%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 08 (1280x720 Hi10P AAC) [CEF52A60].mkv",
+                    "group": "Doki",
+                    "hash": "CEF52A60",
+                    "url": "http://tracker.anime-index.org/download.php?id=a1fa8e5fc9d8be3fa91f12e6abc9bb67a182bea4&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+08+%281280x720+Hi10P+AAC%29+%5BCEF52A60%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 08 (848x480 h264 AAC) [9DE03090].mkv",
+                    "group": "Doki",
+                    "hash": "9DE03090",
+                    "url": "http://tracker.anime-index.org/download.php?id=b494648c79700d7758432e76f9a2c39fc3486c37&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+08+%28848x480+h264+AAC%29+%5B9DE03090%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380522",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380526",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-30T15:00:00",
+            "episode": 9,
+            "score": 6.815627811,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!_-_09 [1280x720] [146F183E].mkv",
+                    "group": "Hadena",
+                    "hash": "146F183E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!_-_09%20%5B1280x720%5D%20%5B146F183E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 09 (1280x720 h264 AAC) [400D3989].mkv",
+                    "group": "Doki",
+                    "hash": "400D3989",
+                    "url": "http://tracker.anime-index.org/download.php?id=34f637fdd4132e48161604aedca6a12a34b00e98&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+09+%281280x720+h264+AAC%29+%5B400D3989%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 09 (1280x720 Hi10P AAC) [34FD6BB4].mkv",
+                    "group": "Doki",
+                    "hash": "34FD6BB4",
+                    "url": "http://tracker.anime-index.org/download.php?id=d785e80ab61f784fa2e92f1ba6fa22772f9d519d&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+09+%281280x720+Hi10P+AAC%29+%5B34FD6BB4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 09 (848x480 h264 AAC) [721C351E].mkv",
+                    "group": "Doki",
+                    "hash": "721C351E",
+                    "url": "http://tracker.anime-index.org/download.php?id=8830ca7b1442018cd52f0916d99a2ee45cd70e12&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+09+%28848x480+h264+AAC%29+%5B721C351E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 09 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2639",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383156",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383160",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-07T15:00:00",
+            "episode": 10,
+            "score": 6.8192663434,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 10 (1280x720 h264 AAC) [398E709C].mkv",
+                    "group": "Doki",
+                    "hash": "398E709C",
+                    "url": "http://tracker.anime-index.org/download.php?id=eee806cf17b02c8cd7c0a5fdd782cb1323345f29&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+10+%281280x720+h264+AAC%29+%5B398E709C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 10 (1280x720 Hi10P AAC) [75996428].mkv",
+                    "group": "Doki",
+                    "hash": "75996428",
+                    "url": "http://tracker.anime-index.org/download.php?id=d17d2614b95a45045a464846322dab8e40a42b22&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+10+%281280x720+Hi10P+AAC%29+%5B75996428%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 10 (848x480 h264 AAC) [365AEAD8].mkv",
+                    "group": "Doki",
+                    "hash": "365AEAD8",
+                    "url": "http://tracker.anime-index.org/download.php?id=3d618bc2a71bc70c5237159fa7480a9c6c9e1d84&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+10+%28848x480+h264+AAC%29+%5B365AEAD8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383526",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383527",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-14T15:00:00",
+            "episode": 11,
+            "score": 6.821565589,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 11 [720p] [FCCFB8AE].mkv",
+                    "group": "Hadena",
+                    "hash": "FCCFB8AE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!%20-%2011%20%5B720p%5D%20%5BFCCFB8AE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 11 (1280x720 h264 AAC) [3670022D].mkv",
+                    "group": "Doki",
+                    "hash": "3670022D",
+                    "url": "http://tracker.anime-index.org/download.php?id=9c6e45ab9d36cb2db92dc3670a8850ccd7985242&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+11+%281280x720+h264+AAC%29+%5B3670022D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 11 (848x480 h264 AAC) [02952F55].mkv",
+                    "group": "Doki",
+                    "hash": "02952F55",
+                    "url": "http://tracker.anime-index.org/download.php?id=253e076158fb697f806287b52fac654ae5cdf272&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+11+%28848x480+h264+AAC%29+%5B02952F55%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 11 (1280x720 Hi10P AAC) [8A214619].mkv",
+                    "group": "Doki",
+                    "hash": "8A214619",
+                    "url": "http://tracker.anime-index.org/download.php?id=6f654ab4d6f21893f41bd590a657d8041a4bc264&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+11+%281280x720+Hi10P+AAC%29+%5B8A214619%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385396",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385397",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-21T15:00:00",
+            "episode": 12,
+            "score": 7.0287478951,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! - 12 [720p] [D2530A6F].mkv",
+                    "group": "Hadena",
+                    "hash": "D2530A6F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Onii-chan%20Dakedo%20Ai%20Sae%20Areba%20Kankeinai%20yo%20ne!%20-%2012%20%5B720p%5D%20%5BD2530A6F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 12 (1280x720 h264 AAC) [36D473AF].mkv",
+                    "group": "Doki",
+                    "hash": "36D473AF",
+                    "url": "http://tracker.anime-index.org/download.php?id=9bf7a0ee4de03ab8251bc2aaf650df973568020d&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+12+%281280x720+h264+AAC%29+%5B36D473AF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 12 (1280x720 Hi10P AAC) [F86F6187].mkv",
+                    "group": "Doki",
+                    "hash": "F86F6187",
+                    "url": "http://tracker.anime-index.org/download.php?id=fc60062b71b888aed988a8b340f34058f0cd26f9&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+12+%281280x720+Hi10P+AAC%29+%5BF86F6187%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 12 (848x480 h264 AAC) [57724F2A].mkv",
+                    "group": "Doki",
+                    "hash": "57724F2A",
+                    "url": "http://tracker.anime-index.org/download.php?id=2b45e40beae1e93bbe85659f4b7bb203554ea78a&f=%5BDoki%5D+Onii-chan+Dakedo+Ai+Sae+Areba+Kankeinai+yo+ne+-+12+%28848x480+h264+AAC%29+%5B57724F2A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389983",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9230,
+        "ann": 14338,
+        "mal": 14199,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Himenokouji twins Akito and Akiko have finally reunited with each other after separation due to the death of their parents. After six years of living apart they suddenly began to live under the same roof due to Akito's desire to live as a family unit once more. Things were fine at first until Akiko began to express her incestuous love for her older brother, who only sees her as a little sister.",
+            "type": "mal"
+        },
+        {
+            "content": "After 6-years' separation, Himenokouji Akito reunites with his twin sister Akiko and they live together once more. However, in the interim, Akiko had developed a serious case of bro-con, romantic feelings for Akito. It doesn't stop there as Nikaidou Arashi, the student council president of his new school, vice-president Nasuhara Anastasia, and Sawatari Ginbei Haruomi, who followed Akito all the way from Kyoto, all move in with him one after the other.",
+            "type": "anidb"
+        },
+        {
+            "content": "The story centers around Akito Himenok\u014dji, a boy who was separated from his twin sister Akiko, but they end up living under the same roof together during high school.",
+            "type": "ann"
+        },
+        {
+            "content": "After six years of living apart due to the death of their parents, the Himenok\u014dji twins, Akito and Akiko, are finally reunited when Akito desires to live as a family once more. Although things are fine at first, Akiko begins to express her incestuous love for her older brother, who only sees her as his little sister.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3837,
+            "date": "2012-12-23T06:06:43",
+            "score": 7.12,
+            "type": "mal"
+        },
+        {
+            "count": 125,
+            "date": "2012-12-23T06:06:43",
+            "score": 6.04,
+            "type": "anidb"
+        },
+        {
+            "count": 195,
+            "date": "2012-12-23T06:06:43",
+            "score": 5.867,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne"
+}

@@ -1,0 +1,804 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6"
+        },
+        {
+            "language": "pl",
+            "title": "Data A Mieszka\u0107"
+        }
+    ],
+    "aliases": [
+        "DATE A LIVE"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-04-05T18:30:00",
+            "episode": 1,
+            "score": 7.3617447496,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[FFF] DATE A LIVE - 01 [0D301EFB].mkv",
+                    "group": "FFF",
+                    "hash": "0D301EFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420585",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Date a Live - 01 (848x480 h264 AAC)[778A9E24].mkv",
+                    "group": "Doki",
+                    "hash": "778A9E24",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2001%20(848x480%20h264%20AAC)%20%5B778A9E24%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Date a Live - 01 (1280x720 Hi10P AAC)[4C9EE15C].mkv",
+                    "group": "Doki",
+                    "hash": "4C9EE15C",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2001%20(1280x720%20Hi10P%20AAC)%20%5B4C9EE15C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Date A Live - 01 [720p] [A43AAF0D].mkv",
+                    "group": "Hadena",
+                    "hash": "A43AAF0D",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Date%20A%20Live%20-%2001%20%5B720p%5D%20%5BA43AAF0D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[Anime-Koi] DATE A LIVE - 01 [h264-720p][DDD162F1].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "DDD162F1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=421473",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-12T18:30:00",
+            "episode": 2,
+            "score": 7.3467288366,
+            "torrents": [
+                {
+                    "additional_info": "[LQ]",
+                    "download_count": 2,
+                    "filename": "[Hedgey] Date a Live - 02_[LQ]_[542169B3].mkv",
+                    "group": "Hedgey",
+                    "hash": "542169B3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=421439",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[FFF] DATE A LIVE - 02v0 [5CF0FBEE].mkv",
+                    "group": "FFF",
+                    "hash": "5CF0FBEE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=421456",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[FFF] DATE A LIVE - 02 [D30B878D].mkv",
+                    "group": "FFF",
+                    "hash": "D30B878D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=423063",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Date a Live - 02 (1280x720 Hi10P AAC) [7433FBF9].mkv",
+                    "group": "Doki",
+                    "hash": "7433FBF9",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2002%20(1280x720%20Hi10P%20AAC)%20%5B7433FBF9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 02 (848x480 h264 AAC) [C45C43F7].mkv",
+                    "group": "Doki",
+                    "hash": "C45C43F7",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2002%20(848x480%20h264%20AAC)%20%5BC45C43F7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] DATE A LIVE - 02 [h264-720p][7DB0A354].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "7DB0A354",
+                    "url": "http://www.nyaa.eu/?page=download&tid=424387",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-19T18:30:00",
+            "episode": 3,
+            "score": 7.3820974878,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] DATE A LIVE - 03v0 [10669FCA].mkv",
+                    "group": "FFF",
+                    "hash": "10669FCA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=424874",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[FFF] DATE A LIVE - 03 [F8EF25DC].mkv",
+                    "group": "FFF",
+                    "hash": "F8EF25DC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=425409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 6,
+                    "filename": "[Doki] Date a Live - 03 (1280x720 Hi10P AAC) [F29C863C].mkv",
+                    "group": "Doki",
+                    "hash": "F29C863C",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2003%20(1280x720%20Hi10P%20AAC)%20%5BF29C863C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Date a Live - 03 (848x480 h264 AAC) [35371B21].mkv",
+                    "group": "Doki",
+                    "hash": "35371B21",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2003%20(848x480%20h264%20AAC)%20%5B35371B21%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] DATE A LIVE - 03 [h264-720p][DF9F233A].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "DF9F233A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=426319",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-26T18:30:00",
+            "episode": 4,
+            "score": 7.3960022595,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] DATE A LIVE - 04v0 [05449610].mkv",
+                    "group": "FFF",
+                    "hash": "05449610",
+                    "url": "http://www.nyaa.eu/?page=download&tid=426187",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[WebRip]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] DATE A LIVE - 04v0 [WebRip][22C16D15].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "22C16D15",
+                    "url": "http://www.nyaa.eu/?page=download&tid=426320",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[Anime-Koi] DATE A LIVE - 04 [h264-720p][D9397F50].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "D9397F50",
+                    "url": "http://www.nyaa.eu/?page=download&tid=427631",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[FFF] DATE A LIVE - 04 [BF482D17].mkv",
+                    "group": "FFF",
+                    "hash": "BF482D17",
+                    "url": "http://www.nyaa.eu/?page=download&tid=427684",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Date a Live - 04 (1280x720 Hi10P AAC) [8B454EDC].mkv",
+                    "group": "Doki",
+                    "hash": "8B454EDC",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2004%20(1280x720%20Hi10P%20AAC)%20%5B8B454EDC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 04 (848x480 h264 AAC) [E8481D02].mkv",
+                    "group": "Doki",
+                    "hash": "E8481D02",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2004%20(848x480%20h264%20AAC)%20%5BE8481D02%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-03T18:30:00",
+            "episode": 5,
+            "score": 7.3808022591,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[FFF] DATE A LIVE - 05v0 [B4743BCD].mkv",
+                    "group": "FFF",
+                    "hash": "B4743BCD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=428518",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[WebRip]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] DATE A LIVE - 05v0 [WebRip][34242018].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "34242018",
+                    "url": "http://www.nyaa.eu/?page=download&tid=428858",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] DATE A LIVE - 05 [h264-720p][44192EBD].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "44192EBD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=430052",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[FFF] DATE A LIVE - 05 [DE35DFE9].mkv",
+                    "group": "FFF",
+                    "hash": "DE35DFE9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=430083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 05 (848x480 h264 AAC) [F9321BB1].mkv",
+                    "group": "Doki",
+                    "hash": "F9321BB1",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2005%20(848x480%20h264%20AAC)%20%5BF9321BB1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 05 (1280x720 Hi10P AAC) [B37CC0F5].mkv",
+                    "group": "Doki",
+                    "hash": "B37CC0F5",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2005%20(1280x720%20Hi10P%20AAC)%20%5BB37CC0F5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Date A Live - 05 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&3142",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-10T18:30:00",
+            "episode": 6,
+            "score": 7.3760893589,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[FFF] DATE A LIVE - 06v0 [F6B513C7].mkv",
+                    "group": "FFF",
+                    "hash": "F6B513C7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=430900",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[WebRip]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] DATE A LIVE - 06v0 [WebRip][837CEC41].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "837CEC41",
+                    "url": "http://www.nyaa.eu/?page=download&tid=430902",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Date A Live - 06 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&3162",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] DATE A LIVE - 06 [h264-720p][47BE2B2F].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "47BE2B2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=432332",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[FFF] DATE A LIVE - 06 [F056B93A].mkv",
+                    "group": "FFF",
+                    "hash": "F056B93A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=432360",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 06 (848x480 h264 AAC) [32FEC564].mkv",
+                    "group": "Doki",
+                    "hash": "32FEC564",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2006%20(848x480%20h264%20AAC)%20%5B32FEC564%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 06 (1280x720 Hi10P AAC) [4C474E14].mkv",
+                    "group": "Doki",
+                    "hash": "4C474E14",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2006%20(1280x720%20Hi10P%20AAC)%20%5B4C474E14%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-17T18:30:00",
+            "episode": 7,
+            "score": 7.4005124415,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] DATE A LIVE - 07v0 [91FE88CA].mkv",
+                    "group": "FFF",
+                    "hash": "91FE88CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=433018",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[FFF] DATE A LIVE - 07 [5FA0ECEF].mkv",
+                    "group": "FFF",
+                    "hash": "5FA0ECEF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=434563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] DATE A LIVE - 07 [h264-720p][0F9C1567].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "0F9C1567",
+                    "url": "http://www.nyaa.eu/?page=download&tid=434591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 07 (848x480 h264 AAC) [D3D8B54B].mkv",
+                    "group": "Doki",
+                    "hash": "D3D8B54B",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2007%20(848x480%20h264%20AAC)%20%5BD3D8B54B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 07 (1280x720 Hi10P AAC) [4B1388D5].mkv",
+                    "group": "Doki",
+                    "hash": "4B1388D5",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2007%20(1280x720%20Hi10P%20AAC)%20%5B4B1388D5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Date A Live - 07 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&3212",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-24T18:30:00",
+            "episode": 8,
+            "score": 7.42483738,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[FFF] DATE A LIVE - 08v0 [0CA3B97A].mkv",
+                    "group": "FFF",
+                    "hash": "0CA3B97A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=435110",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[WebRip]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] DATE A LIVE - 08v0 [WebRip][644FAB0B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "644FAB0B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=435162",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 8,
+                    "filename": "[Anime-Koi] DATE A LIVE - 08 [h264-720p][161F943E].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "161F943E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436633",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[FFF] DATE A LIVE - 08 [95B0F1EC].mkv",
+                    "group": "FFF",
+                    "hash": "95B0F1EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 08 (848x480 h264 AAC) [C69D40FC].mkv",
+                    "group": "Doki",
+                    "hash": "C69D40FC",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2008%20(848x480%20h264%20AAC)%20%5BC69D40FC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Date a Live - 08 (1280x720 Hi10P AAC) [040545C5].mkv",
+                    "group": "Doki",
+                    "hash": "040545C5",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2008%20(1280x720%20Hi10P%20AAC)%20%5B040545C5%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-31T18:30:00",
+            "episode": 9,
+            "score": 7.4426385153,
+            "torrents": [
+                {
+                    "additional_info": "[WebRip]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] DATE A LIVE - 09v0 [WebRip][783B4796].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "783B4796",
+                    "url": "http://www.nyaa.eu/?page=download&tid=437599",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] DATE A LIVE - 09v0 [E2BD2CF6].mkv",
+                    "group": "FFF",
+                    "hash": "E2BD2CF6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438667",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] DATE A LIVE - 09 [h264-720p][6D5AAB74].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "6D5AAB74",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438766",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[FFF] DATE A LIVE - 09 [460423DF].mkv",
+                    "group": "FFF",
+                    "hash": "460423DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 09 (848x480 h264 AAC) [63B9C0A3].mkv",
+                    "group": "Doki",
+                    "hash": "63B9C0A3",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2009%20(848x480%20h264%20AAC)%20%5B63B9C0A3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Date a Live - 09 (1280x720 Hi10P AAC) [4BDF4279].mkv",
+                    "group": "Doki",
+                    "hash": "4BDF4279",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2009%20(1280x720%20Hi10P%20AAC)%20%5B4BDF4279%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-07T18:30:00",
+            "episode": 10,
+            "score": 7.4654568983,
+            "torrents": [
+                {
+                    "additional_info": "[WebRip]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] DATE A LIVE - 10v0 [WebRip][E00899F5].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "E00899F5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=439277",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] DATE A LIVE - 10v0 [DA44B884].mkv",
+                    "group": "FFF",
+                    "hash": "DA44B884",
+                    "url": "http://www.nyaa.eu/?page=download&tid=439700",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] DATE A LIVE - 10 [h264-720p][F0533980].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "F0533980",
+                    "url": "http://www.nyaa.eu/?page=download&tid=440855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[FFF] DATE A LIVE - 10 [270EC88E].mkv",
+                    "group": "FFF",
+                    "hash": "270EC88E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=440887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 10 (848x480 h264 AAC) [EB19E5B9].mkv",
+                    "group": "Doki",
+                    "hash": "EB19E5B9",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2010%20(848x480%20h264%20AAC)%20%5BEB19E5B9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Date a Live - 10 (1280x720 Hi10P AAC) [3EF1242A].mkv",
+                    "group": "Doki",
+                    "hash": "3EF1242A",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2010%20(1280x720%20Hi10P%20AAC)%20%5B3EF1242A%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-14T18:30:00",
+            "episode": 11,
+            "score": 7.6102161383,
+            "torrents": [
+                {
+                    "additional_info": "[WebRip]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] DATE A LIVE - 11v0 [WebRip][9162C07C].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "9162C07C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=441677",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[FFF] DATE A LIVE - 11v0 [7B4BE240].mkv",
+                    "group": "FFF",
+                    "hash": "7B4BE240",
+                    "url": "http://www.nyaa.eu/?page=download&tid=442497",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[Anime-Koi] DATE A LIVE - 11 [h264-720p][CD49966F].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CD49966F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=442985",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[FFF] DATE A LIVE - 11 [EDAD6F39].mkv",
+                    "group": "FFF",
+                    "hash": "EDAD6F39",
+                    "url": "http://www.nyaa.eu/?page=download&tid=443011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 11 (848x480 h264 AAC) [3D45861F].mkv",
+                    "group": "Doki",
+                    "hash": "3D45861F",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2011%20(848x480%20h264%20AAC)%20%5B3D45861F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Date a Live - 11 (1280x720 Hi10P AAC) [971054FB].mkv",
+                    "group": "Doki",
+                    "hash": "971054FB",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2011%20(1280x720%20Hi10P%20AAC)%20%5B971054FB%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-21T18:30:00",
+            "episode": 12,
+            "score": 7.5919081041,
+            "torrents": [
+                {
+                    "additional_info": "[WebRip]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] DATE A LIVE - 12v0 END [WebRip][3A00C9A5].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "3A00C9A5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=443708",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] DATE A LIVE - 12v0 [97336508].mkv",
+                    "group": "FFF",
+                    "hash": "97336508",
+                    "url": "http://www.nyaa.eu/?page=download&tid=444513",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] DATE A LIVE - 12 END [h264-720p][76DA6230].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "76DA6230",
+                    "url": "http://www.nyaa.eu/?page=download&tid=444970",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[FFF] DATE A LIVE - 12 [436F9F0A].mkv",
+                    "group": "FFF",
+                    "hash": "436F9F0A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=444985",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Date a Live - 12 (1280x720 Hi10P AAC) [DC6F5222].mkv",
+                    "group": "Doki",
+                    "hash": "DC6F5222",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2012%20(1280x720%20Hi10P%20AAC)%20%5BDC6F5222%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Date a Live - 12 (848x480 h264 AAC) [D7D4230E].mkv",
+                    "group": "Doki",
+                    "hash": "D7D4230E",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Date%20a%20Live%20-%2012%20(848x480%20h264%20AAC)%20%5BD7D4230E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8808,
+        "ann": 14953,
+        "mal": 15583,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Itsuka Shido is a high school boy. On the last day of the spring holidays, an explosion destroys the town and a girl in armor appears in front of him. Shido's sister-in-law, Kotori, tells him that the girl is called \"Special Disasterous Designated Creature: Spirit\", which causes a timespace quake. Kotori disclosed that she is the commander of the anti-spirit organization Ratatosk and orders him to go out on a date with the spirit girl. Kotori says, \"I don't ask you to beat the spirit. Just let her fall in love with you and save the world.\"",
+            "type": "mal"
+        },
+        {
+            "content": "A boy named Itsuka Shidou meets a spirit girl who has been rejected by a devastated world. The girl, who Shidou names Tooka, happens to have wiped out much of humanity 30 years ago, and now she is back. The only way to stop her is to date her.",
+            "type": "anidb"
+        },
+        {
+            "content": "Thirty years before a strange phenomena called a \"spacequake\" devastated the center of Eurasia, claiming the lives of at least 150 million people. Since then, smaller spacequakes plague the world on a irregular basis. Shid\u014d Itsuka, a seemingly ordinary high schooler comes across a mysterious girl at the ground zero of a spacequake and learns from his sister Kotori she is one of the \"Spirits\" who are the real cause of the spacequakes that occur when they manifest themselves in the world. He also learns that Kotori is the captain of the airship Ratatoskr and recruits him to make use of his mysterious ability to seal the Spirits' powers and stop them from being a threat to mankind. However, there is a catch: to seal a Spirit, he must make her fall in love with him.",
+            "type": "ann"
+        },
+        {
+            "content": "Thirty years ago a strange phenomena called a \"spacequake\" devastated the center of Eurasia, claiming the lives of at least 150 million people. Since then, smaller spacequakes plague the world on a irregular basis. Shid\u014d Itsuka, a seemingly ordinary high schooler comes across a mysterious girl at the ground zero of a spacequake and learns from his sister Kotori she is one of the \"Spirits\" who are the real cause of the spacequakes that occur when they manifest themselves in the world. He also learns that Kotori is the captain of the airship Ratatoskr and recruits him to make use of his mysterious ability to seal the Spirits' powers and stop them from being a threat to mankind. However, there is a catch: to seal a Spirit, he must make her fall in love with him.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 13042,
+            "date": "2013-06-23T03:50:44",
+            "score": 7.64,
+            "type": "mal"
+        },
+        {
+            "count": 280,
+            "date": "2013-06-23T03:50:44",
+            "score": 6.35,
+            "type": "anidb"
+        },
+        {
+            "count": 313,
+            "date": "2013-06-23T03:50:44",
+            "score": 6.699,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Date A Live"
+}

@@ -1,0 +1,130 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b9\u30c8\u30e9\u30a4\u30af\u30a6\u30a3\u30c3\u30c1\u30fc\u30ba 2"
+        },
+        {
+            "language": "pl",
+            "title": "Strajkuj\u0105ce Wied\u017amy 2"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2010-07-07T18:30:00",
+            "episode": 1,
+            "score": 7.7,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-14T18:30:00",
+            "episode": 2,
+            "score": 7.74,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-21T18:30:00",
+            "episode": 3,
+            "score": 7.76,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-28T18:30:00",
+            "episode": 4,
+            "score": 7.75,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-04T18:30:00",
+            "episode": 5,
+            "score": 7.7387175325,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-11T18:30:00",
+            "episode": 6,
+            "score": 7.7434084302,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-18T18:30:00",
+            "episode": 7,
+            "score": 7.7067333333,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-25T18:30:00",
+            "episode": 8,
+            "score": 7.6893466086,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-01T18:30:00",
+            "episode": 9,
+            "score": 7.6936539589,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-08T18:30:00",
+            "episode": 10,
+            "score": 7.6779419967,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-15T18:30:00",
+            "episode": 11,
+            "score": 7.6607771338,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-22T18:30:00",
+            "episode": 12,
+            "score": 7.5618741443,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7542,
+        "ann": 11313,
+        "mal": 6381,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Druga seria anime z porz\u0105dn\u0105 dawk\u0105 pantsu.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 9577,
+            "date": "2012-09-29T12:45:46",
+            "score": 7.54,
+            "type": "mal"
+        },
+        {
+            "count": 747,
+            "date": "2012-09-29T12:45:46",
+            "score": 7.06,
+            "type": "anidb"
+        },
+        {
+            "count": 625,
+            "date": "2012-09-29T12:45:46",
+            "score": 7.708,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "Strike Witches",
+    "title": "Strike Witches 2"
+}

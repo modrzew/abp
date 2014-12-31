@@ -1,0 +1,894 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30e9\u30b9\u30c8\u30a8\u30b0\u30b6\u30a4\u30eb-\u9280\u7ffc\u306e\u30d5\u30a1\u30e0-"
+        },
+        {
+            "language": "pl",
+            "title": "Ostatni Wygnaniec: Srebrne Skrzyd\u0142o Fam"
+        }
+    ],
+    "aliases": [
+        "Last Exile -Fam, The Silver Wing-",
+        "Last Exile ~Fam, The Silver Wing~",
+        "Last Exile - Ginyoku no Fam",
+        "Last Exile II - Ginyuku no Fam"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/781658607",
+            "content": "Last Exile: Ginyoku no Fam 03 - prawdziwy m\u0119\u017cczyzna odbiera wynagrodzenie w loli",
+            "episode": 3,
+            "filename": "94c55b8b9993b3327ac52a4eed035070.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/131807214229929984"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-14T19:00:00",
+            "episode": 1,
+            "score": 7.77,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 01 [80588F40].mkv",
+                    "group": "Commie",
+                    "hash": "80588F40",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 01 (720p H.264-HiP AAC) [5D7653D6].mkv",
+                    "group": "ACIFT",
+                    "hash": "5D7653D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254697",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 01 (480p H.264-HiP AAC) [8C1C4B93].mkv",
+                    "group": "ACIFT",
+                    "hash": "8C1C4B93",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254698",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 3,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_01_[720p][Hi10P][120F4E40].mkv",
+                    "group": "SFWhine",
+                    "hash": "120F4E40",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254864",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_01_[720p][B72970F4].mkv",
+                    "group": "SFWhine",
+                    "hash": "B72970F4",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254967",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Last Exile -Fam, The Silver Wing- 01 [1280x720 H264 AAC][B1C0A984].mkv",
+                    "group": "Hadena",
+                    "hash": "B1C0A984",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Last%20Exile%20-Fam%2C%20The%20Silver%20Wing-%2001%20%5B1280x720%20H264%20AAC%5D%5BB1C0A984%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-21T19:00:00",
+            "episode": 2,
+            "score": 7.76,
+            "torrents": [
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 4,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_02_[720p][Hi10P][C2A43017].mkv",
+                    "group": "SFWhine",
+                    "hash": "C2A43017",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254866",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_02_[720p][6C941521].mkv",
+                    "group": "SFWhine",
+                    "hash": "6C941521",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254968",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 02 [23BDE85A].mkv",
+                    "group": "Commie",
+                    "hash": "23BDE85A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 02 (480p H.264-HiP AAC) [D6A98825].mkv",
+                    "group": "ACIFT",
+                    "hash": "D6A98825",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255668",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 02 (720p H.264-HiP AAC) [941ACA2C].mkv",
+                    "group": "ACIFT",
+                    "hash": "941ACA2C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Last Exile -Fam, The Silver Wing- 02 [1280x720 H264 AAC][4FFDFE0B].mkv",
+                    "group": "Hadena",
+                    "hash": "4FFDFE0B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Last%20Exile%20-Fam%2C%20The%20Silver%20Wing-%2002%20%5B1280x720%20H264%20AAC%5D%5B4FFDFE0B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-28T19:00:00",
+            "episode": 3,
+            "score": 7.6726618705,
+            "torrents": [
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 3,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_03_[720p][Hi10P][ED50CAE9].mkv",
+                    "group": "SFWhine",
+                    "hash": "ED50CAE9",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=256621",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_03_[720p][5CABB5C9].mkv",
+                    "group": "SFWhine",
+                    "hash": "5CABB5C9",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=256622",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 03 [CAD4323D].mkv",
+                    "group": "Commie",
+                    "hash": "CAD4323D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 03 (720p H.264-HiP AAC) [8162B685].mkv",
+                    "group": "ACIFT",
+                    "hash": "8162B685",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Last Exile -Fam, The Silver Wing- 03 [1280x720 H264 AAC][B3EE55E9].mkv",
+                    "group": "Hadena",
+                    "hash": "B3EE55E9",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Last%20Exile%20-Fam%2C%20The%20Silver%20Wing-%2003%20%5B1280x720%20H264%20AAC%5D%5BB3EE55E9%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-04T18:00:00",
+            "episode": 4,
+            "score": 7.6435553822,
+            "torrents": [
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 1,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_04_[720p][Hi10P][A32F1FD8].mkv",
+                    "group": "SFWhine",
+                    "hash": "A32F1FD8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_04_[720p][9BA326BC].mkv",
+                    "group": "SFWhine",
+                    "hash": "9BA326BC",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=258783",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 04 [5919A3F3].mkv",
+                    "group": "Commie",
+                    "hash": "5919A3F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259471",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 04  (720p H.264-HiP AAC)[ff457695].mkv",
+                    "group": "ACIFT",
+                    "hash": "ff457695",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259661",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 04  (480p H.264-HiP AAC)[db4f74ac].mkv",
+                    "group": "ACIFT",
+                    "hash": "db4f74ac",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259660",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Last Exile -Fam, The Silver Wing- 04 [1280x720 H264 AAC][2ABEC7EA].mkv",
+                    "group": "Hadena",
+                    "hash": "2ABEC7EA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Last%20Exile%20-Fam%2C%20The%20Silver%20Wing-%2004%20%5B1280x720%20H264%20AAC%5D%5B2ABEC7EA%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-11T18:00:00",
+            "episode": 5,
+            "score": 7.6546476064,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_05_[720p][EAAD349A].mkv",
+                    "group": "SFWhine",
+                    "hash": "EAAD349A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=260026",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_05_[720p][Hi10P][CEDD7244].mkv",
+                    "group": "SFWhine",
+                    "hash": "CEDD7244",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=260025",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Last Exile -Fam, The Silver Wing- 05 [1280x720 H264 AAC][904D9014].mkv",
+                    "group": "Hadena",
+                    "hash": "904D9014",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Last%20Exile%20-Fam%2C%20The%20Silver%20Wing-%2005%20%5B1280x720%20H264%20AAC%5D%5B904D9014%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 05 [AC8302BB].mkv",
+                    "group": "Commie",
+                    "hash": "AC8302BB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260525",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 05 (480p H.264-HiP AAC) [C5BBF4D9].mkv",
+                    "group": "ACIFT",
+                    "hash": "C5BBF4D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H.264-HiP AAC]",
+                    "download_count": 1,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 05 (720p H.264-HiP AAC) [5DFA82E2].mkv",
+                    "group": "ACIFT",
+                    "hash": "5DFA82E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261616",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-18T18:00:00",
+            "episode": 6,
+            "score": 7.6387184587,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 06 [A187D6F6].mkv",
+                    "group": "Commie",
+                    "hash": "A187D6F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261384",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p H.264-HiP AAC]",
+                    "download_count": 2,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 06 (480p H.264-HiP AAC) [5E36C4D3].mkv",
+                    "group": "ACIFT",
+                    "hash": "5E36C4D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H.264-HiP AAC]",
+                    "download_count": 3,
+                    "filename": "[ACIFT] Last Exile II - Ginyuku no Fam - 06 (720p H.264-HiP AAC) [843B012D].mkv",
+                    "group": "ACIFT",
+                    "hash": "843B012D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262597",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 2,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_06v2_[720p][Hi10P][3EDC1186].mkv",
+                    "group": "SFWhine",
+                    "hash": "3EDC1186",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262660",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_06v2_[720p][FB590BAB].mkv",
+                    "group": "SFWhine",
+                    "hash": "FB590BAB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262661",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-11-25T18:00:00",
+            "episode": 7,
+            "score": 7.6098653625,
+            "torrents": [
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 6,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_07_[720p][Hi10P][AC8EF852].mkv",
+                    "group": "SFWhine",
+                    "hash": "AC8EF852",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=262906",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_07_[720p][8A6777F1].mkv",
+                    "group": "SFWhine",
+                    "hash": "8A6777F1",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=262907",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 07 [4C5B8C0B].mkv",
+                    "group": "Commie",
+                    "hash": "4C5B8C0B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263061",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-02T18:00:00",
+            "episode": 8,
+            "score": 7.6171117107,
+            "torrents": [
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 4,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_08_[720p][Hi10P][8979C7D3].mkv",
+                    "group": "SFWhine",
+                    "hash": "8979C7D3",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=264763",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_08_[720p][1E66A0BE].mkv",
+                    "group": "SFWhine",
+                    "hash": "1E66A0BE",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=264764",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 08 [3E384061].mkv",
+                    "group": "Commie",
+                    "hash": "3E384061",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264956",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-09T18:00:00",
+            "episode": 9,
+            "score": 7.6166700978,
+            "torrents": [
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 2,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_09_[720p][Hi10P][81108940].mkv",
+                    "group": "SFWhine",
+                    "hash": "81108940",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=266931",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_09_[720p][5D2FE521].mkv",
+                    "group": "SFWhine",
+                    "hash": "5D2FE521",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=266932",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 09 [400BF763].mkv",
+                    "group": "Commie",
+                    "hash": "400BF763",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_9.5_[720p][Hi10P][B5430394].mkv",
+                    "group": "SFWhine",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_9.5_[720p][62E72DEF].mkv",
+                    "group": "SFWhine",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271650",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-23T18:00:00",
+            "episode": 10,
+            "score": 7.5675517569,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 10 [CD813E7B].mkv",
+                    "group": "Commie",
+                    "hash": "CD813E7B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269714",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 1,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_10_[720p][Hi10P][3E276384].mkv",
+                    "group": "SFWhine",
+                    "hash": "3E276384",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271652",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_10_[720p][DA0780BC].mkv",
+                    "group": "SFWhine",
+                    "hash": "DA0780BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271653",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-06T18:00:00",
+            "episode": 11,
+            "score": 7.5628540345,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 11 [BF853045].mkv",
+                    "group": "Commie",
+                    "hash": "BF853045",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271435",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-13T18:00:00",
+            "episode": 12,
+            "score": 7.5599071181,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 12 [2E97F5F5].mkv",
+                    "group": "Commie",
+                    "hash": "2E97F5F5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275141",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-20T18:00:00",
+            "episode": 13,
+            "score": 7.5570260285,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 13 [AFF9E530].mkv",
+                    "group": "Commie",
+                    "hash": "AFF9E530",
+                    "url": "http://www.nyaa.eu/?page=download&tid=276969",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_13_[720p][Hi10P][D7FA0453].mkv",
+                    "group": "SFWhine",
+                    "hash": "D7FA0453",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=278303",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_13_[720p][493E752A].mkv",
+                    "group": "SFWhine",
+                    "hash": "493E752A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=278304",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-27T18:00:00",
+            "episode": 14,
+            "score": 7.5442815297,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 14 [3C7A37DE].mkv",
+                    "group": "Commie",
+                    "hash": "3C7A37DE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280531",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_14_[720p][Hi10P][1FE0A95B].mkv",
+                    "group": "SFWhine",
+                    "hash": "1FE0A95B",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=280962",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_14_[720p][00A8A8E7].mkv",
+                    "group": "SFWhine",
+                    "hash": "00A8A8E7",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=280963",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-10T18:00:00",
+            "episode": 15,
+            "score": 7.5345011646,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_15.5_[576p][Hi10P][23DEF3FA].mkv",
+                    "group": "SFWhine",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287350",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_15.5_[576p][5A284C05].mkv",
+                    "group": "SFWhine",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287351",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-17T18:00:00",
+            "episode": 16,
+            "score": 7.5210409712,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 16 [34168835].mkv",
+                    "group": "Commie",
+                    "hash": "34168835",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_16_[720p][Hi10P][D1C4C423].mkv",
+                    "group": "SFWhine",
+                    "hash": "D1C4C423",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_16_(18)_%5B720p%5D%5BHi10P%5D%5BD1C4C423%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_16_[720p][C65833C7].mkv",
+                    "group": "SFWhine",
+                    "hash": "C65833C7",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_16_(18)_%5B720p%5D%5BC65833C7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-24T18:00:00",
+            "episode": 17,
+            "score": 7.4938694209,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 17 [1EF89ADF].mkv",
+                    "group": "Commie",
+                    "hash": "1EF89ADF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_17_[720p][Hi10P][9A8D971D].mkv",
+                    "group": "SFWhine",
+                    "hash": "9A8D971D",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_17_%5B720p%5D%5BHi10P%5D%5B9A8D971D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_17_[720p][2C8FDD0B].mkv",
+                    "group": "SFWhine",
+                    "hash": "2C8FDD0B",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_17_%5B720p%5D%5B2C8FDD0B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-02T18:00:00",
+            "episode": 18,
+            "score": 7.4703274559,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 18 [A5822656].mkv",
+                    "group": "Commie",
+                    "hash": "A5822656",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720][Hi10P]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_18_[720][Hi10P][696235AF].mkv",
+                    "group": "SFWhine",
+                    "hash": "696235AF",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_18_%5B720%5D%5BHi10P%5D%5B696235AF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_18_[720p][1C22C1EB].mkv",
+                    "group": "SFWhine",
+                    "hash": "1C22C1EB",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_18_%5B720p%5D%5B1C22C1EB%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-09T18:00:00",
+            "episode": 19,
+            "score": 7.448617866,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 19 [4A21D18D].mkv",
+                    "group": "Commie",
+                    "hash": "4A21D18D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_19_[720p][Hi10P][115A222C].mkv",
+                    "group": "SFWhine",
+                    "hash": "115A222C",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_19_%5B720p%5D%5BHi10P%5D%5B115A222C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_19_[720p][7ED19EEA].mkv",
+                    "group": "SFWhine",
+                    "hash": "7ED19EEA",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_19_%5B720p%5D%5B7ED19EEA%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-16T18:00:00",
+            "episode": 20,
+            "score": 7.4253451266,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Last Exile ~Fam, The Silver Wing~ - 20 [8CF68283].mkv",
+                    "group": "Commie",
+                    "hash": "8CF68283",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294810",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 1,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_20_[720p][Hi10P][58D48065].mkv",
+                    "group": "SFWhine",
+                    "hash": "58D48065",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_20_%5B720p%5D%5BHi10P%5D%5B58D48065%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_20_[720p][3ACD53A9].mkv",
+                    "group": "SFWhine",
+                    "hash": "3ACD53A9",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_20_%5B720p%5D%5B3ACD53A9%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-23T18:00:00",
+            "episode": 21,
+            "score": 7.3634736264,
+            "torrents": [
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 1,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_21_[720p][Hi10P][17205F0D].mkv",
+                    "group": "SFWhine",
+                    "hash": "17205F0D",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_21_%5B720p%5D%5BHi10P%5D%5B17205F0D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SFWhine]_Last_Exile_-Fam,_The_Silver_Wing-_-_21_[720p][327283C2].mkv",
+                    "group": "SFWhine",
+                    "hash": "327283C2",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFWhine%5D_Last_Exile_-Fam,_The_Silver_Wing-_-_21_%5B720p%5D%5B327283C2%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 21,
+    "episodes_length": 25,
+    "external_sites": {
+        "anidb": 8260,
+        "ann": 12501,
+        "mal": 10336,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "prawdziwy m\u0119\u017cczyzna odbiera wynagrodzenie w loli",
+            "filename": "http://s.modriv.net/abp/images/screencaps/94c55b8b9993b3327ac52a4eed035070.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 4369,
+            "date": "2012-09-29T13:46:11",
+            "score": 7.23,
+            "type": "mal"
+        },
+        {
+            "count": 499,
+            "date": "2012-09-29T13:46:11",
+            "score": 7.357,
+            "type": "ann"
+        },
+        {
+            "count": 619,
+            "date": "2012-09-29T13:46:11",
+            "score": 7.02,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "Last Exile",
+    "title": "Last Exile: Ginyoku no Fam"
+}

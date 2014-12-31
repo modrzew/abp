@@ -1,0 +1,48 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "COBRA THE ANIMATION: \u516d\u4eba\u306e\u52c7\u58eb"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6494,
+        "ann": 9203,
+        "mal": 5032,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 888,
+            "date": "2012-09-29T02:44:09",
+            "score": 7.21,
+            "type": "mal"
+        },
+        {
+            "count": 215,
+            "date": "2012-09-29T02:44:09",
+            "score": 7.02,
+            "type": "anidb"
+        },
+        {
+            "count": 126,
+            "date": "2012-09-29T02:44:09",
+            "score": 6.837,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "Cobra the Animation: Time Drive",
+    "title": "Cobra The Animation: Rokunin no Yuushi"
+}

@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a8\u30ec\u30e1\u30f3\u30c8\u30cf\u30f3\u30bf\u30fc"
+        },
+        {
+            "language": "pl",
+            "title": "\u0141owcy Zwi\u0105zk\u00f3w"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 39,
+    "episodes_length": 20,
+    "external_sites": {
+        "anidb": 6335,
+        "ann": 10590,
+        "mal": 5945,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "In 2029, a large scale ground sinkage occurred in the Mediterranean Sea. Chemical elements such as oxygen, carbon, gold, molybdenum, and cobalt disappeared from the earth's crust suddenly. The human population was decreased by 90% in sixty years. Researchers found out that the disappeared elements were drained into a planet \"Nega Earth\", located in another dimension. To save the Earth, a special team called the \"Element Hunters\" is organized. All of the members are under 13 years old, because young and flexible brains are needed to access \"Nega Earth\".The anime will be a science-fiction adventure aimed at children to teach chemical elements. The project is a joint production between Japan and Korea for both television and merchandising.",
+            "type": "anidb"
+        },
+        {
+            "content": "In 2029, a large scale ground sinkage occurred in the Mediterranean Sea. Chemical elements such as oxygen, carbon, gold, molybdenum, and cobalt disappeared from the earth&#039;s crust suddenly. The human population was decreased by 90% in sixty years. Researchers found out that the disappeared elements were drained into a planet &quot;Nega Earth&quot;, located in another dimension. To save the Earth, a special team called the &quot;Element Hunters&quot; is organized. All of the members are under 13 years old, because young and flexible brains are needed to access &quot;Nega Earth&quot;.",
+            "type": "mal"
+        },
+        {
+            "content": "Chemical elements had disappeared from the planet, causing forests, buildings and life itself to disappear. Research reveals that the elements have been flowing into another Earth on the another side of a dimensional wall that can only be accessed by those with flexible minds. A team of Element Hunters is formed to return the elements to Earth.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 1294,
+            "date": "2012-09-29T02:36:31",
+            "score": 6.86,
+            "type": "mal"
+        },
+        {
+            "count": 236,
+            "date": "2012-09-29T02:36:31",
+            "score": 5.73,
+            "type": "anidb"
+        },
+        {
+            "count": 234,
+            "date": "2012-09-29T02:36:31",
+            "score": 5.693,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Element Hunters"
+}

@@ -1,0 +1,696 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3070\u3089\u304b\u3082\u3093"
+        }
+    ],
+    "aliases": [
+        "Barakamon"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-07-05T19:20:00",
+            "episode": 1,
+            "score": 8.04,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[CR] Barakamon - 01 [720p].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&4211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[CR] Barakamon - 01 [480p].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&4212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "Barakamon - 01 [720p] [CR].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571608",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[CR] Barakamon - 01 [1080p].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&4213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Barakamon - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571676",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Barakamon - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571677",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Barakamon - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571678",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Barakamon - 01 (720p) [CBC45C87].mkv",
+                    "group": "Underwater",
+                    "hash": "CBC45C87",
+                    "url": "www.nyaa.eu/?page=download&tid=571934",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Barakamon - 01 [h264-720p][31DAA0BC].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "31DAA0BC",
+                    "url": "http://www.nyaa.se/?page=download&tid=572300",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280\u00d7720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[pandoramon] Barakamon - 01 [1280\u00d7720 x264 AAC].mkv",
+                    "group": "pandoramon",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=573119",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Underwater] Barakamon - 01v2 (720p) [685C1315].mkv",
+                    "group": "Underwater",
+                    "hash": "685C1315",
+                    "url": "http://www.nyaa.se/?page=download&tid=575629",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-07-12T19:20:00",
+            "episode": 2,
+            "score": 7.8306834171,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=574272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Barakamon - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=574279",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Barakamon - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=574291",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Barakamon - 02 [h264-720p][DDF6AB98].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "DDF6AB98",
+                    "url": "http://www.nyaa.se/?page=download&tid=574415",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Barakamon - 02 (720p) [AD9F6BC2].mkv",
+                    "group": "Underwater",
+                    "hash": "AD9F6BC2",
+                    "url": "http://www.nyaa.se/?page=download&tid=575630",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280\u00d7720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[pandoramon] Barakamon - 02 [1280\u00d7720 x264 AAC].mkv",
+                    "group": "pandoramon",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576497",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-19T19:20:00",
+            "episode": 3,
+            "score": 7.802875,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=577224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Barakamon - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=577226",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Barakamon - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=577253",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Barakamon - 03 [h264-720p][815F8599].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "815F8599",
+                    "url": "http://www.nyaa.se/?page=download&tid=577449",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280\u00d7720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[pandoramon] Barakamon - 03 [1280\u00d7720 x264 AAC].mkv",
+                    "group": "pandoramon",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=579499",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Barakamon - 03v2 [h264-720p][4F3A6BF0].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "4F3A6BF0",
+                    "url": "http://www.nyaa.se/?page=download&tid=583100",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Barakamon - 03 (720p) [96EF613D].mkv",
+                    "group": "Underwater",
+                    "hash": "96EF613D",
+                    "url": "http://www.nyaa.se/?page=download&tid=601920",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-26T19:20:00",
+            "episode": 4,
+            "score": 7.8711654135,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Barakamon - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580185",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Barakamon - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580186",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Barakamon - 04 [h264-720p][53D14F7C].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "53D14F7C",
+                    "url": "http://www.nyaa.se/?page=download&tid=580326",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Barakamon - 04 (720p) [A0B5AD9C].mkv",
+                    "group": "Underwater",
+                    "hash": "A0B5AD9C",
+                    "url": "http://www.nyaa.se/?page=download&tid=601921",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-02T19:20:00",
+            "episode": 5,
+            "score": 7.9189726027,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Barakamon - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582941",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Barakamon - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582944",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Barakamon - 05 [h264-720p][78EA59FF].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "78EA59FF",
+                    "url": "http://www.nyaa.se/?page=download&tid=583101",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Barakamon - 05 (720p) [555BC25D].mkv",
+                    "group": "Underwater",
+                    "hash": "555BC25D",
+                    "url": "http://www.nyaa.se/?page=download&tid=601922",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-09T19:20:00",
+            "episode": 6,
+            "score": 7.8567202572,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Barakamon - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Barakamon - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=585861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Barakamon - 06 [h264-720p][EE176A62].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "EE176A62",
+                    "url": "http://www.nyaa.se/?page=download&tid=586409",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-16T19:20:00",
+            "episode": 7,
+            "score": 7.9015197568,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Barakamon - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588592",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] Barakamon - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588595",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Barakamon - 07 [h264-720p][A12A03FA].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "A12A03FA",
+                    "url": "http://www.nyaa.se/?page=download&tid=589480",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-23T19:20:00",
+            "episode": 8,
+            "score": 7.8899713467,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Barakamon - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591553",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 29,
+                    "filename": "[HorribleSubs] Barakamon - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591586",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Barakamon - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=591599",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[Anime-Koi] Barakamon - 08 [h264-720p][1E9D4466].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "1E9D4466",
+                    "url": "http://www.nyaa.se/?page=download&tid=591702",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-06T19:20:00",
+            "episode": 9,
+            "score": 8.012721519,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Barakamon - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596274",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Barakamon - 09 [h264-720p][5217D4DC].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "5217D4DC",
+                    "url": "http://www.anirena.com/dl/10357",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-13T19:20:00",
+            "episode": 10,
+            "score": 7.9952063882,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 24,
+                    "filename": "[HorribleSubs] Barakamon - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Barakamon - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Barakamon - 10 [h264-720p][9E84FDFF].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "9E84FDFF",
+                    "url": "http://www.nyaa.se/?page=download&tid=598445",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-20T19:20:00",
+            "episode": 11,
+            "score": 7.9161054945,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Barakamon - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599968",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Barakamon - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599971",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Barakamon - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599974",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Barakamon - 11 [h264-720p][7D01567C].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "7D01567C",
+                    "url": "http://www.nyaa.se/?page=download&tid=600627",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-27T20:25:00",
+            "episode": 12,
+            "score": 8.0800996678,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Barakamon - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=602688",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Barakamon - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=602689",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Barakamon - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=602693",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Barakamon - 12 [h264-720p][54B3647B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "54B3647B",
+                    "url": "http://www.nyaa.se/?page=download&tid=603867",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10111,
+        "ann": 16083,
+        "mal": 22789,
+        "schedule": 3442
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on the manga series by Yoshino Satsuki by the same name.Calligrapher Handa Seishuu moves to the remote Gotou Islands off the western coast of Kyushu, interacting with various people of the island.Note: First two episodes were shown at an advance screening event on June 29 that was held in Tokyo and the Goto Islands, where the story takes place. The regular broadcast started on 6th of July.",
+            "type": "anidb"
+        },
+        {
+            "content": "After punching a famous curator in the face for criticizing his work as \"textbook and lifeless,\" Handa Seishuu is sent to Got\u014d Island to calm his nerves and find new inspiration for his calligraphy. Growing up in the city all his life, though, Handa must adapt to country life while meeting an assortment of quirky people during his tenure.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 673,
+            "date": "2014-10-17T03:00:50",
+            "score": 8.08,
+            "type": "anidb"
+        },
+        {
+            "count": 362,
+            "date": "2014-10-17T03:00:50",
+            "score": 8.127,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Barakamon"
+}

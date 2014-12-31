@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d5\u30a1\u30a4\u30c8\u4e00\u767a\uff01\u5145\u96fb\u3061\u3083\u3093\uff01\uff01"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6481,
+        "ann": 10463,
+        "mal": 5973,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on a seinen manga by Ditama Bow (who also authored Mahoromatic & KissXSis), serialised in Comic Gum.Juden-chan is the name given to a group of special girls \u2014 from a different dimension \u2014 who use electricity to cheer up suicidal people. To find the people in need, Plug (our heroine) uses a device that tells her a persons level of depression \u2014 A being worst, F being happiest. Since Plug and her co-workers come from a different dimension, they can fly, pass through things, and pull magic plugs out of power transformers. Plug tries her best, but encounters, Oumi Sento, a boy who can both see and touch her \u2014 usually with a baseball bat. Unfortunately for Plug, his sister is her assignment and she has to get past him to 'charge' her up.",
+            "type": "anidb"
+        },
+        {
+            "content": "Meet Plug, an unusual girl from a parallel world. Plug is a &quot;Juuden-chan,&quot; capable of &quot;recharging&quot; people down on their luck, spreading good cheer wherever she goes!",
+            "type": "mal"
+        },
+        {
+            "content": "Plug is a \"J\u016bden-chan\" or \"Charger Girl\" from a dimension parallel to Earth's own. Her job is to find humans in our dimension that are depressed, transform into her rubber suit, and charge them up to revitalize their energy.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5263,
+            "date": "2012-09-29T02:34:09",
+            "score": 7.04,
+            "type": "mal"
+        },
+        {
+            "count": 719,
+            "date": "2012-09-29T02:34:09",
+            "score": 6.82,
+            "type": "anidb"
+        },
+        {
+            "count": 434,
+            "date": "2012-09-29T02:34:09",
+            "score": 6.766,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Fight Ippatsu! Juuden-chan!!"
+}

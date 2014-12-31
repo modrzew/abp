@@ -1,0 +1,1121 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ac\u30f3\u30c0\u30e0\u30d3\u30eb\u30c9\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba"
+        },
+        {
+            "language": "pl",
+            "title": "Dzia\u0142o Tama Wojowniczy Budowniczy"
+        }
+    ],
+    "aliases": [
+        "Gundam Build Fighters"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-07T11:00:00",
+            "episode": 1,
+            "score": 7.3282466281,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480671",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 01 [720p][10bit][2A988F2A].mkv",
+                    "group": "sage",
+                    "hash": "2A988F2A",
+                    "url": "http://www.nyaa.se/?page=download&tid=481506",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[AG] Gundam Build Fighters - 01 [720p][A034FFFA].mkv",
+                    "group": "AG",
+                    "hash": "A034FFFA",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2001%20%5B720p%5D%5BA034FFFA%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-14T11:00:00",
+            "episode": 2,
+            "score": 7.3200545703,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 02 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482971",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 02 [720p][10bit][F36B97DC].mkv",
+                    "group": "sage",
+                    "hash": "F36B97DC",
+                    "url": "http://www.nyaa.se/?page=download&tid=483194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[AG] Gundam Build Fighters - 02 [720p][949B983E].mkv",
+                    "group": "AG",
+                    "hash": "949B983E",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2002%20%5B720p%5D%5B949B983E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-21T11:00:00",
+            "episode": 3,
+            "score": 7.3159128386,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 03 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 03 [720p][10bit][37B9DC2B].mkv",
+                    "group": "sage",
+                    "hash": "37B9DC2B",
+                    "url": "http://www.nyaa.se/?page=download&tid=485498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[AG] Gundam Build Fighters - 03 [720p][3AEA4761].mkv",
+                    "group": "AG",
+                    "hash": "3AEA4761",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2003%20%5B720p%5D%5B3AEA4761%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-28T10:00:00",
+            "episode": 4,
+            "score": 5.34,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 04 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487650",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 1,
+                    "filename": "[sage] Gundam Build Fighters - 04 [720p][10bit][0B1000C3].mkv",
+                    "group": "sage",
+                    "hash": "0B1000C3",
+                    "url": "http://www.nyaa.se/?page=download&tid=487854",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 04 [720p][22E80401].mkv",
+                    "group": "AG",
+                    "hash": "22E80401",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2004%20%5B720p%5D%5B22E80401%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-04T10:00:00",
+            "episode": 5,
+            "score": 5.26,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 05 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489961",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489962",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 05 [720p][10bit][D4D1C1A0].mkv",
+                    "group": "sage",
+                    "hash": "D4D1C1A0",
+                    "url": "http://www.nyaa.se/?page=download&tid=490207",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 05 [720p][C22835DD].mkv",
+                    "group": "AG",
+                    "hash": "C22835DD",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2005%20%5B720p%5D%5BC22835DD%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-11T10:00:00",
+            "episode": 6,
+            "score": 5.26,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 06 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492502",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 06 [720p][10bit][CBE7DA11].mkv",
+                    "group": "sage",
+                    "hash": "CBE7DA11",
+                    "url": "http://www.nyaa.se/?page=download&tid=492899",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 06 [720p][CF7291FD].mkv",
+                    "group": "AG",
+                    "hash": "CF7291FD",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2006%20%5B720p%5D%5BCF7291FD%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-18T10:00:00",
+            "episode": 7,
+            "score": 5.48,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494359",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 07 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494358",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 07 [720p][10bit][70E61591].mkv",
+                    "group": "sage",
+                    "hash": "70E61591",
+                    "url": "http://www.nyaa.se/?page=download&tid=494614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 07 [720p][81E748EC].mkv",
+                    "group": "AG",
+                    "hash": "81E748EC",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2007%20%5B720p%5D%5B81E748EC%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-25T10:00:00",
+            "episode": 8,
+            "score": 5.6113333333,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 08 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496666",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 08 [720p][63027505].mkv",
+                    "group": "AG",
+                    "hash": "63027505",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2008%20%5B720p%5D%5B63027505%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 08 [720p][10bit][F8F71D5D].mkv",
+                    "group": "sage",
+                    "hash": "F8F71D5D",
+                    "url": "http://www.nyaa.se/?page=download&tid=497229",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-02T10:00:00",
+            "episode": 9,
+            "score": 5.3890898876,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 09 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499001",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 09 [720p][10bit][74C94185].mkv",
+                    "group": "sage",
+                    "hash": "74C94185",
+                    "url": "http://www.nyaa.se/?page=download&tid=499121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 09 [720p][1380EBA3].mkv",
+                    "group": "AG",
+                    "hash": "1380EBA3",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2009%20%5B720p%5D%5B1380EBA3%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-09T10:00:00",
+            "episode": 10,
+            "score": 5.3923763441,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501035",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 10 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501034",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 10 [720p][10bit][86E636A6].mkv",
+                    "group": "sage",
+                    "hash": "86E636A6",
+                    "url": "http://www.nyaa.se/?page=download&tid=501444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 10 [720p][6BEEE135].mkv",
+                    "group": "AG",
+                    "hash": "6BEEE135",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2010%20%5B720p%5D%5B6BEEE135%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-16T10:00:00",
+            "episode": 11,
+            "score": 5.4148125,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 11 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503407",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503408",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 11 [720p][10bit][AC5B8D0E].mkv",
+                    "group": "sage",
+                    "hash": "AC5B8D0E",
+                    "url": "http://www.nyaa.se/?page=download&tid=503581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 11 [720p][31974DCC].mkv",
+                    "group": "AG",
+                    "hash": "31974DCC",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2011%20%5B720p%5D%5B31974DCC%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-23T10:00:00",
+            "episode": 12,
+            "score": 5.5459142857,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 12 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505375",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505376",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 12 [720p][10bit][BB556D02].mkv",
+                    "group": "sage",
+                    "hash": "BB556D02",
+                    "url": "http://www.nyaa.se/?page=download&tid=505484",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 12 [720p][C85E7622].mkv",
+                    "group": "AG",
+                    "hash": "C85E7622",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2012%20%5B720p%5D%5BC85E7622%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-06T10:00:00",
+            "episode": 13,
+            "score": 5.5616607143,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 13 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509228",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 13 [720p][10bit][B1A22A12].mkv",
+                    "group": "sage",
+                    "hash": "B1A22A12",
+                    "url": "http://www.nyaa.se/?page=download&tid=509839",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 13 [720p][7A0BFB5B].mkv",
+                    "group": "AG",
+                    "hash": "7A0BFB5B",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2013%20%5B720p%5D%5B7A0BFB5B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 13v2 [720p][10bit][F376DD59].mkv",
+                    "group": "sage",
+                    "hash": "F376DD59",
+                    "url": "http://www.nyaa.se/?page=download&tid=516235",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-01-13T10:00:00",
+            "episode": 14,
+            "score": 5.6672413793,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 14 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=511884",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=511885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 14 [720p][10bit][BD56DBFE].mkv",
+                    "group": "sage",
+                    "hash": "BD56DBFE",
+                    "url": "http://www.nyaa.se/?page=download&tid=512125",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 14 [720p][1F9F97B1].mkv",
+                    "group": "AG",
+                    "hash": "1F9F97B1",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2014%20%5B720p%5D%5B1F9F97B1%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-20T10:00:00",
+            "episode": 15,
+            "score": 5.8504201681,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 15 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514442",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514443",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 15 [720p][10bit][92CB9776].mkv",
+                    "group": "sage",
+                    "hash": "92CB9776",
+                    "url": "http://www.nyaa.se/?page=download&tid=514636",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 15 [720p][16DA249F].mkv",
+                    "group": "AG",
+                    "hash": "16DA249F",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2015%20%5B720p%5D%5B16DA249F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-27T10:00:00",
+            "episode": 16,
+            "score": 5.8864754098,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 16 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=516986",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=516987",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 16 [720p][10bit][F4F17C7A].mkv",
+                    "group": "sage",
+                    "hash": "F4F17C7A",
+                    "url": "http://www.nyaa.se/?page=download&tid=517395",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 16 [720p][10AF62BE].mkv",
+                    "group": "AG",
+                    "hash": "10AF62BE",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2016%20%5B720p%5D%5B10AF62BE%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-03T10:00:00",
+            "episode": 17,
+            "score": 5.8863821138,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 17 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519565",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519566",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 17 [720p][10bit][604FAE3F].mkv",
+                    "group": "sage",
+                    "hash": "604FAE3F",
+                    "url": "http://www.nyaa.se/?page=download&tid=519781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 17 [720p][8E249749].mkv",
+                    "group": "AG",
+                    "hash": "8E249749",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2017%20%5B720p%5D%5B8E249749%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-10T10:00:00",
+            "episode": 18,
+            "score": 5.83728,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 18 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=521674",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=521675",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 18 [720p][10bit][CCBCCE20].mkv",
+                    "group": "sage",
+                    "hash": "CCBCCE20",
+                    "url": "http://www.nyaa.se/?page=download&tid=522602",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 18 [720p][4631266F].mkv",
+                    "group": "AG",
+                    "hash": "4631266F",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2018%20%5B720p%5D%5B4631266F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-17T10:00:00",
+            "episode": 19,
+            "score": 5.83,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 19 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524101",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524102",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 19 [720p][D0968E2A].mkv",
+                    "group": "AG",
+                    "hash": "D0968E2A",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2019%20%5B720p%5D%5BD0968E2A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 19 [720p][10bit][BCA2475D].mkv",
+                    "group": "sage",
+                    "hash": "BCA2475D",
+                    "url": "http://www.nyaa.se/?page=download&tid=524916",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-24T10:00:00",
+            "episode": 20,
+            "score": 5.8238045113,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 20 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526503",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526504",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 20 [720p][10bit][25F883EB].mkv",
+                    "group": "sage",
+                    "hash": "25F883EB",
+                    "url": "http://www.nyaa.se/?page=download&tid=526966",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 20 [720p][28FD0122].mkv",
+                    "group": "AG",
+                    "hash": "28FD0122",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2020%20%5B720p%5D%5B28FD0122%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-03T10:00:00",
+            "episode": 21,
+            "score": 5.8238045113,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 21 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=528889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=528890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 21 [720p][10bit][87DF25D5].mkv",
+                    "group": "sage",
+                    "hash": "87DF25D5",
+                    "url": "http://www.nyaa.se/?page=download&tid=529387",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 21 [720p][E144A724].mkv",
+                    "group": "AG",
+                    "hash": "E144A724",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2021%20%5B720p%5D%5BE144A724%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-10T10:00:00",
+            "episode": 22,
+            "score": 5.8250882353,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 22 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531329",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531330",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 22 [720p][10bit][C0D85CCC].mkv",
+                    "group": "sage",
+                    "hash": "C0D85CCC",
+                    "url": "http://www.nyaa.se/?page=download&tid=531808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 22 [720p][9E5CC15E].mkv",
+                    "group": "AG",
+                    "hash": "9E5CC15E",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2022%20%5B720p%5D%5B9E5CC15E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-17T10:00:00",
+            "episode": 23,
+            "score": 5.8542733813,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 23 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533484",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 23 [720p][D0178FDE].mkv",
+                    "group": "AG",
+                    "hash": "D0178FDE",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2023%20%5B720p%5D%5BD0178FDE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 23 [720p][10bit][14F5038B].mkv",
+                    "group": "sage",
+                    "hash": "14F5038B",
+                    "url": "http://www.nyaa.se/?page=download&tid=534153",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-24T10:00:00",
+            "episode": 24,
+            "score": 5.9366896552,
+            "torrents": [
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 24 [720p][10bit][0534A485].mkv",
+                    "group": "sage",
+                    "hash": "0534A485",
+                    "url": "http://www.nyaa.se/?page=download&tid=536246",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[AG] Gundam Build Fighters - 24 [720p][CC2F99A2].mkv",
+                    "group": "AG",
+                    "hash": "CC2F99A2",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2024%20%5B720p%5D%5BCC2F99A2%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-31T11:00:00",
+            "episode": 25,
+            "score": 6.7872972973,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 25 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=538004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Build Fighters - 25 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=538005",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[sage] Gundam Build Fighters - 25 [720p][10bit][66561874].mkv",
+                    "group": "sage",
+                    "hash": "66561874",
+                    "url": "http://www.nyaa.se/?page=download&tid=538844",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Build Fighters - 25 [720p][BC0870AC].mkv",
+                    "group": "AG",
+                    "hash": "BC0870AC",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Build%20Fighters%20-%2025%20%5B720p%5D%5BBC0870AC%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9960,
+        "ann": 15492,
+        "mal": 19319,
+        "schedule": 3188
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 830,
+            "date": "2013-10-27T04:47:30",
+            "score": 7.36,
+            "type": "mal"
+        },
+        {
+            "count": 121,
+            "date": "2014-04-21T05:30:57",
+            "score": 6.22,
+            "type": "anidb"
+        },
+        {
+            "count": 122,
+            "date": "2014-04-21T05:30:57",
+            "score": 7.327,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": true,
+    "sequel_parent": "Gundam Jaki\u015btam",
+    "title": "Gundam Build Fighters"
+}

@@ -1,0 +1,897 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5f7c\u5973\u304c\u30d5\u30e9\u30b0\u3092\u304a\u3089\u308c\u305f\u3089"
+        }
+    ],
+    "aliases": [
+        "Kanojo ga Flag o Oraretara",
+        "Kanojo ga Flag wo Oraretara"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-04-06T17:30:00",
+            "episode": 1,
+            "score": 5.98,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Kanojo ga Flag o Oraretara - 01 [h264-720p][EDF54C07].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "EDF54C07",
+                    "url": "http://www.nyaa.se/?page=download&tid=540649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 01 (1280x720 10bit AAC) [89C00135].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "89C00135",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2001%20(1280x720%2010bit%20AAC)%20%5B89C00135%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 01 (720p) [2676233C].mkv",
+                    "group": "Underwater",
+                    "hash": "2676233C",
+                    "url": "http://www.nyaa.se/?page=download&tid=541065",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541169",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 01v2 (1280x720 10bit AAC) [F245A84B].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "F245A84B",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2001v2%20(1280x720%2010bit%20AAC)%20%5BF245A84B%5D.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-04-13T17:30:00",
+            "episode": 2,
+            "score": 5.83,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 02 (720p) [632BFB63].mkv",
+                    "group": "Underwater",
+                    "hash": "632BFB63",
+                    "url": "http://www.nyaa.se/?page=download&tid=542938",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Kanojo ga Flag o Oraretara - 02v0 [h264-720p][6359CEDE].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "6359CEDE",
+                    "url": "http://www.nyaa.se/?page=download&tid=543169",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=543828",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=543829",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=543957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 02 [h264-720p][63D87107].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "63D87107",
+                    "url": "http://www.nyaa.se/?page=download&tid=545581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 02 (1280x720 10bit AAC) [62B56CC5].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "62B56CC5",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2002%20(1280x720%2010bit%20AAC)%20%5B62B56CC5%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-20T17:30:00",
+            "episode": 3,
+            "score": 5.92,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 03v0 [h264-720p][9F0837E3].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "9F0837E3",
+                    "url": "http://www.nyaa.se/?page=download&tid=545583",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 03 (720p) [372B8ED6].mkv",
+                    "group": "Underwater",
+                    "hash": "372B8ED6",
+                    "url": "http://www.nyaa.se/?page=download&tid=545626",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546671",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 03 [h264-720p][73DAB6FA].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "73DAB6FA",
+                    "url": "http://www.nyaa.se/?page=download&tid=548357",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 03 (1280x720 10bit AAC) [5F654551].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "5F654551",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2003%20(1280x720%2010bit%20AAC)%20%5B5F654551%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-27T17:30:00",
+            "episode": 4,
+            "score": 6.0917978723,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 04v0 [h264-720p][FE669A65].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "FE669A65",
+                    "url": "http://www.nyaa.se/?page=download&tid=548358",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 04 (720p) [44C88D29].mkv",
+                    "group": "Underwater",
+                    "hash": "44C88D29",
+                    "url": "http://www.nyaa.se/?page=download&tid=548410",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549312",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549314",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 04 [h264-720p][0DED89C3].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "0DED89C3",
+                    "url": "http://www.nyaa.se/?page=download&tid=550864",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 04 (1280x720 10bit AAC) [E6E0FB59].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "E6E0FB59",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2004%20(1280x720%2010bit%20AAC)%20%5BE6E0FB59%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-04T17:30:00",
+            "episode": 5,
+            "score": 5.9208292683,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 05v0 [h264-720p][5CEE2CFC].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "5CEE2CFC",
+                    "url": "http://www.nyaa.se/?page=download&tid=550865",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 05 (720p) [470F0B92].mkv",
+                    "group": "Underwater",
+                    "hash": "470F0B92",
+                    "url": "http://www.nyaa.se/?page=download&tid=550956",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=551913",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=551915",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=551917",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 05 [h264-720p][4688E01B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "4688E01B",
+                    "url": "http://www.nyaa.se/?page=download&tid=553438",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 05 (1280x720 10bit AAC) [F6BEB837].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "F6BEB837",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2005%20(1280x720%2010bit%20AAC)%20%5BF6BEB837%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-11T17:30:00",
+            "episode": 6,
+            "score": 5.9798691589,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 06v0 [h264-720p][72015C9B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "72015C9B",
+                    "url": "http://www.nyaa.se/?page=download&tid=553439",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 06 (720p) [B9F56519].mkv",
+                    "group": "Underwater",
+                    "hash": "B9F56519",
+                    "url": "http://www.nyaa.se/?page=download&tid=553483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554358",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 06 [h264-720p][5D1F30C4].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "5D1F30C4",
+                    "url": "http://www.nyaa.se/?page=download&tid=555968",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 06 (1280x720 10bit AAC) [77499601].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "77499601",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2006%20(1280x720%2010bit%20AAC)%20%5B77499601%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-18T17:30:00",
+            "episode": 7,
+            "score": 5.8704524887,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 07v0 [h264-720p][CBC5E5D7].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CBC5E5D7",
+                    "url": "http://www.nyaa.se/?page=download&tid=555969",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 07 (720p) [354B705D].mkv",
+                    "group": "Underwater",
+                    "hash": "354B705D",
+                    "url": "http://www.nyaa.se/?page=download&tid=556016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=556856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=556858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=556861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 07 [h264-720p][059828C9].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "059828C9",
+                    "url": "http://www.nyaa.se/?page=download&tid=558363",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 07 (1280x720 10bit AAC) [46B0D260].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "46B0D260",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2007%20(1280x720%2010bit%20AAC)%20%5B46B0D260%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-25T17:30:00",
+            "episode": 8,
+            "score": 5.8753684211,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 08v0 [h264-720p][2BBA2772].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "2BBA2772",
+                    "url": "http://www.nyaa.se/?page=download&tid=558364",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 08 (720p) [CC94A498].mkv",
+                    "group": "Underwater",
+                    "hash": "CC94A498",
+                    "url": "http://www.nyaa.se/?page=download&tid=558412",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559249",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559252",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559266",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 08 [h264-720p][CB1A5B22].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CB1A5B22",
+                    "url": "http://www.nyaa.se/?page=download&tid=560578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Kanojo ga Flag wo Oraretara - 08 (1280x720 10bit AAC) [00B9B5E4].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "00B9B5E4",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Kanojo%20ga%20Flag%20wo%20Oraretara%20-%2008%20(1280x720%2010bit%20AAC)%20%5B00B9B5E4%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-01T17:30:00",
+            "episode": 9,
+            "score": 5.8448291667,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 09v0 [h264-720p][44F8936A].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "44F8936A",
+                    "url": "http://www.nyaa.se/?page=download&tid=560628",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 09 (720p) [5C4356A3].mkv",
+                    "group": "Underwater",
+                    "hash": "5C4356A3",
+                    "url": "http://www.nyaa.se/?page=download&tid=560650",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561425",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561427",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561428",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 09 [h264-720p][0C892904].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "0C892904",
+                    "url": "http://www.nyaa.se/?page=download&tid=562911",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-08T17:30:00",
+            "episode": 10,
+            "score": 5.9241434263,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 10v0 [h264-720p][87A608EC].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "87A608EC",
+                    "url": "http://www.nyaa.se/?page=download&tid=562909",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 10 (720p) [3C5E2725].mkv",
+                    "group": "Underwater",
+                    "hash": "3C5E2725",
+                    "url": "http://www.nyaa.se/?page=download&tid=562944",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563710",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563711",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 10 [h264-720p][764CDB6D].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "764CDB6D",
+                    "url": "http://www.nyaa.se/?page=download&tid=567052",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-15T17:30:00",
+            "episode": 11,
+            "score": 5.9133079848,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 11 (720p) [D3CD22E2].mkv",
+                    "group": "Underwater",
+                    "hash": "D3CD22E2",
+                    "url": "http://www.nyaa.se/?page=download&tid=565123",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=565865",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=565870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=565871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 11 [h264-720p][41956964].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "41956964",
+                    "url": "http://www.nyaa.se/?page=download&tid=567053",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-22T17:30:00",
+            "episode": 12,
+            "score": 5.7054553073,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 12 [h264-720p][EFE56FDF].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "EFE56FDF",
+                    "url": "http://www.nyaa.se/?page=download&tid=567226",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 12 (720p) [649D1EC0].mkv",
+                    "group": "Underwater",
+                    "hash": "649D1EC0",
+                    "url": "http://www.nyaa.se/?page=download&tid=567242",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568156",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-03T14:00:00",
+            "episode": 13,
+            "score": 5.7797372263,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Kanojo ga Flag wo Oraretara - 13 [h264-720p][A84D1EDD].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "A84D1EDD",
+                    "url": "http://www.nyaa.se/?page=download&tid=569614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Kanojo ga Flag wo Oraretara - 13 (720p) [3DF068AE].mkv",
+                    "group": "Underwater",
+                    "hash": "3DF068AE",
+                    "url": "http://www.nyaa.se/?page=download&tid=569641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=570482",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=570483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kanojo ga Flag wo Oraretara - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=570484",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 9524,
+        "ann": 15801,
+        "mal": 19685,
+        "schedule": 3316
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "S\u014dta Hatate, a new transfer student, has precognitive abilities that allow him to view the futures of those involved with him in the form of flags. He lives in a small dorm with many beautiful girls,[2] but when he sees a flag of death on himself; he learns that to change his fate, he has to assemble four people: a princess knight, a magician, a clergy, and a shinobi.[ch.\u00a05]",
+            "type": "wiki"
+        },
+        {
+            "content": "Hatate Sota is a high school boy, who has an ability to visualize \"flags\" for future events such as \"death flag,\" \"friendship flag,\" and \"romance flag.\" Despite the flag-viewing ability, he avoids making friends with others due to a trauma he experienced in a ship submergence accident. Four beautiful girls get interested in his strange way of living, and they begin to live with him at the school dorm by force.",
+            "type": "ann"
+        },
+        {
+            "content": "Romantic comedy revolves around Hatate Souta, a boy who has the unique ability to see Flags above the heads of other people. The Flags mark critical crossroads in people's lives \u2014 when the choices they make will determine love, friendship, victory, and even death. He transfers into Tokyo's elite Hatagaya Academy, but instead of living by himself in the boys' dormitory, he ends up living with five beautiful girls under one roof.Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 336,
+            "date": "2014-07-23T07:01:35",
+            "score": 5.49,
+            "type": "anidb"
+        },
+        {
+            "count": 254,
+            "date": "2014-07-23T07:01:35",
+            "score": 6.088,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Kanojo ga Flag o Oraretara"
+}

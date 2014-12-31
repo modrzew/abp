@@ -1,0 +1,722 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6771\u4eac\u30ec\u30a4\u30f4\u30f3\u30ba"
+        },
+        {
+            "language": "pl",
+            "title": "Tokijskie Kruki"
+        }
+    ],
+    "aliases": [
+        "Tokyo Ravens"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-08T17:30:00",
+            "episode": 1,
+            "score": 7.6067042802,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Tokyo Ravens - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Tokyo Ravens - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Tokyo_Ravens_-_01_[398DE7BC].mkv",
+                    "group": "gg",
+                    "hash": "398DE7BC",
+                    "url": "http://www.nyaa.se/?page=download&tid=481224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 01 [h264-720p][18C64B64].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "18C64B64",
+                    "url": "http://www.nyaa.se/?page=download&tid=481387",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-15T17:30:00",
+            "episode": 2,
+            "score": 7.6042366864,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Tokyo_Ravens_-_02_[B239C4DB].mkv",
+                    "group": "gg",
+                    "hash": "B239C4DB",
+                    "url": "http://www.nyaa.se/?page=download&tid=483396",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 02v0 [h264-720p][EE6EF64B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "EE6EF64B",
+                    "url": "http://www.nyaa.se/?page=download&tid=483403",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[BS11][h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 02v2 [BS11][h264-720p][8F596B16].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "8F596B16",
+                    "url": "http://www.nyaa.se/?page=download&tid=484263",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-10-22T17:30:00",
+            "episode": 3,
+            "score": 7.04,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 03 [h264-720p][C997AD9B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "C997AD9B",
+                    "url": "http://www.nyaa.se/?page=download&tid=485649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[gg]_Tokyo_Ravens_-_03_[1C0B8231].mkv",
+                    "group": "gg",
+                    "hash": "1C0B8231",
+                    "url": "http://www.nyaa.se/?page=download&tid=485711",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-29T16:30:00",
+            "episode": 4,
+            "score": 6.749647619,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 04 [h264-720p][7E14CCC1].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "7E14CCC1",
+                    "url": "http://www.nyaa.se/?page=download&tid=488035",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[gg]_Tokyo_Ravens_-_04_[84E36FFA].mkv",
+                    "group": "gg",
+                    "hash": "84E36FFA",
+                    "url": "http://www.nyaa.se/?page=download&tid=488074",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 04v2 [h264-720p][2C578B41].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "2C578B41",
+                    "url": "http://www.nyaa.se/?page=download&tid=494769",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-11-05T16:30:00",
+            "episode": 5,
+            "score": 6.7909473684,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 05 [h264-720p][EC0B1B43].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "EC0B1B43",
+                    "url": "http://www.nyaa.se/?page=download&tid=490348",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Tokyo_Ravens_-_05v2_[3B1FE919].mkv",
+                    "group": "gg",
+                    "hash": "3B1FE919",
+                    "url": "http://www.nyaa.se/?page=download&tid=490378",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 05v2 [h264-720p][37FAAA54].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "37FAAA54",
+                    "url": "http://www.nyaa.se/?page=download&tid=494768",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-11-12T16:30:00",
+            "episode": 6,
+            "score": 7.0294285714,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 06 [h264-720p][360DB4A7].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "360DB4A7",
+                    "url": "http://www.nyaa.se/?page=download&tid=492507",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[gg]_Tokyo_Ravens_-_06_[A3873E82].mkv",
+                    "group": "gg",
+                    "hash": "A3873E82",
+                    "url": "http://www.nyaa.se/?page=download&tid=492578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 06v2 [h264-720p][6B2B7F61].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "6B2B7F61",
+                    "url": "http://www.nyaa.se/?page=download&tid=494767",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-11-19T16:30:00",
+            "episode": 7,
+            "score": 6.877314741,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 07 [h264-720p][CD6928B4].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CD6928B4",
+                    "url": "http://www.nyaa.se/?page=download&tid=494819",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Tokyo_Ravens_-_07_[70AB5735].mkv",
+                    "group": "gg",
+                    "hash": "70AB5735",
+                    "url": "http://www.nyaa.se/?page=download&tid=494830",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-26T16:30:00",
+            "episode": 8,
+            "score": 6.8055035971,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 08 [h264-720p][0BACDCB1].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "0BACDCB1",
+                    "url": "http://www.nyaa.se/?page=download&tid=497086",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[gg]_Tokyo_Ravens_-_08_[7E5A99DC].mkv",
+                    "group": "gg",
+                    "hash": "7E5A99DC",
+                    "url": "http://www.nyaa.se/?page=download&tid=497142",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-03T16:30:00",
+            "episode": 9,
+            "score": 6.8939896907,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 09 [h264-720p][81F91456].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "81F91456",
+                    "url": "http://www.nyaa.se/?page=download&tid=499250",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Tokyo_Ravens_-_09_[32468CEB].mkv",
+                    "group": "gg",
+                    "hash": "32468CEB",
+                    "url": "http://www.nyaa.se/?page=download&tid=499270",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-10T16:30:00",
+            "episode": 10,
+            "score": 6.9480459016,
+            "torrents": [
+                {
+                    "additional_info": "[480p][Funimation-Rip]",
+                    "download_count": 0,
+                    "filename": "[NotHorribleSubs] Tokyo Ravens - 10 [480p][Funimation-Rip].mkv",
+                    "group": "NotHorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501342",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 10 [h264-720p][F98F37BB].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "F98F37BB",
+                    "url": "http://www.nyaa.se/?page=download&tid=501365",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Tokyo_Ravens_-_10_[2E2071F5].mkv",
+                    "group": "gg",
+                    "hash": "2E2071F5",
+                    "url": "http://www.nyaa.se/?page=download&tid=501381",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-17T16:30:00",
+            "episode": 11,
+            "score": 6.9857283951,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 11 [h264-720p][AC512E56].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "AC512E56",
+                    "url": "http://www.nyaa.se/?page=download&tid=503422",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Tokyo_Ravens_-_11_[A9718F42].mkv",
+                    "group": "gg",
+                    "hash": "A9718F42",
+                    "url": "http://www.nyaa.se/?page=download&tid=503628",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-24T16:30:00",
+            "episode": 12,
+            "score": 7.1305882353,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 12 [h264-720p][9685A37D].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "9685A37D",
+                    "url": "http://www.nyaa.se/?page=download&tid=505697",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Tokyo_Ravens_-_12_[5B52022A].mkv",
+                    "group": "gg",
+                    "hash": "5B52022A",
+                    "url": "http://www.nyaa.se/?page=download&tid=505713",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-07T16:30:00",
+            "episode": 13,
+            "score": 6.9349394737,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 13 [h264-720p][94EB06BD].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "94EB06BD",
+                    "url": "http://www.nyaa.se/?page=download&tid=509672",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Tokyo_Ravens_-_13_[7BE8C880].mkv",
+                    "group": "gg",
+                    "hash": "7BE8C880",
+                    "url": "http://www.nyaa.se/?page=download&tid=510236",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-14T16:30:00",
+            "episode": 14,
+            "score": 6.9969242424,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Tokyo_Ravens_-_14_[3D105988].mkv",
+                    "group": "gg",
+                    "hash": "3D105988",
+                    "url": "http://www.nyaa.se/?page=download&tid=512318",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-21T16:30:00",
+            "episode": 15,
+            "score": 7.0485503686,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 15 [h264-720p][1FFB1CB1].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "1FFB1CB1",
+                    "url": "http://www.nyaa.se/?page=download&tid=514863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Tokyo_Ravens_-_15_[684BDF11].mkv",
+                    "group": "gg",
+                    "hash": "684BDF11",
+                    "url": "http://www.nyaa.se/?page=download&tid=514902",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-28T16:30:00",
+            "episode": 16,
+            "score": 7.0341486811,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 8,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 16 [h264-720p][C73BE477].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "C73BE477",
+                    "url": "http://www.nyaa.se/?page=download&tid=517442",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Tokyo_Ravens_-_16_[FDA28D07].mkv",
+                    "group": "gg",
+                    "hash": "FDA28D07",
+                    "url": "http://www.nyaa.se/?page=download&tid=517750",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-04T16:30:00",
+            "episode": 17,
+            "score": 7.0362,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 17 [h264-720p][A788142B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "A788142B",
+                    "url": "http://www.nyaa.se/?page=download&tid=519936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Tokyo_Ravens_-_17_[3EE79492].mkv",
+                    "group": "gg",
+                    "hash": "3EE79492",
+                    "url": "http://www.nyaa.se/?page=download&tid=519981",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-11T16:30:00",
+            "episode": 18,
+            "score": 6.9500965517,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 18 [h264-720p][4F55DED9].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "4F55DED9",
+                    "url": "http://www.nyaa.se/?page=download&tid=522262",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[gg]_Tokyo_Ravens_-_18_[0D707E08].mkv",
+                    "group": "gg",
+                    "hash": "0D707E08",
+                    "url": "http://www.nyaa.se/?page=download&tid=522884",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-18T16:30:00",
+            "episode": 19,
+            "score": 6.9368893905,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 19 [h264-720p][BA077A39].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "BA077A39",
+                    "url": "http://www.nyaa.se/?page=download&tid=524561",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Tokyo_Ravens_-_19_[A2EDB0AA].mkv",
+                    "group": "gg",
+                    "hash": "A2EDB0AA",
+                    "url": "http://www.nyaa.se/?page=download&tid=524870",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-25T16:30:00",
+            "episode": 20,
+            "score": 7.0380173913,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 8,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 20 [h264-720p][384270AE].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "384270AE",
+                    "url": "http://www.nyaa.se/?page=download&tid=526852",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[gg]_Tokyo_Ravens_-_20_[2879361E].mkv",
+                    "group": "gg",
+                    "hash": "2879361E",
+                    "url": "http://www.nyaa.se/?page=download&tid=526958",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-04T16:30:00",
+            "episode": 21,
+            "score": 7.0515581395,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 21 [h264-720p][53173004].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "53173004",
+                    "url": "http://www.nyaa.se/?page=download&tid=529229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Tokyo_Ravens_-_21_[10F682F0].mkv",
+                    "group": "gg",
+                    "hash": "10F682F0",
+                    "url": "http://www.nyaa.se/?page=download&tid=531699",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-11T16:30:00",
+            "episode": 22,
+            "score": 7.0109297521,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 22 [h264-720p][BF94AE22].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "BF94AE22",
+                    "url": "http://www.nyaa.se/?page=download&tid=531654",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Tokyo_Ravens_-_22_[13D38A21].mkv",
+                    "group": "gg",
+                    "hash": "13D38A21",
+                    "url": "http://www.nyaa.se/?page=download&tid=531700",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-18T16:30:00",
+            "episode": 23,
+            "score": 7.0495,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Tokyo_Ravens_-_23_[24957A4B].mkv",
+                    "group": "gg",
+                    "hash": "24957A4B",
+                    "url": "http://www.nyaa.se/?page=download&tid=533787",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 23 [h264-720p][5EEB409A].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "5EEB409A",
+                    "url": "http://www.nyaa.se/?page=download&tid=533790",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-25T16:30:00",
+            "episode": 24,
+            "score": 7.3186421801,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Tokyo Ravens - 24 [h264-720p][9D82161A].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "9D82161A",
+                    "url": "http://www.nyaa.se/?page=download&tid=536127",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Tokyo_Ravens_-_24_[99DB5D30].mkv",
+                    "group": "gg",
+                    "hash": "99DB5D30",
+                    "url": "http://www.nyaa.se/?page=download&tid=536139",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9481,
+        "ann": 15207,
+        "mal": 16011,
+        "schedule": 3167
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Tsuchimikado Harutora was born into a prestigious Onmyoji family, but he can't see \"spirit energy\". Therefore, he's been enjoying a peaceful daily life with his friends at an Onmyo branch school. One day, his childhood friend Tsuchimikado Natsume, heir to the head family, suddenly appears. Will this cause his destiny spring into motion!?",
+            "type": "mal"
+        },
+        {
+            "content": "Tsuchimikado Harutora was born into a prestigious Onmyoji family, but he can't see spirit energy. Therefore, he's been enjoying a peaceful daily life with his friends at an Onmyo branch school. One day, his childhood friend Tsuchimikado Natsume, heir to the head family, suddenly appears. Will this cause his destiny spring into motion!?",
+            "type": "anidb"
+        },
+        {
+            "content": "In the \"Great Disaster,\" Japan has been thrown into chaos by onmyouji (a kind of magician). Harutora Tsuchimikado was born into an onmyouji family, but has no power whatsoever. His childhood friend Natsume (another member of the Tsuchimikado family) appears to him one day to take him up the promise he made long ago to become her shikigami (familiar). A battle between onmyouji is about to begin.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3920,
+            "date": "2013-10-27T09:16:57",
+            "score": 7.58,
+            "type": "mal"
+        },
+        {
+            "count": 559,
+            "date": "2014-04-15T14:56:54",
+            "score": 7.19,
+            "type": "anidb"
+        },
+        {
+            "count": 403,
+            "date": "2014-04-15T14:56:54",
+            "score": 7.303,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Tokyo Ravens"
+}

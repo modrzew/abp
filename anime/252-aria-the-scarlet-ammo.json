@@ -1,0 +1,891 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u7dcb\u5f3e\u306e\u30a2\u30ea\u30a2"
+        },
+        {
+            "language": "pl",
+            "title": "Szkar\u0142atny Pocisk Aria"
+        }
+    ],
+    "aliases": [
+        "Hidan no Aria"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/454502039",
+            "content": "#anime #Wiosna2011 Aria the Scarlet Ammo (\u7dcb\u5f3e\u306e\u30a2\u30ea\u30a2) http://rdir.pl/1d07a8",
+            "episode": 1,
+            "filename": "3fef95fbaa6bd452e80c4c1df8b7af6b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/60074085740322816"
+        },
+        {
+            "blip_url": "http://blip.pl/s/463870843",
+            "content": "Aria the Scarlet Ammo 02 - oto dlaczego loli s\u0105 lepsze ni\u017c normalne dziewczyny",
+            "episode": 2,
+            "filename": "4d1db13ad7c3775241254da12d191c16.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/61785691713044482"
+        },
+        {
+            "blip_url": "http://blip.pl/s/475694525",
+            "content": "Aria the Scarlet Ammo 03 - nieustraszonym dziewcz?tom z #anime nawet odrzut karabinu snajperskiego niestraszny",
+            "episode": 3,
+            "filename": "4bcbc6b9642f299b9f22cd5f108c3371.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/64011364020137985"
+        },
+        {
+            "blip_url": "http://blip.pl/s/487661617",
+            "content": "Aria the Scarlet Ammo 04 - bo grunt to mie? nadziej?",
+            "episode": 4,
+            "filename": "bca7cc6e568225ddc2b1e2eeba9a9df2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/66594951781294080"
+        },
+        {
+            "blip_url": "http://blip.pl/s/508352771",
+            "content": "Aria the Scarlet Ammo 05 - z samym no?em nie ma co startowa? do posiadacza broni palnej - no chyba, ?e jeste? postaci? z #anime",
+            "episode": 5,
+            "filename": "33f9432f7197e26932704fe622c6ef2f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/70276469217165312"
+        },
+        {
+            "blip_url": "http://blip.pl/s/516445413",
+            "content": "Aria the Scarlet Ammo 06 - jak wida?, fabu?a z odcinka na odcinek robi si? coraz lepsza",
+            "episode": 6,
+            "filename": "4bec4867428cfcf82de721b97ff3dbfa.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/71583321330679809"
+        },
+        {
+            "blip_url": "http://blip.pl/s/534813149",
+            "content": "Aria the Scarlet Ammo 07 - by? nie mo?e... Aria ju? nie jest p?aska jak decha!",
+            "episode": 7,
+            "filename": "5855cc81c8d78563526a16a3d48a2b6c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/74631384098021377"
+        },
+        {
+            "blip_url": "http://blip.pl/s/544698913",
+            "content": "Aria the Scarlet Ammo 08 - i jak tu si? skupi??",
+            "episode": 8,
+            "filename": "012670fed1534ba7cab8f7a30b5c440b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/76788427206557696"
+        },
+        {
+            "blip_url": "http://blip.pl/s/589534141",
+            "content": "#anime #Wiosna2011 Aria the Scarlet Ammo (??????) - nasza ocena: nie tykaj nawet kijem od szczotki (wi?cej: http://rdir.pl/1d07a8)",
+            "episode": 12,
+            "filename": "748cb1ee856b4579ef0d621d0366c1d5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/86937764565745665"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-14T18:25:00",
+            "episode": 1,
+            "score": 7.5797886598,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Hidan_no_Aria_-_01_[h264-720p][C0289EFA].mkv",
+                    "group": "UTW",
+                    "hash": "C0289EFA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Hidan_no_Aria_-_01_[50D65275].mkv",
+                    "group": "gg",
+                    "hash": "50D65275",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206342",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_01_[1280x720_H.264_AAC][1FBF88D2].mkv",
+                    "group": "Chihiro",
+                    "hash": "1FBF88D2",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_01_%5B1280x720_H.264_AAC%5D%5B1FBF88D2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_01_[848x480_H.264_AAC][71BF6EBC].mkv",
+                    "group": "Chihiro",
+                    "hash": "71BF6EBC",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_01_%5B848x480_H.264_AAC%5D%5B71BF6EBC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TBS 1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[ShinBunBu-Subs] Hidan no Aria - 01(TBS 1280x720 x264 AAC).mkv",
+                    "group": "ShinBunBu-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210186",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-21T18:25:00",
+            "episode": 2,
+            "score": 7.5581195335,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Hidan_no_Aria_-_02_[DF338A62].mkv",
+                    "group": "gg",
+                    "hash": "DF338A62",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Hidan_no_Aria_-_02_[h264-720p][BC57F04D].mkv",
+                    "group": "UTW",
+                    "hash": "BC57F04D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208092",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_02_[848x480_H.264_AAC][6A90EEB6].mkv",
+                    "group": "Chihiro",
+                    "hash": "6A90EEB6",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_02_%5B848x480_H.264_AAC%5D%5B6A90EEB6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_02_[1280x720_H.264_AAC][34B74FB0].mkv",
+                    "group": "Chihiro",
+                    "hash": "34B74FB0",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_02_%5B1280x720_H.264_AAC%5D%5B34B74FB0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TBS 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Subs] Hidan no Aria - 02 (TBS 1280x720 x264 AAC).mkv",
+                    "group": "ShinBunBu-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212464",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-28T18:25:00",
+            "episode": 3,
+            "score": 7.528832574,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[gg]_Hidan_no_Aria_-_03_[CDBDCB4A].mkv",
+                    "group": "gg",
+                    "hash": "CDBDCB4A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210099",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[UTW]_Hidan_no_Aria_-_03_[h264-720p][35C98AE2].mkv",
+                    "group": "UTW",
+                    "hash": "35C98AE2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210105",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_03_[848x480_H.264_AAC][73144225].mkv",
+                    "group": "Chihiro",
+                    "hash": "73144225",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_03_%5B848x480_H.264_AAC%5D%5B73144225%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_03_[1280x720_H.264_AAC][259CDB26].mkv",
+                    "group": "Chihiro",
+                    "hash": "259CDB26",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_03_%5B1280x720_H.264_AAC%5D%5B259CDB26%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TBS 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Subs] Hidan no Aria - 03 (TBS 1280x720 x264 AAC).mkv",
+                    "group": "ShinBunBu-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212686",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-05T18:29:00",
+            "episode": 4,
+            "score": 7.4998160145,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Hidan_no_Aria_-_04_[7D47431D].mkv",
+                    "group": "gg",
+                    "hash": "7D47431D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211892",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Hidan_no_Aria_-_04_[h264-720p][BDCE69D2].mkv",
+                    "group": "UTW",
+                    "hash": "BDCE69D2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212001",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_04_[848x480_H.264_AAC][A45FE451].mkv",
+                    "group": "Chihiro",
+                    "hash": "A45FE451",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_04_%5B848x480_H.264_AAC%5D%5BA45FE451%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_04_[1280x720_H.264_AAC][C701A0CC].mkv",
+                    "group": "Chihiro",
+                    "hash": "C701A0CC",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_04_%5B1280x720_H.264_AAC%5D%5BC701A0CC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TBS 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Subs] Hidan no Aria - 04 (TBS 1280x720 x264 AAC).mkv",
+                    "group": "ShinBunBu-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213571",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-12T18:25:00",
+            "episode": 5,
+            "score": 7.4326652552,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Hidan_no_Aria_-_05_[B2AA0D31].mkv",
+                    "group": "gg",
+                    "hash": "B2AA0D31",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213486",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Hidan_no_Aria_-_05_[h264-720p][E7724B68].mkv",
+                    "group": "UTW",
+                    "hash": "E7724B68",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213499",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_05_[848x480_H.264_AAC][99CE5A0D].mkv",
+                    "group": "Chihiro",
+                    "hash": "99CE5A0D",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_05_%5B848x480_H.264_AAC%5D%5B99CE5A0D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_05_[1280x720_H.264_AAC][57AC946A].mkv",
+                    "group": "Chihiro",
+                    "hash": "57AC946A",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_05_%5B1280x720_H.264_AAC%5D%5B57AC946A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TBS 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Subs] Hidan no Aria - 05 (TBS 1280x720 x264 AAC).mkv",
+                    "group": "ShinBunBu-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218134",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-19T18:25:00",
+            "episode": 6,
+            "score": 7.4379479972,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Hidan_no_Aria_-_06_[EF71258E].mkv",
+                    "group": "gg",
+                    "hash": "EF71258E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215035",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Hidan_no_Aria_-_06_[h264-720p][A01EBF63].mkv",
+                    "group": "UTW",
+                    "hash": "A01EBF63",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215040",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_06_[848x480_H.264_AAC][517A8E4D].mkv",
+                    "group": "Chihiro",
+                    "hash": "517A8E4D",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_06_%5B848x480_H.264_AAC%5D%5B517A8E4D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_06_[1280x720_H.264_AAC][243A202C].mkv",
+                    "group": "Chihiro",
+                    "hash": "243A202C",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_06_%5B1280x720_H.264_AAC%5D%5B243A202C%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-26T18:25:00",
+            "episode": 7,
+            "score": 7.4227293791,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Hidan_no_Aria_-_07_[D88DC126].mkv",
+                    "group": "gg",
+                    "hash": "D88DC126",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Kuudere] Hidan no Aria - 07.mkv",
+                    "group": "Kuudere",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=217054",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Hidan_no_Aria_-_07_[h264-720p][610F991F].mkv",
+                    "group": "UTW",
+                    "hash": "610F991F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217148",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_07_[848x480_H.264_AAC][F3D561A6].mkv",
+                    "group": "Chihiro",
+                    "hash": "F3D561A6",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_07_%5B848x480_H.264_AAC%5D%5BF3D561A6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_07_[1280x720_H.264_AAC][CC738E02].mkv",
+                    "group": "Chihiro",
+                    "hash": "CC738E02",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_07_%5B1280x720_H.264_AAC%5D%5BCC738E02%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-02T18:25:00",
+            "episode": 8,
+            "score": 7.3447367851,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Hidan_no_Aria_-_08_[39382D13].mkv",
+                    "group": "gg",
+                    "hash": "39382D13",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218423",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Hidan_no_Aria_-_08_[h264-720p][D62B01B5].mkv",
+                    "group": "UTW",
+                    "hash": "D62B01B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218436",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_08_[848x480_H.264_AAC][3F5D0B05].mkv",
+                    "group": "Chihiro",
+                    "hash": "3F5D0B05",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_08_%5B848x480_H.264_AAC%5D%5B3F5D0B05%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_08_[1280x720_H.264_AAC][B70C9F9D].mkv",
+                    "group": "Chihiro",
+                    "hash": "B70C9F9D",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_08_%5B1280x720_H.264_AAC%5D%5BB70C9F9D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-09T18:25:00",
+            "episode": 9,
+            "score": 7.3113918249,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Hidan_no_Aria_-_09_[h264-720p][55B50132].mkv",
+                    "group": "UTW",
+                    "hash": "55B50132",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_09_[848x480_H.264_AAC][12712E46].mkv",
+                    "group": "Chihiro",
+                    "hash": "12712E46",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_09_%5B848x480_H.264_AAC%5D%5B12712E46%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_09_[1280x720_H.264_AAC][80D30652].mkv",
+                    "group": "Chihiro",
+                    "hash": "80D30652",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_09_%5B1280x720_H.264_AAC%5D%5B80D30652%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "gg.tv.hidan.no.aria.09.[4D5529D6].mkv",
+                    "group": "gg",
+                    "hash": "4D5529D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220876",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-16T18:25:00",
+            "episode": 10,
+            "score": 7.2824892133,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[FFFpeeps-Koukyuu] Hidan no Aria 10 [720p][24297C7F].mkv",
+                    "group": "FFFpeeps-Koukyuu",
+                    "hash": "24297C7F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221795",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Hidan_no_Aria_-_10_[h264-720p][82E07BA2].mkv",
+                    "group": "UTW",
+                    "hash": "82E07BA2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221942",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_10_[848x480_H.264_AAC][EA3BDF69].mkv",
+                    "group": "Chihiro",
+                    "hash": "EA3BDF69",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_10_%5B848x480_H.264_AAC%5D%5BEA3BDF69%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Hidan_no_Aria_-_10_[1280x720_H.264_AAC][7DEE344F].mkv",
+                    "group": "Chihiro",
+                    "hash": "7DEE344F",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Hidan_no_Aria_-_10_%5B1280x720_H.264_AAC%5D%5B7DEE344F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Hidan no Aria - 10 (1280x720 h264 AAC) [C9488B2C].mkv",
+                    "group": "Doki",
+                    "hash": "C9488B2C",
+                    "url": "http://tracker.minglong.org/torrents/%5BDoki%5D%20Hidan%20no%20Aria%20-%2010%20(1280x720%20h264%20AAC)%20%5BC9488B2C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Hidan no Aria - 10 (848x480 h264 AAC) [80C549A1].mkv",
+                    "group": "Doki",
+                    "hash": "80C549A1",
+                    "url": "http://tracker.minglong.org/torrents/%5BDoki%5D%20Hidan%20no%20Aria%20-%2010%20(848x480%20h264%20AAC)%20%5B80C549A1%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-30T18:24:00",
+            "episode": 11,
+            "score": 7.1221381874,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Hidan_no_Aria_-_11_[h264-720p][40C3CA0F].mkv",
+                    "group": "UTW",
+                    "hash": "40C3CA0F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224786",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Hidan no Aria - 11 (1280x720 h264 AAC) [E3CA5AAE].mkv",
+                    "group": "Doki",
+                    "hash": "E3CA5AAE",
+                    "url": "http://tracker.anime-index.org/Doki_Hidan_no_Aria_-_11_1280x720_h264_AAC_E3CA5AAE.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Hidan no Aria - 11 (848x480 h264 AAC) [0D1C921B].mkv",
+                    "group": "Doki",
+                    "hash": "0D1C921B",
+                    "url": "http://tracker.anime-index.org/Doki_Hidan_no_Aria_-_11_848x480_h264_AAC_0D1C921B.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-30T18:25:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Hidan_no_Aria_-_12_[h264-720p][AD3164B5].mkv",
+                    "group": "UTW",
+                    "hash": "AD3164B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Hidan no Aria - 12 (1280x720 h264 AAC) [57A9C5D6].mkv",
+                    "group": "Doki",
+                    "hash": "57A9C5D6",
+                    "url": "http://tracker.anime-index.org/Doki_Hidan_no_Aria_-_12_1280x720_h264_AAC_57A9C5D6.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Hidan no Aria - 12 (848x480 h264 AAC) [A7500C65].mkv",
+                    "group": "Doki",
+                    "hash": "A7500C65",
+                    "url": "http://tracker.anime-index.org/Doki_Hidan_no_Aria_-_12_848x480_h264_AAC_A7500C65.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8109,
+        "ann": 11451,
+        "mal": 8630,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Loli",
+            "filename": "http://s.modriv.net/abp/images/screencaps/67c2f32ca51616c197a76599185ee2fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "Lataj\u0105ce loli",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d188a89c2cf8a4eb6d2aa5dcc4755c51.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Bo ona robi loda mu... \u266b\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/03740145f1591514ceed1a3555bfb438.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/644f86fbc43b953c51fc909d3044d735.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/102217c296a6e40b57b82fb393532fa2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/88940a3a8993d60c6e0f078c41efaf4d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nie gap mi si\u0119 na cycki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/77b0f7147ccdc5799885aff4bb3d6442.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96b4a8b70d6cb2abcfa8e3c735d35db6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d70029e8a98ac06d688de2837b0f13cf.jpg",
+            "hd": false
+        },
+        {
+            "description": "C\u0119z\u00f3ra",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3a2fab858c1bfcad8fda70aadf6ebcbf.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Mmmmm...\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9664d0908fb00cc138bf5f8ca4b7cfb9.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"...p\u0142askie.\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ac590c0df4cfac89aebd2a32968d3a0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/85446f64a8131b518e5feb438c022157.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e1a5a06cf9327f34ecbd65875833c797.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f316897f790d8069102ce111200eb8a.jpg",
+            "hd": false
+        },
+        {
+            "description": "UNLIMITED BULLET WORKS",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ac44ed0b9f315fc5b853b019d4d96fe.jpg",
+            "hd": false
+        },
+        {
+            "description": "Skrzynkowa Aria patrzy jak trzepiesz wo\u0142a pi\u017cmowego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5772c58a93323c3ec15d08dee424da0f.jpg",
+            "hd": false
+        },
+        {
+            "description": "BOY AM I FAT",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d329237cac84d42bfb35bf39875ce9ad.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b8be9bbc948b87f099d68aecfadb7349.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Aria the Scarlet Ammo (\u7dcb\u5f3e\u306e\u30a2\u30ea\u30a2) http://rdir.pl/1d07a8",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3fef95fbaa6bd452e80c4c1df8b7af6b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d04f3ef2391df430e26e363b6f89983e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/66182a0fbb0a1ca21efcb0e3dbd29812.jpg",
+            "hd": false
+        },
+        {
+            "description": "oto dlaczego loli s\u0105 lepsze ni\u017c normalne dziewczyny",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4d1db13ad7c3775241254da12d191c16.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4dba2768a7ba2bd6bfaa39dc5f964561.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/235c02505c002c4bd5f3efc8568142e2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Niez?e te sp\u00f3dniczki teraz robi?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/911e165dca31fe8c6c79d9ac944e1f9b.jpg",
+            "hd": false
+        },
+        {
+            "description": "SPOILER",
+            "filename": "http://s.modriv.net/abp/images/screencaps/35eb7503e763683f9f9f9ab1d64cc9fc.jpg",
+            "hd": false
+        },
+        {
+            "description": "nieustraszonym dziewcz?tom z #anime nawet odrzut karabinu snajperskiego niestraszny",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4bcbc6b9642f299b9f22cd5f108c3371.jpg",
+            "hd": false
+        },
+        {
+            "description": "bo grunt to mie? nadziej?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bca7cc6e568225ddc2b1e2eeba9a9df2.jpg",
+            "hd": false
+        },
+        {
+            "description": "z samym no?em nie ma co startowa? do posiadacza broni palnej - no chyba, ?e jeste? postaci? z #anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/33f9432f7197e26932704fe622c6ef2f.jpg",
+            "hd": false
+        },
+        {
+            "description": "jak wida?, fabu?a z odcinka na odcinek robi si? coraz lepsza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4bec4867428cfcf82de721b97ff3dbfa.jpg",
+            "hd": false
+        },
+        {
+            "description": "by? nie mo?e... Aria ju? nie jest p?aska jak decha!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5855cc81c8d78563526a16a3d48a2b6c.jpg",
+            "hd": false
+        },
+        {
+            "description": "i jak tu si? skupi??",
+            "filename": "http://s.modriv.net/abp/images/screencaps/012670fed1534ba7cab8f7a30b5c440b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aaada26aa08dfe40536beb03f4eb8f49.jpg",
+            "hd": false
+        },
+        {
+            "description": "No jeszcze czego...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9e253f251457a81d982d33d8cbbda344.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Aria the Scarlet Ammo (??????) - nasza ocena: nie tykaj nawet kijem od szczotki (wi?cej: http://rdir.pl/1d07a8)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/748cb1ee856b4579ef0d621d0366c1d5.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ody ch\u0142opak ucz\u0119szczaj\u0105cego do specyficznego liceum dla najemnik\u00f3w, podczas podr\u00f3\u017cy do tego liceum pierwszego dnia szko\u0142y staje si\u0119 celem zamachu bombowego, z kt\u00f3rego ratuje go p\u0142aska loli z seiyuu Kugimiyi Rie, przy okazji pokazuj\u0105c mu swoj\u0105 niezbyt okaza\u0142\u0105 klatk\u0119 piersiow\u0105.",
+            "type": "abp"
+        },
+        {
+            "content": "The story takes place in Tokyo Butei High School, a special school where armed detectives &mdash; &quot;Butei&quot; &mdash; are trained to use weapons. Kinji Tooyama is a second-year-student who has a special ability, but he keeps it a secret to maintain an ordinary, peaceful life. However, when he gets caught in a bombing on the way to school, he encounters H. Aria Kanzaki, the most powerful S-Rank Butei student in Assault Studies.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Akamatsu Chuugaku's light novel series.Tokyo Butei High School is a special school where armed detectives, also known as Butei, are trained and educated. Tooyama Kinji is a sophomore student, who can go into Hysteria Mode when \"stimulated\" \u2014 affecting his mental state (ultra-fast reflexes, protection complex) and manner of speech. He tries to hide this genetically inherited ability from others in order to live a peaceful life. But when he becomes the victim of a bombing incident, by a Butei Killer copycat, his quiet days are over with the fateful encounter with Kanzaki H. Aria \u2014 the Butei High \"Assault\" department elite.",
+            "type": "anidb"
+        },
+        {
+            "content": "Tokyo Butei High School is a special school where armed detectives\u2014\"Butei\"\u2014are trained to use weapons. Kinji T\u014dyama is a second year student who has a special ability, but he keeps it a secret to maintain an ordinary, peaceful life. However, when he gets caught in a bombing on the way to school, he encounters Aria H. Kanzaki, the most powerful S-Rank Butei student in Assault Studies.",
+            "type": "ann"
+        },
+        {
+            "content": "Kinji T\u014dyama is a student at Tokyo Butei High, a universal educational facility. At this school, students undertake special training in order to learn the path of the Butei, which is a national qualification permitting its holders to arm themselves and capture criminals. The Butei were established to counter the worsening crime conditions, with training in various specialized fields. One day, Kinji decides to quit the Academy, until he is mysteriously attacked by the Butei Killer, a notorious criminal hunting down Butei with passion. The elite Assault prodigy Aria H. Kanzaki comes to his rescue. From this point on, Kinji's future as a Butei changes drastically.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 24092,
+            "date": "2012-09-29T13:21:11",
+            "score": 7.14,
+            "type": "mal"
+        },
+        {
+            "count": 1342,
+            "date": "2012-09-29T13:21:11",
+            "score": 6.41,
+            "type": "anidb"
+        },
+        {
+            "count": 1140,
+            "date": "2012-09-29T13:21:11",
+            "score": 6.514,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Aria the Scarlet Ammo"
+}

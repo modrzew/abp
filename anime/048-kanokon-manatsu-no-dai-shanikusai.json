@@ -1,0 +1,57 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u304b\u306e\u3053\u3093 \uff5e\u771f\u590f\u306e\u5927\u8b1d\u8089\u796d\uff5e"
+        },
+        {
+            "language": "pl",
+            "title": "Kanokon \uff5eLetnie Zapusty\uff5e"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 2,
+    "episodes_length": 25,
+    "external_sites": {
+        "anidb": 6787,
+        "ann": 11027,
+        "mal": 6791,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Niebezpo\u015brednia kontynuacja Kanokonu, jednego z bardziej ecchi-owatych ecchi anime ostatnich lat.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 6597,
+            "date": "2012-09-29T02:11:48",
+            "score": 6.86,
+            "type": "mal"
+        },
+        {
+            "count": 740,
+            "date": "2012-09-29T02:11:48",
+            "score": 5.95,
+            "type": "anidb"
+        },
+        {
+            "count": 497,
+            "date": "2012-09-29T02:11:48",
+            "score": 6.491,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Kanokon",
+    "title": "Kanokon \uff5eManatsu no Dai Shanikusai\uff5e"
+}

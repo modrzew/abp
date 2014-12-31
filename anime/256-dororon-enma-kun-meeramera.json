@@ -1,0 +1,442 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "Dororon\u3048\u3093\u9b54\u304f\u3093 \u30e1\uff5e\u30e9\u3081\u3089"
+        }
+    ],
+    "aliases": [
+        "Dororon Enma-kun Meramera"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/439203973",
+            "content": "#anime #Wiosna2011 Dororon Enma-kun Meeramera (Dororon\u3048\u3093\u9b54\u304f\u3093 \u30e1\uff5e\u30e9\u3081\u3089) http://rdir.pl/1cg3cn",
+            "episode": 1,
+            "filename": "73f57d19c0952b75aa8e97835895387c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/57550454145564673"
+        },
+        {
+            "blip_url": "http://blip.pl/s/460454787",
+            "content": "Dororon Enma-kun Meeramera 02 - z cyklu \"Kwintesencja #anime w jednym obrazku\"",
+            "episode": 2,
+            "filename": "ba018380ddba3661c6de50b51cdd371c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/61116348822069249"
+        },
+        {
+            "blip_url": "http://blip.pl/s/469410201",
+            "content": "Dororon Enma-kun Meeramera 03 - nieprzytomna kobieta z du?ym biustem i gadaj?cy kapelusz... okej, tego jeszcze nie by?o",
+            "episode": 3,
+            "filename": "2ea09d6508ca7c0c8672ae89bbde8d62.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/62932093545611264"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-07T19:10:00",
+            "episode": 1,
+            "score": 7.1044179894,
+            "torrents": []
+        },
+        {
+            "date": "2011-04-14T19:10:00",
+            "episode": 2,
+            "score": 7.0836699507,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_02_[40804FBA].mkv",
+                    "group": "gg",
+                    "hash": "40804FBA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206391",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-21T19:10:00",
+            "episode": 3,
+            "score": 6.9775912409,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_03_[241FD9AB].mkv",
+                    "group": "gg",
+                    "hash": "241FD9AB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209052",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-28T19:10:00",
+            "episode": 4,
+            "score": 6.8417930057,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_04_[E4EEC9B7].mkv",
+                    "group": "gg",
+                    "hash": "E4EEC9B7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210183",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-05T19:10:00",
+            "episode": 5,
+            "score": 6.8621174863,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_05_[048B474F].mkv",
+                    "group": "gg",
+                    "hash": "048B474F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212852",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-12T19:10:00",
+            "episode": 6,
+            "score": 6.8420311958,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_06_[35107354].mkv",
+                    "group": "gg",
+                    "hash": "35107354",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214100",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-19T19:10:00",
+            "episode": 7,
+            "score": 6.837761658,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_07_[1FE984AA].mkv",
+                    "group": "gg",
+                    "hash": "1FE984AA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215129",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-26T19:10:00",
+            "episode": 8,
+            "score": 6.8283113772,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_08_[EC7346DD].mkv",
+                    "group": "gg",
+                    "hash": "EC7346DD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216912",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-02T19:10:00",
+            "episode": 9,
+            "score": 6.7572740851,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_09_[43581C0E].mkv",
+                    "group": "gg",
+                    "hash": "43581C0E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220118",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-09T19:10:00",
+            "episode": 10,
+            "score": 6.7431422351,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_10_[095186FA].mkv",
+                    "group": "gg",
+                    "hash": "095186FA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220212",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-16T19:10:00",
+            "episode": 11,
+            "score": 6.7259636872,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_11_[C90F2A9B].mkv",
+                    "group": "gg",
+                    "hash": "C90F2A9B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221885",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-23T19:10:00",
+            "episode": 12,
+            "score": 6.9147187263,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Dororon_Enma-kun_Meramera_-_12_[F7488E84].mkv",
+                    "group": "gg",
+                    "hash": "F7488E84",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224434",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7940,
+        "ann": 12267,
+        "mal": 9493,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "...co...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/32cc6503cdbbb3728e019f78b297f910.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/63f10e79d5bedfa093261adc961f0ca8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/94ca05799f9ebb492e8be64b2d3f8d40.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7927aa3706b63f5255356d977a05ef4b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f3e360d0283a45ba90e1c9f99e07ccce.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/41e9e2246ea7d85f0ebfb3823737bb6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Grubas",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7013efe45e7d9990ef4d803d8bb2f81d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a3d3fb5515cffb837af2e6939258783.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3cc71bab2c552b4009a5090002694199.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zostaniesz zgwa\u0142cony",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f1bd504e0c5b770b9dc6b2f7615af95.jpg",
+            "hd": false
+        },
+        {
+            "description": "ZGWA\u0141CONY ANALNIE KIJEM OD SZCZOTKI",
+            "filename": "http://s.modriv.net/abp/images/screencaps/78b5850777eb416434a43592e114109b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ed06048bd0c4573b223d686888c8d935.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/79d59275c51366f3862684012570dc89.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6c28529a580beba2a11ffd68ea69ed42.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6773f4b173c5bf4a4db7869126dedfb1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b0ed53581f81d813f766c978a626ddc6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ale ma du\u017c\u0105 pa\u0142\u0119",
+            "filename": "http://s.modriv.net/abp/images/screencaps/82d93c3d8fe70fe3a36d80030a28f6c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "To podchodzi pod zoofili\u0119",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d1ac5ce3c2fd17d2fc0a54d45361af3c.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Dororon Enma-kun Meeramera (Dororon\u3048\u3093\u9b54\u304f\u3093 \u30e1\uff5e\u30e9\u3081\u3089) http://rdir.pl/1cg3cn",
+            "filename": "http://s.modriv.net/abp/images/screencaps/73f57d19c0952b75aa8e97835895387c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4f6f744a91a0ec209ad148836b5c886.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cd18470ad9dc30279dbccd4cfdeb55af.jpg",
+            "hd": false
+        },
+        {
+            "description": "Czasami fajnie jest by\u0107 wielk\u0105 o\u015bmiornic\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/46a4af922ee56ab68c6186228e63f9fb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8fd26e51950444013c6074604c3d1526.jpg",
+            "hd": false
+        },
+        {
+            "description": "Demony te\u017c mog\u0105 by\u0107 s\u0142odkie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f95190b6859d064dcec1cd24be3c8f7a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/61c4bfce471b4a36c345a9a1eaab0007.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d4c462e4d3f058958a6517b81b6f0656.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8101d97847be6442e0a5a3444c25d3af.jpg",
+            "hd": false
+        },
+        {
+            "description": "z cyklu \"Kwintesencja #anime w jednym obrazku\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba018380ddba3661c6de50b51cdd371c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ea43bdab8ca25aa2de74b643bc7898e3.jpg",
+            "hd": false
+        },
+        {
+            "description": "nieprzytomna kobieta z du?ym biustem i gadaj?cy kapelusz... okej, tego jeszcze nie by?o",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2ea09d6508ca7c0c8672ae89bbde8d62.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bd119e3695a9dff1cc9efc1ae2c1c25f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/12b92685fe48df059b4f0f720bb62a4b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a6893b3db96e2c4b229e7bc643f05ac2.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Perypetie ognistego m\u0142odzie\u0144ca, lodowej laski, kappy i gadaj\u0105cego kapelusza \u015bcigaj\u0105cego niecne youkaie, n\u0119kaj\u0105ce ludzi w latach 70 XX wieku.",
+            "type": "abp"
+        },
+        {
+            "content": "It&#039;s Tokyo in the 1970s, and evil youkai (goblins) are attacking the human world. The &quot;Youkai Patrol&quot; - Enma, Princess Yukiko, Kapaeru, and Grandpa Shappo - are sent from hell to exterminate them.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on the manga by Nagai Gou, serialised in Weekly Shounen Sunday.The story is set in Tokyo in the 1970s. Evil spirits are threatening the human world and the only ones who can stop them is a group known as the \"Spirit Patrol\", a group sent from the underworld that consists of the hot-headed Enma, the stuck-up Yukiko, the half-water sprite Kapael and Chapeau-jii - the old man spirit in the form of a hat, who guides the group.",
+            "type": "anidb"
+        },
+        {
+            "content": "It's Tokyo in the 1970s, and evil y\u014dkai (evil spirits) are attacking the human world. The Y\u014dkai Patrol\u2014Enma, Yukiko-hime, Kapperu, and Chapeauji\u2014are sent from hell to exterminate them.",
+            "type": "ann"
+        },
+        {
+            "content": "Enma, Yukiko-Hime and Kapaeru are part of the Yokai-Patrol. They go after ghosts that have escaped from Hell into the human world.[1]",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2421,
+            "date": "2012-09-29T13:22:25",
+            "score": 6.82,
+            "type": "mal"
+        },
+        {
+            "count": 378,
+            "date": "2012-09-29T13:22:25",
+            "score": 6.44,
+            "type": "anidb"
+        },
+        {
+            "count": 190,
+            "date": "2012-09-29T13:22:25",
+            "score": 6.231,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Dororon Enma-kun Meeramera"
+}

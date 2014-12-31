@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b0\u30a4\u30f3\u30fb\u30b5\u30fc\u30ac"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6331,
+        "ann": 10195,
+        "mal": 5041,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "\"The seal will be broken after many years\". In the land of Nospherus, four heroes embark on a patch of destiny that will weave a new legend. The story follows Guin, a powerful swordsman with a leopard head, the adolescent royal twins Remus and Rinda, and the young and ambitious mercenary named Istvan.The Guin Saga is an epic heroic fantasy in the same vein as Robert E. Howard's Conan, the Barbarian. More than a hundred novels published, Guin's saga has sold more than twenty-five million copies in Japan.",
+            "type": "anidb"
+        },
+        {
+            "content": "The ancient kingdom of Parros has been invaded by the armies of Mongaul, and its king and queen have been slain. But the &quot;twin pearls of Parros,&quot; the princess Rinda and the prince Remus, escape using a strange device hidden in the palace. Lost in Roodwood, they are rescued from Mongaul soldiers by a strange leopard-headed man, who has no memories except for the words &quot;Aurra&quot; and &quot;Guin,&quot; which he believes to be his name.  (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "The ancient kingdom of Parro has been invaded by the armies of Mongaul, and its king and queen have been slain. But the \"twin pearls of Parro,\" the princess Rinda and the prince Remus, escape using a strange device hidden in the palace. Lost in the Forest of Rood, they are rescued from Mongaul soldiers by a strange leopard-headed man named Guin, who has no memories except for the word \"Aurra.\"",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5048,
+            "date": "2012-09-29T02:33:19",
+            "score": 7.38,
+            "type": "mal"
+        },
+        {
+            "count": 1081,
+            "date": "2012-09-29T02:33:19",
+            "score": 7.41,
+            "type": "anidb"
+        },
+        {
+            "count": 654,
+            "date": "2012-09-29T02:33:19",
+            "score": 7.097,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Guin Saga"
+}

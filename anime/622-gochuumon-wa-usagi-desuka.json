@@ -1,0 +1,578 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3054\u6ce8\u6587\u306f\u3046\u3055\u304e\u3067\u3059\u304b?"
+        },
+        {
+            "language": "en",
+            "title": "Is the order a rabbit?"
+        },
+        {
+            "language": "pl",
+            "title": "Czy\u017c kr\u00f3likiem zam\u00f3wienie by\u0107 si\u0119 nie wydaje?"
+        }
+    ],
+    "aliases": [
+        "Gochuumon wa Usagi Desu ka"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-04-10T15:30:00",
+            "episode": 1,
+            "score": 6.26,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541361",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541366",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 01 [3E3FDE4D].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "3E3FDE4D",
+                    "url": "http://www.nyaa.se/?page=download&tid=541865",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-17T15:30:00",
+            "episode": 2,
+            "score": 6.57,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=544089",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=544092",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=544095",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 02 [9A9B6D51].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "9A9B6D51",
+                    "url": "http://www.nyaa.se/?page=download&tid=544602",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-24T15:30:00",
+            "episode": 3,
+            "score": 6.65,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546951",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546960",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 03 [D84BC791].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "D84BC791",
+                    "url": "http://www.nyaa.se/?page=download&tid=547369",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-01T15:30:00",
+            "episode": 4,
+            "score": 6.6,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549577",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 04 [B079E854].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "B079E854",
+                    "url": "http://www.nyaa.se/?page=download&tid=549989",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-08T15:30:00",
+            "episode": 5,
+            "score": 6.2560391061,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=552151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=552152",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=552156",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 05 [2C623D33].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "2C623D33",
+                    "url": "http://www.nyaa.se/?page=download&tid=552467",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-15T15:30:00",
+            "episode": 6,
+            "score": 6.2198387097,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554564",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554565",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 06 [5B244997].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "5B244997",
+                    "url": "http://www.nyaa.se/?page=download&tid=554856",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-22T15:30:00",
+            "episode": 7,
+            "score": 6.1406666667,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=557076",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=557078",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=557080",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 07 [BBA90938].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "BBA90938",
+                    "url": "http://www.nyaa.se/?page=download&tid=557434",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-29T15:30:00",
+            "episode": 8,
+            "score": 5.9028181818,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559434",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559438",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559440",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 08 [66F9F271].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "66F9F271",
+                    "url": "http://www.nyaa.se/?page=download&tid=559825",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-05T15:30:00",
+            "episode": 9,
+            "score": 5.9124739336,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561635",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561642",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 09 [12E4B78F].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "12E4B78F",
+                    "url": "http://www.nyaa.se/?page=download&tid=562043",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-12T15:30:00",
+            "episode": 10,
+            "score": 5.9496574074,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563953",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563967",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563968",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 10 [6179A52F].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "6179A52F",
+                    "url": "http://www.nyaa.se/?page=download&tid=564915",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-19T15:30:00",
+            "episode": 11,
+            "score": 6.2035347826,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=566107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=566114",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=566115",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 11 [1042534E].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "1042534E",
+                    "url": "http://www.nyaa.se/?page=download&tid=566603",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-26T15:30:00",
+            "episode": 12,
+            "score": 6.8845638298,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568349",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gochuumon wa Usagi Desu ka - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568350",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid-Taku] Gochuumon wa Usagi Desu ka - 12 [BE6EB547].mkv",
+                    "group": "Vivid-Taku",
+                    "hash": "BE6EB547",
+                    "url": "http://www.nyaa.se/?page=download&tid=569525",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 10262,
+        "ann": 15718,
+        "mal": 21273,
+        "schedule": 3324
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Kokoa arrives at the cafe Rabbit House one day, excited for rabbits. She actually all but lives in that cafe. She meets lots of different girls there, including a tiny and cool girl named Chino, a tough and soldier-esque girl named Rize, a spacey and quintessentially Japanese girl named Chiya, and the ordinary but dignified Sharo.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "High school freshman Cocoa Hoto got lost and bumped into a coffee shop called \"Rabbit House\" while looking for a boarding house for the upcoming semester of her new school. Luckily, Rabbit House is the boarding house she's looking for, and to return the favor Cocoa starts working at the coffee shop alongside quiet and cool Chino, strong and athletic Rize, plus Chiya and Syaro from Japanese-styled coffee shop Amausaan, as well as the shop mascot rabbit Tippy, who sometimes doesn't quite act like a rabbit....",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 246,
+            "date": "2014-07-17T06:32:17",
+            "score": 6.85,
+            "type": "anidb"
+        },
+        {
+            "count": 194,
+            "date": "2014-07-17T06:32:17",
+            "score": 7.106,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Gochuumon wa Usagi Desuka?"
+}

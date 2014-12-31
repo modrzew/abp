@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6771\u4eac\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c98.0"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 11,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6441,
+        "ann": 10704,
+        "mal": 6211,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Perypetie pewnego rodze\u0144stwa w Tokyo wracaj\u0105cego do domu po pot\u0119\u017cnym trz\u0119sieniu ziemi.",
+            "type": "abp"
+        },
+        {
+            "content": "The premise of the story is the 70% or higher possibility that a magnitude 7.0 earthquake will occur in Tokyo in the next 30 years. The story depicts what would happen if an 8.0 earthquake took place.The story will center on Mirai, a middle school freshman girl who goes to Tokyo's artificial Odaiba Island for a robot exhibition with her brother Yuuki at the start of summer vacation. A powerful tremor emanates from an ocean trench, the famed Tokyo Tower and Rainbow Bridge crumble and fall, and the landscape of Tokyo changes in an instant. With the help of a motorcycle delivery woman named Mari who they meet on Odaiba, Mirai and Yuuki strive to head back to their Setagaya home in western Tokyo.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "The premise of the project is the 70% possibility that a magnitude 7.0 earthquake will occur in Tokyo in the next 30 years. The anime depicts what would happen if an 8.0 earthquake took place.     The story centers on Mirai, a middle school freshman girl who goes to Tokyo&rsquo;s artificial Odaiba Island for a robot exhibition with her brother Yuuki at the start of summer vacation. A powerful tremor emanates from an ocean trench, the famed Tokyo Tower and Rainbow Bridge crumble and fall, and the landscape of Tokyo changes in an instant. With the help of a motorcycle delivery woman named Mari who they meet on Odaiba, Mirai and Yuuki strive to head back to their Setagaya home in western Tokyo.",
+            "type": "mal"
+        },
+        {
+            "content": "There is an estimated 70% or higher possibility that a magnitude 7.0 earthquake will occur in Tokyo in the next 30 years. In 2012, Mirai, a middle school freshman girl, goes to Tokyo\u2019s artificial Odaiba Island for a robot exhibition with her brother Yuuki at the start of summer vacation. A powerful tremor registering 8.0 on the JMA scale emanates from an ocean trench, the famed Tokyo Tower and Rainbow Bridge crumble and fall, and the landscape of Tokyo changes in seconds. With the help of a motorcycle delivery woman named Mari who they meet on Odaiba, Mirai and Yuuki strive to head back to their Setagaya home in western Tokyo.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 18957,
+            "date": "2012-09-29T02:06:32",
+            "score": 8.21,
+            "type": "mal"
+        },
+        {
+            "count": 2180,
+            "date": "2012-09-29T02:06:32",
+            "score": 8.16,
+            "type": "anidb"
+        },
+        {
+            "count": 1732,
+            "date": "2012-09-29T02:06:32",
+            "score": 8.305,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Tokyo Magnitude 8.0"
+}

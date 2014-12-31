@@ -1,0 +1,1080 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5996\u72d0\u00d7\u50d5SS"
+        },
+        {
+            "language": "pl",
+            "title": "Quintasan \u00d7 Ja SS"
+        }
+    ],
+    "aliases": [
+        "Inu x Boku SS",
+        "Inu X Boku Secret Service ",
+        "Inu \u00d7 Boku SS"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/890051477",
+            "content": "#anime #Zima2012 Inu \u00d7 Boku SS (\u5996\u72d0\u00d7\u50d5SS) http://rdir.pl/1mfx0s",
+            "episode": 1,
+            "filename": "42019fe330ffb0e28507c43f00172ec3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/157840634303090688"
+        },
+        {
+            "blip_url": "http://blip.pl/s/904802943",
+            "content": "Inu \u00d7 Boku SS 02 - oto o czym jest to anime",
+            "episode": 2,
+            "filename": "798ff951513be6211d8ed79fcb9e1d59.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161253119248965633"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-12T18:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Inu x Boku SS - 01 (1280x720 x264-Hi10P AAC)[3ABF25F3].mkv",
+                    "group": "EveTaku",
+                    "hash": "3ABF25F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=276891",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Inu x Boku SS - 01 (1280x720 x264 AAC)[36D431BD].mkv",
+                    "group": "EveTaku",
+                    "hash": "36D431BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=276890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Zenyaku] Inu x Boku SS - 01 [Hi10P 720p h264 AAC] [8CD5EBA0].mkv",
+                    "group": "Zenyaku",
+                    "hash": "8CD5EBA0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277514",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Inu x Boku SS - 01v3 [1280x720 x264 AAC][A1F16916].mkv",
+                    "group": "Hadena",
+                    "hash": "A1F16916",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2001v3%20%5B1280x720%20x264%20AAC%5D%5BA1F16916%5D.mkv.torrent",
+                    "version": 3
+                }
+            ]
+        },
+        {
+            "date": "2012-01-19T18:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Inu x Boku SS - 02 [1280x720 x264 AAC][A7750C17].mkv",
+                    "group": "Hadena",
+                    "hash": "A7750C17",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278316",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278319",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278323",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Inu x Boku SS - 02 (1280x720 x264 AAC)[4CBF5885].mkv",
+                    "group": "EveTaku",
+                    "hash": "4CBF5885",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278332",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Inu x Boku SS - 02 (1280x720 x264-Hi10P AAC)[2A1D32EE].mkv",
+                    "group": "EveTaku",
+                    "hash": "2A1D32EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Zenyaku] Inu x Boku SS - 02 [Hi10P 720p h264 AAC] [417D9C56].mkv",
+                    "group": "Zenyaku",
+                    "hash": "417D9C56",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278655",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 02 [4474D732].mkv",
+                    "group": "Commie",
+                    "hash": "4474D732",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279204",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-26T18:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Inu x Boku SS - 03 [1280x720 x264 AAC][578853A4].mkv",
+                    "group": "Hadena",
+                    "hash": "578853A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280528",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 03 [2EAB2DF1].mkv",
+                    "group": "Commie",
+                    "hash": "2EAB2DF1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280530",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 03 (1280x720 x264 AAC)[74BBDD49].mkv",
+                    "group": "EveTaku",
+                    "hash": "74BBDD49",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281008",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Inu x Boku SS - 03 (1280x720 x264-Hi10P AAC)[8A33742F].mkv",
+                    "group": "EveTaku",
+                    "hash": "8A33742F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281010",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-02T18:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283099",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283103",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 04 [6CFD8F54].mkv",
+                    "group": "Commie",
+                    "hash": "6CFD8F54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 04 (1280x720 x264-Hi10P AAC)[47ED8E62].mkv",
+                    "group": "EveTaku",
+                    "hash": "47ED8E62",
+                    "url": "http://db.tt/srKz88L0",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 04 (1280x720 x264 AAC)[CE8265D9].mkv",
+                    "group": "EveTaku",
+                    "hash": "CE8265D9",
+                    "url": "http://db.tt/ZTZALTG7",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 04 [848x480 x264 AAC][8355ED7F].mkv",
+                    "group": "Hadena",
+                    "hash": "8355ED7F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Inu x Boku SS - 04 [1280x720 x264 AAC][4E416C3E].mkv",
+                    "group": "Hadena",
+                    "hash": "4E416C3E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284398",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-09T18:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285623",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 05 (1280x720 x264 AAC)[FD16A179].mkv",
+                    "group": "EveTaku",
+                    "hash": "FD16A179",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286050",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 05 (1280x720 x264-Hi10P AAC)[48F952C0].mkv",
+                    "group": "EveTaku",
+                    "hash": "48F952C0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286051",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 05 [1280x720 x264 AAC][B6009D6C].mkv",
+                    "group": "Hadena",
+                    "hash": "B6009D6C",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2005%20%5B1280x720%20x264%20AAC%5D%5BB6009D6C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 05 [848x480 x264 AAC][E2D5808D].mkv",
+                    "group": "Hadena",
+                    "hash": "E2D5808D",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2005%20%5B848x480%20x264%20AAC%5D%5BE2D5808D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 05 [41D55AC3].mkv",
+                    "group": "Commie",
+                    "hash": "41D55AC3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286658",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-16T18:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287790",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287791",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 06 [DFF6CB48].mkv",
+                    "group": "Commie",
+                    "hash": "DFF6CB48",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 06 (1280x720 x264-Hi10P AAC)[3075DD26].mkv",
+                    "group": "EveTaku",
+                    "hash": "3075DD26",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288290",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 06 (1280x720 x264 AAC)[83C9B570].mkv",
+                    "group": "EveTaku",
+                    "hash": "83C9B570",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 06 [1280x720 x264 AAC][6C7EF155].mkv",
+                    "group": "Hadena",
+                    "hash": "6C7EF155",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2006%20%5B1280x720%20x264%20AAC%5D%5B6C7EF155%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 06 [848x480 x264 AAC][18909314].mkv",
+                    "group": "Hadena",
+                    "hash": "18909314",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2006%20%5B848x480%20x264%20AAC%5D%5B18909314%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 06 [Hi10P 1280x720 x264 AAC][D779F7B0].mkv",
+                    "group": "Hadena",
+                    "hash": "D779F7B0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2006%20%5BHi10P%201280x720%20x264%20AAC%5D%5BD779F7B0%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-23T18:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289998",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289999",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 07 [800930C5].mkv",
+                    "group": "Commie",
+                    "hash": "800930C5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290482",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Inu x Boku SS - 07 (1280x720 x264-Hi10P AAC)[327E3F9A].mkv",
+                    "group": "EveTaku",
+                    "hash": "327E3F9A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] Inu x Boku SS - 07 (1280x720 x264 AAC)[642DC2C1].mkv",
+                    "group": "EveTaku",
+                    "hash": "642DC2C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 07 [Hi10P 1280x720 x264 AAC][7E2B472A].mkv",
+                    "group": "Hadena",
+                    "hash": "7E2B472A",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2007%20%5BHi10P%201280x720%20x264%20AAC%5D%5B7E2B472A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 07 [1280x720 x264 AAC][82739D34].mkv",
+                    "group": "Hadena",
+                    "hash": "82739D34",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2007%20%5B1280x720%20x264%20AAC%5D%5B82739D34%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 07 [848x480 x264 AAC][1AFA893D].mkv",
+                    "group": "Hadena",
+                    "hash": "1AFA893D",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2007%20%5B848x480%20x264%20AAC%5D%5B1AFA893D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-01T18:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292464",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 08 (1280x720 x264 AAC)[AFF049C8].mkv",
+                    "group": "EveTaku",
+                    "hash": "AFF049C8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 08 (1280x720 x264-Hi10P AAC)[14E3F757].mkv",
+                    "group": "EveTaku",
+                    "hash": "14E3F757",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292886",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 08 [25BAB785].mkv",
+                    "group": "Commie",
+                    "hash": "25BAB785",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293611",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Inu x Boku SS - 08 [1280x720 x264 AAC][4E1FB147].mkv",
+                    "group": "Hadena",
+                    "hash": "4E1FB147",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2008%20%5B1280x720%20x264%20AAC%5D%5B4E1FB147%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-08T18:00:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294397",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294404",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Inu x Boku SS - 09 (1280x720 x264-Hi10P AAC)[D7B06A10].mkv",
+                    "group": "EveTaku",
+                    "hash": "D7B06A10",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 09 (1280x720 x264 AAC)[AEF8FAC9].mkv",
+                    "group": "EveTaku",
+                    "hash": "AEF8FAC9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295106",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 09 [Hi10P 1280x720 x264 AAC][6F16E918].mkv",
+                    "group": "Hadena",
+                    "hash": "6F16E918",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2009%20%5BHi10P%201280x720%20x264%20AAC%5D%5B6F16E918%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 09 [1280x720 x264 AAC][6FAFE1DE].mkv",
+                    "group": "Hadena",
+                    "hash": "6FAFE1DE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2009%20%5B1280x720%20x264%20AAC%5D%5B6FAFE1DE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Inu x Boku SS - 09 [848x480 x264 AAC][100AAE51].mkv",
+                    "group": "Hadena",
+                    "hash": "100AAE51",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2009%20%5B848x480%20x264%20AAC%5D%5B100AAE51%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 09 [FE29A974].mkv",
+                    "group": "Commie",
+                    "hash": "FE29A974",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296384",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-15T18:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296357",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 10 (1280x720 x264-Hi10P AAC)[82546CE7].mkv",
+                    "group": "EveTaku",
+                    "hash": "82546CE7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296707",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 10 (1280x720 x264 AAC)[0825723D].mkv",
+                    "group": "EveTaku",
+                    "hash": "0825723D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296705",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 10 [0322DF53].mkv",
+                    "group": "Commie",
+                    "hash": "0322DF53",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 10 [Hi10P 1280x720 x264 AAC][269F5624].mkv",
+                    "group": "Hadena",
+                    "hash": "269F5624",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2010%20%5BHi10P%201280x720%20x264%20AAC%5D%5B269F5624%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 10 [1280x720 x264 AAC][C4E47053].mkv",
+                    "group": "Hadena",
+                    "hash": "C4E47053",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2010%20%5B1280x720%20x264%20AAC%5D%5BC4E47053%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 10 [848x480 x264 AAC][1868BAAC].mkv",
+                    "group": "Hadena",
+                    "hash": "1868BAAC",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2010%20%5B848x480%20x264%20AAC%5D%5B1868BAAC%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-22T18:00:00",
+            "episode": 11,
+            "score": 7.7296390924,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298249",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298253",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Inu x Boku SS - 11 (1280x720 x264-Hi10P AAC)[C4C498F1].mkv",
+                    "group": "EveTaku",
+                    "hash": "C4C498F1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298636",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Inu x Boku SS - 11 (1280x720 x264 AAC)[28213A8F].mkv",
+                    "group": "EveTaku",
+                    "hash": "28213A8F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298635",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 11 [1CF9C5F3].mkv",
+                    "group": "Commie",
+                    "hash": "1CF9C5F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298945",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 11 [848x480 x264 AAC][1BFA64C5].mkv",
+                    "group": "Hadena",
+                    "hash": "1BFA64C5",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2011%20%5B848x480%20x264%20AAC%5D%5B1BFA64C5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Inu x Boku SS - 11 [1280x720 x264 AAC][7BB9C154].mkv",
+                    "group": "Hadena",
+                    "hash": "7BB9C154",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2011%20%5B1280x720%20x264%20AAC%5D%5B7BB9C154%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Inu x Boku SS - 11 [Hi10P 1280x720 x264 AAC][8E5179E7].mkv",
+                    "group": "Hadena",
+                    "hash": "8E5179E7",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2011%20%5BHi10P%201280x720%20x264%20AAC%5D%5B8E5179E7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-29T19:00:00",
+            "episode": 12,
+            "score": 7.8400366226,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inu X Boku Secret Service - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 12 END [848x480 x264 AAC][427805FF].mkv",
+                    "group": "Hadena",
+                    "hash": "427805FF",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2012%20END%20%5B848x480%20x264%20AAC%5D%5B427805FF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 12 END [1280x720 x264 AAC][0CA8EC7B].mkv",
+                    "group": "Hadena",
+                    "hash": "0CA8EC7B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2012%20END%20%5B1280x720%20x264%20AAC%5D%5B0CA8EC7B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Inu x Boku SS - 12 END [Hi10P 1280x720 x264 AAC][667F2412].mkv",
+                    "group": "Hadena",
+                    "hash": "667F2412",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Inu%20x%20Boku%20SS%20-%2012%20END%20%5BHi10P%201280x720%20x264%20AAC%5D%5B667F2412%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Inu \u00d7 Boku SS - 12 [938E7B85].mkv",
+                    "group": "Commie",
+                    "hash": "938E7B85",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300663",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Inu x Boku SS - 12 END (1280x720 x264-Hi10P AAC)[99290CF8].mkv",
+                    "group": "EveTaku",
+                    "hash": "99290CF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300703",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Inu x Boku SS - 12 END (1280x720 x264 AAC)[514A8257].mkv",
+                    "group": "EveTaku",
+                    "hash": "514A8257",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300702",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8564,
+        "ann": 13250,
+        "mal": 11013,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2a72b8e78c2b9f3465bb89c0e0a9f336.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a0a7dd8c5ef36caedd0b971c534a600c.jpg",
+            "hd": false
+        },
+        {
+            "description": "biszowaty agent Secret Service jest biszowaty",
+            "filename": "http://s.modriv.net/abp/images/screencaps/56db7cc3f479daf889baba58afb0827c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49ef83356c6157431009ee7ea2473788.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ac930cd5dc83ee8b33e34b05ecbfee38.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2d46ed924eab0a5eed8fc44a2bf4af86.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Inu \u00d7 Boku SS (\u5996\u72d0\u00d7\u50d5SS) http://rdir.pl/1mfx0s",
+            "filename": "http://s.modriv.net/abp/images/screencaps/42019fe330ffb0e28507c43f00172ec3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/428bf40d1521ba1cad840338d52530e7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0d7b5ee26a524ca367991a633cab0cc3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bd0049a11860ad12a085297a2f32d388.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8cc0744cf9204cad49fbd9e85a9c92f7.jpg",
+            "hd": true
+        },
+        {
+            "description": "oto o czym jest to anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/798ff951513be6211d8ed79fcb9e1d59.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/52b791f026c4044e12031655d5e2e9f3.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Chc\u0105ca si\u0119 usamodzielni\u0107 Shirakiin Ririchiyo przeprowadza si\u0119 do posiad\u0142o\u015bci rz\u0105dz\u0105cej si\u0119 specyficznymi prawami. Zamieszka\u0107 tam mog\u0105 wy\u0142\u0105cznie ci, kt\u00f3rzy przeszli specjalny test. Ka\u017cdemu mieszka\u0144cowi towarzyszy agent Secret Service, jednak\u017ce Ririchiyo odmawia owego towarzystwa. Wkr\u00f3tce okazuje si\u0119, \u017ce przypisany jej agent jest Lisim Duchem, kt\u00f3rego kiedy\u015b uratowa\u0142a.",
+            "type": "abp"
+        },
+        {
+            "content": "The Shirakiin house's daughter, Shirakiin Ririchiyo, who has a complex about being unable to live independently and unprotected, feels the need to move out and live on her own under the condition of residing in the mansion named Ayakashi Kan. In this mansion, only those who have cleared a very strict examination could reside in it, and for each resident, they are accompanied with one agent of the Secret Service (S.S.). Although Ririchiyo has rejected the company of the S.S., while residing in the mansion she finds out that the agent dedicated to protecting her is actually the Fox Spirit whom she previously rescued.Source: MangaUpdates",
+            "type": "anidb"
+        },
+        {
+            "content": "Protected by the highest security, the Maison de Ayakashi is rumored to be haunted, where only eccentrics could live. In reality, it is a place for humans with non-human ancestors to live. The socially-inept Ririchiyo has come here to improve herself. She meets secret service bodyguard Soushi, who is assigned to protect residents. He has a request of her: \"Please make me your dog.\"",
+            "type": "ann"
+        },
+        {
+            "content": "The Shirakiin house's daughter, Shirakiin Ririchiyo, who has a complex about being unable to live independently and unprotected, feels the need to move out and live on her own under the condition of residing in the mansion named \"Ayakashi Kan.\" In this mansion, only those who have cleared a very strict examination could reside in it, and for each resident, they are accompanied with one agent of the Secret Service (S.S.). Although Riricho has rejected the company of the S.S., while residing in the mansion she finds out that the agent dedicated to protecting her is actually the Fox Spirit whom she previously rescued.",
+            "type": "mal"
+        },
+        {
+            "content": "The Maison de Ayakashi (\u30e1\u30be\u30f3\u30fb\u30c9\u30fb\u7ae0\u6a2b, Mezon de Ayakashi?), better known as the Ayakashikan (\u5996\u9928?), is a high security apartment building where humans with demon ancestors, or youkai, reside, each guarded by their own Secret Service bodyguard. A youkai girl named Ririchiyo Shirakiin moves into the Ayakashikan hoping for some peace and quiet. Instead, she finds herself with the service of the Secret Service agent, Soushi Miketsukami.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 20022,
+            "date": "2012-09-29T14:06:30",
+            "score": 7.87,
+            "type": "mal"
+        },
+        {
+            "count": 851,
+            "date": "2012-09-29T14:06:30",
+            "score": 7.08,
+            "type": "anidb"
+        },
+        {
+            "count": 724,
+            "date": "2012-09-29T14:06:30",
+            "score": 7.537,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Inu \u00d7 Boku SS"
+}

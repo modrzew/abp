@@ -1,0 +1,955 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30c0\u30f3\u30bf\u30ea\u30a2\u30f3\u306e\u66f8\u67b6"
+        },
+        {
+            "language": "pl",
+            "title": "Rega\u0142 Dantaliana"
+        },
+        {
+            "language": "la",
+            "title": "Bibliotheca Mystica de Dantalian"
+        }
+    ],
+    "aliases": [
+        "Dantalian no Shoka"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/620148865",
+            "content": "#anime #Lato2011 Dantalian no Shoka (?????????) http://rdir.pl/1jza4l",
+            "episode": 1,
+            "filename": "b7a0ab14f4a0db90e6e8cf732e843c1e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/93655752333475842"
+        },
+        {
+            "blip_url": "http://blip.pl/s/651284915",
+            "content": "Dantalian no Shoka 04 - niebezpieczna yaoistka wykryta!",
+            "episode": 4,
+            "filename": "96049511a1bfc59073b0198a817aceb9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/99950887430139904"
+        },
+        {
+            "blip_url": "http://blip.pl/s/661643211",
+            "content": "Dantalian no Shoka 05 - with our powers combined... ups, nie ta bajka",
+            "episode": 5,
+            "filename": "f34c8421014fc531ecaf2816f9ee1f0e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/102825352233091073"
+        },
+        {
+            "blip_url": "http://blip.pl/s/671941069",
+            "content": "Dantalian no Shoka 06 - by? albo nie by?... ups, nie ten rekwizyt",
+            "episode": 6,
+            "filename": "8b290936abaa786fa972346184431818.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/105338313778544640"
+        },
+        {
+            "blip_url": "http://blip.pl/s/684537491",
+            "content": "Dantalian no Shoka 07 - Dalian z przera?eniem u?wiadomi?a sobie, ?e zosta?y jej zaledwie dwa dni wakacji",
+            "episode": 7,
+            "filename": "61e9a1efc235d78fa2a8249a81361711.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/108317494552428545"
+        },
+        {
+            "blip_url": "http://blip.pl/s/692967801",
+            "content": "Dantalian no Shoka 08 - znajd? niepasuj?cy element",
+            "episode": 8,
+            "filename": "a8e73fdb34144a8022cbb03b73a52fcd.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/110347800977489921"
+        },
+        {
+            "blip_url": "http://blip.pl/s/735605429",
+            "content": "#anime #Lato2011 Dantalian no Shoka (?????????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1jza4l)",
+            "episode": 12,
+            "filename": "37a994f9599d219f386e6c3e3f756ae8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/120633732192419840"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-15T18:23:00",
+            "episode": 1,
+            "score": 7.6623088456,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Dantalian no Shoka - 01 [A01F4414].mkv",
+                    "group": "Commie",
+                    "hash": "A01F4414",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228551",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_01_[1280x720][115A4419].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "115A4419",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=229905",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Dantalian_no_Shoka_-_01_[1280x720][4C4B4B37].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4C4B4B37",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230356",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-22T18:23:00",
+            "episode": 2,
+            "score": 7.6158211856,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Dantalian no Shoka - 02 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Dantalian no Shoka - 02 [4ADD2EB3].mkv",
+                    "group": "Commie",
+                    "hash": "4ADD2EB3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230386",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_02_[1280x720][4DA73E6A].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "4DA73E6A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=230744",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232639",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Dantalian_no_Shoka_-_02_[1280x720][E4F0CD1D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E4F0CD1D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235117",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-29T18:23:00",
+            "episode": 3,
+            "score": 7.5573438071,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 5,
+                    "filename": "[NicoNico] Dantalian no Shoka - 03 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232353",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Dantalian no Shoka - 03 [BC87A939].mkv",
+                    "group": "Commie",
+                    "hash": "BC87A939",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232370",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 6,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_03_[1280x720][8F306C94].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "8F306C94",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=232759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234290",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Dantalian_no_Shoka_-_03_[1280x720][C331FB2F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C331FB2F",
+                    "url": "http://wilders.sleepsub.nl/torrents/%5BHatsuyuki%5D_Dantalian_no_Shoka_-_03_%5B1280x720%5D%5BC331FB2F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-05T18:23:00",
+            "episode": 4,
+            "score": 7.5281559662,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Dantalian no Shoka - 04 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234370",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Dantalian no Shoka - 04 [DED65CA4].mkv",
+                    "group": "Commie",
+                    "hash": "DED65CA4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234396",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_04_[1280x720][BE687C7D].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "BE687C7D",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=234632",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Dantalian_no_Shoka_-_04_[1280x720][6679844F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6679844F",
+                    "url": "http://wilders.sleepsub.nl/torrents/%5BHatsuyuki%5D_Dantalian_no_Shoka_-_04_%5B1280x720%5D%5B6679844F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-12T18:23:00",
+            "episode": 5,
+            "score": 7.5158515406,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 5,
+                    "filename": "[NicoNico] Dantalian no Shoka - 05 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Dantalian no Shoka - 05 [F7A8559F].mkv",
+                    "group": "Commie",
+                    "hash": "F7A8559F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236284",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 6,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_05_[1280x720][7784F466].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "7784F466",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=236353",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238432",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238433",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-19T18:23:00",
+            "episode": 6,
+            "score": 7.5100571866,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Dantalian no Shoka - 06 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_06_[1280x720][CCE2A23E].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "CCE2A23E",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=238719",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Dantalian no Shoka - 06 [B882D531].mkv",
+                    "group": "Commie",
+                    "hash": "B882D531",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238835",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://is.gd/yvVXc8",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://is.gd/3qGbTR",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_06_[h264_480p]_[3CE3141A].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "3CE3141A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239876",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-26T18:23:00",
+            "episode": 7,
+            "score": 7.4965770695,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Dantalian no Shoka - 07 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://is.gd/r2ecUm",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_07_[1280x720][800DC96A].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "800DC96A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=240952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242378",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242380",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-02T18:23:00",
+            "episode": 8,
+            "score": 7.4877950783,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 4,
+                    "filename": "[NicoNico] Dantalian no Shoka - 08 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=242399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Dantalian no Shoka - 08 [45677D6F].mkv",
+                    "group": "Commie",
+                    "hash": "45677D6F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242674",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_08_[1280x720][17D692B6].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "17D692B6",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=243096",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244170",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_08_[h264_720p]_[2EFA53DE].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "2EFA53DE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244913",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p][Hi10p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_08_[h264_720p][Hi10p]_[74C015BF].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "74C015BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_08_[h264_480p]_[F5679370].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "F5679370",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244915",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-09T18:23:00",
+            "episode": 9,
+            "score": 7.475284935,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 3,
+                    "filename": "[NicoNico] Dantalian no Shoka - 09 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Dantalian no Shoka - 09 [B388380C].mkv",
+                    "group": "Commie",
+                    "hash": "B388380C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244252",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_09_[1280x720][EDBAFDA9].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "EDBAFDA9",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=244945",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245872",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p]",
+                    "download_count": 3,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_09_[h264_720p]_[25ED0D9F].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "25ED0D9F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p][Hi10p]",
+                    "download_count": 3,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_09_[h264_720p][Hi10p]_[7C5B634D].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "7C5B634D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247473",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 3,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_09_[h264_480p]_[BC30DBF2].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "BC30DBF2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247474",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-16T18:23:00",
+            "episode": 10,
+            "score": 7.4444705182,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Dantalian no Shoka - 10 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Dantalian no Shoka - 10 [CFEA36AF].mkv",
+                    "group": "Commie",
+                    "hash": "CFEA36AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246030",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_10_[1280x720][E99B9C0C].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "E99B9C0C",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=246438",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247893",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247894",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_10_[h264_720p]_[D719146D].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "D719146D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248506",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p][Hi10p]",
+                    "download_count": 2,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_10_[h264_720p][Hi10p]_[17E547A0].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "17E547A0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248507",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_10_[h264_480p]_[225B7C5E].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "225B7C5E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248508",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-23T18:23:00",
+            "episode": 11,
+            "score": 7.4137183538,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Dantalian no Shoka - 11 [3517464F].mkv",
+                    "group": "Commie",
+                    "hash": "3517464F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247892",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249320",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_11_[1280x720][38CB3318].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "38CB3318",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=249945",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_11_[h264_720p]_[51528FBF].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "51528FBF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250327",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p][Hi10p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_11_[h264_720p][Hi10p]_[60B4CD16].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "60B4CD16",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Dantalian_no_Shoka_-_11_[h264_480p]_[6B294894].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "6B294894",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250330",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-30T18:23:00",
+            "episode": 12,
+            "score": 7.4516693699,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Dantalian no Shoka - 12 [63E8E7BC].mkv",
+                    "group": "Commie",
+                    "hash": "63E8E7BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Dantalian no Shoka - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 6,
+                    "filename": "[Whine-Subs]_Dantalian_no_Shoka_12_[1280x720][7631F257].mkv",
+                    "group": "Whine-Subs",
+                    "hash": "7631F257",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254218",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7939,
+        "ann": 11860,
+        "mal": 8915,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Takie mam okulary",
+            "filename": "http://s.modriv.net/abp/images/screencaps/03af16b5d1e53413957c3012fd4f9318.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b7436de3ea342c48cac1c8cccf33a17b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bea196181acf443780509f64323bba11.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ed305e86e514430fda15e7cbdd65decf.jpg",
+            "hd": false
+        },
+        {
+            "description": "GAO",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7dfb1d598aa4a0cfb08d4d29d6674445.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Dantalian no Shoka (?????????) http://rdir.pl/1jza4l",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b7a0ab14f4a0db90e6e8cf732e843c1e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Korona Dni Quintasana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/12fce12a99eda1e02c346c9628ec4bd7.jpg",
+            "hd": false
+        },
+        {
+            "description": "w 17 minucie s?ycha? strza?y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/67f8f02782badd8945e9f7df708a7386.jpg",
+            "hd": false
+        },
+        {
+            "description": "to si? nazywa straci? g?ow? dla kobiety",
+            "filename": "http://s.modriv.net/abp/images/screencaps/711ea2448bc652fe9899bd9218d4fb9b.jpg",
+            "hd": false
+        },
+        {
+            "description": "niebezpieczna yaoistka wykryta!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96049511a1bfc59073b0198a817aceb9.jpg",
+            "hd": false
+        },
+        {
+            "description": "with our powers combined... ups, nie ta bajka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f34c8421014fc531ecaf2816f9ee1f0e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/650901864993ac3b6aba91308ec7b724.jpg",
+            "hd": false
+        },
+        {
+            "description": "by? albo nie by?... ups, nie ten rekwizyt",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8b290936abaa786fa972346184431818.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d657f4a2c186a8082c513fd6105d88e0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dalian z przera?eniem u?wiadomi?a sobie, ?e zosta?y jej zaledwie dwa dni wakacji",
+            "filename": "http://s.modriv.net/abp/images/screencaps/61e9a1efc235d78fa2a8249a81361711.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/72b6d574a6b80b043eb55153571c3677.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5d7c2cd24b02917b9a4e8b699ab6e900.jpg",
+            "hd": false
+        },
+        {
+            "description": "znajd? niepasuj?cy element",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a8e73fdb34144a8022cbb03b73a52fcd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a0749bc9940715ff8ee2d006200cb2fb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/779b1cf9d895b7eb3eb245e3f57f9af3.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Dantalian no Shoka (?????????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1jza4l)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/37a994f9599d219f386e6c3e3f756ae8.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142odzieniec szlacheckiego pochodzenia odziedzicza po swoim dziadku posiad\u0142o\u015b\u0107 wraz z przyleg\u0142o\u015bciami, w\u0142\u0105czaj\u0105c w to pewn\u0105 niewiast\u0119 i strze\u017cony przez ni\u0105 Rega\u0142 Dantaliana. Przy jej pomocy walcz\u0105 ze z\u0142ymi ksi\u0105\u017ckami u\u017cywanymi przez niew\u0142a\u015bciwe osoby.",
+            "type": "abp"
+        },
+        {
+            "content": "Hugh Anthony Disward inherits an old mansion and a personal library from his grandfather. In the basement of the mansion, he meets a mysterious girl, Dalian. She is a Dantalian and a gateway to &quot;Dantalian&#039;s bookshelf&quot;, which stores the prohibited books of the demons.    &quot;Gensho (Illusory Books)&quot;, the prohibited books, endanger the balance of the world, but people are fascinated by the taboo. Hugh and Dalian solve the cases involving Gensho with their ability to access the Dantalian bookshelf.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Mikumo Gakuto's Bibliotheca Mystica de Dantalian (Dantalian no Shoka) light novel series.Lord Hugh Disward (Huey) has inherited his grandfather's estate, including his large collection of books collected over a lifetime only if he agrees to also become the custodian of a legendary library called the Bibliotheca Mystica de Dantalian, said to have been created by the Daemon of Knowledge Dantalian, and to look after a mysterious girl named Dalian who holds the secrets to the collection. The responsibilities also include, with the help and guidance of Dalian, continuing to collect and seal away books that prove powerful and dangerous.",
+            "type": "anidb"
+        },
+        {
+            "content": "Hugh Anthony Disward inherits an old mansion and a personal library from his grandfather. In the basement of the mansion, he meets a mysterious girl\u2014Dalian. She is a Dantalian and a gateway to \"Dantalian's bookshelf\", which stores the prohibited books of the demons.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 14909,
+            "date": "2012-09-29T13:36:51",
+            "score": 7.38,
+            "type": "mal"
+        },
+        {
+            "count": 1059,
+            "date": "2012-09-29T13:36:51",
+            "score": 7.18,
+            "type": "anidb"
+        },
+        {
+            "count": 756,
+            "date": "2012-09-29T13:36:51",
+            "score": 7.562,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Dantalian no Shoka"
+}

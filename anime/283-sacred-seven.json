@@ -1,0 +1,942 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30bb\u30a4\u30af\u30ea\u30c3\u30c9\u30bb\u30d6\u30f3"
+        },
+        {
+            "language": "pl",
+            "title": "Przenaj\u015bwi\u0119tsza Si\u00f3demka"
+        }
+    ],
+    "aliases": [
+        "Sacred Seven"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/593383933",
+            "content": "#anime #Lato2011 Sacred Seven (?????????) http://rdir.pl/1ixk5l",
+            "episode": 1,
+            "filename": "e4a0b76aa9b971c367852ba3397b15d6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/88002175762042881"
+        },
+        {
+            "blip_url": "http://blip.pl/s/606732971",
+            "content": "Sacred Seven 02 - emotikonki: doskona?e, gdy z jakiego? powodu chcesz zachowa? kamienn? twarz",
+            "episode": 2,
+            "filename": "b6619ca487e3a9fbad138284c05e2cbc.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/91172680321073153"
+        },
+        {
+            "blip_url": "http://blip.pl/s/647595029",
+            "content": "Sacred Seven 05 - obowi?zkowy odcinek pla?owy",
+            "episode": 5,
+            "filename": "36b2b2832b70ad0dcb5b28acd12cd2e6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/98488028665876480"
+        },
+        {
+            "blip_url": "http://blip.pl/s/654345213",
+            "content": "Sacred Seven 06 - nie p?acz, gdy utracisz swojego najlepszego przyjaciela - odrobina kleju i po sprawie",
+            "episode": 6,
+            "filename": "c3b7bddc989f66ebf605d4e8ff700ce1.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/101035255791763457"
+        },
+        {
+            "blip_url": "http://blip.pl/s/672219363",
+            "content": "Sacred Seven 08 - tak za kilka lat b?dzie wygl?da? DDR",
+            "episode": 8,
+            "filename": "7c664600ae4a3a4447567b183fd744d0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/105402688077955072"
+        },
+        {
+            "blip_url": "http://blip.pl/s/685688623",
+            "content": "Sacred Seven 09 - jaki? problem, synek?",
+            "episode": 9,
+            "filename": "3c5df5d616f2edb17cb59191da738c11.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/108590066233913345"
+        },
+        {
+            "blip_url": "http://blip.pl/s/697377917",
+            "content": "Sacred Seven 10 - i kolejni, kt\u00f3rzy nie opanowali sztuki robienia omlet\u00f3w",
+            "episode": 10,
+            "filename": "82d226ef03fa8f8397100d898bada80b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/111422201718255616"
+        },
+        {
+            "blip_url": "http://blip.pl/s/703943321",
+            "content": "Sacred Seven 11 - nikt zdrowy na umy?le nie odwa?y si? nie zatrzyma? do kontroli drogowej",
+            "episode": 11,
+            "filename": "653ac7242b00783f07417a5ae1910e2b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/113005173709869057"
+        },
+        {
+            "blip_url": "http://blip.pl/s/714779681",
+            "content": "#anime #Lato2011 Sacred Seven (?????????) - nasza ocena: ogl?daj tylko je?li si? nudzisz (wi?cej: http://rdir.pl/1ixk5l)",
+            "episode": 12,
+            "filename": "08ab4efdc885f19e5e311b22d7092a7a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/115576919470252034"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-02T19:28:00",
+            "episode": 1,
+            "score": 7.3193179951,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Sacred_Seven_-_01_[03F50447].mkv",
+                    "group": "gg",
+                    "hash": "03F50447",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[kagayaki-hadena]_Sacred_Seven_01[720p][7645F827].mkv",
+                    "group": "kagayaki-hadena",
+                    "hash": "7645F827",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=226047",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[kagayaki-hadena]_Sacred_Seven_01v2[720p][26193A01].mkv",
+                    "group": "kagayaki-hadena",
+                    "hash": "26193A01",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226263",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sacred Seven - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226678",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226679",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_01v2_[392BA086].mkv",
+                    "group": "gg",
+                    "hash": "392BA086",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227349",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 01 (1280x720 h264 AAC) [3B4CABFE].mkv",
+                    "group": "Shini-subs",
+                    "hash": "3B4CABFE",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2001%20(1280x720%20h264%20AAC)%20%5b3B4CABFE%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 01 (848x480 h264 AAC) [443A600F].mkv",
+                    "group": "Shini-subs",
+                    "hash": "443A600F",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2001%20(848x480%20h264%20AAC)%20%5b443A600F%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-09T19:28:00",
+            "episode": 2,
+            "score": 7.1178399229,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_02_[A4970352].mkv",
+                    "group": "gg",
+                    "hash": "A4970352",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227115",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228445",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 02 (1280x720 h264 AAC) [D4F38014].mkv",
+                    "group": "Shini-subs",
+                    "hash": "D4F38014",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2002%20(1280x720%20h264%20AAC)%20%5bD4F38014%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 02 (848x480 h264 AAC) [BD213CB9].mkv",
+                    "group": "Shini-subs",
+                    "hash": "BD213CB9",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2002%20(848x480%20h264%20AAC)%20%5bBD213CB9%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-16T19:28:00",
+            "episode": 3,
+            "score": 7.006,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_03_[FB9C39E9].mkv",
+                    "group": "gg",
+                    "hash": "FB9C39E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229093",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Sacred Seven - 03 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sacred Seven - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230214",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Shini-subs] Sacred Seven - 03v2 (1280x720 h264 AAC) [E26E956F].mkv",
+                    "group": "Shini-subs",
+                    "hash": "E26E956F",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2003v2%20(1280x720%20h264%20AAC)%20%5bE26E956F%5d.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 03v2 (848x480 h264 AAC) [765ADA27].mkv",
+                    "group": "Shini-subs",
+                    "hash": "765ADA27",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2003v2%20(848x480%20h264%20AAC)%20%5b765ADA27%5d.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-07-23T19:28:00",
+            "episode": 4,
+            "score": 6.9494152913,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_04_[539FE78B].mkv",
+                    "group": "gg",
+                    "hash": "539FE78B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230932",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sacred Seven - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232647",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sacred Seven - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Shini-subs] Sacred Seven - 04 (1280x720 h264 AAC) [4CD8203D].mkv",
+                    "group": "Shini-subs",
+                    "hash": "4CD8203D",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2004%20(1280x720%20h264%20AAC)%20%5b4CD8203D%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 04 (848x480 h264 AAC) [55F8041F].mkv",
+                    "group": "Shini-subs",
+                    "hash": "55F8041F",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2004%20(848x480%20h264%20AAC)%20%5b55F8041F%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-30T19:28:00",
+            "episode": 5,
+            "score": 6.9094038577,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gfg]??_Sacred??_Seven??_-??_05_[0A196A4B].mkv",
+                    "group": "gfg",
+                    "hash": "0A196A4B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232738",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Sacred_Seven_-_05_[06DBBBB4].mkv",
+                    "group": "gg",
+                    "hash": "06DBBBB4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233301",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[FA[gg]OT]_Sacred_Seven_-_05_[F22EA856].mkv",
+                    "group": "FA[gg]OT",
+                    "hash": "F22EA856",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233679",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 05 (1280x720 h264 AAC) [0F772205].mkv",
+                    "group": "Shini-subs",
+                    "hash": "0F772205",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2005%20(1280x720%20h264%20AAC)%20%5b0F772205%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 05 (848x480 h264 AAC) [7A360CA8].mkv",
+                    "group": "Shini-subs",
+                    "hash": "7A360CA8",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2005%20(848x480%20h264%20AAC)%20%5b7A360CA8%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-06T19:28:00",
+            "episode": 6,
+            "score": 6.880101152,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Sacred_Seven_-_06_[6A405769].mkv",
+                    "group": "gg",
+                    "hash": "6A405769",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234767",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 06 (1280x720 h264 AAC) [73A27768].mkv",
+                    "group": "Shini-subs",
+                    "hash": "73A27768",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2006%20(1280x720%20h264%20AAC)%20%5b73A27768%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 06 (848x480 h264 AAC) [F4F5A5F6].mkv",
+                    "group": "Shini-subs",
+                    "hash": "F4F5A5F6",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2006%20(848x480%20h264%20AAC)%20%5bF4F5A5F6%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-13T19:28:00",
+            "episode": 7,
+            "score": 6.8610133929,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Sacred_Seven_-_07_[AA0FAE18].mkv",
+                    "group": "gg",
+                    "hash": "AA0FAE18",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[pp] Sacred Seven - 07 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236693",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 07 (1280x720 h264 AAC) [39591EDF].mkv",
+                    "group": "Shini-subs",
+                    "hash": "39591EDF",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2007%20(1280x720%20h264%20AAC)%20%5b39591EDF%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 07 (848x480 h264 AAC) [0577B07F].mkv",
+                    "group": "Shini-subs",
+                    "hash": "0577B07F",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2007%20(848x480%20h264%20AAC)%20%5b0577B07F%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-20T19:28:00",
+            "episode": 8,
+            "score": 6.8388228415,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_08_[EC62D21A].mkv",
+                    "group": "gg",
+                    "hash": "EC62D21A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238910",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Sacred Seven - 08 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238917",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Sacred Seven - 08 [720p][H.264][3C67A47D].mkv",
+                    "group": "OX-",
+                    "hash": "3C67A47D",
+                    "url": "http://1337x.org/download/236165/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Tsumi] Sacred Seven - 08 [F7B08B59].mkv",
+                    "group": "Tsumi",
+                    "hash": "F7B08B59",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 08 (1280x720 h264 AAC) [6859CE14].mkv",
+                    "group": "Shini-subs",
+                    "hash": "6859CE14",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2008%20(1280x720%20h264%20AAC)%20%5b6859CE14%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 08 (848x480 h264 AAC) [E52A778B].mkv",
+                    "group": "Shini-subs",
+                    "hash": "E52A778B",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2008%20(848x480%20h264%20AAC)%20%5bE52A778B%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-27T19:28:00",
+            "episode": 9,
+            "score": 6.8249894938,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_09_[574D50C6].mkv",
+                    "group": "gg",
+                    "hash": "574D50C6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240865",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Sacred Seven - 09 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240872",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242288",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sacred Seven - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Sacred Seven - 09 [720p][H.264][353C7F75].mkv",
+                    "group": "OX-",
+                    "hash": "353C7F75",
+                    "url": "http://1337x.org/download/238055/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Sacred Seven - 09 (1280x720 h264 AAC) [365BB284].mkv",
+                    "group": "Shini-subs",
+                    "hash": "365BB284",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2009%20(1280x720%20h264%20AAC)%20%5b365BB284%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Shini-subs] Sacred Seven - 09 (848x480 h264 AAC) [FE307E13].mkv",
+                    "group": "Shini-subs",
+                    "hash": "FE307E13",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Sacred%20Seven%20-%2009%20(848x480%20h264%20AAC)%20%5bFE307E13%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-03T19:28:00",
+            "episode": 10,
+            "score": 6.8101742424,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_10_[1401BD29].mkv",
+                    "group": "gg",
+                    "hash": "1401BD29",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Sacred Seven - 10 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244087",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244092",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-10T19:28:00",
+            "episode": 11,
+            "score": 6.9285924495,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_11_[2D334E2A].mkv",
+                    "group": "gg",
+                    "hash": "2D334E2A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244594",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Sacred Seven - 11 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244661",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Sacred Seven - 11 [720p][H.264][DC15377F].mkv",
+                    "group": "OX-",
+                    "hash": "DC15377F",
+                    "url": "http://1337x.org/download/243392/",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-17T19:43:00",
+            "episode": 12,
+            "score": 6.7931436314,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Sacred_Seven_-_12_[2243E8D9].mkv",
+                    "group": "gg",
+                    "hash": "2243E8D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246297",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Sacred Seven - 12 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246312",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sacred Seven - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247475",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sacred Seven - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Sacred Seven - 12 [720p][H.264][177ED5E5].mkv",
+                    "group": "OX-",
+                    "hash": "177ED5E5",
+                    "url": "http://1337x.org/download/246945/",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8205,
+        "ann": 12393,
+        "mal": 10156,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f478e450a702966aa639e14aa24306b5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ka?dy chcia?by by? zatrzymany przez tak? drog\u00f3wk?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/57018fe82d80f36a24e40c3b9527ac3b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Albo ustrzelony przez takiego snajpera",
+            "filename": "http://s.modriv.net/abp/images/screencaps/89f39b93021e796a30dad92f6a3f14df.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/68bf5219b0d152398d50989a5c3fe695.jpg",
+            "hd": false
+        },
+        {
+            "description": "herp",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0864619fcf013ed73aa679a120c65945.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/611a3e986a19b06a1e96b5905593f1c6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Czy?by to by? mech?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/47c54e9588f3fe9dd52691c50f92d937.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d471c0705e98bc7e310fba6b5894bc6c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Serce me ofiaruj? ci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bdfddb5d3f392ba16fd1dd7cbcd8bc15.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Sacred Seven (?????????) http://rdir.pl/1ixk5l",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e4a0b76aa9b971c367852ba3397b15d6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cbfaf8eb9752e5f4f73120c190c961e8.jpg",
+            "hd": false
+        },
+        {
+            "description": "emotikonki: doskona?e, gdy z jakiego? powodu chcesz zachowa? kamienn? twarz",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b6619ca487e3a9fbad138284c05e2cbc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad3f80049da5e39ec36e7baae4ad7c89.jpg",
+            "hd": false
+        },
+        {
+            "description": "obowi?zkowy odcinek pla?owy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/36b2b2832b70ad0dcb5b28acd12cd2e6.jpg",
+            "hd": false
+        },
+        {
+            "description": "S?ysza?em, ?e laski lec? na zamy?lonych",
+            "filename": "http://s.modriv.net/abp/images/screencaps/44aac6c65828907c1888361632f32250.jpg",
+            "hd": false
+        },
+        {
+            "description": "nie p?acz, gdy utracisz swojego najlepszego przyjaciela - odrobina kleju i po sprawie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c3b7bddc989f66ebf605d4e8ff700ce1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/902f72055414ee8e94ec97cbab3f038b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dce83049acd018de1cc873b937ac3cdd.jpg",
+            "hd": false
+        },
+        {
+            "description": "tak za kilka lat b?dzie wygl?da? DDR",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7c664600ae4a3a4447567b183fd744d0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pierdol studia, zosta? kamiennym ninja",
+            "filename": "http://s.modriv.net/abp/images/screencaps/45f1774aab9eb4361d0a0218889533e9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Arma zobaczy? wyniki sprzeda?y pierwszej p?yty tego anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b4dcbcd08b1a879218ba30abbfea2f6.jpg",
+            "hd": false
+        },
+        {
+            "description": "jaki? problem, synek?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3c5df5d616f2edb17cb59191da738c11.jpg",
+            "hd": false
+        },
+        {
+            "description": "i kolejni, kt\u00f3rzy nie opanowali sztuki robienia omlet\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/82d226ef03fa8f8397100d898bada80b.jpg",
+            "hd": false
+        },
+        {
+            "description": "nikt zdrowy na umy?le nie odwa?y si? nie zatrzyma? do kontroli drogowej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/653ac7242b00783f07417a5ae1910e2b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cceec65696eba9535807a012c9ebfb61.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f188d90d1a8b71ff36ae1345161c6649.jpg",
+            "hd": false
+        },
+        {
+            "description": "JUTRO SPRAWDZIAN Z MATMY?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/08cf06f480b1220b9ffe436b7acc7440.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Sacred Seven (?????????) - nasza ocena: ogl?daj tylko je?li si? nudzisz (wi?cej: http://rdir.pl/1ixk5l)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/08ab4efdc885f19e5e311b22d7092a7a.jpg",
+            "hd": false
+        },
+        {
+            "description": "fuk the wut",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a3e8dff3f62c9f83de33952bbf65959b.jpg",
+            "hd": false
+        },
+        {
+            "description": "o_O",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8d041d527b85a901c10284f1996fa4ff.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Zwyczajny, nielubiany przez koleg\u00f3w z klasy licealista z czerwonym okiem okazuje si\u0119 by\u0107 posiadaczem supermocy, kt\u00f3r\u0105 pewna organizacja chce wykorzysta\u0107 do walki z uosobionymi kamieniami.",
+            "type": "abp"
+        },
+        {
+            "content": "Alma Tandoji lives a lonely life. One day, Ruri Alba, a girl accompanied by her butler and maids, visits him. Knowing the power of Sacred Seven is latent within Alma, she asks him to lend her his powers. However, he refuses and drives her away since he injured many with his unusual strength in the past.    Meanwhile, a fiendish Dark Stone creature suddenly appears in this peaceful town in the Kanto region. Only Alma&#039;s power of Sacred Seven can fight against it. But Alma just lets his power run amuck and things begin to get worse. Ruri raised her gemstone in order to release his true abilities, My Soul I give to you.     With Ruri&#039;s wishes engraved in it, will Alma be able to defeat the Dark Stone?",
+            "type": "mal"
+        },
+        {
+            "content": "The stage is a certain port city within the Kantou region. There resides Tandouji Aruma, who lives a lonely and solitary life. One day, he is approached by Aiba Ruri who asks for his help, for the power of the Sacred Seven which resides within Aruma. However, Aruma turns her away. In the past, Aruma had hurt people with that power. Since that moment, he had foresworn it.But when the peaceful city is attacked by a monster, Aruma reluctantly decides to use the Sacred Seven. However, his powers go berserk and the situation becomes even more dire. At that moment, Ruri comes to his aid.~ translated and adapted from official site by Cranston",
+            "type": "anidb"
+        },
+        {
+            "content": "Seventeen years ago, several meteorites carrying seven types of alien crystals landed on Earth. Given the name of Sacred Seven, these crystals withhold the power to alter DNA and cause mutations. Inheritor of overwhelming abilities from this enigmatic legacy, Alma Tandoji is an unsociable 17-year-old student feared by his schoolmates due to several rumors of his violent behavior. He is contacted by Ruri Aiba, a rich teenage girl and CEO of the powerful Aiba Foundation, who pleads him to help her fight a mysterious enemy that very recently started causing massive havoc through the land.",
+            "type": "ann"
+        },
+        {
+            "content": "Alma Tandouji lives a lonely and solitary life in a certain port city within the Kantou region. One day, he is approached by Aiba Ruri who asks for his help, for the power of the Sacred Seven which resides within Alma. However, Alma turns her away. In the past, Alma had hurt people with that power. Since that moment, he had foresworn it. But when the peaceful city is attacked by a monster, Alma reluctantly decides to use the Sacred Seven. However, his powers go berserk and the situation becomes even more dire. At that moment, Ruri comes to his aid by inserting a sacred stone made using her jewel necklace and transform him to his true form.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 10296,
+            "date": "2012-09-29T13:40:19",
+            "score": 6.78,
+            "type": "mal"
+        },
+        {
+            "count": 759,
+            "date": "2012-09-29T13:40:19",
+            "score": 6.23,
+            "type": "anidb"
+        },
+        {
+            "count": 536,
+            "date": "2012-09-29T13:40:19",
+            "score": 6.552,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Sacred Seven"
+}

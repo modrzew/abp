@@ -1,0 +1,943 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ce\u30fc\u30b2\u30fc\u30e0\u30fb\u30ce\u30fc\u30e9\u30a4\u30d5"
+        }
+    ],
+    "aliases": [
+        "No Game No Life"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-04-09T14:30:00",
+            "episode": 1,
+            "score": 7.48,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] No Game No Life - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] No Game No Life - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] No Game No Life - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=541112",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-FFF] No Game No Life - 01 (720p) [27AAA0A0].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "27AAA0A0",
+                    "url": "http://www.nyaa.se/?page=download&tid=541283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 01 (1280x720 10bit AAC) [C25E969F].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "C25E969F",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2001%20(1280x720%2010bit%20AAC)%20%5BC25E969F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 01 [Hi10P 1280x720 H264][B319CDF1].mkv",
+                    "group": "Eveyuu",
+                    "hash": "B319CDF1",
+                    "url": "http://www.nyaa.se/?page=download&tid=541752",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 01 [Hi10P 1280x720 H264][BE552C9F].mkv",
+                    "group": "Eveyuu",
+                    "hash": "BE552C9F",
+                    "url": "http://www.nyaa.se/?page=download&tid=541755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 01v2 [Hi10P 1280x720 H264][FE855867].mkv",
+                    "group": "Eveyuu",
+                    "hash": "FE855867",
+                    "url": "http://www.nyaa.se/?page=download&tid=541920",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] No Game No Life - 01 [F0B36043].mkv",
+                    "group": "Commie",
+                    "hash": "F0B36043",
+                    "url": "http://www.nyaa.se/?page=download&tid=543626",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-16T14:30:00",
+            "episode": 2,
+            "score": 6.9921201413,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=543730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] No Game No Life - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=543731",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] No Game No Life - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=543738",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-FFF] No Game No Life - 02 (720p) [F2DA1344].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "F2DA1344",
+                    "url": "http://www.nyaa.se/?page=download&tid=543946",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 02 (1280x720 10bit AAC) [787CA162].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "787CA162",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2002%20(1280x720%2010bit%20AAC)%20%5B787CA162%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] No Game No Life - 02 [38DB810B].mkv",
+                    "group": "Commie",
+                    "hash": "38DB810B",
+                    "url": "http://www.nyaa.se/?page=download&tid=545238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 02 [Hi10P 1280x720 H264][69C7F680].mkv",
+                    "group": "Eveyuu",
+                    "hash": "69C7F680",
+                    "url": "http://www.nyaa.se/?page=download&tid=546109",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-23T14:30:00",
+            "episode": 3,
+            "score": 7.3935672515,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Eveyuu] No Game No Life - 03v0 [1280x720 H264][C56C23F8].mkv",
+                    "group": "Eveyuu",
+                    "hash": "C56C23F8",
+                    "url": "http://www.nyaa.se/?page=download&tid=546549",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] No Game No Life - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546597",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] No Game No Life - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] No Game No Life - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=546600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-FFF] No Game No Life - 03 (720p) [C3B37D8A].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "C3B37D8A",
+                    "url": "http://www.nyaa.se/?page=download&tid=546776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 03 (1280x720 10bit AAC) [307BEFA0].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "307BEFA0",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2003%20(1280x720%2010bit%20AAC)%20%5B307BEFA0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 03 [Hi10P 1280x720 H264][CA94E0B6].mkv",
+                    "group": "Eveyuu",
+                    "hash": "CA94E0B6",
+                    "url": "http://www.nyaa.se/?page=download&tid=548078",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] No Game No Life - 03 [6E03A9B9].mkv",
+                    "group": "Commie",
+                    "hash": "6E03A9B9",
+                    "url": "http://www.nyaa.se/?page=download&tid=548590",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-30T14:30:00",
+            "episode": 4,
+            "score": 7.5008375,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549250",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] No Game No Life - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549256",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] No Game No Life - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[MX 1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[JNE-Remux] No Game No Life - 04 (MX 1280x720 x264 AAC).mkv",
+                    "group": "JNE-Remux",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=549486",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-FFF] No Game No Life - 04 (720p) [3177C0F3].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "3177C0F3",
+                    "url": "http://www.nyaa.se/?page=download&tid=549554",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 04 (1280x720 10bit AAC) [1500C532].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "1500C532",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2004%20(1280x720%2010bit%20AAC)%20%5B1500C532%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] No Game No Life - 04 [77BFA785].mkv",
+                    "group": "Commie",
+                    "hash": "77BFA785",
+                    "url": "http://www.nyaa.se/?page=download&tid=551701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 04 [Hi10P 1280x720 H264][1F42F131].mkv",
+                    "group": "Eveyuu",
+                    "hash": "1F42F131",
+                    "url": "http://www.nyaa.se/?page=download&tid=551745",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-07T14:30:00",
+            "episode": 5,
+            "score": 7.5285178571,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=551831",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] No Game No Life - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=551834",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] No Game No Life - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=551837",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-FFF] No Game No Life - 05 (720p) [FCB3B8EA].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "FCB3B8EA",
+                    "url": "http://www.nyaa.se/?page=download&tid=552013",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 05 (1280x720 10bit AAC) [81D92904].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "81D92904",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2005%20(1280x720%2010bit%20AAC)%20%5B81D92904%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] No Game No Life - 05 [42ABDFF2].mkv",
+                    "group": "Commie",
+                    "hash": "42ABDFF2",
+                    "url": "http://www.nyaa.se/?page=download&tid=553780",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 05 [Hi10P 1280x720 H264][1328E9D7].mkv",
+                    "group": "Eveyuu",
+                    "hash": "1328E9D7",
+                    "url": "http://www.nyaa.se/?page=download&tid=553848",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-14T14:30:00",
+            "episode": 6,
+            "score": 7.7054143969,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554304",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] No Game No Life - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554306",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] No Game No Life - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=554307",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Underwater-FFF] No Game No Life - 06 (720p) [B64541BC].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "B64541BC",
+                    "url": "http://www.nyaa.se/?page=download&tid=554459",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 06 (1280x720 10bit AAC) [357FD9C4].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "357FD9C4",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2006%20(1280x720%2010bit%20AAC)%20%5B357FD9C4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 06 [Hi10P 1280x720 H264][3BD0F1C7].mkv",
+                    "group": "Eveyuu",
+                    "hash": "3BD0F1C7",
+                    "url": "http://www.nyaa.se/?page=download&tid=556634",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] No Game No Life - 06 [7B7C72EE].mkv",
+                    "group": "Commie",
+                    "hash": "7B7C72EE",
+                    "url": "http://www.nyaa.se/?page=download&tid=556770",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-21T14:30:00",
+            "episode": 7,
+            "score": 7.8367857143,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=556786",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] No Game No Life - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=556787",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] No Game No Life - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=556789",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-FFF] No Game No Life - 07 (720p) [561FB41B].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "561FB41B",
+                    "url": "http://www.nyaa.se/?page=download&tid=556935",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 07 (1280x720 10bit AAC) [B342D704].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "B342D704",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2007%20(1280x720%2010bit%20AAC)%20%5BB342D704%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] No Game No Life - 07 [C9B70B0F].mkv",
+                    "group": "Commie",
+                    "hash": "C9B70B0F",
+                    "url": "http://www.nyaa.se/?page=download&tid=558279",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 07 [Hi10P 1280x720 H264][6444FD3E].mkv",
+                    "group": "Eveyuu",
+                    "hash": "6444FD3E",
+                    "url": "http://www.nyaa.se/?page=download&tid=561544",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] No Game No Life - 07 [D99C8437].mkv",
+                    "group": "Commie",
+                    "hash": "D99C8437",
+                    "url": "http://www.nyaa.se/?page=download&tid=562717",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-28T14:30:00",
+            "episode": 8,
+            "score": 7.8506111111,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559209",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] No Game No Life - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] No Game No Life - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=559326",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-FFF] No Game No Life - 08 (720p) [ADA3EA97].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "ADA3EA97",
+                    "url": "http://www.nyaa.se/?page=download&tid=559355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 08 (1280x720 10bit AAC) [A768E7EF].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "A768E7EF",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2008%20(1280x720%2010bit%20AAC)%20%5BA768E7EF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 08 [Hi10P 1280x720 H264][AC78BBA5].mkv",
+                    "group": "Eveyuu",
+                    "hash": "AC78BBA5",
+                    "url": "http://www.nyaa.se/?page=download&tid=561546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] No Game No Life - 08 [F8785AC0].mkv",
+                    "group": "Commie",
+                    "hash": "F8785AC0",
+                    "url": "http://www.nyaa.se/?page=download&tid=562703",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] No Game No Life - 08v2 [D0E976EF].mkv",
+                    "group": "Commie",
+                    "hash": "D0E976EF",
+                    "url": "http://www.nyaa.se/?page=download&tid=562756",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-06-04T14:30:00",
+            "episode": 9,
+            "score": 7.9333849558,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] No Game No Life - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561359",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] No Game No Life - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561361",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] No Game No Life - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=561364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-FFF] No Game No Life - 09 (720p) [B587B0ED].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "B587B0ED",
+                    "url": "http://www.nyaa.se/?page=download&tid=561617",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 09 (1280x720 10bit AAC) [24CCE81D].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "24CCE81D",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2009%20(1280x720%2010bit%20AAC)%20%5B24CCE81D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] No Game No Life - 09 [254C9E5E].mkv",
+                    "group": "Commie",
+                    "hash": "254C9E5E",
+                    "url": "http://www.nyaa.se/?page=download&tid=562952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 09 [Hi10P 1280x720 H264][FB8090C1].mkv",
+                    "group": "Eveyuu",
+                    "hash": "FB8090C1",
+                    "url": "http://www.nyaa.se/?page=download&tid=563316",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-11T14:30:00",
+            "episode": 10,
+            "score": 8.0124236111,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563643",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] No Game No Life - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] No Game No Life - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=563649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-FFF] No Game No Life - 10 (720p) [5F3B4A4B].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "5F3B4A4B",
+                    "url": "http://www.nyaa.se/?page=download&tid=563986",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 10 (1280x720 10bit AAC) [C2EE1178].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "C2EE1178",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2010%20(1280x720%2010bit%20AAC)%20%5BC2EE1178%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] No Game No Life - 10 [F82EDE5A].mkv",
+                    "group": "Commie",
+                    "hash": "F82EDE5A",
+                    "url": "http://www.nyaa.se/?page=download&tid=565102",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 10 [Hi10P 1280x720 H264][10B23BD8].mkv",
+                    "group": "Eveyuu",
+                    "hash": "10B23BD8",
+                    "url": "http://www.nyaa.se/?page=download&tid=567939",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-18T14:30:00",
+            "episode": 11,
+            "score": 8.0538655779,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=565829",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] No Game No Life - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=565830",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] No Game No Life - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=565832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] No Game No Life - 11 [5F1D80AF].mkv",
+                    "group": "Commie",
+                    "hash": "5F1D80AF",
+                    "url": "http://www.nyaa.se/?page=download&tid=566623",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-FFF] No Game No Life - 11 (720p) [5F8E7E05].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "5F8E7E05",
+                    "url": "http://www.nyaa.se/?page=download&tid=566796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 11 (1280x720 10bit AAC) [A8910CE6].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "A8910CE6",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2011%20(1280x720%2010bit%20AAC)%20%5BA8910CE6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] No Game No Life - 11 [Hi10P 1280x720 H264][AB3AAE67].mkv",
+                    "group": "Eveyuu",
+                    "hash": "AB3AAE67",
+                    "url": "http://www.nyaa.se/?page=download&tid=569967",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-25T14:30:00",
+            "episode": 12,
+            "score": 8.4426769049,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] No Game No Life - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568099",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] No Game No Life - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568102",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] No Game No Life - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=568104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-FFF] No Game No Life - 12 (720p) [C9FC6F0A].mkv",
+                    "group": "Underwater-FFF",
+                    "hash": "C9FC6F0A",
+                    "url": "http://www.nyaa.se/?page=download&tid=568337",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] No Game No Life - 12 [56AE5B89].mkv",
+                    "group": "Commie",
+                    "hash": "56AE5B89",
+                    "url": "http://www.nyaa.se/?page=download&tid=569381",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[ChihiroDesuYo] No Game No Life - 12 (1280x720 10bit AAC) [0BCC41A7].mkv",
+                    "group": "ChihiroDesuYo",
+                    "hash": "0BCC41A7",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiroDesuYo%5D%20No%20Game%20No%20Life%20-%2012%20(1280x720%2010bit%20AAC)%20%5B0BCC41A7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 9998,
+        "ann": 15784,
+        "mal": 19815,
+        "schedule": 3322
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Siblings Sora and Shiro are a pair of hikikomori NEETs who together form \u300e\u3000\u3000\u300f (K\u016bhaku (\u7a7a\u767d?, lit. \"blank space\")), an undefeated online gamer and urban legend. They both consider the real world to be a \"crappy game\". They are summoned by a boy calling himself \"God\" to a fantasy world where he has forbidden all violence and warfare between the sixteen intelligent races living there; instead, everything is decided by games. The siblings find themselves the would-be saviors of humanity (Imanity), who rank sixteenth among the races and have been confined to their sole remaining city.",
+            "type": "wiki"
+        },
+        {
+            "content": "The story of No Game, No Life centers around Sora and Shiro, a brother and sister whose reputations as brilliant NEET (Not in Education, Employment, or Training) hikikomori (shut-in) gamers have spawned urban legends all over the Internet. These two gamers even consider the real world as just another \"crappy game.\" One day, they are summoned by a boy named \"God\" to an alternate world. There, God has prohibited war and declared this to be a world where \"everything is decided by games\" - even national borders. Humanity has been driven back into one remaining city by the other races. Will Sora and Shiro, the good-for-nothing brother and sister, become the \"Saviors of Humanity\" on this alternate world? \"Well, let's start playing.\"Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "Genius gamer siblings (plus being NEET &amp; hikikomori) Sora and Shiro are known as the undefeatable \u201c__\u201d (blank). Their talents and skills are so good they are considered as urban legend. One day, a young boy named Teto appears before them, claiming to be the \u201cGod\u201d of another dimension where Sora and Shiro are summoned to, in which no violence is allowed and everything is decided by a game. Of the 16 different races residing in this world, \u201cHumanity\u201d is the weakest. After having the vast majority of their lands captured by the other races and being driven to the brink of extinction, Sora and Shiro challenge these one-of-a-kind battles of the intellectual powers in order to save Humanity.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 1279,
+            "date": "2014-07-15T10:23:16",
+            "score": 8.28,
+            "type": "anidb"
+        },
+        {
+            "count": 723,
+            "date": "2014-07-15T10:23:16",
+            "score": 8.692,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "No Game No Life"
+}

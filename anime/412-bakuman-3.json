@@ -1,0 +1,504 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d0\u30af\u30de\u30f3\u3002"
+        }
+    ],
+    "aliases": [
+        "Bakuman S3"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-10-06T10:30:00",
+            "episode": 1,
+            "score": 8.5937564197,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[sage]_Bakuman_S3_-_01_[720p][6B42DA91].mkv",
+                    "group": "sage",
+                    "hash": "6B42DA91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359977",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[hyrax]_Bakuman_S3_-_01.mkv",
+                    "group": "hyrax",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360542",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-13T10:30:00",
+            "episode": 2,
+            "score": 8.5944167409,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[hyrax]_Bakuman_S3_-_02_[795C5708].mkv",
+                    "group": "hyrax",
+                    "hash": "795C5708",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362037",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_02_[720p][6B42DA91].mkv",
+                    "group": "SFW-sage",
+                    "hash": "6B42DA91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362663",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-20T10:30:00",
+            "episode": 3,
+            "score": 8.5915906603,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[hyrax]_Bakuman_S3_-_03_[179616AF].mkv",
+                    "group": "hyrax",
+                    "hash": "179616AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364748",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_03_[720p][EF0C9B54].mkv",
+                    "group": "SFW-sage",
+                    "hash": "EF0C9B54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366517",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-27T10:30:00",
+            "episode": 4,
+            "score": 8.5949295685,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_04_[720p][CA5E5D6C].mkv",
+                    "group": "SFW-sage",
+                    "hash": "CA5E5D6C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367472",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-03T09:30:00",
+            "episode": 5,
+            "score": 8.5902252405,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_05_[720p][D2BC14C3].mkv",
+                    "group": "SFW-sage",
+                    "hash": "D2BC14C3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370129",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-10T09:30:00",
+            "episode": 6,
+            "score": 8.5913505045,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_06_[720p][FB78E5F7].mkv",
+                    "group": "SFW-sage",
+                    "hash": "FB78E5F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=373142",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-17T09:30:00",
+            "episode": 7,
+            "score": 8.588163426,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_07_[720p][23EAF5CA].mkv",
+                    "group": "SFW-sage",
+                    "hash": "23EAF5CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376402",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-24T09:30:00",
+            "episode": 8,
+            "score": 8.5941985534,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_08_[720p][7C1FEE4E].mkv",
+                    "group": "SFW-sage",
+                    "hash": "7C1FEE4E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380086",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-01T09:30:00",
+            "episode": 9,
+            "score": 8.5963286344,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_09_[720p][08C573DE].mkv",
+                    "group": "SFW-sage",
+                    "hash": "08C573DE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381429",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-08T09:30:00",
+            "episode": 10,
+            "score": 8.5815996611,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_10_[720p][4F9AC572].mkv",
+                    "group": "SFW-sage",
+                    "hash": "4F9AC572",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383838",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-15T09:30:00",
+            "episode": 11,
+            "score": 8.5722202093,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_11_[720p][3BF240F6].mkv",
+                    "group": "SFW-sage",
+                    "hash": "3BF240F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384146",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-22T09:30:00",
+            "episode": 12,
+            "score": 8.5735876923,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[BFS]_Bakuman_S3_-_12_[720p][F6ACB307].mkv",
+                    "group": "BFS",
+                    "hash": "F6ACB307",
+                    "url": "http://www.anirena.com/dl/518",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_12_[720p][D07C91FC].mkv",
+                    "group": "SFW-sage",
+                    "hash": "D07C91FC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390485",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-29T09:30:00",
+            "episode": 13,
+            "score": 8.570602925,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[BFS]_Bakuman_S3_-_13_[720p][4191982D].mkv",
+                    "group": "BFS",
+                    "hash": "4191982D",
+                    "url": "http://www.anirena.com/dl/519",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_13_[720p][370D00BA].mkv",
+                    "group": "SFW-sage",
+                    "hash": "370D00BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391750",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-05T09:30:00",
+            "episode": 14,
+            "score": 8.5656065798,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[BFS]_Bakuman_S3_-_14_[720p][76239F90].mkv",
+                    "group": "BFS",
+                    "hash": "76239F90",
+                    "url": "http://www.anirena.com/dl/647",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_14_[720p][0D1C7500].mkv",
+                    "group": "SFW-sage",
+                    "hash": "0D1C7500",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392448",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-12T09:30:00",
+            "episode": 15,
+            "score": 8.5675904125,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[SFW-sage]_Bakuman_S3_-_15_[720p][E7127925].mkv",
+                    "group": "SFW-sage",
+                    "hash": "E7127925",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393159",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-19T09:30:00",
+            "episode": 16,
+            "score": 8.5683577722,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[sage]_Bakuman_S3_-_16_[720p][8594A6A9].mkv",
+                    "group": "sage",
+                    "hash": "8594A6A9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395768",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-26T09:30:00",
+            "episode": 17,
+            "score": 8.5799468892,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[sage]_Bakuman_S3_-_17_[720p][7C7F561A].mkv",
+                    "group": "sage",
+                    "hash": "7C7F561A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397574",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-02T09:30:00",
+            "episode": 18,
+            "score": 8.5900215416,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[sage]_Bakuman_S3_-_18_[720p][9689D178].mkv",
+                    "group": "sage",
+                    "hash": "9689D178",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401452",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-09T09:30:00",
+            "episode": 19,
+            "score": 8.5907988005,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[sage]_Bakuman_S3_-_19_[720p][7ABE76BA].mkv",
+                    "group": "sage",
+                    "hash": "7ABE76BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402995",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-16T09:30:00",
+            "episode": 20,
+            "score": 8.6018067099,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[sage]_Bakuman_S3_-_20_[720p][F0E6F032].mkv",
+                    "group": "sage",
+                    "hash": "F0E6F032",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404934",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-23T09:30:00",
+            "episode": 21,
+            "score": 8.6030864297,
+            "torrents": []
+        },
+        {
+            "date": "2013-03-02T09:30:00",
+            "episode": 22,
+            "score": 8.6021192733,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[sage]_Bakuman_S3_-_22_[720p][168ACCA8].mkv",
+                    "group": "sage",
+                    "hash": "168ACCA8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410865",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-09T09:30:00",
+            "episode": 23,
+            "score": 8.6035732143,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[sage]_Bakuman_S3_-_23_[720p][6E7C04AB].mkv",
+                    "group": "sage",
+                    "hash": "6E7C04AB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414764",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-16T09:30:00",
+            "episode": 24,
+            "score": 8.6110915689,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[sage]_Bakuman_S3_-_24_[720p][A89D51F6].mkv",
+                    "group": "sage",
+                    "hash": "A89D51F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416627",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-30T09:30:00",
+            "episode": 25,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[SFW]_Bakuman_S3_-_25_END_[EE1C7524].mkv",
+                    "group": "SFW",
+                    "hash": "EE1C7524",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419246",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[sage]_Bakuman_S3_-_25_[720p][45CF29A2].mkv",
+                    "group": "sage",
+                    "hash": "45CF29A2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420007",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8836,
+        "ann": 13867,
+        "mal": 12365,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 8096,
+            "date": "2013-03-29T03:21:26",
+            "score": 8.65,
+            "type": "mal"
+        },
+        {
+            "count": 147,
+            "date": "2013-03-29T03:21:26",
+            "score": 8.2,
+            "type": "anidb"
+        },
+        {
+            "count": 258,
+            "date": "2013-03-29T03:21:26",
+            "score": 8.291,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "234",
+    "title": "Bakuman 3"
+}

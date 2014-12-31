@@ -1,0 +1,661 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d2\u30fc\u30ed\u30fc\u30de\u30f3"
+        }
+    ],
+    "aliases": [],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/61386805",
+            "content": "#anime #Wiosna2010 Zacznijmy od ameryka\u0144skiej podr\u00f3by Laganna - Heromana! (\u30d2\u30fc\u30ed\u30fc\u30de\u30f3) (wi\u0119cej: http://rdir.pl/8ci6i)",
+            "episode": 1,
+            "filename": "82b99a6ba46b3a28e0f26145bed643ab.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/11451493934"
+        },
+        {
+            "blip_url": "http://blip.pl/s/63765719",
+            "content": "Heroman 02 - Wielkie Kosmiczne Robale vs Ludzie: 1:0",
+            "episode": 2,
+            "filename": "059532608b03c4cd9365f30c545e6783.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/11824970552"
+        },
+        {
+            "blip_url": "http://blip.pl/s/67419385",
+            "content": "Heroman 03 - zgadnijcie, kto to? (podpowied\u017a: nie przylecia\u0142 na pogrzeb, tylko gra\u0142 w golfa!)",
+            "episode": 3,
+            "filename": "ea13b652f20126404405b073b7fd7e14.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12489942291"
+        },
+        {
+            "blip_url": "http://blip.pl/s/68779728",
+            "content": "Heroman 04 - Heroman, Spin On! ORE WO DARE DA TO OMOTTE YAGARU?!",
+            "episode": 4,
+            "filename": "c76b05e3343779ed55491507e83b3fba.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12660397125"
+        },
+        {
+            "blip_url": "http://blip.pl/s/71670562",
+            "content": "Heroman 05 - &quot;Always I wanna be with you and make believe with you, and live in harmony harmony oh love&quot;",
+            "episode": 5,
+            "filename": "319a69e5c10db60c4f60c575e7f1d0fd.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13064899460"
+        },
+        {
+            "blip_url": "http://blip.pl/s/75535198",
+            "content": "Heroman 06 - Boyakki - 30 lat p\u00f3\u017aniej",
+            "episode": 6,
+            "filename": "6c7e8524af0788bdd185c54d324776c1.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13622715855"
+        },
+        {
+            "blip_url": "http://blip.pl/s/78622805",
+            "content": "Heroman 07 - horoskop na dzi\u015b - nie wychod\u017a z domu gdy\u017c drog\u0119 przebiegnie ci odziany w biel obro\u0144ca ameryka\u0144skiej niepodleg\u0142o\u015bci",
+            "episode": 7,
+            "filename": "46fccf327f04d168d4e08936811df012.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14090451705"
+        },
+        {
+            "blip_url": "http://blip.pl/s/82333786",
+            "content": "Heroman 08 - Run Forest, run!",
+            "episode": 8,
+            "filename": "3b5c4896c61b3bf888f0d7e74c489318.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14456579913"
+        },
+        {
+            "blip_url": "http://blip.pl/s/85618985",
+            "content": "Heroman 09 - by\u0142 Heroman, by\u0142 Euroman, to teraz czas na Commiemana",
+            "episode": 9,
+            "filename": "66ed6e5c4ed0d4473879ae83af21d07f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14839849700"
+        },
+        {
+            "blip_url": "http://blip.pl/s/88703337",
+            "content": "Heroman 10 - Joey pragnie pokazac Linie swojego Heromana",
+            "episode": 10,
+            "filename": "83b1218dc4da7b48a07048a30cb42ff0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15345518330"
+        },
+        {
+            "blip_url": "http://blip.pl/s/93492790",
+            "content": "Heroman 11 - Joey jeszcze nie do ko\u0144ca panuje nad swym Heromanem",
+            "episode": 11,
+            "filename": "61670359233dc9a8652045c4b2613e44.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15847324847"
+        },
+        {
+            "blip_url": "http://blip.pl/s/97856747",
+            "content": "Heroman 12 - Joey to naprawd\u0119 odwa\u017cna dziewczyna - paraduje topless na pla\u017cy",
+            "episode": 12,
+            "filename": "6d31631fcc6ac7e48da5445c80de1c8b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/16417158978"
+        },
+        {
+            "blip_url": "http://blip.pl/s/100441485",
+            "content": "Heroman 13 - NIA, tatu\u015b g\u00f3rnik... najlepszy Lagann tego sezonu jak si\u0119 patrzy",
+            "episode": 13,
+            "filename": "6c49fdf53d4d016f6f55dada327d376e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/16933257915"
+        },
+        {
+            "blip_url": "http://blip.pl/s/105231530",
+            "content": "Heroman 14 - &quot;Zakupy z D\u017cojim&quot;, w dzisiejszym odcinku: zakupy w markecie b\u0119d\u0105c poszukiwanym przez p\u00f3\u0142 stanu",
+            "episode": 14,
+            "filename": "9dd947c7d2ef60a85cd740d0685ec311.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/17517822252"
+        },
+        {
+            "blip_url": "http://blip.pl/s/109770476",
+            "content": "Heroman 15 - karny je\u017cyk to ju\u017c przesz\u0142o\u015b\u0107",
+            "episode": 15,
+            "filename": "ba7ba6f0a5da227373ac21b65f3f79f3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18074035507"
+        },
+        {
+            "blip_url": "http://blip.pl/s/114736141",
+            "content": "Heroman 16 - troch\u0119 sparkli i ze wszystkiego mo\u017cna uczyni\u0107 bisha",
+            "episode": 16,
+            "filename": "9570e37ecc9afd0f667e4fcd422e49ff.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18623597316"
+        },
+        {
+            "blip_url": "http://blip.pl/s/120067536",
+            "content": "Heroman 17 - podryw na &quot;hej ma\u0142a, chcesz zobaczy\u0107 mojego Hiromana?&quot; - niestety, rzadko kiedy skutkuje",
+            "episode": 17,
+            "filename": "27360ac0d99d6ff56d5254f9c55ea289.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/19300761871"
+        },
+        {
+            "blip_url": "http://blip.pl/s/124929277",
+            "content": "Heroman 18 - odcinek pla\u017cowy? W MOIM HEROMANIE?!",
+            "episode": 18,
+            "filename": "dd8d396c0a6e440265d494ff14606d54.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/19821751321"
+        },
+        {
+            "blip_url": "http://blip.pl/s/130086782",
+            "content": "Heroman 19 - niemo\u017cliwe by Joey a\u017c tak si\u0119 zmieni\u0142",
+            "episode": 19,
+            "filename": "191951320e922081c7b2b09a9078520d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/20386025789"
+        },
+        {
+            "blip_url": "http://blip.pl/s/136033061",
+            "content": "Heroman 20 - to, \u017ce Joey jest dziewczyn\u0105 wiedzieli\u015bmy od pocz\u0105tku, jednak nigdy nie spodziewaliby\u015bmy si\u0119 tego po Psyu",
+            "episode": 20,
+            "filename": "ae2cf2caf0c6154385fd692f112dbacf.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21004208217"
+        },
+        {
+            "blip_url": "http://blip.pl/s/142418127",
+            "content": "Heroman 21 - Joey odnalaz\u0142 sekretny przepis na schabowe babuni",
+            "episode": 21,
+            "filename": "e1d86da67c3ce00fac5b35925a587ea3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21683729988"
+        },
+        {
+            "blip_url": "http://blip.pl/s/148171832",
+            "content": "Heroman 22 - Kopacz Szym... Joey got\u00f3w do akcji!",
+            "episode": 22,
+            "filename": "dabae7740fd1d0de6aab022de53a1331.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/22315169028"
+        },
+        {
+            "blip_url": "http://blip.pl/s/153901604",
+            "content": "Heroman 23 - Joey doskonale wie, \u017ce nauka w szkole jest wa\u017cniejsza ni\u017c ratowanie \u015bwiata",
+            "episode": 23,
+            "filename": "665bda6b56369c9ff3bcec50d311e394.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/158356041",
+            "content": "Heroman 24 - jeden gest potrafi wyrazi\u0107 wi\u0119cej ni\u017c tysi\u0105c s\u0142\u00f3w",
+            "episode": 24,
+            "filename": "8cb6428623dbd4ad3e3ec65f7f491d25.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/163769143",
+            "content": "Heroman 25 - nikt nie ucieknie przed \u015bmierci\u0105, nawet bohaterowie [*]",
+            "episode": 25,
+            "filename": "c1d73030bcf570019882b4a03a88926c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/24803190574"
+        },
+        {
+            "blip_url": "http://blip.pl/s/168303841",
+            "content": "#anime #Wiosna2010 Heroman (\u30d2\u30fc\u30ed\u30fc\u30de\u30f3) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/8ci6i)",
+            "episode": 26,
+            "filename": "f9a58eeb89edf66c48423180992cf997.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/25331309190"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-04-01T11:00:00",
+            "episode": 1,
+            "score": 7.0559519038,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-08T11:00:00",
+            "episode": 2,
+            "score": 6.8854040268,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-15T11:00:00",
+            "episode": 3,
+            "score": 6.7882823649,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-22T11:00:00",
+            "episode": 4,
+            "score": 6.7267734907,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-29T11:00:00",
+            "episode": 5,
+            "score": 6.661281106,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-06T11:00:00",
+            "episode": 6,
+            "score": 6.6130449304,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-13T11:00:00",
+            "episode": 7,
+            "score": 6.5780302804,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-20T11:00:00",
+            "episode": 8,
+            "score": 6.5466348013,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-27T11:00:00",
+            "episode": 9,
+            "score": 6.5122327824,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-03T11:00:00",
+            "episode": 10,
+            "score": 6.5093331121,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-10T11:00:00",
+            "episode": 11,
+            "score": 6.4899447123,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-17T11:00:00",
+            "episode": 12,
+            "score": 6.4738078125,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-24T11:00:00",
+            "episode": 13,
+            "score": 6.4783380837,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-01T11:00:00",
+            "episode": 14,
+            "score": 6.4969520958,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-08T11:00:00",
+            "episode": 15,
+            "score": 6.5093569781,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-15T11:00:00",
+            "episode": 16,
+            "score": 6.5277078178,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-22T11:00:00",
+            "episode": 17,
+            "score": 6.5223266096,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-29T11:00:00",
+            "episode": 18,
+            "score": 6.5263809007,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-05T11:00:00",
+            "episode": 19,
+            "score": 6.5267365333,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-12T11:00:00",
+            "episode": 20,
+            "score": 6.5267123288,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-19T11:00:00",
+            "episode": 21,
+            "score": 6.5126955619,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-26T11:00:00",
+            "episode": 22,
+            "score": 6.5123612323,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-02T11:00:00",
+            "episode": 23,
+            "score": 6.5076471627,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-09T11:00:00",
+            "episode": 24,
+            "score": 6.5149380575,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-16T11:00:00",
+            "episode": 25,
+            "score": 6.5367219512,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-23T11:00:00",
+            "episode": 26,
+            "score": 6.9421356201,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7412,
+        "ann": 11266,
+        "mal": 4334,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Typowi ameryka\u0144scy nastolatkowie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0aa12f981f1117a8e83359347c46e562.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2010 Zacznijmy od ameryka\u0144skiej podr\u00f3by Laganna - Heromana! (\u30d2\u30fc\u30ed\u30fc\u30de\u30f3) (wi\u0119cej: http://rdir.pl/8ci6i)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/82b99a6ba46b3a28e0f26145bed643ab.jpg",
+            "hd": false
+        },
+        {
+            "description": "Szczotka jak znalaz\u0142 do odpierania inwazji kosmit\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fdf5b903f51c39330d614f8b97b75023.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wielkie Kosmiczne Robale vs Ludzie: 1:0",
+            "filename": "http://s.modriv.net/abp/images/screencaps/059532608b03c4cd9365f30c545e6783.jpg",
+            "hd": false
+        },
+        {
+            "description": "DAT ASS",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5279d6446f598aed0f882512e17aac4a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4fbc8051c657dd0e339897a4514645ad.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b9a4786b718899a221d78d6a39f48de2.jpg",
+            "hd": false
+        },
+        {
+            "description": "zgadnijcie, kto to? (podpowied\u017a: nie przylecia\u0142 na pogrzeb, tylko gra\u0142 w golfa!)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ea13b652f20126404405b073b7fd7e14.jpg",
+            "hd": false
+        },
+        {
+            "description": "Heroman, Spin On! ORE WO DARE DA TO OMOTTE YAGARU?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c76b05e3343779ed55491507e83b3fba.jpg",
+            "hd": false
+        },
+        {
+            "description": "Trollface",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ce17ea810fd6561e78c2d4ea09156cbf.jpg",
+            "hd": false
+        },
+        {
+            "description": "&quot;Always I wanna be with you and make believe with you, and live in harmony harmony oh love&quot;",
+            "filename": "http://s.modriv.net/abp/images/screencaps/319a69e5c10db60c4f60c575e7f1d0fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "Boyakki - 30 lat p\u00f3\u017aniej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6c7e8524af0788bdd185c54d324776c1.jpg",
+            "hd": false
+        },
+        {
+            "description": "horoskop na dzi\u015b - nie wychod\u017a z domu gdy\u017c drog\u0119 przebiegnie ci odziany w biel obro\u0144ca ameryka\u0144skiej niepodleg\u0142o\u015bci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/46fccf327f04d168d4e08936811df012.jpg",
+            "hd": false
+        },
+        {
+            "description": "Run Forest, run!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3b5c4896c61b3bf888f0d7e74c489318.jpg",
+            "hd": false
+        },
+        {
+            "description": "MOAR!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/91c13d32abc905a1adc1c011e69be474.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/de91ed7cfa6ee66c55f1d6c304a6942b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kejon... ZA JAKIE GRZECHY",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f4ed48733018e81287f762717e3c166d.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b19301990dfdd6d8309406495ad8b51.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/33cd1da4b6ad3f05842ce888b16920f3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b842b128acce99ccffff83b7989c5fcf.jpg",
+            "hd": false
+        },
+        {
+            "description": "WI\u0118C M\u00d3WISZ \u017bE PODOBA\u0141 CI SI\u0118 KEJON?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ca93273d436dab6b83e4f72fe420b7a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Niebieskie \u0141zy Joeya dobre na wszystko",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9facf721315a3398e0525c84603604b7.jpg",
+            "hd": false
+        },
+        {
+            "description": "by\u0142 Heroman, by\u0142 Euroman, to teraz czas na Commiemana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/66ed6e5c4ed0d4473879ae83af21d07f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Joey pragnie pokazac Linie swojego Heromana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/83b1218dc4da7b48a07048a30cb42ff0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Joey jeszcze nie do ko\u0144ca panuje nad swym Heromanem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/61670359233dc9a8652045c4b2613e44.jpg",
+            "hd": false
+        },
+        {
+            "description": "Joey to naprawd\u0119 odwa\u017cna dziewczyna - paraduje topless na pla\u017cy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6d31631fcc6ac7e48da5445c80de1c8b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Czysty angielski? W MOJEJ CHI\u0143SKIEJ PORNOBAJCE?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1dd067ed5f46b8f7c7a8847017b017c8.jpg",
+            "hd": false
+        },
+        {
+            "description": "NIA, tatu\u015b g\u00f3rnik... najlepszy Lagann tego sezonu jak si\u0119 patrzy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6c49fdf53d4d016f6f55dada327d376e.jpg",
+            "hd": false
+        },
+        {
+            "description": "&quot;Zakupy z D\u017cojim&quot;, w dzisiejszym odcinku: zakupy w markecie b\u0119d\u0105c poszukiwanym przez p\u00f3\u0142 stanu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9dd947c7d2ef60a85cd740d0685ec311.jpg",
+            "hd": false
+        },
+        {
+            "description": "Heroman w konkursie na strongmena ust\u0105pi\u0142by tylko Pudzianowi, a i to nie jest pewne",
+            "filename": "http://s.modriv.net/abp/images/screencaps/307c606da59c57b5c3efb7d30fbb66f0.jpg",
+            "hd": false
+        },
+        {
+            "description": "karny je\u017cyk to ju\u017c przesz\u0142o\u015b\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba7ba6f0a5da227373ac21b65f3f79f3.jpg",
+            "hd": false
+        },
+        {
+            "description": "troch\u0119 sparkli i ze wszystkiego mo\u017cna uczyni\u0107 bisha",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9570e37ecc9afd0f667e4fcd422e49ff.jpg",
+            "hd": false
+        },
+        {
+            "description": "podryw na &quot;hej ma\u0142a, chcesz zobaczy\u0107 mojego Hiromana?&quot; - niestety, rzadko kiedy skutkuje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/27360ac0d99d6ff56d5254f9c55ea289.jpg",
+            "hd": false
+        },
+        {
+            "description": "odcinek pla\u017cowy? W MOIM HEROMANIE?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dd8d396c0a6e440265d494ff14606d54.jpg",
+            "hd": false
+        },
+        {
+            "description": "niemo\u017cliwe by Joey a\u017c tak si\u0119 zmieni\u0142",
+            "filename": "http://s.modriv.net/abp/images/screencaps/191951320e922081c7b2b09a9078520d.jpg",
+            "hd": false
+        },
+        {
+            "description": "to, \u017ce Joey jest dziewczyn\u0105 wiedzieli\u015bmy od pocz\u0105tku, jednak nigdy nie spodziewaliby\u015bmy si\u0119 tego po Psyu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ae2cf2caf0c6154385fd692f112dbacf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba7ae87ba5228251924d8b60ac101b31.jpg",
+            "hd": false
+        },
+        {
+            "description": "Joey odnalaz\u0142 sekretny przepis na schabowe babuni",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e1d86da67c3ce00fac5b35925a587ea3.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kopacz Szym... Joey got\u00f3w do akcji!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dabae7740fd1d0de6aab022de53a1331.jpg",
+            "hd": false
+        },
+        {
+            "description": "Joey doskonale wie, \u017ce nauka w szkole jest wa\u017cniejsza ni\u017c ratowanie \u015bwiata",
+            "filename": "http://s.modriv.net/abp/images/screencaps/665bda6b56369c9ff3bcec50d311e394.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pi\u0119\u0107 piw poprosz\u0119!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/243716164450ecfe300b89ff80481f4f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Czytaj uwa\u017cnie, jutro kartk\u00f3wka z tre\u015bci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/86dc4990448e7d72dde04b86836c2f31.jpg",
+            "hd": false
+        },
+        {
+            "description": "jeden gest potrafi wyrazi\u0107 wi\u0119cej ni\u017c tysi\u0105c s\u0142\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8cb6428623dbd4ad3e3ec65f7f491d25.jpg",
+            "hd": false
+        },
+        {
+            "description": "Denton approves",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a88d941f229aec8b85deb01291ec396a.jpg",
+            "hd": false
+        },
+        {
+            "description": "nikt nie ucieknie przed \u015bmierci\u0105, nawet bohaterowie [*]",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c1d73030bcf570019882b4a03a88926c.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u015awiat si\u0119 ko\u0144czy, ludzie wariuj\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4da82fcddf68cac0ae705e02dc8091d1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Super Commie Man",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a336050fa7378e454443faf83cb14b4a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/22f3369723e374e37d956f454b1683bc.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pedalstwo",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1cd2a89dd04f07830c84bcd2070c4ecd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/18940d029cb2d4019de0359f0dd25e64.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2010 Heroman (\u30d2\u30fc\u30ed\u30fc\u30de\u30f3) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/8ci6i)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f9a58eeb89edf66c48423180992cf997.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ody ch\u0142opiec bawi si\u0119 w dr Mechosteina: za pomoc\u0105 pioruna o\u017cywia mecha i wraz z nim odpiera inwazj\u0119 robali z kosmosu.",
+            "type": "abp"
+        },
+        {
+            "content": "Joey is an orphan living with his grandmother in Center City on the West Coast of the United States of America.  Joey, like any other boy his age, is interested in robots and gadgets and dreams about owning a particular toy robot called a Heybo.  Heybos have very advanced mechanisms and controls but with great mechanisms comes great price; the robot is too expensive for Joey, whose only source of income is a part-time job at a restaurant and he needs that money to help support himself and his grandmother.    One day, when Joey is on his way home from school, he happens upon a couple of bullies who are playing around with a Heybo.  Long story short, the bullies manage to get the robot run over by a car and Joey retrieves the wreckage from a trash can. Once home, Joey fixes the robot and names it Heroman. Later that night, a thunderstorm results in Heroman getting wet and, improbably, struck by lightning.  The result is amazing, Heroman grows massive in size, gets emblazoned with the colors of the American flag and responds to Joey&#039;s commands!    At the same time in space, an alien race called the Skrugg is preparing an invasion of Earth.  Now it&#039;s up to Joey and Heroman to save Earth!",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on an original idea by American comic book writer Stan Lee, creator of Spider-Man and The Fantastic Four.An American kid named Joey lives in an urban city and has always wanted to become a hero. Unfortunately he is just an orphan working part time to support his grandma and himself. After watching a toy commercial on a new robot action figure, Joey comes to believe that he will gain strength once he obtains one of those. But the only robot toy he can get his hands on is a broken one that was abandoned by a rich school bully. Feeling pity for the trashed action figure, Joey takes the toy home to repair it. Little did he know, that once he repairs the toy, it will make his hero dream become reality.",
+            "type": "anidb"
+        },
+        {
+            "content": "An American kid named Joey lives in an urban city & has always wanted to become a hero. Unfortunately he's just an orphan working part time to support his grandma and himself. After he watched a toy commercial on a new robot action figure, Joey believe he'll gain strength if he obtains one. The only robot toy he can get his hands on is a broken one that was abandon by a rich school bully. Feeling pity for the trashed action figure, Joey took it home to repair it. Little did he know, that once he repairs the toy, it'll make his hero dream become a reality.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5266,
+            "date": "2012-09-29T02:45:50",
+            "score": 6.96,
+            "type": "mal"
+        },
+        {
+            "count": 524,
+            "date": "2012-09-29T02:45:50",
+            "score": 6.21,
+            "type": "anidb"
+        },
+        {
+            "count": 528,
+            "date": "2012-09-29T02:45:50",
+            "score": 6.684,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Heroman"
+}

@@ -1,0 +1,624 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u305f\u307e\u3053\u307e\u30fc\u3051\u3063\u3068"
+        },
+        {
+            "language": "pl",
+            "title": "Market Tamako"
+        }
+    ],
+    "aliases": [
+        "Tamako Market"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-01-09T16:30:00",
+            "episode": 1,
+            "score": 6.957,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Mazui]_Tamako_Market_-_01_[874F23E3].mkv",
+                    "group": "Mazui",
+                    "hash": "874F23E3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391313",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 20,
+                    "filename": "[Commie] Tamako Market - 01 [5D7E3D27].mkv",
+                    "group": "Commie",
+                    "hash": "5D7E3D27",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391344",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Tamako Market - 01 [720p] [99D1A1EF].mkv",
+                    "group": "Hadena",
+                    "hash": "99D1A1EF",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2001%20%5B720p%5D%20%5B99D1A1EF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[GotWoot]_Tamako_Market_-_01_[BBFC91D9].mkv",
+                    "group": "GotWoot",
+                    "hash": "BBFC91D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391639",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Tamako Market - 01v2 [D93CF8CB].mkv",
+                    "group": "Commie",
+                    "hash": "D93CF8CB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393735",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p][Mazui]",
+                    "download_count": 3,
+                    "filename": "(Hi10)_Tamako_Market_-_01_(720p)_(Mazui).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Tamako_Market_-_01_(720p)_(Mazui).mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-16T16:30:00",
+            "episode": 2,
+            "score": 7.5271643439,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Mazui]_Tamako_Market_-_02_[A74AB4F2].mkv",
+                    "group": "Mazui",
+                    "hash": "A74AB4F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Tamako Market - 02 [0F660E5B].mkv",
+                    "group": "Commie",
+                    "hash": "0F660E5B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393736",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Tamako Market - 02 [720p] [A78A52E1].mkv",
+                    "group": "Hadena",
+                    "hash": "A78A52E1",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2002%20%5B720p%5D%20%5BA78A52E1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Tamako_Market_-_02_[ACD489E5].mkv",
+                    "group": "GotWoot",
+                    "hash": "ACD489E5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Mazui]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Tamako_Market_-_02_(720p)_(Mazui).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Tamako_Market_-_02_(720p)_(Mazui).mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-23T16:30:00",
+            "episode": 3,
+            "score": 7.5568443837,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Mazui]_Tamako_Market_-_03_[4CD0E3A9].mkv",
+                    "group": "Mazui",
+                    "hash": "4CD0E3A9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Tamako Market - 03 [6B855991].mkv",
+                    "group": "Commie",
+                    "hash": "6B855991",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396440",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Tamako Market - 03 [720p] [E5E8AB43].mkv",
+                    "group": "Hadena",
+                    "hash": "E5E8AB43",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2003%20%5B720p%5D%20%5BE5E8AB43%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[GotWoot]_Tamako_Market_-_03_[33F623E2].mkv",
+                    "group": "GotWoot",
+                    "hash": "33F623E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396873",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-30T16:30:00",
+            "episode": 4,
+            "score": 7.5383924528,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Mazui]_Tamako_Market_-_04_[148BE582].mkv",
+                    "group": "Mazui",
+                    "hash": "148BE582",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398828",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Tamako Market - 04 [4BC1E208].mkv",
+                    "group": "Commie",
+                    "hash": "4BC1E208",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Tamako Market - 04 [720p] [E1EC7A43].mkv",
+                    "group": "Hadena",
+                    "hash": "E1EC7A43",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2004%20%5B720p%5D%20%5BE1EC7A43%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[GotWoot]_Tamako_Market_-_04_[F97B8AF9].mkv",
+                    "group": "GotWoot",
+                    "hash": "F97B8AF9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399298",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-06T16:30:00",
+            "episode": 5,
+            "score": 7.5381729309,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Tamako_Market_-_05_[0F447B0A].mkv",
+                    "group": "Mazui",
+                    "hash": "0F447B0A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401318",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tamako Market - 05 [B4E595DB].mkv",
+                    "group": "Commie",
+                    "hash": "B4E595DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Tamako Market - 05 [720p] [E001E644].mkv",
+                    "group": "Hadena",
+                    "hash": "E001E644",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2005%20%5B720p%5D%20%5BE001E644%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Tamako_Market_-_05_[6D6E749E].mkv",
+                    "group": "GotWoot",
+                    "hash": "6D6E749E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401806",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-13T16:30:00",
+            "episode": 6,
+            "score": 7.5342727273,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Mazui]_Tamako_Market_-_06_[356821EB].mkv",
+                    "group": "Mazui",
+                    "hash": "356821EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403773",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tamako Market - 06 [45DA0715].mkv",
+                    "group": "Commie",
+                    "hash": "45DA0715",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403804",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Tamako Market - 06 [720p] [CCCE3B7E].mkv",
+                    "group": "Hadena",
+                    "hash": "CCCE3B7E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2006%20%5B720p%5D%20%5BCCCE3B7E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Tamako_Market_-_06_[6899C23A].mkv",
+                    "group": "GotWoot",
+                    "hash": "6899C23A",
+                    "url": "http://tracker.minglong.org/torrents/%5BGotWoot%5D_Tamako_Market_-_06_%5B6899C23A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Tamako_Market_-_06_[88EC2F52].mkv",
+                    "group": "GotWoot",
+                    "hash": "88EC2F52",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407469",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-20T16:30:00",
+            "episode": 7,
+            "score": 7.5068831776,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Mazui]_Tamako_Market_-_07_[400A2AE4].mkv",
+                    "group": "Mazui",
+                    "hash": "400A2AE4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406073",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tamako Market - 07 [8631E4AF].mkv",
+                    "group": "Commie",
+                    "hash": "8631E4AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406097",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Tamako Market - 07 [720p] [27491839].mkv",
+                    "group": "Hadena",
+                    "hash": "27491839",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2007%20%5B720p%5D%20%5B27491839%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Tamako_Market_-_07_[B1B30E04].mkv",
+                    "group": "GotWoot",
+                    "hash": "B1B30E04",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407905",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-27T16:30:00",
+            "episode": 8,
+            "score": 7.4847230236,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Mazui]_Tamako_Market_-_08_[C07E826C].mkv",
+                    "group": "Mazui",
+                    "hash": "C07E826C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408391",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Tamako Market - 08 [720p] [18D25CE2].mkv",
+                    "group": "Hadena",
+                    "hash": "18D25CE2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408505",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tamako Market - 08 [8CD5D4D7].mkv",
+                    "group": "Commie",
+                    "hash": "8CD5D4D7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408705",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Tamako_Market_-_08_[A1973A65].mkv",
+                    "group": "GotWoot",
+                    "hash": "A1973A65",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410859",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-06T16:30:00",
+            "episode": 9,
+            "score": 7.5031506582,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Mazui]_Tamako_Market_-_09_[2381B0B2].mkv",
+                    "group": "Mazui",
+                    "hash": "2381B0B2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410764",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tamako Market - 09 [DE6FA7B1].mkv",
+                    "group": "Commie",
+                    "hash": "DE6FA7B1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410818",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Hadena] Tamako Market - 09 [CEC3E476].mkv",
+                    "group": "Hadena",
+                    "hash": "CEC3E476",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2009%20%5BCEC3E476%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Tamako_Market_-_09_[3AFDC34D].mkv",
+                    "group": "GotWoot",
+                    "hash": "3AFDC34D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412811",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-13T16:30:00",
+            "episode": 10,
+            "score": 7.5038739433,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tamako Market - 10 [EF38329D].mkv",
+                    "group": "Commie",
+                    "hash": "EF38329D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413051",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Tamako_Market_-_10_[84082B73].mkv",
+                    "group": "Mazui",
+                    "hash": "84082B73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413042",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Hadena] Tamako Market - 10 [AB79CBAC].mkv",
+                    "group": "Hadena",
+                    "hash": "AB79CBAC",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2010%20%5BAB79CBAC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Tamako_Market_-_10_[2349B522].mkv",
+                    "group": "GotWoot",
+                    "hash": "2349B522",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418527",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-20T16:30:00",
+            "episode": 11,
+            "score": 7.4921766004,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Mazui]_Tamako_Market_-_11_[04FAB67E].mkv",
+                    "group": "Mazui",
+                    "hash": "04FAB67E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415201",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tamako Market - 11 [7E9ACC34].mkv",
+                    "group": "Commie",
+                    "hash": "7E9ACC34",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Tamako Market - 11 [720p] [8F5FC183].mkv",
+                    "group": "Hadena",
+                    "hash": "8F5FC183",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2011%20%5B720p%5D%20%5B8F5FC183%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Tamako_Market_-_11_[23DE67BD].mkv",
+                    "group": "GotWoot",
+                    "hash": "23DE67BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419172",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-27T16:30:00",
+            "episode": 12,
+            "score": 7.4569622622,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Mazui]_Tamako_Market_-_12_[8529A581].mkv",
+                    "group": "Mazui",
+                    "hash": "8529A581",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417397",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tamako Market - 12 [5E4B5638].mkv",
+                    "group": "Commie",
+                    "hash": "5E4B5638",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Tamako Market - 12 [720p] [1A2AAF7B].mkv",
+                    "group": "Hadena",
+                    "hash": "1A2AAF7B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Tamako%20Market%20-%2012%20%5B720p%5D%20%5B1A2AAF7B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Tamako_Market_-_12_[7D40501F].mkv",
+                    "group": "GotWoot",
+                    "hash": "7D40501F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420326",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9525,
+        "ann": 14908,
+        "mal": 16417,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Tamako is a mochi-loving high-school freshman whose family runs a mochi (rice cake) shop in a certain town's shopping district. She enjoys her high school life with her friends Midori and Kanna in the badminton club. She also helps out at her family's shop and develops new mochi.",
+            "type": "mal"
+        },
+        {
+            "content": "Tamako is a mochi-loving high-school freshman whose family runs a mochi (rice cake) shop in a certain town's shopping district. She enjoys her high school life with her friends Midori and Kanna in the badminton club. She also helps out at her family's shop and develops new mochi.",
+            "type": "anidb"
+        },
+        {
+            "content": "Tamako is just a normal young girl whose family has been making mochi for generations. As her birthday approaches, she happens to meet a talking bird who claims to be a royal court attendant looking for a bride for his master. After the encounter, Dera the bird decides to stay around her and becomes a part of Tamako's life and the neighborhood that she lives in.",
+            "type": "ann"
+        },
+        {
+            "content": "Tamako Kitashirakawa is the eldest daughter of a family which runs a mochi shop in her town's bustling Tama-ya shopping district. One day, Tamako encounters a strange talking bird named Dela Mochimazzi who takes up residence in her home. The series follows the everyday life of Tamako, her friends, family and neighbors, and this peculiar bird.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 9360,
+            "date": "2013-03-29T07:40:25",
+            "score": 7.49,
+            "type": "mal"
+        },
+        {
+            "count": 279,
+            "date": "2013-03-29T07:40:25",
+            "score": 6.54,
+            "type": "anidb"
+        },
+        {
+            "count": 245,
+            "date": "2013-03-29T07:40:25",
+            "score": 7.239,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Tamako Market"
+}

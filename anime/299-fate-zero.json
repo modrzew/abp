@@ -1,0 +1,1857 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d5\u30a7\u30a4\u30c8/\u30bc\u30ed"
+        },
+        {
+            "language": "pl",
+            "title": "Przeznaczenie/Zero"
+        }
+    ],
+    "aliases": [
+        "Fate ? Zero",
+        "Fate Zero",
+        "Fate \u2044 Zero"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/743060871",
+            "content": "#anime #Jesie\u01442011 Fate/zero (\u30d5\u30a7\u30a4\u30c8/\u30bc\u30ed) http://rdir.pl/1lpnbi",
+            "episode": 1,
+            "filename": "2308d7b0767e905762a3b64870e9c202.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/122489801877360641"
+        },
+        {
+            "blip_url": "http://blip.pl/s/744734835",
+            "content": "Fate/Zero 02 - Je\u015bli wiesz, co si\u0119 za chwil\u0119 stanie, to widzia\u0142e\u015b za du\u017co hentai",
+            "episode": 2,
+            "filename": "e92e3b872fd79a4a32464098e41577f2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/123092950514286592"
+        },
+        {
+            "blip_url": "http://blip.pl/s/788545915",
+            "content": "Fate/Zero 06 - dwie baby za kierownic\u0105 - to si\u0119 nie mo\u017ce dobrze sko\u0144czy\u0107",
+            "episode": 6,
+            "filename": "db7c0da6c0c8a95bba1ab3beebe4f05a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/133256229643497472"
+        },
+        {
+            "blip_url": "http://blip.pl/s/801216645",
+            "content": "Fate/Zero 07 - wszyscy dobrze wiemy, co si\u0119 wydarzy za chwil\u0119",
+            "episode": 7,
+            "filename": "76278b8cbb671ad35c40adc2c56901a9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/135868111600627713"
+        },
+        {
+            "blip_url": "http://blip.pl/s/825811987",
+            "content": "Fate/Zero 09 - po przedpremierowym pokazie pewnej kin\u00f3wki",
+            "episode": 9,
+            "filename": "27847e7b93bf3146d0d3721b3b01120d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/140900402563514368"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1100181685",
+            "content": "Fate/Zero 14 - Wielki Brat patrzy nawet wtedy, gdy wydaje ci si\u0119, \u017ce jeste\u015b sam",
+            "episode": 14,
+            "filename": "3e8c51959bc87fb29567ebdc959e9388.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190222641163022337"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1108264459",
+            "content": "Fate/Zero 15 - wszyscy bardzo dobrze wiemy, dok\u0105d to zmierza",
+            "episode": 15,
+            "filename": "9f4cab46c2741171e6cbc2f502bf3e10.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/191337123587162114"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-01T17:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Fate ? Zero - 01 [3A0CCD6B].mkv",
+                    "group": "Commie",
+                    "hash": "3A0CCD6B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249602",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[pp] Fate Zero - 01 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249623",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Fate_Zero_-_01_[h264-720p][E2552AFF].mkv",
+                    "group": "UTW",
+                    "hash": "E2552AFF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249758",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p][8bit]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Fate_Zero_-_01_[h264-720p][8bit].mkv",
+                    "group": "UTW",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249908",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[NES-subs] Fate ? Zero - 01.mkv",
+                    "group": "NES-subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_01_[1280x720][122E6EF8].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "122E6EF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250350",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251208",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Fate Zero - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305363",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-08T17:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Fate ? Zero - 02 [F1693F31].mkv",
+                    "group": "Commie",
+                    "hash": "F1693F31",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251192",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Fate Zero - 02 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Fate_Zero_-_02_[h264-720p][118AC4FA].mkv",
+                    "group": "UTW",
+                    "hash": "118AC4FA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251269",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[NES-Subs]Fate_Zero - 02.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_02_[1280x720][B64A29BD].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B64A29BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251713",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-15T17:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[NES-Subs]Fate_Zero - 03.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253055",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_03_[1280x720][D5D776E3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D5D776E3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254583",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-22T17:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Fate \u2044 Zero - 04 [92F5DEFA].mkv",
+                    "group": "Commie",
+                    "hash": "92F5DEFA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 2,
+                    "filename": "[777] Fate Zero - 04 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254655",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Fate_Zero_-_04_[h264-720p][3A05B4E1].mkv",
+                    "group": "UTW",
+                    "hash": "3A05B4E1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254687",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[NES-Subs]Fate_Zero - 04.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_04_[1280x720][25788F62].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "25788F62",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255265",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256264",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-29T17:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Fate \u2044 Zero - 05 [D49DC44D].mkv",
+                    "group": "Commie",
+                    "hash": "D49DC44D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256305",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 2,
+                    "filename": "[777] Fate Zero - 05 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256311",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Fate_Zero_-_05_[h264-720p][0F358C5F].mkv",
+                    "group": "UTW",
+                    "hash": "0F358C5F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256394",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[NES-Subs]Fate_Zero - 05.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256488",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_05_[1280x720][CC251595].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CC251595",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257292",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258063",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258065",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][DA05F97]",
+                    "download_count": 2,
+                    "filename": "[love-subs] Fate Zero - 05 [720p][DA05F97].mkv",
+                    "group": "love-subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258090",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-05T16:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Fate \u2044 Zero - 06 [7622898E].mkv",
+                    "group": "Commie",
+                    "hash": "7622898E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Fate_Zero_-_06_[h264-720p][B5995405].mkv",
+                    "group": "UTW",
+                    "hash": "B5995405",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258216",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[NES-Subs]Fate_Zero - 06.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258315",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_06_[1280x720][FF726931].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FF726931",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258879",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Fate Zero - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259747",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-12T16:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Fate \u2044 Zero - 07 [4E77421F].mkv",
+                    "group": "Commie",
+                    "hash": "4E77421F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259812",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_Fate_Zero_-_07_[h264-720p][5A4D9A54].mkv",
+                    "group": "UTW",
+                    "hash": "5A4D9A54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[NES-Subs]Fate_Zero - 07.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_07_[1280x720][64945717].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "64945717",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260689",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Fate Zero - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261401",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Fate Zero - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261403",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-19T16:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Fate \u2044 Zero - 08 [949CDCEE].mkv",
+                    "group": "Commie",
+                    "hash": "949CDCEE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261325",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Fate_Zero_-_08_[h264-720p][5B1BCAC4].mkv",
+                    "group": "UTW",
+                    "hash": "5B1BCAC4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261381",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[NES-Subs]Fate_Zero - 08.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_08_[1280x720][EE6B03EE].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "EE6B03EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263130",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Fate Zero - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263131",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-26T16:00:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Fate \u2044 Zero - 09 [59174840].mkv",
+                    "group": "Commie",
+                    "hash": "59174840",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263042",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 7,
+                    "filename": "[777] Fate Zero - 09 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263048",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 17,
+                    "filename": "[UTW]_Fate_Zero_-_09_[h264-720p][AD8AA9B3].mkv",
+                    "group": "UTW",
+                    "hash": "AD8AA9B3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263126",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[NES-Subs]Fate_Zero - 09.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263484",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_09_[1280x720][8EC6B0AC].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "8EC6B0AC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263772",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265013",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265014",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-03T16:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Fate \u2044 Zero - 10 [33EB3A4E].mkv",
+                    "group": "Commie",
+                    "hash": "33EB3A4E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264932",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 3,
+                    "filename": "[777] Fate Zero - 10 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Fate_Zero_-_10_[h264-720p][62B3B6F2].mkv",
+                    "group": "UTW",
+                    "hash": "62B3B6F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264988",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[NES-Subs]Fate_Zero - 10.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265076",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_10_[1280x720][57D16FAA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "57D16FAA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265553",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267148",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-10T16:00:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Fate \u2044 Zero - 11 [0084A074].mkv",
+                    "group": "Commie",
+                    "hash": "0084A074",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267061",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Fate_Zero_-_11_[h264-720p][FAD88B78].mkv",
+                    "group": "UTW",
+                    "hash": "FAD88B78",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267146",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[NES-Subs]Fate_Zero - 11.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267286",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_11_[1280x720][EB7EEB0E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "EB7EEB0E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267736",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269410",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-17T16:00:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Fate \u2044 Zero - 12 [9A8A06EE].mkv",
+                    "group": "Commie",
+                    "hash": "9A8A06EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269350",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Fate_Zero_-_12_[h264-720p][6E06166B].mkv",
+                    "group": "UTW",
+                    "hash": "6E06166B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269415",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[NES-Subs]Fate_Zero - 12.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269491",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_12_[1280x720][22B8CF0C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "22B8CF0C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270166",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271258",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271259",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-24T16:00:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Fate \u2044 Zero - 13 [E2464C40].mkv",
+                    "group": "Commie",
+                    "hash": "E2464C40",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271050",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Fate_Zero_-_13_[h264-720p][9538170C].mkv",
+                    "group": "UTW",
+                    "hash": "9538170C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271176",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[NES-Subs]Fate_Zero - 13.mkv",
+                    "group": "NES-Subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271559",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_13_[1280x720][9C2585F7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9C2585F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271830",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Fate Zero - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=272642",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Fate Zero - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=272645",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-07T17:00:00",
+            "episode": 14,
+            "score": 8.7293876625,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Fate \u2044 Zero - 14 [1AA40CC4].mkv",
+                    "group": "Commie",
+                    "hash": "1AA40CC4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302760",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Fate_Zero_-_14_[h264-720p][4D1CAEDB].mkv",
+                    "group": "UTW",
+                    "hash": "4D1CAEDB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[8bit]_Fate_Zero_-_14_[h264-720p].mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://dl.dropbox.com/u/39421116/%5B8bit%5D_Fate_Zero_-_14_%5Bh264-720p%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_14_[10bit][1280x720][DA912CD3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DA912CD3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303080",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_14_[8bit][1280x720][F47DFCA1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F47DFCA1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305366",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-14T17:00:00",
+            "episode": 15,
+            "score": 8.7291244708,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Fate \u2044 Zero - 15 [4265B333].mkv",
+                    "group": "Commie",
+                    "hash": "4265B333",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304906",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Fate_Zero_-_15_[h264-720p][422C8FDD].mkv",
+                    "group": "UTW",
+                    "hash": "422C8FDD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304970",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[8bit] Fate Zero 015.mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://goo.gl/1mLBp",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_15_[10bit][1280x720][F3E8DF9B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F3E8DF9B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_15_[8bit][1280x720][66F110ED].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "66F110ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305344",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307214",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307217",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-21T17:00:00",
+            "episode": 16,
+            "score": 8.7298804845,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Fate \u2044 Zero - 16 [7385C970].mkv",
+                    "group": "Commie",
+                    "hash": "7385C970",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Fate_Zero_-_16_[h264-720p][02A33212].mkv",
+                    "group": "UTW",
+                    "hash": "02A33212",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[8bit] Fate Zero 016.mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://is.gd/qTAkOa",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_16_[10bit][1280x720][5AE5285C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5AE5285C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_16_[8bit][1280x720][A3CFF084].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A3CFF084",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308259",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309378",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309379",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309382",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-28T17:00:00",
+            "episode": 17,
+            "score": 8.7303837905,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Fate \u2044 Zero - 17 [8894A250].mkv",
+                    "group": "Commie",
+                    "hash": "8894A250",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309442",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Fate_Zero_-_17_[h264-720p][F058E092].mkv",
+                    "group": "UTW",
+                    "hash": "F058E092",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309499",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[8bit] Fate Zero 017.mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://is.gd/BpmTZf",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_17_[10bit][1280x720][A4B7A386].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A4B7A386",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_17_[8bit][1280x720][F3879124].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F3879124",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310368",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311344",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311345",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-05T17:00:00",
+            "episode": 18,
+            "score": 8.729720118,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Fate \u2044 Zero - 18 [4DF11E49].mkv",
+                    "group": "Commie",
+                    "hash": "4DF11E49",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311739",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Fate_Zero_-_18_[h264-720p][CFAB3675].mkv",
+                    "group": "UTW",
+                    "hash": "CFAB3675",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311805",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_18_[10bit][1280x720][A20F0914].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A20F0914",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312394",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_18_[8bit][1280x720][BC42BFF1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BC42BFF1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312393",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313337",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313341",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-12T17:00:00",
+            "episode": 19,
+            "score": 8.7298557585,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Fate \u2044 Zero - 19 [EEC4D378].mkv",
+                    "group": "Commie",
+                    "hash": "EEC4D378",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313680",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Fate_Zero_-_19_[h264-720p][EE7D8586].mkv",
+                    "group": "UTW",
+                    "hash": "EE7D8586",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313748",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315234",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Fate Zero S2 - 19 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315237",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_19_[10bit][1280x720][28B8C488].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "28B8C488",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316296",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_19_[8bit][1280x720][6F4D7BFC].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6F4D7BFC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316295",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-19T17:00:00",
+            "episode": 20,
+            "score": 8.7206111828,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 12,
+                    "filename": "[UTW]_Fate_Zero_-_20_[h264-720p][AF35659F].mkv",
+                    "group": "UTW",
+                    "hash": "AF35659F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315657",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Fate \u2044 Zero - 20 [1E26094E].mkv",
+                    "group": "Commie",
+                    "hash": "1E26094E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315693",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_20_[10bit][1280x720][D10A8098].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D10A8098",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316299",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_20_[8bit][1280x720][C8A0D1E8].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C8A0D1E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316297",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-26T17:00:00",
+            "episode": 21,
+            "score": 8.7198144276,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Fate \u2044 Zero - 21 [9CF47580].mkv",
+                    "group": "Commie",
+                    "hash": "9CF47580",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317527",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 12,
+                    "filename": "[UTW]_Fate_Zero_-_21_[h264-720p][BCB5C808].mkv",
+                    "group": "UTW",
+                    "hash": "BCB5C808",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317583",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_21_[10bit][1280x720][D35EDEBE].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D35EDEBE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_21_[8bit][1280x720][E0F73A2E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E0F73A2E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317754",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-02T17:00:00",
+            "episode": 22,
+            "score": 8.7205114135,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Fate \u2044 Zero - 22 [1D7B886C].mkv",
+                    "group": "Commie",
+                    "hash": "1D7B886C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 12,
+                    "filename": "[UTW]_Fate_Zero_-_22_[h264-720p][6F59864F].mkv",
+                    "group": "UTW",
+                    "hash": "6F59864F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_22_[8bit][1280x720][033439EA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "033439EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_22_[10bit][1280x720][06539091].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "06539091",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320683",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-09T17:00:00",
+            "episode": 23,
+            "score": 8.7201678502,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Fate \u2044 Zero - 23 [16AFFC47].mkv",
+                    "group": "Commie",
+                    "hash": "16AFFC47",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321684",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 15,
+                    "filename": "[UTW]_Fate_Zero_-_23_[h264-720p][9AD1A48A].mkv",
+                    "group": "UTW",
+                    "hash": "9AD1A48A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321735",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_23_[8bit][1280x720][2769B754].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "2769B754",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_23_[10bit][1280x720][80414AB5].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "80414AB5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322650",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-16T17:00:00",
+            "episode": 24,
+            "score": 8.7206059754,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Fate \u2044 Zero - 24 [0F813FE3].mkv",
+                    "group": "Commie",
+                    "hash": "0F813FE3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323534",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Fate_Zero_-_24_[h264-720p][583D3DBB].mkv",
+                    "group": "UTW",
+                    "hash": "583D3DBB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_24_[8bit][1280x720][E4B6D5AA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E4B6D5AA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_24_[10bit][1280x720][3B1764B3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "3B1764B3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327240",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-23T17:00:00",
+            "episode": 25,
+            "score": 8.720114028,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Fate \u2044 Zero - 25 [76AFDE9C].mkv",
+                    "group": "Commie",
+                    "hash": "76AFDE9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Fate_Zero_-_25_[h264-720p][DEBA6F45].mkv",
+                    "group": "UTW",
+                    "hash": "DEBA6F45",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_25_END_[8bit][1280x720][878E4B1D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "878E4B1D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Fate_Zero_-_25_END_[10bit][1280x720][EBB6DB30].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "EBB6DB30",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327242",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8160,
+        "ann": 12376,
+        "mal": 10087,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Cze\u015b\u0107 Ilya",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c7fe8d9c746ff4966b826a79c0ce5bcb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5da1f950c03d2fd3880bf2001b8d629f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zwyk\u0142y dzie\u0144 pedofila",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db98c5cd2eae56b9d4200183eaa98ffc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0209049273a1b7e98dec2bdf30e16364.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c03d517d7f5b57252e557173cba75dee.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c3f835c3598f2d7cbd000a1efc4015ba.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zdrad\u017a mi swe sekrety, o pude\u0142ko!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7a2657a9f80cf702414541e5ae435693.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/78cc16b7d62358c49d17c24bd5df6094.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/86185d307bd0d6a66d80c5c47cc1083b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/37c429993104569adbb7d66e384c5fad.jpg",
+            "hd": false
+        },
+        {
+            "description": "Na g\u0142odzie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2a6c77e7b20fa47ec44752affcd52591.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d2a5171efc309a6d95434c1210b2a751.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a68b88194750be6f241a7db7a30a65f0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9a6b5438d29924f44f5808214760d56b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/24ea08fb79185ba32c893b8838b5fecf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/53d32724ce26eb4b1b1e8dd8424a5577.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/87a7c27c3c45b6638c2543a603dee03d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/93ed24e87d95d3bc0130974171834361.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/881157504aa9cc1f5970e1cff2c4f8ea.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Fate/zero (\u30d5\u30a7\u30a4\u30c8/\u30bc\u30ed) http://rdir.pl/1lpnbi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2308d7b0767e905762a3b64870e9c202.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/232c567cdf3db0bb1ee5ec6e67033148.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/daca69747a61c99ebb9008557ec4cf20.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a68a7d56d854e8167ade89d57ec1cb85.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1698d982c22ad215ed6a461023ea5acd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a21798838b33129a54f585253ff8e6ac.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4e99a431a06b3572462c603c7c4c1fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db1d1821b3a576264b73b5a14d6c62d9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/06d8a6ac950e7d23d86a99dab97cb30a.jpg",
+            "hd": false
+        },
+        {
+            "description": "DERP",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8f58a85192a6c221bc97ceeeff1c9fb8.jpg",
+            "hd": false
+        },
+        {
+            "description": "HURR",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e245e6b0b4d177fec0fe63a2e4a35f00.jpg",
+            "hd": false
+        },
+        {
+            "description": "DURR",
+            "filename": "http://s.modriv.net/abp/images/screencaps/347fb52aadafd8534875d1ca8a1dfda1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Je\u015bli wiesz, co si\u0119 za chwil\u0119 stanie, to widzia\u0142e\u015b za du\u017co hentai",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e92e3b872fd79a4a32464098e41577f2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4011c4d1a26bd4da5dd6bd6603f91dae.jpg",
+            "hd": false
+        },
+        {
+            "description": "First blood!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d465ef233f6f7a5f0fcf602ec191bb0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "dwie baby za kierownic\u0105 - to si\u0119 nie mo\u017ce dobrze sko\u0144czy\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db7c0da6c0c8a95bba1ab3beebe4f05a.jpg",
+            "hd": false
+        },
+        {
+            "description": "wszyscy dobrze wiemy, co si\u0119 wydarzy za chwil\u0119",
+            "filename": "http://s.modriv.net/abp/images/screencaps/76278b8cbb671ad35c40adc2c56901a9.jpg",
+            "hd": false
+        },
+        {
+            "description": "GAR",
+            "filename": "http://s.modriv.net/abp/images/screencaps/363ea186626f5919b315ca8ffe823642.jpg",
+            "hd": false
+        },
+        {
+            "description": "po przedpremierowym pokazie pewnej kin\u00f3wki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/27847e7b93bf3146d0d3721b3b01120d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Idziesz do kuchni na kolacj\u0119, a tam Aleksander Wielki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96a31511d0b5787348c26bb64bc0c40d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ujdzie w t\u0142oku",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc61a1b12b2e4ca097dd0cb0410c094e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wielki Brat patrzy nawet wtedy, gdy wydaje ci si\u0119, \u017ce jeste\u015b sam",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e8c51959bc87fb29567ebdc959e9388.jpg",
+            "hd": false
+        },
+        {
+            "description": "wszyscy bardzo dobrze wiemy, dok\u0105d to zmierza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9f4cab46c2741171e6cbc2f502bf3e10.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Prequel Fate/stay night.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 34928,
+            "date": "2012-09-29T13:45:29",
+            "score": 8.71,
+            "type": "mal"
+        },
+        {
+            "count": 2109,
+            "date": "2012-09-29T13:45:29",
+            "score": 8.62,
+            "type": "anidb"
+        },
+        {
+            "count": 1230,
+            "date": "2012-09-29T13:45:29",
+            "score": 8.3,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "Fate/stay night",
+    "title": "Fate/Zero"
+}

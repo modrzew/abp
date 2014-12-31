@@ -1,0 +1,373 @@
+{
+    "additional_titles": [
+        {
+            "language": "pl",
+            "title": "Cz\u0142owiek z \u017belaza"
+        }
+    ],
+    "aliases": [
+        "Iron Man"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/175839250",
+            "content": "#anime #Jesie\u01442010 Iron Man http://rdir.pl/sub6d",
+            "episode": 1,
+            "filename": "bfeb28e5eec94ea69e668cac4b44202b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26206770552"
+        },
+        {
+            "blip_url": "http://blip.pl/s/183798613",
+            "content": "Iron Man 02 - r\u0119ce kt\u00f3re lecz\u0105",
+            "episode": 2,
+            "filename": "2b0a74d7e03121a18960b0cb43601ef9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26931735708"
+        },
+        {
+            "blip_url": "http://blip.pl/s/191066203",
+            "content": "Iron Man 03 - Can't defeat Airman",
+            "episode": 3,
+            "filename": "f0b83869b72ce29b05830773b65b11e0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27862483765"
+        },
+        {
+            "blip_url": "http://blip.pl/s/196027737",
+            "content": "Iron Man 04 - tak jakby\u015bcie zapomnieli, #anime Wolverine ju\u017c wkr\u00f3tce",
+            "episode": 4,
+            "filename": "86a0b9ae96e8fe4fd556d4e430644589.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/28921197492"
+        },
+        {
+            "blip_url": "http://blip.pl/s/200600737",
+            "content": "Iron Man 05 - bo kreatynka i bia\u0142eczko to podstawa mi\u0119\u015bni z \u017celaza ",
+            "episode": 5,
+            "filename": "7b3d9048ea27750bc240076094c89e76.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/29599010682"
+        },
+        {
+            "blip_url": "http://blip.pl/s/217746239",
+            "content": "Iron Man 07 - pij mleko, b\u0119dziesz jak Tony Stark",
+            "episode": 7,
+            "filename": "299d5144bbcbde2c1e40d039ce4b2946.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/5398755444527105"
+        },
+        {
+            "blip_url": "http://blip.pl/s/235100849",
+            "content": "Iron Man 09 - z cyklu \"Ksenofobia na \u015bwiecie\" - dlaczego Japo\u0144czycy nie lubi\u0105 Amerykan\u00f3w",
+            "episode": 9,
+            "filename": "9945550805e961c301a49f81755381b5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/10089396514594816"
+        },
+        {
+            "blip_url": "http://blip.pl/s/276556603",
+            "content": "#anime #Jesie\u01442010 Iron Man - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/sub6d)",
+            "episode": 12,
+            "filename": "4bdef713ec281fe1dbd8f921d4eaa871.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21701167000064000"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-10-01T15:00:00",
+            "episode": 1,
+            "score": 6.7650114679,
+            "torrents": []
+        },
+        {
+            "date": "2010-10-08T15:00:00",
+            "episode": 2,
+            "score": 6.6853965658,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Force-Works] Iron Man - 02 [2D05AB2F].mkv",
+                    "group": "Force-Works",
+                    "hash": "2D05AB2F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164074",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-15T15:00:00",
+            "episode": 3,
+            "score": 6.565534868,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Force-Works] Iron Man - 03 [9515B619].mkv",
+                    "group": "Force-Works",
+                    "hash": "9515B619",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166267",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-22T15:00:00",
+            "episode": 4,
+            "score": 6.5345376607,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Force-Works] Iron Man - 04 [F19E9890].mkv",
+                    "group": "Force-Works",
+                    "hash": "F19E9890",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168159",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-29T15:00:00",
+            "episode": 5,
+            "score": 6.5254773869,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Force-Works] Iron Man - 05 [29711CD6].mkv",
+                    "group": "Force-Works",
+                    "hash": "29711CD6",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169358",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-05T14:00:00",
+            "episode": 6,
+            "score": 6.5008205805,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-12T14:00:00",
+            "episode": 7,
+            "score": 6.4635454545,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-19T14:00:00",
+            "episode": 8,
+            "score": 6.4540692974,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-26T14:00:00",
+            "episode": 9,
+            "score": 6.4542545625,
+            "torrents": []
+        },
+        {
+            "date": "2010-12-03T14:00:00",
+            "episode": 10,
+            "score": 6.4358922866,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Force-Works] Iron Man - 10 [5B1A228E].mkv",
+                    "group": "Force-Works",
+                    "hash": "5B1A228E",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178713",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-10T14:00:00",
+            "episode": 11,
+            "score": 6.4258637771,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Force-Works] Iron Man - 11 [6392CE13].mkv",
+                    "group": "Force-Works",
+                    "hash": "6392CE13",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180110",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-17T14:00:00",
+            "episode": 12,
+            "score": 6.7255665722,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Force-Works] Iron Man - 12 [9B1A4339].mkv",
+                    "group": "Force-Works",
+                    "hash": "9B1A4339",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182228",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7723,
+        "ann": 11786,
+        "mal": 6875,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/af2c807c72957dfc8b10e625df422d44.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7be9070270b94ee422cf576ade11fa5c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8210febe6245ac4e86a39a633e5ba317.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4f52bb9afa9702c60a52767fc1694944.jpg",
+            "hd": false
+        },
+        {
+            "description": "Brzydota",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8f4f7e5c4a44d1d67c251a712156c5b1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ede69b6e57f7c36643dcd1caddb3531.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Iron Man http://rdir.pl/sub6d",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bfeb28e5eec94ea69e668cac4b44202b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Iron Man is watching you masturbate",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a79afe607f593102ea4782d949da1635.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/df776fdf1963c4c924f0144065c12588.jpg",
+            "hd": false
+        },
+        {
+            "description": "Och noez",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fdc05717b417544e063a44eece60b532.jpg",
+            "hd": false
+        },
+        {
+            "description": "Stalkujemy seiyuu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b5ffb131a0f3b10820ad0256098a866b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/760f2c76cc2e77d95e87218d3a90e56e.jpg",
+            "hd": false
+        },
+        {
+            "description": "r\u0119ce kt\u00f3re lecz\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2b0a74d7e03121a18960b0cb43601ef9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Can't defeat Airman",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f0b83869b72ce29b05830773b65b11e0.jpg",
+            "hd": false
+        },
+        {
+            "description": "B\u0118DZIE KIN\u00d3WKA KEJONA?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0bddf644a3f5b695280782d3baf07bbb.jpg",
+            "hd": false
+        },
+        {
+            "description": "tak jakby\u015bcie zapomnieli, #anime Wolverine ju\u017c wkr\u00f3tce",
+            "filename": "http://s.modriv.net/abp/images/screencaps/86a0b9ae96e8fe4fd556d4e430644589.jpg",
+            "hd": false
+        },
+        {
+            "description": "Datt Starkk",
+            "filename": "http://s.modriv.net/abp/images/screencaps/47c7f9a8be5656b4a537e930fb93fbc4.jpg",
+            "hd": false
+        },
+        {
+            "description": "bo kreatynka i bia\u0142eczko to podstawa mi\u0119\u015bni z \u017celaza ",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7b3d9048ea27750bc240076094c89e76.jpg",
+            "hd": false
+        },
+        {
+            "description": "pij mleko, b\u0119dziesz jak Tony Stark",
+            "filename": "http://s.modriv.net/abp/images/screencaps/299d5144bbcbde2c1e40d039ce4b2946.jpg",
+            "hd": false
+        },
+        {
+            "description": "z cyklu \"Ksenofobia na \u015bwiecie\" - dlaczego Japo\u0144czycy nie lubi\u0105 Amerykan\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9945550805e961c301a49f81755381b5.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Iron Man - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/sub6d)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4bdef713ec281fe1dbd8f921d4eaa871.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Ameryka\u0144ski milioner, a zarazem super-bohater, znudzony ratowaniem swoich oty\u0142ych rodak\u00f3w udaje si\u0119 do Japonii, by za\u0142o\u017cy\u0107 tam w\u0142asn\u0105 dru\u017cyn\u0119 Power Rangers\u00f3w. W mi\u0119dzyczasie wyrywa japo\u0144skie kobiety oraz ratuje Tokyo przed kolejn\u0105 inwazj\u0105 potwor\u00f3w.",
+            "type": "abp"
+        },
+        {
+            "content": "Tony Stark, CEO of a large weapons manufacturer, physicist, engineer, and brilliant inventor, is wounded by shrapnel from one of his own weapons. While held captive by terrorists, he develops the Iron Man Suit  and escapes. From that day on, he vows not to waste his second chance at life and to change the world for the better. For that purpose, he comes to Japan.    In Lab 23 in Japan, great strides have been taken to develop, and build, a unique power station which does not run on fossil fuels, the Arc Station. Stark intends to join this project, and, for that, he is ready to announce his retirement as Iron Man. At the same time, he will also announce the Mass-produced Iron Men, to which he will pass on his duties. However, during the ceremonies, Stark is suddenly attacked by combat mecha belonging to an organization known as Zodiac.",
+            "type": "mal"
+        },
+        {
+            "content": "Tony Stark, CEO of a large weapons manufacturer, physicist, engineer, and brilliant inventor, is wounded by shrapnel from one of his own weapons. While held captive by terrorists, he develops the Iron Man Suit and escapes. From that day on, he vows not to waste his second chance at life and to change the world for the better. For that purpose, he comes to Japan.In Lab 23 in Japan, great strides have been taken to develop, and build, a unique power station which does not run on fossil fuels, the Arc Station. Stark intends to join this project, and, for that, he is ready to announce his retirement as Iron Man. At the same time, he will also announce the Mass-produced Iron Men, to which he will pass on his duties. However, during the ceremonies, Stark is suddenly attacked by combat mecha belonging to an organization known as Zodiac.~ translated and adapted from official site by Cranston Note: The first episode was aired at Comic-con 2010 in San Diego on July 23, 2010.",
+            "type": "anidb"
+        },
+        {
+            "content": "Tony Stark is a physicist, an engineer, and the CEO of a major arms manufacturing company. On a battlefield he is injured from his own weapons and taken prisoner by terrorists. In order to keep his own heart beating, he creates the Ironman Suit and escapes. Once free, Stark decides to dedicate his life to pursuing world peace with the Ironman technology, so he moves to Japan to use the resources of \"Lab 23,\" home of the world's first Arc Reactor. Wanting to devote himself fully to this research, Stark decides to retire as Ironman and announce the mass-production of suits to fulfill his duties. But at the announcement ceremony he is attacked by the mysterious organization known as \"Zodiac,\" and his plans have to change.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 4469,
+            "date": "2012-09-29T12:48:30",
+            "score": 6.33,
+            "type": "mal"
+        },
+        {
+            "count": 434,
+            "date": "2012-09-29T12:48:30",
+            "score": 5.59,
+            "type": "anidb"
+        },
+        {
+            "count": 333,
+            "date": "2012-09-29T12:48:30",
+            "score": 5.927,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Iron Man"
+}

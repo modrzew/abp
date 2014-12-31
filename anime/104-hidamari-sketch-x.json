@@ -1,0 +1,48 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3072\u3060\u307e\u308a\u30b9\u30b1\u30c3\u30c1 x \u2606\u2606\u2606"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7128,
+        "ann": 11047,
+        "mal": 7062,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 3697,
+            "date": "2012-09-29T02:41:03",
+            "score": 8.18,
+            "type": "mal"
+        },
+        {
+            "count": 581,
+            "date": "2012-09-29T02:41:03",
+            "score": 8.16,
+            "type": "anidb"
+        },
+        {
+            "count": 305,
+            "date": "2012-09-29T02:41:03",
+            "score": 7.995,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "Hidamari Sketch x 365",
+    "title": "Hidamari Sketch x \u2606\u2606\u2606"
+}

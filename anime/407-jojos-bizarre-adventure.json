@@ -1,0 +1,1738 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a"
+        },
+        {
+            "language": "pl",
+            "title": "Dziwaczne Woja\u017ce JoJo"
+        }
+    ],
+    "aliases": [
+        "JoJo's Bizarre Adventures",
+        "Jojo's Bizarre Adventure",
+        "JoJo no Kimyou na Bouken ",
+        "JoJo\u2019s Bizarre Adventure \u2013 ",
+        "JoJo\u2019s Bizarre Adventure"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1576389919",
+            "content": "#anime #Jesie\u01442012: JoJo's Bizarre Adventure - http://rdir.pl/1palju",
+            "episode": 1,
+            "filename": "ae3fb411b7e10ec86a64f1ee1befdc5c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/254545654012071936"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1589682951",
+            "content": "JoJo's Bizarre Adventure 02 - Dio wie, \u017ce czeskiemu metanolowi nale\u017cy pozwoli\u0107 dojrze\u0107",
+            "episode": 2,
+            "filename": "2431b61e4476ca379f189daf53d68024.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/258313631354195968"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1589799349",
+            "content": "JoJo's Bizarre Adventure 03 - pot\u0119go kamiennej maski dzia\u0142aj!",
+            "episode": 3,
+            "filename": "f93bc05533c769105e70167ba2927367.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/259686563796090880"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1590096411",
+            "content": "JoJo's Bizarre Adventure 04 - Speedwagon wycofuje si\u0119 ch\u0142odno",
+            "episode": 4,
+            "filename": "23879d2fbf0d310eca5a5267fef61513.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/262976179638763520"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1601281299",
+            "content": "JoJo's Bizarre Adventure 05 - a czy Ty pami\u0119tasz ile bochenk\u00f3w chleba zjad\u0142e\u015b w sowim \u017cyciu?",
+            "episode": 5,
+            "filename": "f1ca27a840ff14bc7e333f5db6b5a7d6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/266676382090797058"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-10-05T17:30:00",
+            "episode": 1,
+            "score": 7.5243248014,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventures - 01 [96DAA847].mkv",
+                    "group": "Nutbladder",
+                    "hash": "96DAA847",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 18,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_01_[5CDCAEAF].mkv",
+                    "group": "gg",
+                    "hash": "5CDCAEAF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 21,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 01 [39391476].mkv",
+                    "group": "Commie",
+                    "hash": "39391476",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359925",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 01 [9E586EA3].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "9E586EA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362510",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-12T17:30:00",
+            "episode": 2,
+            "score": 7.6254864048,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder] Jojo's Bizarre Adventure - 02 [240B0F2F].mkv",
+                    "group": "Nutbladder",
+                    "hash": "240B0F2F",
+                    "url": "http://is.gd/elKWNm",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 02 [373DC763].mkv",
+                    "group": "Commie",
+                    "hash": "373DC763",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362415",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 02v2 [CCBD0EAE].mkv",
+                    "group": "Commie",
+                    "hash": "CCBD0EAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362572",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_02_[A974E492].mkv",
+                    "group": "gg",
+                    "hash": "A974E492",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363344",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 02 [1B476512].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "1B476512",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364021",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-19T17:30:00",
+            "episode": 3,
+            "score": 7.7442504836,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 03 [E320EECB].mkv",
+                    "group": "Nutbladder",
+                    "hash": "E320EECB",
+                    "url": "http://is.gd/7rW3hJ",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 03 v1.5  [94DC1B47].mkv",
+                    "group": "Nutbladder",
+                    "hash": "",
+                    "url": "http://is.gd/0vY0RQ",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_03_[B22CB20A].mkv",
+                    "group": "gg",
+                    "hash": "B22CB20A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 03 [7A57AE61].mkv",
+                    "group": "Commie",
+                    "hash": "7A57AE61",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 03 [ACE63760].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "ACE63760",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366689",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 03v2 [2E6A6395].mkv",
+                    "group": "Commie",
+                    "hash": "2E6A6395",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368101",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-10-26T17:30:00",
+            "episode": 4,
+            "score": 7.7873816385,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 04 [7E4FAF49].mkv",
+                    "group": "Nutbladder",
+                    "hash": "7E4FAF49",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367126",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_04_[A142D988].mkv",
+                    "group": "gg",
+                    "hash": "A142D988",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367193",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 04 - [018C8E39].mkv",
+                    "group": "MMM",
+                    "hash": "018C8E39",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367926",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 04 [0318D986].mkv",
+                    "group": "Commie",
+                    "hash": "0318D986",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368102",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 04 [ED5513DF].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "ED5513DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370514",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-02T16:30:00",
+            "episode": 5,
+            "score": 7.7919005197,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 05 [18C1920A].mkv",
+                    "group": "Nutbladder",
+                    "hash": "18C1920A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369820",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 18,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_05_[65C22F09].mkv",
+                    "group": "gg",
+                    "hash": "65C22F09",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370334",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 05 [4904BA43].mkv",
+                    "group": "Commie",
+                    "hash": "4904BA43",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 05 [DBE36A0F].mkv",
+                    "group": "Commie",
+                    "hash": "DBE36A0F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370599",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 05 [A2B1E728].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "A2B1E728",
+                    "url": "http://www.nyaa.eu/?page=download&tid=373838",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-09T16:30:00",
+            "episode": 6,
+            "score": 7.809357974,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 06 [64D8470B].mkv",
+                    "group": "Nutbladder",
+                    "hash": "64D8470B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 06 [8482FF96].mkv",
+                    "group": "Commie",
+                    "hash": "8482FF96",
+                    "url": "http://www.nyaa.eu/?page=download&tid=373215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_06_[3A2B4E86].mkv",
+                    "group": "gg",
+                    "hash": "3A2B4E86",
+                    "url": "http://www.nyaa.eu/?page=download&tid=373296",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 06 [DAF10661].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "DAF10661",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375001",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-16T16:30:00",
+            "episode": 7,
+            "score": 7.80462969,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 07 [05F9FAE5].mkv",
+                    "group": "Nutbladder",
+                    "hash": "05F9FAE5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_07_[029F99EF].mkv",
+                    "group": "gg",
+                    "hash": "029F99EF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374988",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 07 [20C95B15].mkv",
+                    "group": "Commie",
+                    "hash": "20C95B15",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375719",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 07 [7E82ADFD].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "7E82ADFD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378361",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-23T16:30:00",
+            "episode": 8,
+            "score": 7.8060537667,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 08 [EE069382].mkv",
+                    "group": "Nutbladder",
+                    "hash": "EE069382",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377126",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_08_[0D82AE17].mkv",
+                    "group": "gg",
+                    "hash": "0D82AE17",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377572",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 08 [1DA04B82].mkv",
+                    "group": "Commie",
+                    "hash": "1DA04B82",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 08 [804E15A5].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "804E15A5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380762",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-30T16:30:00",
+            "episode": 9,
+            "score": 7.8379305275,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 09 [52698426].mkv",
+                    "group": "Nutbladder",
+                    "hash": "52698426",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379368",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_09_[AD15CC12].mkv",
+                    "group": "gg",
+                    "hash": "AD15CC12",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379450",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 09 [D1000000].mkv",
+                    "group": "Commie",
+                    "hash": "D1000000",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 09 [3F40CBDF].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "3F40CBDF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383155",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-07T16:30:00",
+            "episode": 10,
+            "score": 7.9029772545,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 10 [CE09E5C5].mkv",
+                    "group": "Nutbladder",
+                    "hash": "CE09E5C5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381743",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_10_[33C5E6C0].mkv",
+                    "group": "gg",
+                    "hash": "33C5E6C0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381766",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 10 [3D8C8AD5].mkv",
+                    "group": "Commie",
+                    "hash": "3D8C8AD5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382090",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 10 [CE17D3C6].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "CE17D3C6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384616",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-14T16:30:00",
+            "episode": 11,
+            "score": 7.9525927978,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 11 [F8AE2368].mkv",
+                    "group": "Nutbladder",
+                    "hash": "F8AE2368",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383569",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_11_[A755B912].mkv",
+                    "group": "gg",
+                    "hash": "A755B912",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 11 [4C50DA31].mkv",
+                    "group": "Commie",
+                    "hash": "4C50DA31",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 11 [0DCD128A].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "0DCD128A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386103",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-21T16:30:00",
+            "episode": 12,
+            "score": 8.0027846154,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 12 [AA7D6C84].mkv",
+                    "group": "Commie",
+                    "hash": "AA7D6C84",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385804",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_12_[31FFEDE9].mkv",
+                    "group": "gg",
+                    "hash": "31FFEDE9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385878",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 12 [E50634FF].mkv",
+                    "group": "Nutbladder",
+                    "hash": "E50634FF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=388026",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 12 [32632650].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "32632650",
+                    "url": "http://www.nyaa.eu/?page=download&tid=388241",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-04T16:30:00",
+            "episode": 13,
+            "score": 8.2752832168,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 13 - [4E0CA0F6].mkv",
+                    "group": "MMM",
+                    "hash": "4E0CA0F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390043",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 13 [0CDF0B0E].mkv",
+                    "group": "Nutbladder",
+                    "hash": "0CDF0B0E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390404",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 13 [3B4DB5F9].mkv",
+                    "group": "Commie",
+                    "hash": "3B4DB5F9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_13_[E46097E2].mkv",
+                    "group": "gg",
+                    "hash": "E46097E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390744",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 13 [0DE8D266].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "0DE8D266",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391999",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-11T16:30:00",
+            "episode": 14,
+            "score": 8.055797207,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 14 - [7BC41019].mkv",
+                    "group": "MMM",
+                    "hash": "7BC41019",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392307",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 14 [CF230ABB].mkv",
+                    "group": "Nutbladder",
+                    "hash": "CF230ABB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392533",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_14_[2489F680].mkv",
+                    "group": "gg",
+                    "hash": "2489F680",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393481",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 14 [C423FC37].mkv",
+                    "group": "Commie",
+                    "hash": "C423FC37",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394263",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 14 [13633119].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "13633119",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398833",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-18T16:30:00",
+            "episode": 15,
+            "score": 8.0784469992,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_15_[7DDF8B2E].mkv",
+                    "group": "gg",
+                    "hash": "7DDF8B2E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394592",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 15 [90D39524].mkv",
+                    "group": "Nutbladder",
+                    "hash": "90D39524",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394646",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 15 - [7C0E30EC].mkv",
+                    "group": "MMM",
+                    "hash": "7C0E30EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394892",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 15 [3EAD26EB].mkv",
+                    "group": "Commie",
+                    "hash": "3EAD26EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 15 [C6ED121A].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "C6ED121A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413360",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-25T16:30:00",
+            "episode": 16,
+            "score": 8.0902304924,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 16 [AD802D97].mkv",
+                    "group": "Nutbladder",
+                    "hash": "AD802D97",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397142",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[ShrunkenNutbladder] JoJo's Bizarre Adventure - 16 (720p).mkv",
+                    "group": "ShrunkenNutbladder",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397154",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_16_[E641249C].mkv",
+                    "group": "gg",
+                    "hash": "E641249C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 16 - [1A04BE2F].mkv",
+                    "group": "MMM",
+                    "hash": "1A04BE2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397617",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 16 [9192FBE5].mkv",
+                    "group": "Commie",
+                    "hash": "9192FBE5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403922",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 16 [4A905AE4].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "4A905AE4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414702",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-01T16:30:00",
+            "episode": 17,
+            "score": 8.1013427256,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 17 [73721E92].mkv",
+                    "group": "Nutbladder",
+                    "hash": "73721E92",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_17_[F070A3A7].mkv",
+                    "group": "gg",
+                    "hash": "F070A3A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400074",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 17 - [4EDB4EA5].mkv",
+                    "group": "MMM",
+                    "hash": "4EDB4EA5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400144",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 17 [06AD8A1F].mkv",
+                    "group": "Commie",
+                    "hash": "06AD8A1F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403925",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 17 [2C497B2F].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "2C497B2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415679",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-08T16:30:00",
+            "episode": 18,
+            "score": 8.1206558164,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 18 [534517B8].mkv",
+                    "group": "Nutbladder",
+                    "hash": "534517B8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402089",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 18 - [563C6E95].mkv",
+                    "group": "MMM",
+                    "hash": "563C6E95",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_18_[FEA9E4C6].mkv",
+                    "group": "gg",
+                    "hash": "FEA9E4C6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403008",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 18 [8E9BFEC4].mkv",
+                    "group": "Commie",
+                    "hash": "8E9BFEC4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408228",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 18 [0DDDC03E].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "0DDDC03E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416430",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-15T16:30:00",
+            "episode": 19,
+            "score": 8.1203541704,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 19 [CA53EE51].mkv",
+                    "group": "Nutbladder",
+                    "hash": "CA53EE51",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 19 - [ADCC7C04].mkv",
+                    "group": "MMM",
+                    "hash": "ADCC7C04",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404927",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_19_[B3DB3C14].mkv",
+                    "group": "gg",
+                    "hash": "B3DB3C14",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405504",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 19 [B2DBDBA7].mkv",
+                    "group": "Commie",
+                    "hash": "B2DBDBA7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 19 [3E3B4868].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "3E3B4868",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418409",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-22T16:30:00",
+            "episode": 20,
+            "score": 8.1594050143,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 20 [951A6C51].mkv",
+                    "group": "Nutbladder",
+                    "hash": "951A6C51",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406789",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 20v2 [5ABF807C].mkv",
+                    "group": "Nutbladder",
+                    "hash": "5ABF807C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407038",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_20_[D7EE8BA3].mkv",
+                    "group": "gg",
+                    "hash": "D7EE8BA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407559",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_20v2_[E2239762].mkv",
+                    "group": "gg",
+                    "hash": "E2239762",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407718",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 20 [9A03671E].mkv",
+                    "group": "Commie",
+                    "hash": "9A03671E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412850",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] JoJo no Kimyou na Bouken 20 [832143E1].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "832143E1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419646",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-01T16:30:00",
+            "episode": 21,
+            "score": 8.170119731,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 21 [2BE867E4].mkv",
+                    "group": "Nutbladder",
+                    "hash": "2BE867E4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_21_[94A2E425].mkv",
+                    "group": "gg",
+                    "hash": "94A2E425",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 21 [BC7F3404].mkv",
+                    "group": "Commie",
+                    "hash": "BC7F3404",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418457",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-08T16:30:00",
+            "episode": 22,
+            "score": 8.171832644,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 22 [70F12706].mkv",
+                    "group": "Nutbladder",
+                    "hash": "70F12706",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411875",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 MKV]",
+                    "download_count": 8,
+                    "filename": "[Tenzinn] JoJo's Bizarre Adventure - 22 (848x480 H264 MKV).mkv",
+                    "group": "Tenzinn",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411903",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_22_[B6634CB7].mkv",
+                    "group": "gg",
+                    "hash": "B6634CB7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412425",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 22 [03DC96AF].mkv",
+                    "group": "Commie",
+                    "hash": "03DC96AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420023",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-15T16:30:00",
+            "episode": 23,
+            "score": 8.1834937946,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 23 [6EB492DC].mkv",
+                    "group": "Nutbladder",
+                    "hash": "6EB492DC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413769",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 23v2 [9FE795FB].mkv",
+                    "group": "Nutbladder",
+                    "hash": "9FE795FB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413802",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480 H264 MKV]",
+                    "download_count": 1,
+                    "filename": "[Tenzinn] JoJo's Bizarre Adventure - 23 (848x480 H264 MKV).mkv",
+                    "group": "Tenzinn",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_23_[FFA418F9].mkv",
+                    "group": "gg",
+                    "hash": "FFA418F9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414479",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] JoJo's Bizarre Adventure - 23 [4091AF18].mkv",
+                    "group": "Commie",
+                    "hash": "4091AF18",
+                    "url": "http://www.nyaa.eu/?page=download&tid=426875",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-22T16:30:00",
+            "episode": 24,
+            "score": 8.1934820628,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 24 [EE4CDBF6].mkv",
+                    "group": "Nutbladder",
+                    "hash": "EE4CDBF6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415927",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[852x480 H264 MKV]",
+                    "download_count": 3,
+                    "filename": "[Tenzinn] JoJo's Bizarre Adventure - 24 (852x480 H264 MKV).mkv",
+                    "group": "Tenzinn",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 24 - [118819ED].mkv",
+                    "group": "MMM",
+                    "hash": "118819ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416306",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_24_[2D080F46].mkv",
+                    "group": "gg",
+                    "hash": "2D080F46",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416332",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-29T16:30:00",
+            "episode": 25,
+            "score": 8.2034107555,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 25 [2E0D9229].mkv",
+                    "group": "Nutbladder",
+                    "hash": "2E0D9229",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418195",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[852x480 H264 MKV]",
+                    "download_count": 1,
+                    "filename": "[Tenzinn] JoJo\u2019s Bizarre Adventure \u2013 25 [852x480 H264 MKV].mkv",
+                    "group": "Tenzinn",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_25_[64D64AF0].mkv",
+                    "group": "gg",
+                    "hash": "64D64AF0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418901",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-05T16:30:00",
+            "episode": 26,
+            "score": 8.4899398636,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Nutbladder] JoJo's Bizarre Adventure - 26 [E0CFDE35].mkv",
+                    "group": "Nutbladder",
+                    "hash": "E0CFDE35",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420630",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[852x480 H264 MKV]",
+                    "download_count": 1,
+                    "filename": "[Tenzinn] JoJo\u2019s Bizarre Adventure - 26 [852x480 H264 MKV].mkv",
+                    "group": "Tenzinn",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420747",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Jojo's_Bizarre_Adventure_-_26_[26D535D4].mkv",
+                    "group": "gg",
+                    "hash": "26D535D4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=421041",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[MMM] Jojo's Bizarre Adventure 26 - [B2F26056].mkv",
+                    "group": "MMM",
+                    "hash": "B2F26056",
+                    "url": "http://www.nyaa.eu/?page=download&tid=421053",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9304,
+        "ann": 14445,
+        "mal": 14719,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "JoJo",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8463c04409e30268473b64399c950ed3.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8e3d758b252bb4a371be456dfacba0f8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio wkurzony",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ebf44ba7e1fdddfd212ed220bcb0c03b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio z Shaftu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/999264ab9aafe5a0c8ee5eceae83fb08.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio na tripie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ffb35c25183240be8f9c1ea36ece2f84.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio wita Quintasana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/822824a469780b5ef0cbad3a7e41e477.jpg",
+            "hd": false
+        },
+        {
+            "description": "Quintasan po wyk\u0142adzie z analizy matematycznej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/458e6c6a78d493f7f0a39f1d8b1ec15c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yaoi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ff08a33507151bd41ee7cac866bf2d8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yaoi 2",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e0544355f3cd962affd87bcf3011345d.jpg",
+            "hd": false
+        },
+        {
+            "description": "St\u00f3\u0142 uwalony jak w TVNie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7204aaed24a92136e53ec5a700661769.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio pije wino",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8a22918b201af2a99095a856e8ffc18f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio boksuje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4be327c39118191dbb1ebae8781107ab.jpg",
+            "hd": false
+        },
+        {
+            "description": "Sesja zdj\u0119ciowa dla dziewcz\u0119cych pisemek",
+            "filename": "http://s.modriv.net/abp/images/screencaps/edcaea4b8bf819eb1292605528cbdf43.jpg",
+            "hd": false
+        },
+        {
+            "description": "Obowi\u0105zkowy odcinek pla\u017cowy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/923dc3e89f88f7c4a7e3420038e89929.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio z Shaftu 2",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3440decb2aa7de124ca709e0a56b488c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio wyrywa lask\u0119...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/20f2affb220b07308cefd2db6128f6c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "...odsy\u0142a j\u0105 do kuchni...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/95052ee415f3eccad60f914f92977da4.jpg",
+            "hd": false
+        },
+        {
+            "description": "...i okazuje jej lito\u015b\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c9a30861c2529b5e0640a0868cb5b0f6.jpg",
+            "hd": false
+        },
+        {
+            "description": "JoJo wkurzony",
+            "filename": "http://s.modriv.net/abp/images/screencaps/71c80fb038663b9b6c7423d70a3f6e33.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442012: JoJo's Bizarre Adventure - http://rdir.pl/1palju",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ae3fb411b7e10ec86a64f1ee1befdc5c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yaoi 3",
+            "filename": "http://s.modriv.net/abp/images/screencaps/345b44aad13dc1b87165355c24717f98.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ec5babcebf39e9ac41e4d7947157fafd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/631c7b726c65b74b05820cd209cc874d.jpg",
+            "hd": false
+        },
+        {
+            "description": "JoJo otrzyma\u0142 bilet na angielsk\u0105 premier\u0119 pewnej kin\u00f3wki...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/07e3d9b0f1c557dc922dced8fc121c5e.jpg",
+            "hd": false
+        },
+        {
+            "description": "...JoJo po seansie pewnej kin\u00f3wki...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5d870e0943fb8505ec133c7ca9347068.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7e4d75345485b6030643509fb107700f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/78746d5333720d1e5763027a7f0b44ca.jpg",
+            "hd": false
+        },
+        {
+            "description": "...nawet Dio obejrza\u0142 kin\u00f3wk\u0119...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/24cc9ae8aa1da422b7a1ddc956b53ddb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/574b211271e40bcdde4655045f99e6a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Speed...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/751e1f3a8c621cf96337e19c6a5dac73.jpg",
+            "hd": false
+        },
+        {
+            "description": "...wagon...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c9cfbe7b3d7a1bb74eaa346bc5d632a7.jpg",
+            "hd": false
+        },
+        {
+            "description": ",,,wycofa\u0142 si\u0119 ch\u0142odno",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8bedd2d29efe388e832b900c7a5cb082.jpg",
+            "hd": false
+        },
+        {
+            "description": "Czeski alkohol...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8dd1b7489b0405377ca6eaa1145d66bb.jpg",
+            "hd": false
+        },
+        {
+            "description": "...naprawd\u0119 daje kopa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bf45107e9e00d4f638a7d97917dd6223.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio pokonuje \u017cula jego w\u0142asn\u0105 broni\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ca79ecbb78167421094a3856ea6421f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio wie, \u017ce czeskiemu metanolowi nale\u017cy pozwoli\u0107 dojrze\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2431b61e4476ca379f189daf53d68024.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio no Naku Koro ni",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8a0677ffeb443d2474a956bedaf5c98b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/950b16d00e92093e93d11d2e31107c0a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jestem rogalem i wal\u0119 z knajfa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b3d500eaf2758a2cc35fb95a11f3f74d.jpg",
+            "hd": false
+        },
+        {
+            "description": "George ju\u017c w \u017cyciu nie dopierze szlafroka po tej plamie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/72ecfd531f0b25207cdbb2010de8cef3.jpg",
+            "hd": false
+        },
+        {
+            "description": "JoJo no Naku Koro ni",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a70ce9d296a6466b19ab9f66b4e7fbec.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nawet Speedwagon si\u0119 boi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2c557251cf1e600345bddf16ae2a3e1b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nawet Speedwagon si\u0119 boi 2",
+            "filename": "http://s.modriv.net/abp/images/screencaps/26738c4ddc5f948c929b96a54399131d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Headshot",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0574177862146abc368f61e0fe1a378b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Prawdziwi d\u017centelmeni robi\u0105cy d\u017centelme\u0144skie rzeczy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/25edbe59116679675cd05e5ae81f792c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dla Dio nasta\u0142 Zmierzch ",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d2a1adf75ae2d3c76614cf2147118601.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nawet Speedwagon si\u0119 boi 3",
+            "filename": "http://s.modriv.net/abp/images/screencaps/764bb4368db3f70af65a90aa06706a47.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jestem lanserem i wal\u0119 ze spira",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8725a127995613b58aa83f3a8e834248.jpg",
+            "hd": false
+        },
+        {
+            "description": "Cze\u015b\u0107 Ryuuk",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e30fc333a5be768d3ecb25c411684aa4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Co\u015b powiedzia\u0142e\u015b o mojej waifu?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/098e25705dcdf3a733414f9520900d0b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Come at me bro",
+            "filename": "http://s.modriv.net/abp/images/screencaps/285f1ee55ceaf534f5ef9ba1bc0e6646.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dio jara si\u0119 swym umi\u0119\u015bnieniem jak posiad\u0142o\u015b\u0107 Joestar\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/526d786c168c84b7ac0b3f63a4937e52.jpg",
+            "hd": false
+        },
+        {
+            "description": "Niesamowity Wampir Dio",
+            "filename": "http://s.modriv.net/abp/images/screencaps/47d31b013908dd239208cf098bc6b01e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nawet Speedwagon si\u0119 boi 4",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dbb7f9802c971f751db68abf8be303e1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jak w Castlevanii",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ec6c68a24928e2ebfd73b3795273ecb.jpg",
+            "hd": false
+        },
+        {
+            "description": "pot\u0119go kamiennej maski dzia\u0142aj!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f93bc05533c769105e70167ba2927367.jpg",
+            "hd": false
+        },
+        {
+            "description": "Moe",
+            "filename": "http://s.modriv.net/abp/images/screencaps/422beff6f0a322c52a52e7baa34dda63.jpg",
+            "hd": false
+        },
+        {
+            "description": "Erina no Naku Koro ni",
+            "filename": "http://s.modriv.net/abp/images/screencaps/148d3b85c7e83fec485804e777e1e051.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e4b71f7645b06f54eb62c1acb895304d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Bish",
+            "filename": "http://s.modriv.net/abp/images/screencaps/02520937d8d3139df20c4d8dc1b022ac.jpg",
+            "hd": false
+        },
+        {
+            "description": "Moja kanapka!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4d72b5e874a76dfd87a6ce149adb2406.jpg",
+            "hd": false
+        },
+        {
+            "description": "Chcesz kanapk\u0119?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/30b4854ec4d9bdcc78f6a8b7b3f891c7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zr\u00f3b sobie w\u0142asn\u0105!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/addb5cef5cfdaf8e722f9c55564c2c7f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tyle wungla",
+            "filename": "http://s.modriv.net/abp/images/screencaps/228914021af842495d2f52372201d873.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3bf9a82a430ff2380e06920223d271b9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zeppeli musi mie\u0107 niez\u0142y towar",
+            "filename": "http://s.modriv.net/abp/images/screencaps/22c7db5885f7289d5c6881424b9e3643.jpg",
+            "hd": false
+        },
+        {
+            "description": "A\u017c si\u0119 b\u0142yszczy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/134b16429ccf6b8a4b9601504ff81724.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0e948eee635780690fa577d750d1c395.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/637ce824322a60dcbdf98f310e4c7610.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/17a7fd7a5a8acbefdb499151a3489715.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ju\u017c wiadomo co Zeppeli robi w samotno\u015bci...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/756914ca443e84e951fa71c79cbd23e0.jpg",
+            "hd": false
+        },
+        {
+            "description": "...na dwie r\u0119ce te\u017c potrafi!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c680ef4295031b0cff191cabfd519736.jpg",
+            "hd": false
+        },
+        {
+            "description": "JoJo zszokowany nietypowymi zdolno\u015bciami Zeppeliego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/87fd749aa81f9b119831a3b7439266ab.jpg",
+            "hd": false
+        },
+        {
+            "description": "R\u0119ce, kt\u00f3re lecz\u0105... drzewa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d9fdffc3613144863af56190504add81.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ju\u017c za m\u0142odu Zeppeli praktykowa\u0142...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3c0f28c26c88d98e0113696e827be9f2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Speedwagon wycofuje si\u0119 ch\u0142odno",
+            "filename": "http://s.modriv.net/abp/images/screencaps/23879d2fbf0d310eca5a5267fef61513.jpg",
+            "hd": false
+        },
+        {
+            "description": "a czy Ty pami\u0119tasz ile bochenk\u00f3w chleba zjad\u0142e\u015b w sowim \u017cyciu?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f1ca27a840ff14bc7e333f5db6b5a7d6.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "This is the story of the Joestar family, and their battles against bizarre enemies. Jonathan Joestar's battle against the vampire Dio Brando starts it all, and it continues into roughly each second generation of Joestars through all parts of the story.",
+            "type": "mal"
+        },
+        {
+            "content": "An epic horror-action-adventure! Spanning the generations of the Joestar family, each arc focuses on a certain member of the family and his/her battles with vampires, super vampires, and other Stand users.Phantom Blood stars Jonathan Joestar and the ambitious Dio Brando. It shows how the stone mask was found and how Dio first obtained and utilized his powers. Once Jonathan and Robert E. O. Speedwagon realize Dio's intentions, they must team up with Will A. Zeppeli and learn Ripple (Hamon) to stop Dio.",
+            "type": "anidb"
+        },
+        {
+            "content": "Late 19th century. Young, handsome and wealthy English nobleman Jonathan Joestar seems to have everything people crave for. His lowly-born adopted brother Dio Brando, brought into the family by Jonathan's father George, is particularly jealous of Jonathan. When Jonathan found out Dio's horrible secret, he tried to use an stone mask that looks like a torture instrument to kill Jonathan, who's into archaeology and might make the death looks like an accident. However, the stone mask is anything but a simple instrument.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5977,
+            "date": "2013-04-07T04:34:28",
+            "score": 8.54,
+            "type": "mal"
+        },
+        {
+            "count": 243,
+            "date": "2013-04-07T04:34:28",
+            "score": 7.84,
+            "type": "anidb"
+        },
+        {
+            "count": 232,
+            "date": "2013-04-07T04:34:28",
+            "score": 7.881,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "JoJo's Bizarre Adventure"
+}

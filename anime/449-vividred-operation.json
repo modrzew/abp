@@ -1,0 +1,764 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d3\u30d3\u30c3\u30c9\u30ec\u30c3\u30c9\u30fb\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3"
+        },
+        {
+            "language": "pl",
+            "title": "\u017bywoczerwona Operacja"
+        }
+    ],
+    "aliases": [
+        "Vividred Operation"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1650980459",
+            "content": "Vividred Operation 06 - nie wierz w siebie, wierz we mnie, kt\u00f3ry wierzy w tw\u00f3j ty\u0142ek",
+            "episode": 6,
+            "filename": "8dbe721e534875533bb2ba39391b27c5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2013-01-10T17:30:00",
+            "episode": 1,
+            "score": 7.1067397661,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Vividred Operation - 01 [EEB956D7].mkv",
+                    "group": "Commie",
+                    "hash": "EEB956D7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[JK] Vividred Operation - 01v0 [720p][7C97DCF0].mkv",
+                    "group": "JK",
+                    "hash": "7C97DCF0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391755",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[JK] Vividred Operation - 01 [720p-Hi10P][26A691DC].mkv",
+                    "group": "JK",
+                    "hash": "26A691DC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392086",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 1,
+                    "filename": "(Hi10)_Vividred_Operation_-_01_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Vividred_Operation_-_01_(720p)_(Commie).mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 01 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2784",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Vividred Operation - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392795",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Vividred Operation - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Vividred Operation - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_01_[720p][10bit][0A227FAC].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "0A227FAC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392807",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_01_[720p][8bit][A8C5C823].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "A8C5C823",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392806",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][JK]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Vividred_Operation_-_01_(720p)_(JK).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Vividred_Operation_-_01_(720p)_(JK).mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-17T17:30:00",
+            "episode": 2,
+            "score": 6.8711067538,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Vividred Operation - 02 [459C73B2].mkv",
+                    "group": "Commie",
+                    "hash": "459C73B2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[JK] Vividred Operation - 02 [720p-Hi10P][6CAF6BDC].mkv",
+                    "group": "JK",
+                    "hash": "6CAF6BDC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_02_[720p][8bit][97DCF98D].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "97DCF98D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_02_[720p][10bit][72A0410B].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "72A0410B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394827",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 02 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2847",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][JK]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Vividred_Operation_-_02_(720p)_(JK).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Vividred_Operation_-_02_(720p)_(JK).mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-24T17:30:00",
+            "episode": 3,
+            "score": 6.8347900552,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Vividred Operation - 03 [D3429195].mkv",
+                    "group": "Commie",
+                    "hash": "D3429195",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396811",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 1,
+                    "filename": "[JK] Vividred Operation - 03 [720p-Hi10P][FE9A034E].mkv",
+                    "group": "JK",
+                    "hash": "FE9A034E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396836",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 03 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_03_[720p][8bit][692FDA6F].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "692FDA6F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398504",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_03_[720p][10bit][ACA2D5D5].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "ACA2D5D5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398505",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-31T17:30:00",
+            "episode": 4,
+            "score": 6.8242879114,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Vividred Operation - 04 [5B728DA8].mkv",
+                    "group": "Commie",
+                    "hash": "5B728DA8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399243",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 1,
+                    "filename": "[JK] Vividred Operation - 04 [720p-Hi10P][8A134698].mkv",
+                    "group": "JK",
+                    "hash": "8A134698",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399296",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 04 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_04_[720p][10bit][867B7FA9].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "867B7FA9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400451",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_04_[720p][8bit][8AC48BB7].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "8AC48BB7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400450",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-07T17:30:00",
+            "episode": 5,
+            "score": 6.8029231434,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Vividred Operation - 05 [7C7486BB].mkv",
+                    "group": "Commie",
+                    "hash": "7C7486BB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401758",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[JK] Vividred Operation - 05 [720p-Hi10P][76028751].mkv",
+                    "group": "JK",
+                    "hash": "76028751",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401777",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 05 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2880",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_05_[720p][8bit][8C9812B6].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "8C9812B6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403520",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_05_[720p][10bit][0EE80A21].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "0EE80A21",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403579",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-14T17:30:00",
+            "episode": 6,
+            "score": 6.7896880354,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Vividred Operation - 06 [DB4B232E].mkv",
+                    "group": "Commie",
+                    "hash": "DB4B232E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[JK] Vividred Operation - 06 [720p-Hi10P][9A4CF08E].mkv",
+                    "group": "JK",
+                    "hash": "9A4CF08E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404246",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 06 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_06_[720p][8bit][5B58E86C].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "5B58E86C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_06_[720p][10bit][D696BFB3].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "D696BFB3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405733",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 06 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2896",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-21T17:30:00",
+            "episode": 7,
+            "score": 6.7381045655,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Vividred Operation - 07 [E8A46288].mkv",
+                    "group": "Commie",
+                    "hash": "E8A46288",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406433",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[JK] Vividred Operation - 07 [720p-Hi10P][E6828256].mkv",
+                    "group": "JK",
+                    "hash": "E6828256",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406524",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[JK] Vividred Operation - 07v2 [720p-Hi10P][BF69237C].mkv",
+                    "group": "JK",
+                    "hash": "BF69237C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406832",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 07 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2895",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_07_[720p][8bit][7C0A8160].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "7C0A8160",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408493",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_07_[720p][10bit][FB794F9A].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "FB794F9A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408494",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-28T17:30:00",
+            "episode": 8,
+            "score": 6.6973975127,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Vividred Operation - 08 [247196AE].mkv",
+                    "group": "Commie",
+                    "hash": "247196AE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408769",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[JK] Vividred Operation - 08 [720p-Hi10P][EE4F8DE5].mkv",
+                    "group": "JK",
+                    "hash": "EE4F8DE5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Vividred Operation - 08 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_08_[720p][10bit][30DDD501].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "30DDD501",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410735",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_08_[720p][8bit][5F0E68EC].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "5F0E68EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410736",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-07T17:30:00",
+            "episode": 9,
+            "score": 6.6758160565,
+            "torrents": [
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 8,
+                    "filename": "[JK] Vividred Operation - 09 [720p-Hi10P][46E07A14].mkv",
+                    "group": "JK",
+                    "hash": "46E07A14",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 MKV]",
+                    "download_count": 6,
+                    "filename": "[Tenzinn] Vividred Operation - 09 (1280x720 H264 MKV).mkv",
+                    "group": "Tenzinn",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411237",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Vividred Operation - 09 [ABA5A556].mkv",
+                    "group": "Commie",
+                    "hash": "ABA5A556",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_09_[720p][10bit][F3E4EB59].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "F3E4EB59",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_09_[720p][8bit][D9B14C35].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "D9B14C35",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412453",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-14T17:30:00",
+            "episode": 10,
+            "score": 6.6676911826,
+            "torrents": [
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 1,
+                    "filename": "[JK] Vividred Operation - 10 [720p-Hi10P][48C71B82].mkv",
+                    "group": "JK",
+                    "hash": "48C71B82",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413393",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Vividred Operation - 10 [A4719F12].mkv",
+                    "group": "Commie",
+                    "hash": "A4719F12",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413417",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_10_[720p][8bit][AB7F0A1C].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "AB7F0A1C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416029",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_10_[720p][10bit][25E649E9].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "25E649E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416030",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-21T17:30:00",
+            "episode": 11,
+            "score": 6.6400387058,
+            "torrents": [
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[JK] Vividred Operation - 11 [720p-Hi10P][5D410505].mkv",
+                    "group": "JK",
+                    "hash": "5D410505",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Vividred Operation - 11 [079DC6E2].mkv",
+                    "group": "Commie",
+                    "hash": "079DC6E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415620",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_11_[720p][8bit][292B782F].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "292B782F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_11_[720p][10bit][C6E9383E].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "C6E9383E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419478",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-28T17:30:00",
+            "episode": 12,
+            "score": 6.8521436809,
+            "torrents": [
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 3,
+                    "filename": "[JK] Vividred Operation - 12 [720p-Hi10P][1AFCD3FF].mkv",
+                    "group": "JK",
+                    "hash": "1AFCD3FF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417827",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Vividred Operation - 12 [F4E5860F].mkv",
+                    "group": "Commie",
+                    "hash": "F4E5860F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_12_[720p][8bit][649DA46B].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "649DA46B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419479",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-Hybrid]_Vividred_Operation_-_12_[720p][10bit][046087D3].mkv",
+                    "group": "Hatsuyuki-Hybrid",
+                    "hash": "046087D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419480",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9242,
+        "ann": 14723,
+        "mal": 14283,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "nie wierz w siebie, wierz we mnie, kt\u00f3ry wierzy w tw\u00f3j ty\u0142ek",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8dbe721e534875533bb2ba39391b27c5.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "An original sci-fi action anime featuring a 14-year-old girl. The story takes place in a peaceful island filled with nature and technology.",
+            "type": "mal"
+        },
+        {
+            "content": "Friendship is the key to protecting the world. That is everyone's wish. Here in a world where science has solved all questions. This story is set in Oshima. The happy, carefree 14 year old Isshiki Akane lived a poor, but well loved life together with her reliable little sister, Momo, who does all the housework, and her grandfather, Kenjirou, a genius inventor who only created useless devices. When the weather is clear, they can see the artificial island, Blue Island, across the sea. In the center of that island rises the revolutionary Manifestation Engine, a discovery that solved the world's energy problems. It is a peaceful future, just like everyone dreamed of. One where everyone can smile and be happy... But suddenly, the world is visited by danger. An unknown enemy, the Alone, appear, targeting the Manifestation Engine. As none of their weapons worked and they fell into despair, a lone girl takes a stand wearing a red \"Pallet Suit\" which wields a great, hidden power. Before long, allies gather around her to fight. And their friendship becomes the only hope for saving the world!",
+            "type": "anidb"
+        },
+        {
+            "content": "Here in a world where science has solved all questions. This story is set in Oshima. The happy, carefree 14 year old Akane Isshiki lived a poor, but well loved life together with her reliable little sister, Momo, who does all the housework, and her grandfather, Kenjirou, a genius inventor who only created useless devices. When the weather is clear, they can see the artificial island, Blue Island, across the sea. In the center of that island rises the revolutionary Manifestation Engine, a discovery that solved the world's energy problems.",
+            "type": "ann"
+        },
+        {
+            "content": "The story is set in a futuristic and peaceful world made possible thanks to the invention of the \"Expression Engine\", which solved an energy crisis five years prior. When a strange alien force threatens the world, a young girl named Akane Isshiki takes up a battle suit and takes the threat on.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3835,
+            "date": "2013-03-29T07:50:47",
+            "score": 6.91,
+            "type": "mal"
+        },
+        {
+            "count": 131,
+            "date": "2013-03-29T07:50:47",
+            "score": 5.6,
+            "type": "anidb"
+        },
+        {
+            "count": 196,
+            "date": "2013-03-29T07:50:47",
+            "score": 6.557,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Vividred Operation"
+}

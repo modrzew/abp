@@ -1,0 +1,854 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30bf\u30a4\u30ac\u30fc\uff06\u30d0\u30cb\u30fc"
+        },
+        {
+            "language": "pl",
+            "title": "Tygrys i Kr\u00f3lik"
+        }
+    ],
+    "aliases": [
+        "Tiger & Bunny",
+        "Tiger and Bunny"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/425835283",
+            "content": "#anime #Wiosna2011 Tiger & Bunny (\u30bf\u30a4\u30ac\u30fc\uff06\u30d0\u30cb\u30fc) http://rdir.pl/1bvist",
+            "episode": 1,
+            "filename": "3da09057ef19b97567377fa964035846.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/55072696005955585"
+        },
+        {
+            "blip_url": "http://blip.pl/s/436443663",
+            "content": "Tiger & Bunny 02 - aby by\u0107 bohaterem, nie trzeba posiada\u0107 stroju za kup\u0119 kasy",
+            "episode": 2,
+            "filename": "149d44821e0a2651c0575f6e63d9878a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/57047706803240960"
+        },
+        {
+            "blip_url": "http://blip.pl/s/473866583",
+            "content": "Tiger & Bunny 04 - ?yjesz z konserwatywn? rodzin?? Nie m\u00f3w im, ?e jeste? superbohaterem",
+            "episode": 4,
+            "filename": "99c51a03061d7d4c18b3abcb61b8994e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/63696258115706880"
+        },
+        {
+            "blip_url": "http://blip.pl/s/508380359",
+            "content": "Tiger & Bunny 07 - Kotetsu postanowi? w tym roku poprawi? matm? - po og?oszeniu wynik\u00f3w okaza?o si?, ?e to jednak nie by? taki dobry pomys?",
+            "episode": 7,
+            "filename": "96565025030cc647899a22306b5c7c07.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/70281804925509632"
+        },
+        {
+            "blip_url": "http://blip.pl/s/563774715",
+            "content": "Tiger & Bunny 11 - Tygrys wyra?a sw\u00f3j sprzeciw wobec ci?g?ych ?art\u00f3w z pewnej kin\u00f3wki",
+            "episode": 11,
+            "filename": "6b50bdc19c5ecc7d731923022d4e1b7c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/81334741617483776"
+        },
+        {
+            "blip_url": "http://blip.pl/s/591565241",
+            "content": "Tiger & Bunny 14 - ?ycie herosa nie jest us?ane r\u00f3?ami, lecz godzinami ci??kich ?wicze? i hektolitrami wylanego potu",
+            "episode": 14,
+            "filename": "c58f7f84e65cf0c467e5fe9fba681e68.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/87539535096979459"
+        },
+        {
+            "blip_url": "http://blip.pl/s/601990879",
+            "content": "Tiger & Bunny 15 - a m\u00f3wili, ?e to b?dzie lekka, szybka i bezstresowa robota...",
+            "episode": 15,
+            "filename": "ed3832794f228ec8cbd3aecf65233b99.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/90082575653146624"
+        },
+        {
+            "blip_url": "http://blip.pl/s/632182043",
+            "content": "Tiger & Bunny 17 - to uczucie gdy dowiadujesz si?, ?e twoja c\u00f3rka jest yaoistk?",
+            "episode": 17,
+            "filename": "84cb1c1d5beb51ac4f08c4ac13273ebb.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/95822122236125184"
+        },
+        {
+            "blip_url": "http://blip.pl/s/643085767",
+            "content": "Tiger & Bunny 18 - pami?taj - w?\u00f3cz?c si? samotnie w parku nara?asz si? na atak z?owrogiego telepaty",
+            "episode": 18,
+            "filename": "c9d324ec0b09a762e9d3126a7012b300.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/97707599360835584"
+        },
+        {
+            "blip_url": "http://blip.pl/s/653723989",
+            "content": "Tiger & Bunny 19 - so we heard you like Tiger, so we put a tiger under your Tiger",
+            "episode": 19,
+            "filename": "355d982eabc3c8ae508dfd5f9ea779f1.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/100924408398479360"
+        },
+        {
+            "blip_url": "http://blip.pl/s/685410051",
+            "content": "Tiger & Bunny 22 - Tygrys r\u00f3wnie? przypomina za ile dni szko?a",
+            "episode": 22,
+            "filename": "fb1a1be4cffc4611703d361db614d382.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/108536917049622530"
+        },
+        {
+            "blip_url": "http://blip.pl/s/693357617",
+            "content": "Tiger & Bunny 23 - ale jak to jutro kartk\u00f3wka z niemieckiego?",
+            "episode": 23,
+            "filename": "de58a496fc705d3e9a46393938600d64.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/110443163323351040"
+        },
+        {
+            "blip_url": "http://blip.pl/s/703801661",
+            "content": "Tiger & Bunny 24 - dobranoc s?odki ksi???",
+            "episode": 24,
+            "filename": "93fdc1c271bb5608032b9cd0093063f5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/112968939075665920"
+        },
+        {
+            "blip_url": "http://blip.pl/s/714718455",
+            "content": "#anime #Wiosna2011 Tiger & Bunny (????????) - nasza ocena: warte obejrzenia (wi?cej: http://rdir.pl/1bvist)",
+            "episode": 25,
+            "filename": "84a8533618529e49a2a7ba95afeccbc2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/115560368805384192"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-02T18:58:00",
+            "episode": 1,
+            "score": 7.1737923251,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[YOUSMELL] Tiger & Bunny - 01.mkv",
+                    "group": "YOUSMELL",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=203607",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tiger & Bunny - 01 [39E1E59A].mkv",
+                    "group": "Commie",
+                    "hash": "39E1E59A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203971",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-09T18:58:00",
+            "episode": 2,
+            "score": 7.1775969726,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[YOUSMELL] Tiger & Bunny - 02.mkv",
+                    "group": "YOUSMELL",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205096",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tiger & Bunny - 02 [521D1EE6].mkv",
+                    "group": "Commie",
+                    "hash": "521D1EE6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205132",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-16T18:58:00",
+            "episode": 3,
+            "score": 7.2848935226,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[YOUSMELL] Tiger & Bunny - 03.mkv",
+                    "group": "YOUSMELL",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tiger & Bunny - 03 [A0A9AF73].mkv",
+                    "group": "Commie",
+                    "hash": "A0A9AF73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207163",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-23T18:58:00",
+            "episode": 4,
+            "score": 7.4193535912,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Tiger & Bunny - 04 [FDD92A44].mkv",
+                    "group": "Commie",
+                    "hash": "FDD92A44",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208809",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-30T18:58:00",
+            "episode": 5,
+            "score": 7.4821122593,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tiger & Bunny - 05 [EBB5D499].mkv",
+                    "group": "Commie",
+                    "hash": "EBB5D499",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210995",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-07T18:58:00",
+            "episode": 6,
+            "score": 7.5283294216,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[YOUSMELL] Tiger & Bunny - 06.mkv",
+                    "group": "YOUSMELL",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212348",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Tiger & Bunny - 06 [1D0284AB].mkv",
+                    "group": "Commie",
+                    "hash": "1D0284AB",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=212555",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-14T18:58:00",
+            "episode": 7,
+            "score": 7.5373321241,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[YOUSMELL] Tiger & Bunny - 07.mkv",
+                    "group": "YOUSMELL",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tiger & Bunny - 07 [4B093FCA].mkv",
+                    "group": "Commie",
+                    "hash": "4B093FCA",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=214199",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-21T18:58:00",
+            "episode": 8,
+            "score": 7.5315064309,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[YOUSMELL] Tiger & Bunny - 08.mkv",
+                    "group": "YOUSMELL",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215644",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 08 [D7D610E8].mkv",
+                    "group": "Commie",
+                    "hash": "D7D610E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215933",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-28T18:58:00",
+            "episode": 9,
+            "score": 7.5178300473,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[YOUSMELL] Tiger & Bunny - 09.mkv",
+                    "group": "YOUSMELL",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217254",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 09 [A748D7D6].mkv",
+                    "group": "Commie",
+                    "hash": "A748D7D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217279",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-04T18:58:00",
+            "episode": 10,
+            "score": 7.6479395604,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Tiger & Bunny - 10 [1C96CA2F].mkv",
+                    "group": "Commie",
+                    "hash": "1C96CA2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219034",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-11T18:58:00",
+            "episode": 11,
+            "score": 7.6686384505,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Tiger & Bunny - 11 [E25689B5].mkv",
+                    "group": "Commie",
+                    "hash": "E25689B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220517",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-18T18:58:00",
+            "episode": 12,
+            "score": 7.6905526817,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Tiger & Bunny - 12 [78DE0162].mkv",
+                    "group": "Commie",
+                    "hash": "78DE0162",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222296",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-25T18:58:00",
+            "episode": 13,
+            "score": 7.730238191,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 13 [F980E3A4].mkv",
+                    "group": "Commie",
+                    "hash": "F980E3A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223678",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-02T18:58:00",
+            "episode": 14,
+            "score": 7.7571201505,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 14 [2CFF23DF].mkv",
+                    "group": "Commie",
+                    "hash": "2CFF23DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225186",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-09T18:58:00",
+            "episode": 15,
+            "score": 7.7897918512,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tiger & Bunny - 15 [FC38720C].mkv",
+                    "group": "Commie",
+                    "hash": "FC38720C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227034",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-16T18:58:00",
+            "episode": 16,
+            "score": 7.8241571219,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Tiger & Bunny - 16 [273F368B].mkv",
+                    "group": "Commie",
+                    "hash": "273F368B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228818",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-23T18:58:00",
+            "episode": 17,
+            "score": 7.8416637239,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Tiger & Bunny - 17 [FE1B4CB8].mkv",
+                    "group": "Commie",
+                    "hash": "FE1B4CB8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230647",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-30T18:58:00",
+            "episode": 18,
+            "score": 7.8491020958,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 18 [23110EDD].mkv",
+                    "group": "Commie",
+                    "hash": "23110EDD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232730",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-06T18:58:00",
+            "episode": 19,
+            "score": 7.8589750651,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 19 [F23B0B6D].mkv",
+                    "group": "Commie",
+                    "hash": "F23B0B6D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234714",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-13T18:58:00",
+            "episode": 20,
+            "score": 7.8808799146,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 20 [4F3AAE3A].mkv",
+                    "group": "Commie",
+                    "hash": "4F3AAE3A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236628",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Tiger & Bunny - 20 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236697",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-20T18:58:00",
+            "episode": 21,
+            "score": 7.9005065562,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 21 [95B5F661].mkv",
+                    "group": "Commie",
+                    "hash": "95B5F661",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Tiger & Bunny - 21 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239131",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-27T18:58:00",
+            "episode": 22,
+            "score": 7.9301991328,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Tiger & Bunny - 22 [98939B68].mkv",
+                    "group": "Commie",
+                    "hash": "98939B68",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[pp] Tiger and Bunny - 22 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240918",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-03T18:58:00",
+            "episode": 23,
+            "score": 7.939472923,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 23 [F00BE6F3].mkv",
+                    "group": "Commie",
+                    "hash": "F00BE6F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Tiger & Bunny - 23 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242798",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-10T18:58:00",
+            "episode": 24,
+            "score": 7.9680390153,
+            "torrents": [
+                {
+                    "additional_info": "[720p][unofficial]",
+                    "download_count": 1,
+                    "filename": "[NoGrp]_Tiger_and_Bunny_-_24_[720p][unofficial].mkv",
+                    "group": "NoGrp",
+                    "hash": "",
+                    "url": "http://blueskyy.mysites.com/get_file/nogrp-tiger-and-bunny-24-720-p.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tiger & Bunny - 24 [89EE786D].mkv",
+                    "group": "Commie",
+                    "hash": "89EE786D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Tiger & Bunny - 24 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245261",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-17T19:13:00",
+            "episode": 25,
+            "score": 8.2551676741,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tiger & Bunny - 25 [A35E6DBC].mkv",
+                    "group": "Commie",
+                    "hash": "A35E6DBC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246234",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[pp] Tiger & Bunny - 25 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246273",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8101,
+        "ann": 12198,
+        "mal": 9941,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Bandyci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b572cada04bcd60ce05e8ac919705b05.jpg",
+            "hd": false
+        },
+        {
+            "description": "N.A.S.T.\u0118.P.N.Y.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e6452621fb65b9c71296f9a1c69b2f87.jpg",
+            "hd": false
+        },
+        {
+            "description": "Oraz jego P.A.\u0141.E.R.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/80cd64eafe7acc10135a327856964e05.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tygrys nie jest zadowolony",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0cd1eb322350b53fece27f592d21195c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Moda na walk\u0119 z dyskryminacj\u0105 dotar\u0142a r\u00f3wnie\u017c do anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6e6cc4a04d54ceffadd44f9c2f44f73b.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Tiger & Bunny (\u30bf\u30a4\u30ac\u30fc\uff06\u30d0\u30cb\u30fc) http://rdir.pl/1bvist",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3da09057ef19b97567377fa964035846.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/114ee3392ee878d8ff712e2acdcb1c9a.jpg",
+            "hd": false
+        },
+        {
+            "description": "BU!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/037c385480d0116fea78dd417c4c8e66.jpg",
+            "hd": false
+        },
+        {
+            "description": "aby by\u0107 bohaterem, nie trzeba posiada\u0107 stroju za kup\u0119 kasy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/149d44821e0a2651c0575f6e63d9878a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fbe6819589e42a48f64e162e8979a0bb.jpg",
+            "hd": false
+        },
+        {
+            "description": "?yjesz z konserwatywn? rodzin?? Nie m\u00f3w im, ?e jeste? superbohaterem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/99c51a03061d7d4c18b3abcb61b8994e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kotetsu postanowi? w tym roku poprawi? matm? - po og?oszeniu wynik\u00f3w okaza?o si?, ?e to jednak nie by? taki dobry pomys?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96565025030cc647899a22306b5c7c07.jpg",
+            "hd": false
+        },
+        {
+            "description": "DERP",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ddf5ce07310aabcc79cbe66b32d91a23.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tygrys wyra?a sw\u00f3j sprzeciw wobec ci?g?ych ?art\u00f3w z pewnej kin\u00f3wki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b50bdc19c5ecc7d731923022d4e1b7c.jpg",
+            "hd": false
+        },
+        {
+            "description": "?ycie herosa nie jest us?ane r\u00f3?ami, lecz godzinami ci??kich ?wicze? i hektolitrami wylanego potu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c58f7f84e65cf0c467e5fe9fba681e68.jpg",
+            "hd": false
+        },
+        {
+            "description": "a m\u00f3wili, ?e to b?dzie lekka, szybka i bezstresowa robota...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ed3832794f228ec8cbd3aecf65233b99.jpg",
+            "hd": false
+        },
+        {
+            "description": "Herosi patrz?, jak doisz kuca",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5a17607aa7d4d088155e062eb2846aae.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0fbc327b679bb2c6924781b8b1379196.jpg",
+            "hd": false
+        },
+        {
+            "description": "U?miech przede wszystkim!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/07d12527310d3541230eeeeb739e5a33.jpg",
+            "hd": false
+        },
+        {
+            "description": "Biesiad? czas zacz??",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f41bb0a905281f8076d27c88800f8460.jpg",
+            "hd": false
+        },
+        {
+            "description": "to uczucie gdy dowiadujesz si?, ?e twoja c\u00f3rka jest yaoistk?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/84cb1c1d5beb51ac4f08c4ac13273ebb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/50d4a642ffda2dd34ce0543671372c38.jpg",
+            "hd": false
+        },
+        {
+            "description": "Bo dobra lewatywa jeszcze nikomu nie zaszkodzi?a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/536019df3e536471569e61320462f20d.jpg",
+            "hd": false
+        },
+        {
+            "description": "pami?taj - w?\u00f3cz?c si? samotnie w parku nara?asz si? na atak z?owrogiego telepaty",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c9d324ec0b09a762e9d3126a7012b300.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kaede staje si? wojowniczym ?\u00f3?wiem ninja",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b3e427b47179754156c13b88910df48f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jak ?miesz obra?a? moj? ulubion? chi?sk? bajk?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5b3035fe2a855491dffbb05b00c01491.jpg",
+            "hd": false
+        },
+        {
+            "description": "so we heard you like Tiger, so we put a tiger under your Tiger",
+            "filename": "http://s.modriv.net/abp/images/screencaps/355d982eabc3c8ae508dfd5f9ea779f1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tygrys r\u00f3wnie? przypomina za ile dni szko?a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fb1a1be4cffc4611703d361db614d382.jpg",
+            "hd": false
+        },
+        {
+            "description": "ale jak to jutro kartk\u00f3wka z niemieckiego?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/de58a496fc705d3e9a46393938600d64.jpg",
+            "hd": false
+        },
+        {
+            "description": "dobranoc s?odki ksi???",
+            "filename": "http://s.modriv.net/abp/images/screencaps/93fdc1c271bb5608032b9cd0093063f5.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Tiger & Bunny (????????) - nasza ocena: warte obejrzenia (wi?cej: http://rdir.pl/1bvist)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/84a8533618529e49a2a7ba95afeccbc2.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Przygody Dzikiego Tygrysa - N.A.S.T.\u0118.P.N.E.G.O.-weterana, walcz\u0105cego w pewnym skomercjalizowanym mie\u015bcie z bandytami ku chwale swoich sponsor\u00f3w, kt\u00f3ry dostaje do pomocy N.A.S.T.\u0118.P.N.E.G.O.-\u017c\u00f3\u0142todzioba.",
+            "type": "abp"
+        },
+        {
+            "content": "Sternbild City is home to people called &quot;Next,&quot; who use their special abilities to protect the people as superheroes. These heroes solve cases and save lives so they can wear sponsor logos or acquire &quot;hero points.&quot; Their activities are documented on the popular program &quot;Hero TV,&quot; which picks the &quot;King of Heroes&quot; in a yearly ranking. The veteran hero Wild Tiger has always preferred to work alone, but now he&#039;s been assigned the rookie Barnaby Brooks Jr., who has a different perspective on being a superhero.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "The city of Sternbild is home to many people of different races, backgrounds, and those who are called Next. Next are people who possess special powers. They are the superheroes who protect peace within the city.These heroes all have a corporate sponsor whose logo is displayed upon their backs. As they overcome disasters and save people, they improve the image of their sponsors. In addition, they earn Hero Points which determines their ranking on the popular Hero TV programme. The Hero with the most points gains the title of King of Heroes.One of these Heroes is Wild Tiger (Kaburagi T. Kotetsu), a hotheaded veteran with a strong sense of justice. One day, he is suddenly partnered-off with newbie Barnaby Brooks Jr..~ translated and adapted from official site by Cranston",
+            "type": "anidb"
+        },
+        {
+            "content": "Sternbild City is home to people called \"Next,\" who use their special abilities to protect the people as superheroes. These heroes solve cases and save lives so they can wear sponsor logos or acquire \"hero points.\" Their activities are documented on the popular program \"Hero TV,\" which picks the \"King of Heroes\" in a yearly ranking. The veteran hero Wild Tiger has always preferred to work alone, but now he's been assigned the rookie Barnaby Brooks Jr., who has a different perspective on being a superhero.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 17361,
+            "date": "2012-09-29T13:18:46",
+            "score": 8.32,
+            "type": "mal"
+        },
+        {
+            "count": 984,
+            "date": "2012-09-29T13:18:46",
+            "score": 7.75,
+            "type": "anidb"
+        },
+        {
+            "count": 992,
+            "date": "2012-09-29T13:18:46",
+            "score": 7.979,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Tiger & Bunny"
+}

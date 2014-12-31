@@ -1,0 +1,330 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u307f\u3064\u3069\u3082\u3048\u5897\u91cf\u4e2d\uff01"
+        },
+        {
+            "language": "pl",
+            "title": "Tr\u00f3jk\u0105cik, zestaw powi\u0119kszony XXL!"
+        }
+    ],
+    "aliases": [
+        "Mitsudomoe 2"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/308037099",
+            "content": "Mitsudomoe Zouryouchuu! 03 - nikt nie ucieknie przed staro\u015bci\u0105, nawet najbardziej m\u0119scy m\u0119\u017cczy\u017ani...",
+            "episode": 3,
+            "filename": "9532b18e4e2f3e93ae226dc783fd1fcb.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/29296840201469952"
+        },
+        {
+            "blip_url": "http://blip.pl/s/334861041",
+            "content": "Mitsudomoe Zouryouchuu! 05 - zakazana mi\u0142o\u015b\u0107 w #anime b\u0105d\u017a co b\u0105d\u017a przetrwa\u0142a wybryki tokijskiej administracji",
+            "episode": 5,
+            "filename": "6bf771900353c23e622921e454a7320a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/35729354801545216"
+        },
+        {
+            "blip_url": "http://blip.pl/s/346758449",
+            "content": "Mitsudomoe Zouryouchuu! 06 - \u017c\u00f3\u0142ty \u015bnieg ma w sobie to co\u015b",
+            "episode": 6,
+            "filename": "49262a60e6d633fd7f39c2903a0ea4e1.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/38376864758239232"
+        },
+        {
+            "blip_url": "http://blip.pl/s/371849321",
+            "content": "#anime #Zima2011 Mitsudomoe Zouryouchuu! (\u307f\u3064\u3069\u3082\u3048\u5897\u91cf\u4e2d\uff01) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/19hl90)",
+            "episode": 8,
+            "filename": "c247cf89f70774f1426058abb4d284fa.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/44058428682936321"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-01-08T18:58:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184795",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ayako-m.3.3.w]_Mitsudomoe_Zenryouchuu_-_01_[720p][E450D124].mkv",
+                    "group": "Ayako-m.3.3.w",
+                    "hash": "E450D124",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190147",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-15T18:58:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Mitsudomoe 2 - 02 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186470",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[CrunchySubs] Mitsudomoe 2 - 02 [720p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186471",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-22T18:58:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[CrunchySubs] Mitsudomoe 2 - 03 [720p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188115",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-29T18:58:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190114",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-05T18:58:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=191874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=191933",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-12T18:58:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193574",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193575",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-19T18:58:00",
+            "episode": 7,
+            "score": 7.8690307434,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194989",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194990",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-26T18:58:00",
+            "episode": 8,
+            "score": 7.9733907386,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196531",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Mitsudomoe 2 - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196532",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 8,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7948,
+        "ann": 11879,
+        "mal": 9510,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/07cdf5774f622783e91bd29d771148cf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3243729c727dbf9c90751a44f485941d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f720ac3c63f7214b3737d37b75d65c71.jpg",
+            "hd": false
+        },
+        {
+            "description": "nikt nie ucieknie przed staro\u015bci\u0105, nawet najbardziej m\u0119scy m\u0119\u017cczy\u017ani...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9532b18e4e2f3e93ae226dc783fd1fcb.jpg",
+            "hd": false
+        },
+        {
+            "description": "zakazana mi\u0142o\u015b\u0107 w #anime b\u0105d\u017a co b\u0105d\u017a przetrwa\u0142a wybryki tokijskiej administracji",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6bf771900353c23e622921e454a7320a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f2725a107a6d3d67c95774842d5a3b19.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u017c\u00f3\u0142ty \u015bnieg ma w sobie to co\u015b",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49262a60e6d633fd7f39c2903a0ea4e1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c22ceb17a5d462f83729312256a9147b.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2011 Mitsudomoe Zouryouchuu! (\u307f\u3064\u3069\u3082\u3048\u5897\u91cf\u4e2d\uff01) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/19hl90)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c247cf89f70774f1426058abb4d284fa.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 8111,
+            "date": "2012-09-29T13:12:39",
+            "score": 7.94,
+            "type": "mal"
+        },
+        {
+            "count": 664,
+            "date": "2012-09-29T13:12:39",
+            "score": 7.63,
+            "type": "anidb"
+        },
+        {
+            "count": 360,
+            "date": "2012-09-29T13:12:39",
+            "score": 7.692,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "160",
+    "title": "Mitsudomoe Zouryouchuu!"
+}

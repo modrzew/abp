@@ -1,0 +1,55 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3053\u3093\u306b\u3061\u306f \u30a2\u30f3"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 39,
+    "episodes_length": 20,
+    "external_sites": {
+        "anidb": 6046,
+        "ann": 10550,
+        "mal": 5494,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on the novel by Budge Wilson, which is a prequel to Lucy Maud Montgomery's Anne of Green Gables.Anne Shirley goes through quite a lot of adventures before she ends up in Green Gables. She is living with a family and helps out by looking after the kids, helping in the chores around the home. Meanwhile she discovers more about who she is...Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "The story of what happened to Anne Shirley before she was adopted.",
+            "type": "mal"
+        },
+        {
+            "content": "Anne Shirley goes through quite a lot of adventures before she ends up in Green Gables. She is living with a family and helps out by looking after the kids, helping in the chores around the home... Meanwhile she discovers more about who she is, that her name is \"Anne\" and not \"Ann\"... And she just is her adorable but a bit crazy self.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 206,
+            "date": "2012-09-29T02:35:21",
+            "score": 7.52,
+            "type": "mal"
+        },
+        {
+            "count": 57,
+            "date": "2012-09-29T02:35:21",
+            "score": 7.94,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Konnichiwa Anne"
+}

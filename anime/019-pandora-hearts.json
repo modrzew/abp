@@ -1,0 +1,73 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d1\u30f3\u30c9\u30e9\u30cf\u30fc\u30c4"
+        },
+        {
+            "language": "pl",
+            "title": "Serca Pandory"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6288,
+        "ann": 10436,
+        "mal": 5530,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Nastolatek w trakcie pewnej podejrzanej ceremonii zostaje wci\u0105gni\u0119ty do Otch\u0142anii, gdzie poznaje najokrutniejsze ze wszystkich stworze\u0144: Zakrwawionego Mrocznego Kr\u00f3lika pod postaci\u0105 m\u0142odej niewiasty.",
+            "type": "abp"
+        },
+        {
+            "content": "Summary of the Manga:Oz Vessalius, heir to one of the duke houses, has just turned fifteen. His life is rich and carefree, darkened only by the constant absence of his father. At his coming-of-age ceremony, however, everything changes. For no reason that he can discern, he's cast into the prison known as the \"Abyss\", only to be saved by a \"chain\" known as Alice, the bloodstained black rabbit. Why was he cast into Abyss, how does Alice factor into it all, and what does the organization known as \"Pandora\" want with him...",
+            "type": "anidb"
+        },
+        {
+            "content": "Oz Vessalius, heir to one of the duke houses, has just turned fifteen. His life is rich and carefree, darkened only by the constant absence of his father. At his coming-of-age ceremony, however, everything changes. For no reason that he can discern, he&#039;s cast into the prison known as the &quot;Abyss&quot;, only to be saved by a &quot;chain&quot; known as Alice, the bloodstained black rabbit. It is unknown why was he cast into Abyss, how does Alice factor into it all, and what does the organization known as &quot;Pandora&quot; want with him.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "Oz Vessalius, heir to one of the duke houses, has just turned fifteen. His life is rich and carefree, darkened only by the constant absence of his father. At his coming-of-age ceremony, however, everything changes. For no reason that he can discern, he's cast into the prison known as the \"Abyss\", only to be saved by a \"chain\" known as Alice, the bloodstained black rabbit. It is unknown why was he cast into Abyss, how does Alice factor into it all, and what does the organization known as \"Pandora\" want with him.",
+            "type": "ann"
+        },
+        {
+            "content": "Oz Vessalius, is heir to the Vessalius Duke House, and has just turned fifteen. His life is rich and carefree, darkened only by the constant absence of his father. At his coming-of-age ceremony, everything changes when the clock that was silent for 100 years rang. For no reason that he can discern, Oz is cast into the prison known as the \"Abyss\", only to be saved by a \"Chain\" known as Alice, the Bloodstained Black Rabbit, B-Rabbit for short. The mystery there begins as Oz unravels the mystery behind Alice, the Abyss and the strange organization known as \"Pandora\".",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 38614,
+            "date": "2012-09-29T02:02:47",
+            "score": 8.17,
+            "type": "mal"
+        },
+        {
+            "count": 1398,
+            "date": "2012-09-29T02:02:47",
+            "score": 7.52,
+            "type": "anidb"
+        },
+        {
+            "count": 1631,
+            "date": "2012-09-29T02:02:47",
+            "score": 7.838,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Pandora Hearts"
+}

@@ -1,0 +1,418 @@
+{
+    "additional_titles": [],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-04-29T16:00:00",
+            "episode": 1,
+            "score": 6.8734106729,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] AKB0048 - 01 (720p).mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309930",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 01 (1280x720 x264 AAC)[3907D306].mkv",
+                    "group": "EveTaku",
+                    "hash": "3907D306",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309923",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 01 (1280x720 x264-Hi10P AAC)[379E601F].mkv",
+                    "group": "EveTaku",
+                    "hash": "379E601F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309928",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-06T16:00:00",
+            "episode": 2,
+            "score": 6.9561527581,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 02 (1280x720 x264-Hi10P AAC)[3BD30138].mkv",
+                    "group": "EveTaku",
+                    "hash": "3BD30138",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312179",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 02 (1280x720 x264 AAC)[8C5FA1FE].mkv",
+                    "group": "EveTaku",
+                    "hash": "8C5FA1FE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312204",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-13T16:00:00",
+            "episode": 3,
+            "score": 6.9724832215,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] AKB0048 - 03 (1280x720 x264 AAC)[59363DCE].mkv",
+                    "group": "EveTaku",
+                    "hash": "59363DCE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 03 (1280x720 x264-Hi10P AAC)[10AFBD3A].mkv",
+                    "group": "EveTaku",
+                    "hash": "10AFBD3A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314110",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-20T16:00:00",
+            "episode": 4,
+            "score": 7.0300953289,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 04 (1280x720 x264-Hi10P AAC)[D1C84A90].mkv",
+                    "group": "EveTaku",
+                    "hash": "D1C84A90",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316047",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 04 (1280x720 x264 AAC)[FC361B11].mkv",
+                    "group": "EveTaku",
+                    "hash": "FC361B11",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316046",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-27T16:00:00",
+            "episode": 5,
+            "score": 7.0194615385,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] AKB0048 - 05 (1280x720 x264 AAC)[5BB9517D].mkv",
+                    "group": "EveTaku",
+                    "hash": "5BB9517D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318052",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 05 (1280x720 x264-Hi10P AAC)[6BDD8984].mkv",
+                    "group": "EveTaku",
+                    "hash": "6BDD8984",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318053",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-03T16:00:00",
+            "episode": 6,
+            "score": 7.036734375,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 06 (1280x720 x264-Hi10P AAC)[CD6A10DA].mkv",
+                    "group": "EveTaku",
+                    "hash": "CD6A10DA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320119",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 06 (1280x720 x264 AAC)[4878D502].mkv",
+                    "group": "EveTaku",
+                    "hash": "4878D502",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320118",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-10T16:00:00",
+            "episode": 7,
+            "score": 7.038782235,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] AKB0048 - 07 (1280x720 x264-Hi10P AAC)[973B2DB4].mkv",
+                    "group": "EveTaku",
+                    "hash": "973B2DB4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] AKB0048 - 07 (1280x720 x264 AAC)[9E9DF876].mkv",
+                    "group": "EveTaku",
+                    "hash": "9E9DF876",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322120",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-17T16:00:00",
+            "episode": 8,
+            "score": 7.0579572764,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 08v0 (1280x720 x264-Hi10P AAC)[6B96EAC8].mkv",
+                    "group": "EveTaku",
+                    "hash": "6B96EAC8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323993",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 08v0 (1280x720 x264 AAC)[00D577B9].mkv",
+                    "group": "EveTaku",
+                    "hash": "00D577B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323992",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 08 (1280x720 x264-Hi10P AAC)[90161129].mkv",
+                    "group": "EveTaku",
+                    "hash": "90161129",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324242",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] AKB0048 - 08 (1280x720 x264 AAC)[0A99FB76].mkv",
+                    "group": "EveTaku",
+                    "hash": "0A99FB76",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324241",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-24T16:00:00",
+            "episode": 9,
+            "score": 7.1132169576,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 09 (1280x720 x264 AAC)[9855BE4C].mkv",
+                    "group": "EveTaku",
+                    "hash": "9855BE4C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325698",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 09 (1280x720 x264-Hi10P AAC)[2CE2C1D3].mkv",
+                    "group": "EveTaku",
+                    "hash": "2CE2C1D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325699",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-01T16:00:00",
+            "episode": 10,
+            "score": 7.1176318743,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 10 (1280x720 x264 AAC)[1FA08F1B].mkv",
+                    "group": "EveTaku",
+                    "hash": "1FA08F1B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] AKB0048 - 10 (1280x720 x264-Hi10P AAC)[990627AF].mkv",
+                    "group": "EveTaku",
+                    "hash": "990627AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327898",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-08T16:00:00",
+            "episode": 11,
+            "score": 7.131920083,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] AKB0048 - 11 (1280x720 x264 AAC)[E9EE00AE].mkv",
+                    "group": "EveTaku",
+                    "hash": "E9EE00AE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330166",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] AKB0048 - 11 (1280x720 x264-Hi10P AAC)[C25A8BCE].mkv",
+                    "group": "EveTaku",
+                    "hash": "C25A8BCE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330167",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] AKB0048 - 11v2 (1280x720 x264 AAC)[69A966AF].mkv",
+                    "group": "EveTaku",
+                    "hash": "69A966AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330445",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-07-15T16:00:00",
+            "episode": 12,
+            "score": 7.1635151515,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 12 (1280x720 x264 AAC)[477CE69B].mkv",
+                    "group": "EveTaku",
+                    "hash": "477CE69B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 12 (1280x720 x264-Hi10P AAC)[3BC583BF].mkv",
+                    "group": "EveTaku",
+                    "hash": "3BC583BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332226",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-22T16:00:00",
+            "episode": 13,
+            "score": 7.5505566073,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] AKB0048 - 13 END (1280x720 x264-Hi10P AAC)[6467275A].mkv",
+                    "group": "EveTaku",
+                    "hash": "6467275A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334525",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] AKB0048 - 13 END (1280x720 x264 AAC)[0E3E82B8].mkv",
+                    "group": "EveTaku",
+                    "hash": "0E3E82B8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334755",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8816,
+        "ann": 13805,
+        "mal": 12149,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* An original anime based on an idea by Kawamori Shouji and inspired by the all-female idol group AKB48.During an age when public entertainment was outlawed, an idol group holds guerrilla concerts without any concern for dangers.In the beginning of the 21st century, a world war broke out amongst mankind. In the aftermath of the war started by humanity itself, the earth's ecosystem was irrecoverably affected, and it had no choice but to escape the now devastated earth to live in space. A new era began with the Star Calendar 0000. Shortly afterwards entertainment was prohibited by law and the sacred place for otaku, Akihabara, became the public entertainment's absolute area of defense and the only place to perform such activities. In Star Calendar 0048 once more a group was formed in the hope to resume the legacy of the legendary idol act AKB48, which continued to shine even during the earth's downfall. With the law in place they were deemed as an illegal act and unable to hold official live events. This is when the group's concept changed. Instead of the idols you can meet they became the idols who come to meet you. Branded as terrorists by authorities they didn't give up and decided to take up arms to protect the stage they stand on, the fans who cheer for them and the citizens who are deprived of entertainment.This is the tale of those girls who succeeded the famous name and fight for the freedom of entertainment. Their name is... AKB0048.",
+            "type": "anidb"
+        },
+        {
+            "content": "At the start of the 21st century, an interplanetary war broke out. Earth's ecosystem was damaged, and humanity was forced to flee the planet. In this new society, things that \"disturb the heart\" like music and art are forbidden. 48 years later, a legendary idol group is resurrected as AKB0048. Labeled as terrorists, they must take up arms to defend their careers and their fans.",
+            "type": "ann"
+        },
+        {
+            "content": "In the beginning of the 21st century, a world war breaks out over interplanetary travel tech. The environment is pretty much destroyed so mankind leaves Earth, settling on other planets, and starts Star Calendar 00.  Entertainment and songs become heavily regulated and eventually banned on several planets due to their power to move people, but a brave idol group puts on guerrilla performances in these systems in the name of a famous act from earlier times that sang to Earth's bitter end, AKB48. Famous throughout the galaxy, the group's name is AKB0048.  This story centers around a group of girls from various planets, some where entertainment is banned and some, where it is not, striving to become great idols and join AKB0048. Therefore, they participate in the entrance exam and eventually become undergraduates, aiming to someday succeed the current members of the group.  (Source: edited from Crunchyroll)",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3525,
+            "date": "2012-09-29T14:26:57",
+            "score": 7.63,
+            "type": "mal"
+        },
+        {
+            "count": 182,
+            "date": "2012-09-29T14:26:57",
+            "score": 6.62,
+            "type": "anidb"
+        },
+        {
+            "count": 170,
+            "date": "2012-09-29T14:26:57",
+            "score": 7.667,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "AKB0048"
+}

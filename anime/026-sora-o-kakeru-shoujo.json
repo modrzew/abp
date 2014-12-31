@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5b87\u5b99\u3092\u304b\u3051\u308b\u5c11\u5973"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6176,
+        "ann": 10272,
+        "mal": 5307,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Przysz\u0142o\u015b\u0107, kosmos, fanserwis, Bardzo Jebitne Mechy (ale naprawd\u0119 Jebitne), ciekawa i zr\u00f3\u017cnicowana obsada, a przede wszystkim - brak fabu\u0142y.",
+            "type": "abp"
+        },
+        {
+            "content": "The story is set in the year 311 of the Orbital Calendar, when humanity has migrated to countless colony clusters in space. A space colony girl named Akiha Shishidou encounters a malevolent artificial intelligence named Leopard that has been installed on a colony. Akiha is joined by an Inter-Colony Police officer named Itsuki Kannagi, a taciturn young girl named Honoka Kawai, and a robot named Imoko \"Imo-chan\" Shishidou.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "The story is set in the year 311 of the Orbital Calendar, when humanity has migrated to countless colony clusters in space. A space colony girl named Akiha Shishidou encounters a malevolent artificial intelligence named Leopard that has been installed on a colony.    Akiha is joined by an Inter-Colony Police officer named Itsuki Kannagi, a taciturn young girl named Honoka Kawai, and a robot named Imoko &quot;Imo-chan&quot; Shishidou.    (Source: AniDB)",
+            "type": "mal"
+        },
+        {
+            "content": "In the year 311 of the orbital calendar, humanity has migrated to countless colony clusters in space. Akiha Shishido encounters a malevolent artificial intelligence, Leopard, who has been installed on a colony. She is joined by Inter-Colony-Police officer Itsuki Kannagi, taciturn young girl Honoka Kawai, and a robot-potato, Imoko \"Imo-chan\" Shishido.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 4193,
+            "date": "2012-09-29T02:05:03",
+            "score": 7.18,
+            "type": "mal"
+        },
+        {
+            "count": 857,
+            "date": "2012-09-29T02:05:03",
+            "score": 7.03,
+            "type": "anidb"
+        },
+        {
+            "count": 531,
+            "date": "2012-09-29T02:05:03",
+            "score": 6.779,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Sora o Kakeru Shoujo"
+}

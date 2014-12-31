@@ -1,0 +1,1003 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3 Crystal"
+        }
+    ],
+    "aliases": [
+        "Sailor Moon Crystal",
+        "Bishoujo Senshi Sailor Moon Crystal"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-07-05T12:00:00",
+            "episode": 1,
+            "score": 7.0252315271,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571387",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571398",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 01 [1080p x264 AAC] [1B3C78BD].mkv",
+                    "group": "mcag",
+                    "hash": "1B3C78BD",
+                    "url": "http://www.nyaa.se/?page=download&tid=571418",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 01 [720p x264 AAC] [92578EE9].mkv",
+                    "group": "mcag",
+                    "hash": "92578EE9",
+                    "url": "http://www.nyaa.se/?page=download&tid=571409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=571501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 01 (1080p.x264.AAC) [024E8A58].mkv",
+                    "group": "SMC",
+                    "hash": "024E8A58",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=7d75bd96986d930e93087d7dc59ca98597621b37&f=%5BSMC%5D%20Sailor%20Moon%20Crystal%20-%2001%20%281080p.x264.AAC%29%20%5B024E8A58%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 01 (720p.x264.AAC) [84649DCD].mkv",
+                    "group": "SMC",
+                    "hash": "84649DCD",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=c9581eec56effbdcd6dbb49974449aed0b6579c3&f=%5BSMC%5D%20Sailor%20Moon%20Crystal%20-%2001%20%28720p.x264.AAC%29%20%5B84649DCD%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 01 (1080p.x264.AAC) [FF7E5ABE].mkv",
+                    "group": "SMC",
+                    "hash": "FF7E5ABE",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=838d455024e3c926728cd848e6f3a5767d3561b1&f=%5BSMC%5D%20Sailor%20Moon%20Crystal%20-%2001%20%281080p.x264.AAC%29%20%5BFF7E5ABE%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Sailor Moon Crystal - 01 [3AE26424].mkv",
+                    "group": "Commie",
+                    "hash": "3AE26424",
+                    "url": "http://www.nyaa.se/?page=download&tid=571601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sailor_Moon_Crystal_-_01_[1280x720][10bit][F4E7F4B6].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F4E7F4B6",
+                    "url": "http://www.nyaa.se/?page=download&tid=572528",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[960x540 H.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Chihiro]_Sailor_Moon_Crystal_01_[960x540_H.264_AAC][DD4ED9C8].mkv",
+                    "group": "Chihiro",
+                    "hash": "DD4ED9C8",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Sailor_Moon_Crystal_01_%5B960x540_H.264_AAC%5D%5BDD4ED9C8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Chihiro]_Sailor_Moon_Crystal_01_[1280x720_H.264_AAC][469255DE].mkv",
+                    "group": "Chihiro",
+                    "hash": "469255DE",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Sailor_Moon_Crystal_01_%5B1280x720_H.264_AAC%5D%5B469255DE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 01 (1280x720 Hi10P AAC) [306B2458].mkv",
+                    "group": "Doki",
+                    "hash": "306B2458",
+                    "url": "http://tracker.anime-index.org/download.php?id=d4030892e0e87b16eb2a8dbcacc793a9c5fe0eee&f=%5BDoki%5D+Sailor+Moon+Crystal+-+01+%281280x720+Hi10P+AAC%29+%5B306B2458%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 01 (848x480 h264 AAC) [61B507BF].mkv",
+                    "group": "Doki",
+                    "hash": "61B507BF",
+                    "url": "http://tracker.anime-index.org/download.php?id=f1006f233cb45a4e1c1f69682f33d763bba13142&f=%5BDoki%5D+Sailor+Moon+Crystal+-+01+%28848x480+h264+AAC%29+%5B61B507BF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sailor_Moon_Crystal_-_01v2_[1280x720][10bit][788CC404].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "788CC404",
+                    "url": "http://www.nyaa.se/?page=download&tid=581829",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-07-19T12:00:00",
+            "episode": 2,
+            "score": 7.3798823529,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576978",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 02 [720p x264 AAC] [B1B4EF61].mkv",
+                    "group": "mcag",
+                    "hash": "B1B4EF61",
+                    "url": "http://www.nyaa.se/?page=download&tid=576982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576985",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 02 [1080p x264 AAC] [15345251].mkv",
+                    "group": "mcag",
+                    "hash": "15345251",
+                    "url": "http://www.nyaa.se/?page=download&tid=576992",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 02 (720p.x264.AAC) [2EDA9CC8].mkv",
+                    "group": "SMC",
+                    "hash": "2EDA9CC8",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=d9c087e619722eff99d2ba67b8f4d4d95419c04b&f=%5BSMC%5D%20Sailor%20Moon%20Crystal%20-%2002%20%28720p.x264.AAC%29%20%5B2EDA9CC8%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Sailor Moon Crystal - 02 [68BB4299].mkv",
+                    "group": "Commie",
+                    "hash": "68BB4299",
+                    "url": "http://www.nyaa.se/?page=download&tid=577193",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sailor_Moon_Crystal_-_02_[1280x720][10bit][0CA253B2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0CA253B2",
+                    "url": "http://www.nyaa.se/?page=download&tid=581392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 02 (1280x720 Hi10P AAC) [BCF653E9].mkv",
+                    "group": "Doki",
+                    "hash": "BCF653E9",
+                    "url": "http://tracker.anime-index.org/download.php?id=ead54ac68d47a520fa7685b0163b6a74b439e788&f=%5BDoki%5D+Sailor+Moon+Crystal+-+02+%281280x720+Hi10P+AAC%29+%5BBCF653E9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 02 (848x480 h264 AAC) [34B76C4C].mkv",
+                    "group": "Doki",
+                    "hash": "34B76C4C",
+                    "url": "http://tracker.anime-index.org/download.php?id=7753e44333bb2b8948575cbdcac22a35490de7a0&f=%5BDoki%5D+Sailor+Moon+Crystal+-+02+%28848x480+h264+AAC%29+%5B34B76C4C%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-02T12:00:00",
+            "episode": 3,
+            "score": 7.1058910891,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582757",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582761",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Sailor Moon Crystal - 03 [46B13509].mkv",
+                    "group": "Commie",
+                    "hash": "46B13509",
+                    "url": "http://www.nyaa.se/?page=download&tid=582911",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 03 (720p.x264.AAC) [F71F5EA6].mkv",
+                    "group": "SMC",
+                    "hash": "F71F5EA6",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=64801f87089b4af19c7ced146c21a531df062c31&f=%5BSMC%5D+Sailor+Moon+Crystal+-+03+%28720p.x264.AAC%29+%5BF71F5EA6%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 03 (1280x720 Hi10P AAC) [B53C7B88].mkv",
+                    "group": "Doki",
+                    "hash": "B53C7B88",
+                    "url": "http://tracker.anime-index.org/download.php?id=86da033609f54c17e0f6b24174b807c369210b19&f=%5BDoki%5D+Sailor+Moon+Crystal+-+03+%281280x720+Hi10P+AAC%29+%5BB53C7B88%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 03 (848x480 h264 AAC) [862C8E9A].mkv",
+                    "group": "Doki",
+                    "hash": "862C8E9A",
+                    "url": "http://tracker.anime-index.org/download.php?id=abd9039ad51b4bcebdd6a6b5646b4ebea229b891&f=%5BDoki%5D+Sailor+Moon+Crystal+-+03+%28848x480+h264+AAC%29+%5B862C8E9A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sailor_Moon_Crystal_-_03_[1280x720][10bit][1ED34275].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1ED34275",
+                    "url": "http://www.nyaa.se/?page=download&tid=586666",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-16T12:00:00",
+            "episode": 4,
+            "score": 6.952919403,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588341",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=588344",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Sailor Moon Crystal - 04 [A1E063E3].mkv",
+                    "group": "Commie",
+                    "hash": "A1E063E3",
+                    "url": "http://www.nyaa.se/?page=download&tid=588566",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 1,
+                    "filename": "[SMC] Sailor Moon Crystal - 04 (720p.x264.AAC) [5E6C564F].mkv",
+                    "group": "SMC",
+                    "hash": "5E6C564F",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=2d520ba4a61442ba07b46c2638e01b4ec2f72e6b&f=%5BSMC%5D+Sailor+Moon+Crystal+-+04+%28720p.x264.AAC%29+%5B5E6C564F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 04 (1280x720 Hi10P AAC) [A0EE9F62].mkv",
+                    "group": "Doki",
+                    "hash": "A0EE9F62",
+                    "url": "http://tracker.anime-index.org/download.php?id=2742ec4331bd28b9bd5d7a2de66ce38530442649&f=%5BDoki%5D+Sailor+Moon+Crystal+-+04+%281280x720+Hi10P+AAC%29+%5BA0EE9F62%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 04 (848x480 h264 AAC) [19A22C5E].mkv",
+                    "group": "Doki",
+                    "hash": "19A22C5E",
+                    "url": "http://tracker.anime-index.org/download.php?id=33ca2e28efd151ab2deb28f543c0efdbe339fd80&f=%5BDoki%5D+Sailor+Moon+Crystal+-+04+%28848x480+h264+AAC%29+%5B19A22C5E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10bit]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sailor_Moon_Crystal_-_04_[1280x720][10bit][EE4E8522].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "EE4E8522",
+                    "url": "http://tracker.minglong.org/torrents/%5BHatsuyuki%5D_Sailor_Moon_Crystal_-_04_%5B1280x720%5D%5B10bit%5D%5BEE4E8522%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-06T12:00:00",
+            "episode": 5,
+            "score": 6.7241688654,
+            "torrents": [
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 05 [720p x264 AAC] [16E582FA].mkv",
+                    "group": "mcag",
+                    "hash": "16E582FA",
+                    "url": "http://www.nyaa.se/?page=download&tid=596035",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 05 [1080p x264 AAC] [62D829B1].mkv",
+                    "group": "mcag",
+                    "hash": "62D829B1",
+                    "url": "http://www.nyaa.se/?page=download&tid=596037",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596168",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596170",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=596171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Sailor Moon Crystal - 05 [82A40A0C].mkv",
+                    "group": "Commie",
+                    "hash": "82A40A0C",
+                    "url": "http://www.nyaa.se/?page=download&tid=596238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 2,
+                    "filename": "[SMC] Sailor Moon Crystal - 05 (720p.x264.AAC) [90893659].mkv",
+                    "group": "SMC",
+                    "hash": "90893659",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=497f2936926fab390b93e8cd855efcf4d7d4154c&f=%5BSMC%5D+Sailor+Moon+Crystal+-+05+%28720p.x264.AAC%29+%5B90893659%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sailor Moon Crystal - 05 (1280x720 Hi10P AAC) [6A75A1E0].mkv",
+                    "group": "Doki",
+                    "hash": "6A75A1E0",
+                    "url": "http://tracker.anime-index.org/download.php?id=28523529296147624cc8097a8db6974fe8463b96&f=%5BDoki%5D+Sailor+Moon+Crystal+-+05+%281280x720+Hi10P+AAC%29+%5B6A75A1E0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 05 (848x480 h264 AAC) [6A55AFB7].mkv",
+                    "group": "Doki",
+                    "hash": "6A55AFB7",
+                    "url": "http://tracker.anime-index.org/download.php?id=4584e7690bfe64acdb6b7326824ebcc293451326&f=%5BDoki%5D+Sailor+Moon+Crystal+-+05+%28848x480+h264+AAC%29+%5B6A55AFB7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-20T12:00:00",
+            "episode": 6,
+            "score": 6.5183728395,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599752",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 06 [720p x264 AAC] [2DEEC4E9].mkv",
+                    "group": "mcag",
+                    "hash": "2DEEC4E9",
+                    "url": "http://www.nyaa.se/?page=download&tid=599755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 06 [1080p x264 AAC] [C6352F44].mkv",
+                    "group": "mcag",
+                    "hash": "C6352F44",
+                    "url": "http://www.nyaa.se/?page=download&tid=599757",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Sailor Moon Crystal - 06 [0C6F9969].mkv",
+                    "group": "Commie",
+                    "hash": "0C6F9969",
+                    "url": "http://www.nyaa.se/?page=download&tid=599912",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 06 (720p.x264.AAC) [6B1C49CA].mkv",
+                    "group": "SMC",
+                    "hash": "6B1C49CA",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=cd9e30eb26ccc5ad86a24817c2f80dea7e39c8dd&f=%5BSMC%5D+Sailor+Moon+Crystal+-+06+%28720p.x264.AAC%29+%5B6B1C49CA%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 06 (1280x720 Hi10P AAC) [28E23D1B].mkv",
+                    "group": "Doki",
+                    "hash": "28E23D1B",
+                    "url": "http://tracker.anime-index.org/download.php?id=087c7599716ef4f46735877da1eee1bf9a6e9c23&f=%5BDoki%5D+Sailor+Moon+Crystal+-+06+%281280x720+Hi10P+AAC%29+%5B28E23D1B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sailor Moon Crystal - 06 (848x480 h264 AAC) [6FEFE98C].mkv",
+                    "group": "Doki",
+                    "hash": "6FEFE98C",
+                    "url": "http://tracker.anime-index.org/download.php?id=d1997f9e3ad9a0d4254f3d96be8241c4b8e721ac&f=%5BDoki%5D+Sailor+Moon+Crystal+-+06+%28848x480+h264+AAC%29+%5B6FEFE98C%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-04T12:00:00",
+            "episode": 7,
+            "score": 6.4844680851,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=605186",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=605188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=605190",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Sailor Moon Crystal - 07 [4D4EAEB0].mkv",
+                    "group": "Commie",
+                    "hash": "4D4EAEB0",
+                    "url": "http://www.nyaa.se/?page=download&tid=605339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 07 (720p.x264.AAC) [B1C94031].mkv",
+                    "group": "SMC",
+                    "hash": "B1C94031",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=d728c36bd4afc9890820cc23120502ef40ead92d&f=%5BSMC%5D+Sailor+Moon+Crystal+-+07+%28720p.x264.AAC%29+%5BB1C94031%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-18T12:00:00",
+            "episode": 8,
+            "score": 6.4695440181,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=611074",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=611076",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=611077",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 08 [720p x264 AAC] [014355E1].mkv",
+                    "group": "mcag",
+                    "hash": "014355E1",
+                    "url": "http://www.nyaa.se/?page=download&tid=611095",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 08 [1080p x264 AAC] [E2E95C75].mkv",
+                    "group": "mcag",
+                    "hash": "E2E95C75",
+                    "url": "http://www.nyaa.se/?page=download&tid=611083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Sailor Moon Crystal - 08 [8DF92230].mkv",
+                    "group": "Commie",
+                    "hash": "8DF92230",
+                    "url": "http://www.nyaa.se/?page=download&tid=611333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 08 (720p.x264.AAC) [FBB16F59].mkv",
+                    "group": "SMC",
+                    "hash": "FBB16F59",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=4fe677bf0d63253d77af7c0663e43098190f3c7d&f=%5BSMC%5D+Sailor+Moon+Crystal+-+08+%28720p.x264.AAC%29+%5BFBB16F59%5D.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-01T11:00:00",
+            "episode": 9,
+            "score": 6.5064537445,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=617867",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=617868",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=617875",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 09 [720p x264 AAC] [90129F62].mkv",
+                    "group": "mcag",
+                    "hash": "90129F62",
+                    "url": "http://www.nyaa.se/?page=download&tid=617885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 09 [1080p x264 AAC] [4492F393].mkv",
+                    "group": "mcag",
+                    "hash": "4492F393",
+                    "url": "http://www.nyaa.se/?page=download&tid=617887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Sailor Moon Crystal - 09 [338B3C6C].mkv",
+                    "group": "Commie",
+                    "hash": "338B3C6C",
+                    "url": "http://www.nyaa.se/?page=download&tid=618148",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 09 (720p.x264.AAC) [1ED639A5].mkv",
+                    "group": "SMC",
+                    "hash": "1ED639A5",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=a488151bd81d5e426f6f02efec3ab586535c01ea&f=%5BSMC%5D+Sailor+Moon+Crystal+-+09+%28720p.x264.AAC%29+%5B1ED639A5%5D.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-15T11:00:00",
+            "episode": 10,
+            "score": 6.5034967462,
+            "torrents": [
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 10 [720p x264 AAC] [40DDF31D].mkv",
+                    "group": "mcag",
+                    "hash": "40DDF31D",
+                    "url": "http://www.nyaa.se/?page=download&tid=623575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623587",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623596",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[mcag] Bishoujo Senshi Sailor Moon Crystal - 10 [1080p x264 AAC] [0745462E].mkv",
+                    "group": "mcag",
+                    "hash": "0745462E",
+                    "url": "http://www.nyaa.se/?page=download&tid=623598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Sailor Moon Crystal - 10 [CBAAB82E].mkv",
+                    "group": "Commie",
+                    "hash": "CBAAB82E",
+                    "url": "http://www.nyaa.se/?page=download&tid=623762",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[SMC] Sailor Moon Crystal - 10 (720p.x264.AAC) [64964592].mkv",
+                    "group": "SMC",
+                    "hash": "64964592",
+                    "url": "http://www.sailormooncenter.net/tracker/download.php?id=0da2d13a581ca1859fdd2d63dd104b7025086f75&f=%5BSMC%5D+Sailor+Moon+Crystal+-+10+%28720p.x264.AAC%29+%5B64964592%5D.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-06T11:00:00",
+            "episode": 11,
+            "score": 6.4739789916,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=631439",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=631442",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=631446",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Sailor Moon Crystal - 11 [31CA7937].mkv",
+                    "group": "Commie",
+                    "hash": "31CA7937",
+                    "url": "http://www.nyaa.se/?page=download&tid=631627",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p.x264.AAC]",
+                    "download_count": 0,
+                    "filename": "[MoonSubs] Sailor Moon Crystal - 11 (720p.x264.AAC).mkv",
+                    "group": "MoonSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=635173",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-20T11:00:00",
+            "episode": 12,
+            "score": 6.4649875,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=636513",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=636516",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Sailor Moon Crystal - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=636518",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Sailor Moon Crystal - 12 [A13672E3].mkv",
+                    "group": "Commie",
+                    "hash": "A13672E3",
+                    "url": "http://www.nyaa.se/?page=download&tid=636766",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2015-01-03T11:00:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-17T11:00:00",
+            "episode": 14,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-07T11:00:00",
+            "episode": 15,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-21T11:00:00",
+            "episode": 16,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-07T11:00:00",
+            "episode": 17,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-21T11:00:00",
+            "episode": 18,
+            "score": 0.0,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9306,
+        "ann": 15693,
+        "mal": 14751,
+        "schedule": 3452
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Usagi Tsukino was a normal second-year middle school girl whose own life changes one day when she encounters a black cat. The cat's name is Luna who can talk and bears a cresent moon on her forehead. Luna tells Usagi that she is the chosen guardian of justice with the power to transform into Sailor Moon. Usagi now has a new responsiblity which is a mission to find the Illusionary Silver Crystal as well as the other chosen guardians to protect the Moon Princess. During her mission, she must deal with various enemies sent by Queen Beryl who is also after the Illusionary Silver Crystal.",
+            "type": "ann"
+        },
+        {
+            "content": "* Based on a manga of the same name by Takeuchi Naoko, serialised in Nakayoshi.Tsukino Usagi is a little clumsy and a crybaby, but she is also one spirited eighth grader. One day she meets Luna, a black cat with a crescent moon mark on her forehead, and transforms into the pretty sailor-suited guardian of love and justice, Sailor Moon. As a chosen guardian of justice, Usagi apparently has a mission to protect a princess, and to find her fellow Guardians and the Legendary Silver Crystal.Meanwhile, Queen Beryl of the Dark Kingdom sends her subordinates to the town where Usagi lives. They cause strange events to occur there, all in an effort to acquire the tremendously powerful Silver Crystal.Can Sailor Moon and the other Guardians successfully find the Legendary Silver Crystal, and protect the princess?Note: Commemorating the 20th anniversary of Sailor Moon. The first episode received advance premiere screening on Usagi's birthday 30.06.2014 at the collaboration birthday party with women's fashion magazine ViVi. Male attendees were not allowed, unless accompanied by a female attendee.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 154,
+            "date": "2014-12-27T03:00:48",
+            "score": 6.52,
+            "type": "anidb"
+        },
+        {
+            "count": 326,
+            "date": "2014-12-15T03:00:45",
+            "score": 6.439,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2014
+    },
+    "sequel": true,
+    "sequel_parent": "Bishoujo Senshi Sailor Moon",
+    "title": "Bishoujo Senshi Sailor Moon Crystal"
+}

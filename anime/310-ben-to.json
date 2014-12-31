@@ -1,0 +1,939 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d9\u30f3\u30fb\u30c8\u30fc"
+        },
+        {
+            "language": "pl",
+            "title": "Wschodni Dialekt"
+        }
+    ],
+    "aliases": [
+        "Ben-to"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/744673151",
+            "content": "#anime #Jesie\u01442011 Ben-To (\u30d9\u30f3\u30fb\u30c8\u30fc) http://rdir.pl/1lpyal",
+            "episode": 1,
+            "filename": "254827fea4ea8e69f25feb2e025e9332.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/123075714449809408"
+        },
+        {
+            "blip_url": "http://blip.pl/s/825814851",
+            "content": "Ben-To 08 - \"O graczu skacz\u0105cym przez okno\"",
+            "episode": 8,
+            "filename": "03f6f4adcdc0cf353d99e92b20178b8a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/140901074528763904"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-08T19:20:00",
+            "episode": 1,
+            "score": 7.32,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Ben-to_-_01_[FC85E1FD].mkv",
+                    "group": "gg",
+                    "hash": "FC85E1FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_01_[10bit][1280x720][AAC][081F1655].mkv",
+                    "group": "Shikkaku",
+                    "hash": "081F1655",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_01_[8bit][1280x720][AAC][9CD0A240].mkv",
+                    "group": "Shikkaku",
+                    "hash": "9CD0A240",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251334",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 2,
+                    "filename": "[Shikkaku]_Ben-To_01_[8bit][848x480][AAC][D7C86079].mkv",
+                    "group": "Shikkaku",
+                    "hash": "D7C86079",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251336",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Ben-to - 01 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 01 (1280x720 x264 AAC)[D0322FCD].mkv",
+                    "group": "EveTaku",
+                    "hash": "D0322FCD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251396",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_01v2_[8bit][848x480][AAC][DAD00558].mkv",
+                    "group": "Shikkaku",
+                    "hash": "DAD00558",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251735",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_01v2_[8bit][1280x720][AAC][C90A65E7].mkv",
+                    "group": "Shikkaku",
+                    "hash": "C90A65E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251736",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_01v2_[10bit][1280x720][AAC][416BDEBD].mkv",
+                    "group": "Shikkaku",
+                    "hash": "416BDEBD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251740",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 01v2 (1280x720 x264-Hi10P AAC)[EA800A28].mkv",
+                    "group": "EveTaku",
+                    "hash": "EA800A28",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265251",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 01v2 (1280x720 x264 AAC)[6B6B7193].mkv",
+                    "group": "EveTaku",
+                    "hash": "6B6B7193",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265250",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-10-15T19:20:00",
+            "episode": 2,
+            "score": 7.3520813166,
+            "torrents": [
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 2,
+                    "filename": "[Shikkaku]_Ben-To_02_[8bit][1280x720][AAC][F8E345E9].mkv",
+                    "group": "Shikkaku",
+                    "hash": "F8E345E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253181",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 6,
+                    "filename": "[Shikkaku]_Ben-To_02_[10bit][1280x720][AAC][FEC20C44].mkv",
+                    "group": "Shikkaku",
+                    "hash": "FEC20C44",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253184",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_02_[8bit][848x480][AAC][9D9DCC44].mkv",
+                    "group": "Shikkaku",
+                    "hash": "9D9DCC44",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253189",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 02v2 (1280x720 x264 AAC)[3881C11D].mkv",
+                    "group": "EveTaku",
+                    "hash": "3881C11D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265252",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Ben-To - 02v2 (1280x720 x264-Hi10P AAC)[6D90183D].mkv",
+                    "group": "EveTaku",
+                    "hash": "6D90183D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265253",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-10-22T19:20:00",
+            "episode": 3,
+            "score": 7.4257652303,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Ben-to_-_03_[A7606FDB].mkv",
+                    "group": "gg",
+                    "hash": "A7606FDB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254723",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 03 (1280x720 x264 AAC)[FC80C8F7].mkv",
+                    "group": "EveTaku",
+                    "hash": "FC80C8F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254747",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_03_[8bit][1280x720][AAC][CE5A2248].mkv",
+                    "group": "Shikkaku",
+                    "hash": "CE5A2248",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254950",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_03_[10bit][1280x720][AAC][58CD2BF3].mkv",
+                    "group": "Shikkaku",
+                    "hash": "58CD2BF3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_03_[8bit][848x480][AAC][16C07886].mkv",
+                    "group": "Shikkaku",
+                    "hash": "16C07886",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254969",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 03v2 (1280x720 x264 AAC)[30375649].mkv",
+                    "group": "EveTaku",
+                    "hash": "30375649",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265254",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 03v2 (1280x720 x264-Hi10P AAC)[2E586CBF].mkv",
+                    "group": "EveTaku",
+                    "hash": "2E586CBF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265255",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-10-29T19:20:00",
+            "episode": 4,
+            "score": 7.5146142369,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Ben-to_-_04_[107D4985].mkv",
+                    "group": "gg",
+                    "hash": "107D4985",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256418",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Ben-To - 04 (1280x720 x264 AAC)[E6ED019C].mkv",
+                    "group": "EveTaku",
+                    "hash": "E6ED019C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256541",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Ben-To - 04 (1280x720 x264-Hi10P AAC)[656BF668].mkv",
+                    "group": "EveTaku",
+                    "hash": "656BF668",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_04_[10bit][1280x720][AAC][B1C45FCC].mkv",
+                    "group": "Shikkaku",
+                    "hash": "B1C45FCC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256656",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_04_[8bit][1280x720][AAC][0CFC62CA].mkv",
+                    "group": "Shikkaku",
+                    "hash": "0CFC62CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256669",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_04_[8bit][848x480][AAC][A162276F].mkv",
+                    "group": "Shikkaku",
+                    "hash": "A162276F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256682",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-05T18:20:00",
+            "episode": 5,
+            "score": 7.5316582139,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Ben-to_-_05_[88652E6F].mkv",
+                    "group": "gg",
+                    "hash": "88652E6F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258277",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 05 (1280x720 x264 AAC)[15E4D65B].mkv",
+                    "group": "EveTaku",
+                    "hash": "15E4D65B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258334",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 05 (1280x720 x264-Hi10P AAC)[56A80B4E].mkv",
+                    "group": "EveTaku",
+                    "hash": "56A80B4E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258335",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_05_[10bit][1280x720][AAC][A37B4167].mkv",
+                    "group": "Shikkaku",
+                    "hash": "A37B4167",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258452",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_05_[8bit][848x480][AAC][F51BB641].mkv",
+                    "group": "Shikkaku",
+                    "hash": "F51BB641",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258456",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_05_[8bit][1280x720][AAC][40882794].mkv",
+                    "group": "Shikkaku",
+                    "hash": "40882794",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258468",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-12T18:20:00",
+            "episode": 6,
+            "score": 7.5366862412,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Ben-to_-_06_[B722DC7A].mkv",
+                    "group": "gg",
+                    "hash": "B722DC7A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259907",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Ben-To - 06 (1280x720 x264 AAC)[3222597A].mkv",
+                    "group": "EveTaku",
+                    "hash": "3222597A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259925",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 06 (1280x720 x264-Hi10P AAC)[36358EF7].mkv",
+                    "group": "EveTaku",
+                    "hash": "36358EF7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259926",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_06_[8bit][848x480][AAC][97C64C4F].mkv",
+                    "group": "Shikkaku",
+                    "hash": "97C64C4F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260141",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 2,
+                    "filename": "[Shikkaku]_Ben-To_06_[8bit][1280x720][AAC][AE80429C].mkv",
+                    "group": "Shikkaku",
+                    "hash": "AE80429C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260140",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 4,
+                    "filename": "[Shikkaku]_Ben-To_06_[10bit][1280x720][AAC][FB63D7F9].mkv",
+                    "group": "Shikkaku",
+                    "hash": "FB63D7F9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260174",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-19T18:20:00",
+            "episode": 7,
+            "score": 7.5581409682,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 18,
+                    "filename": "[gg]_Ben-to_-_07_[4E85D4EE].mkv",
+                    "group": "gg",
+                    "hash": "4E85D4EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261414",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] Ben-To - 07 (1280x720 x264-Hi10P AAC)[5CEF7EBE].mkv",
+                    "group": "EveTaku",
+                    "hash": "5CEF7EBE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] Ben-To - 07 (1280x720 x264 AAC)[57C8CD92].mkv",
+                    "group": "EveTaku",
+                    "hash": "57C8CD92",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261455",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_07_[10bit][1280x720][AAC][7442D574].mkv",
+                    "group": "Shikkaku",
+                    "hash": "7442D574",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264862",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_07_[8bit][1280x720][AAC][44A56817].mkv",
+                    "group": "Shikkaku",
+                    "hash": "44A56817",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_07_[8bit][848x480][AAC][5E652D0E].mkv",
+                    "group": "Shikkaku",
+                    "hash": "5E652D0E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264864",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-26T18:20:00",
+            "episode": 8,
+            "score": 7.5606190777,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 25,
+                    "filename": "[gg]_Ben-to_-_08_[F3FD8D1E].mkv",
+                    "group": "gg",
+                    "hash": "F3FD8D1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 10,
+                    "filename": "[EveTaku] Ben-To - 08 (1280x720 x264-Hi10P AAC)[F3E97775].mkv",
+                    "group": "EveTaku",
+                    "hash": "F3E97775",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263156",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 8,
+                    "filename": "[EveTaku] Ben-To - 08 (1280x720 x264 AAC)[E2C2CEAD].mkv",
+                    "group": "EveTaku",
+                    "hash": "E2C2CEAD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263154",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_08_[10bit][1280x720][AAC][F4AA79CA].mkv",
+                    "group": "Shikkaku",
+                    "hash": "F4AA79CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_08_[8bit][1280x720][AAC][FE7A1B78].mkv",
+                    "group": "Shikkaku",
+                    "hash": "FE7A1B78",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265219",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_08_[8bit][848x480][AAC][BA162601].mkv",
+                    "group": "Shikkaku",
+                    "hash": "BA162601",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265220",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-03T18:20:00",
+            "episode": 9,
+            "score": 7.5588341867,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[EveTaku] Ben-To - 09 (1280x720 x264 AAC)[A63129F3].mkv",
+                    "group": "EveTaku",
+                    "hash": "A63129F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265053",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 5,
+                    "filename": "[EveTaku] Ben-To - 09 (1280x720 x264-Hi10P AAC)[477D88B7].mkv",
+                    "group": "EveTaku",
+                    "hash": "477D88B7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265048",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[gg]_Ben-to_-_09_[A8F1EDF5].mkv",
+                    "group": "gg",
+                    "hash": "A8F1EDF5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265198",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_09_[10bit][1280x720][63E3F86A].mkv",
+                    "group": "Shikkaku",
+                    "hash": "63E3F86A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_09_[8bit][1280x720][56209F16].mkv",
+                    "group": "Shikkaku",
+                    "hash": "56209F16",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_09_[8bit][848x480][D9C5CE48].mkv",
+                    "group": "Shikkaku",
+                    "hash": "D9C5CE48",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267810",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-10T18:20:00",
+            "episode": 10,
+            "score": 7.5600684318,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[gg]_Ben-to_-_10_[B2DE2A2C].mkv",
+                    "group": "gg",
+                    "hash": "B2DE2A2C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267154",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 10 (1280x720 x264 AAC)[79503352].mkv",
+                    "group": "EveTaku",
+                    "hash": "79503352",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268106",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Ben-To - 10 (1280x720 x264-Hi10P AAC)[59B336A3].mkv",
+                    "group": "EveTaku",
+                    "hash": "59B336A3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_10_[10bit][1280x720][AAC][5396B0ED].mkv",
+                    "group": "Shikkaku",
+                    "hash": "5396B0ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_10_[8bit][848x480][AAC][76FF3680].mkv",
+                    "group": "Shikkaku",
+                    "hash": "76FF3680",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Shikkaku]_Ben-To_10_[8bit][1280x720][AAC][A48053B2].mkv",
+                    "group": "Shikkaku",
+                    "hash": "A48053B2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268151",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-17T18:20:00",
+            "episode": 11,
+            "score": 7.5613000705,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[gg]_Ben-to_-_11_[71F6AFCD].mkv",
+                    "group": "gg",
+                    "hash": "71F6AFCD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269451",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Ben-To - 11 (1280x720 x264-Hi10P AAC)[1ACF679B].mkv",
+                    "group": "EveTaku",
+                    "hash": "1ACF679B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269471",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] Ben-To - 11 (1280x720 x264 AAC)[C8132EDF].mkv",
+                    "group": "EveTaku",
+                    "hash": "C8132EDF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 2,
+                    "filename": "[Shikkaku]_Ben-To_11_[10bit][1280x720][AAC][35E02C9C].mkv",
+                    "group": "Shikkaku",
+                    "hash": "35E02C9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269677",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 4,
+                    "filename": "[Shikkaku]_Ben-To_11_[8bit][1280x720][AAC][3F7986EC].mkv",
+                    "group": "Shikkaku",
+                    "hash": "3F7986EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269668",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 3,
+                    "filename": "[Shikkaku]_Ben-To_11_[8bit][848x480][AAC][E8B84607].mkv",
+                    "group": "Shikkaku",
+                    "hash": "E8B84607",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269679",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-24T18:20:00",
+            "episode": 12,
+            "score": 7.7174551425,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Ben-To - 12 END (1280x720 x264-Hi10P AAC)[4D024326].mkv",
+                    "group": "EveTaku",
+                    "hash": "4D024326",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271219",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[EveTaku] Ben-To - 12 END (1280x720 x264 AAC)[C5E9E125].mkv",
+                    "group": "EveTaku",
+                    "hash": "C5E9E125",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[gg]_Ben-to_-_12_[33993A13].mkv",
+                    "group": "gg",
+                    "hash": "33993A13",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 0,
+                    "filename": "[Shikkaku]_Ben-To_12_[8bit][848x480][AAC][F5F0BD30].mkv",
+                    "group": "Shikkaku",
+                    "hash": "F5F0BD30",
+                    "url": "http://www.nyaa.eu/?page=download&tid=272290",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 0,
+                    "filename": "[Shikkaku]_Ben-To_12_[8bit][1280x720][AAC][678F5838].mkv",
+                    "group": "Shikkaku",
+                    "hash": "678F5838",
+                    "url": "http://www.nyaa.eu/?page=download&tid=272289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 6,
+                    "filename": "[Shikkaku]_Ben-To_12_[10bit][1280x720][AAC][DEBDE308].mkv",
+                    "group": "Shikkaku",
+                    "hash": "DEBDE308",
+                    "url": "http://www.nyaa.eu/?page=download&tid=272288",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8292,
+        "ann": 12541,
+        "mal": 10396,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/582330d83f23f050446e1ab93286b694.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/37693bf4971450d010be678fb911bf9b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5cd93915cb73fe1a34fae89bf24921ae.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/28dbdc701aca0429c454488c34e66c9f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f15932ee5ce26a3ab94472a75fd504be.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ab98996145d03a28944aa63eb16ef183.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f241341e5679783b06da5962ce8858bf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/94cd685a79805ee85a9da20f3f6ea729.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Ben-To (\u30d9\u30f3\u30fb\u30c8\u30fc) http://rdir.pl/1lpyal",
+            "filename": "http://s.modriv.net/abp/images/screencaps/254827fea4ea8e69f25feb2e025e9332.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dfc9d0f0effff10a588e95e4720c06bb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3677e241a6004375d71ec4c7bdfeb3b7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc9638702813daf63324994d54eaa307.jpg",
+            "hd": false
+        },
+        {
+            "description": "po przedpremierowym pokazie pewnej kin\u00f3wki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f9431d2ee93540e329daedcaaccbaf95.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"O graczu skacz\u0105cym przez okno\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/03f6f4adcdc0cf353d99e92b20178b8a.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Pewnego pi\u0119knego dnia Satou poszed\u0142 do marketu i zobaczy\u0142 bento w promocji. Nie namy\u015blaj\u0105c si\u0119 d\u0142ugo, si\u0119gn\u0105\u0142 po nie i straci\u0142 przytomno\u015b\u0107. Witamy na polu walki o przecenione bento, gdzie wszystkie chwyty dozwolone.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a light novel series by Asaura, with illustrations by Shibano Kaito.The story revolves around a poor high school student named Satou You. Satou goes to the supermarket one day and discovers a bento (boxed meal) on sale at half price. Just as he reaches to grab it, he ends up on the floor unconscious. Satou has just entered the fierce, no-holds-barred supermarket survival battle for half-price bento.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "You Sato is a new high school student living in the dorms. While seeking cheap eats at the local market he finds himself beat up and semi-conscious with fleeting glimpses of a girl during the moments of his collapse. As his memories recover the next day, he discovers that trying to purchase half priced lunchboxes can be hazardous to his health as free-for-all fights with local students for the discounted food is the nightly routine. The girl from the night before, Sen Yarizui, is an upper classmate known as the Frozen Witch and is one of the local Wolves who dominates the area. She educates him on the rules of the game where Wolves eat well while Dogs settle for cup ramen. With fellow first year student Hana Oshiroi, a fetishistic germaphobe, You Sato sets out to discover if he too has what it takes to be a Wolf and taste the sweet victory of half priced boxed banquets or wallow in the bitter defeat of reconstituted noodles and salty broth in a styrofoam bowl.",
+            "type": "ann"
+        },
+        {
+            "content": "Sato Yo is a high school boy who likes SEGA games. One day, he enters a grocery store to buy some food for dinner. When he tries to take a bento box, he loses consciousness. He comes around to find all the bento sold out. He notices there is a war game going on at grocery stores and players called \"Wolves\" compete for the half-priced bento. Yarizui Sen, the leader of the Half-Pricer Club, forces Yo to join the club and he enters the bento war.",
+            "type": "mal"
+        },
+        {
+            "content": "While innocently reaching for some half-priced bento, Y\u014d Sat\u014d finds himself beaten up on the floor of a supermarket. He soon learns that getting half-priced bento is an all-out brawl between students. Y\u014d is invited to the Half-Priced Food Lovers Club by one of the top fighters, Sen Yarizui, in order to train to compete in these battles.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 19561,
+            "date": "2012-09-29T13:49:11",
+            "score": 7.66,
+            "type": "mal"
+        },
+        {
+            "count": 733,
+            "date": "2012-09-29T13:49:11",
+            "score": 7.355,
+            "type": "ann"
+        },
+        {
+            "count": 1193,
+            "date": "2012-09-29T13:49:11",
+            "score": 7.27,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Ben-To"
+}

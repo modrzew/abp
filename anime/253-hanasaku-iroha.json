@@ -1,0 +1,2407 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u82b1\u54b2\u304f\u3044\u308d\u306f"
+        },
+        {
+            "language": "pl",
+            "title": "ABC Kwitnienia Kwiat\u00f3w"
+        }
+    ],
+    "aliases": [
+        "Hanasaku Iroha",
+        "Hana-Saku Iroha"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/425831549",
+            "content": "#anime #Wiosna2011 Hanasaku Iroha (\u82b1\u54b2\u304f\u3044\u308d\u306f) http://rdir.pl/1bvig7",
+            "episode": 1,
+            "filename": "d5df425323bfc88249f3a2692070db3d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/55072020869820416"
+        },
+        {
+            "blip_url": "http://blip.pl/s/444132407",
+            "content": "Hanasaku Iroha 02 - personel te\u017c musi si\u0119 czasem rozerwa\u0107",
+            "episode": 2,
+            "filename": "67fc08b82e0920197e2bd9b5e8e2cce6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/58575217458556929"
+        },
+        {
+            "blip_url": "http://blip.pl/s/458483955",
+            "content": "Hanasaku Iroha 03 - ci\u0105g dalszy rozrywek personelu",
+            "episode": 3,
+            "filename": "3d837ec01a53533b74d5d47ebe6cd6fa.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/60775692828286976"
+        },
+        {
+            "blip_url": "http://blip.pl/s/467715539",
+            "content": "Hanasaku Iroha 04 - p?aska Ohana jest p?aska...",
+            "episode": 4,
+            "filename": "5ad46f4a950c8787284c006d2fcc9052.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/62623140790009856"
+        },
+        {
+            "blip_url": "http://blip.pl/s/479149457",
+            "content": "Hanasaku Iroha 05 - Kuchenny N\u00f3? Wi?kszego Przyzwania Wspomnie?",
+            "episode": 5,
+            "filename": "16a6a2672cdb0dd5d6c6881a2aea6110.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/64763653899038720"
+        },
+        {
+            "blip_url": "http://blip.pl/s/495829443",
+            "content": "Hanasaku Iroha 06 - personel jak zwykle dobrze si? bawi...",
+            "episode": 6,
+            "filename": "38a080ef17529512832c516e6ddcb547.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/68085073857097728"
+        },
+        {
+            "blip_url": "http://blip.pl/s/506920595",
+            "content": "Hanasaku Iroha 07 - p?asko?? zidentyfikowana! To?samo?? celu potwierdzona!",
+            "episode": 7,
+            "filename": "57ca12a31d05c06e173c2408cd1d474d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/70088278270935040"
+        },
+        {
+            "blip_url": "http://blip.pl/s/531710113",
+            "content": "Hanasaku Iroha 08 - a m\u00f3wi?, ?e z?ych diabli nie bior?",
+            "episode": 8,
+            "filename": "46ffd8df76704641e602266fc4b9c26c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/74116490042949632"
+        },
+        {
+            "blip_url": "http://blip.pl/s/535990137",
+            "content": "Hanasaku Iroha 09 - pracownicy Kissuiso jak zwykle dobrze si? bawi?",
+            "episode": 9,
+            "filename": "07a57df0ae4059927c62320935c03cd5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/74888970374365184"
+        },
+        {
+            "blip_url": "http://blip.pl/s/551098871",
+            "content": "Hanasaku Iroha 10 - Ohana chora, a reszta bawi si? dalej",
+            "episode": 10,
+            "filename": "67cff4df7099e74a86073494659e61be.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/78957822318100480"
+        },
+        {
+            "blip_url": "http://blip.pl/s/556288461",
+            "content": "Hanasaku Iroha 11 - zdrad? mi swoje tajemnice, kawa?ku papieru!",
+            "episode": 11,
+            "filename": "44298694fbf28319670aa73ab89dff2d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/79991521654472704"
+        },
+        {
+            "blip_url": "http://blip.pl/s/569903899",
+            "content": "Hanasaku Iroha 12 - konfrontacja twarz? w twarz!",
+            "episode": 12,
+            "filename": "4593bdb9a6d68a22546d35f7958932c2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/82583265134911488"
+        },
+        {
+            "blip_url": "http://blip.pl/s/586262721",
+            "content": "Hanasaku Iroha 13 - ledwo si? wakacje zacz??y, a liceali?ci ju? chlej?",
+            "episode": 13,
+            "filename": "d4c25373a2a8ce2b40fe80de1f011308.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/86221391946465280"
+        },
+        {
+            "blip_url": "http://blip.pl/s/593169035",
+            "content": "Hanasaku Iroha 14 - obowi?zkowy odcinek pla?owy",
+            "episode": 14,
+            "filename": "117bcef1fea21eca4c498a110b4fbf65.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/87952696522448896"
+        },
+        {
+            "blip_url": "http://blip.pl/s/631317657",
+            "content": "Hanasaku Iroha 17 - praca w Kissuisou to niebezpieczna sprawa",
+            "episode": 17,
+            "filename": "9194ee5cea47a3a9ced5bb5dda29531a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/95646882042359808"
+        },
+        {
+            "blip_url": "http://blip.pl/s/645715315",
+            "content": "Hanasaku Iroha 18 - okazuje si?, ?e rozmiar jednak ma znaczenie",
+            "episode": 18,
+            "filename": "3b7b8e221e9af06f04a273d8d1319d5c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/98167667160121344"
+        },
+        {
+            "blip_url": "http://blip.pl/s/652194219",
+            "content": "Hanasaku Iroha 19 - urocza pokoj\u00f3wka z tego Kou... chwila, co?!",
+            "episode": 19,
+            "filename": "a1d7afb229d3394e206c5b9e511446e2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/100578579947061249"
+        },
+        {
+            "blip_url": "http://blip.pl/s/661646007",
+            "content": "Hanasaku Iroha 20 - prawdziwa twarz Ohany",
+            "episode": 20,
+            "filename": "14404780ec6884989a72d6f2ee2e39a9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/102826430651568128"
+        },
+        {
+            "blip_url": "http://blip.pl/s/671897869",
+            "content": "Hanasaku Iroha 21 - DRAMA commencing in 3... 2... 1...",
+            "episode": 21,
+            "filename": "747b47c5552406d99be59185dffe5229.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/105327455375601664"
+        },
+        {
+            "blip_url": "http://blip.pl/s/690408337",
+            "content": "Hanasaku Iroha 22 - pracownicy Kissuiso jak zwykle dobrze si? bawi?",
+            "episode": 22,
+            "filename": "a54a1c67a6796dbe3c29a80f9f08fb9f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/109640223318749184"
+        },
+        {
+            "blip_url": "http://blip.pl/s/693295065",
+            "content": "Hanasaku Iroha 23 - jak wida? Takako potrafi co? jeszcze gro?niejszego ni? w?adanie engrishem",
+            "episode": 23,
+            "filename": "4c1624ad7de3de9c71b55b3e8d7744aa.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/110429203488456704"
+        },
+        {
+            "blip_url": "http://blip.pl/s/704021655",
+            "content": "Hanasaku Iroha 24 - to jest napad!",
+            "episode": 24,
+            "filename": "abb3a10becca6de2862eeb94b336a3da.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/113028702438305793"
+        },
+        {
+            "blip_url": "http://blip.pl/s/714891057",
+            "content": "Hanasaku Iroha 25 - zosta? tylko jeden odcinek, a personel jak zawsze si? nie przejmuje",
+            "episode": 25,
+            "filename": "fbc1a1a57a7b166661b59f7d14beef9d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/115609678871928833"
+        },
+        {
+            "blip_url": "http://blip.pl/s/735419707",
+            "content": "#anime #Wiosna2011 Hanasaku Iroha (??????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1bvig7)",
+            "episode": 26,
+            "filename": "bfc7f9bdb78b469c1c498947f23b1ed7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/120583785615065088"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-03T15:00:00",
+            "episode": 1,
+            "score": 8.1577121316,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203791",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Splazm] Hana-Saku Iroha - 01 [5280e10c].mkv",
+                    "group": "Splazm",
+                    "hash": "5280e10c",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203800",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_01_[1280x720][358B6F17].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "358B6F17",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203915",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 01 (480p) [E539CEBF].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "E539CEBF",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2001%20(480p)%20%5BE539CEBF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 01 (720p) [CC2E52C9].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "CC2E52C9",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2001%20(720p)%20%5BCC2E52C9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_01v2_[1280x720][1D24C95A].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "1D24C95A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204400",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Splazm] Hana-Saku Iroha - 01 v2 [db8da4c9].mkv",
+                    "group": "Splazm",
+                    "hash": "db8da4c9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204339",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Kinniku] Hanasaku Iroha - 01 (848x480 h264 AAC).mkv",
+                    "group": "Kinniku",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=204429",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Hanasaku Iroha - 01 [1280x720 h.264 AAC][BDC36683].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "BDC36683",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Hanasaku%20Iroha%20-%2001%20%5B1280x720%20h.264%20AAC%5D%5BBDC36683%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-10T15:00:00",
+            "episode": 2,
+            "score": 8.198486852,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205249",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205259",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Splazm] Hana-saku Iroha - 02 [a3530a90].mkv",
+                    "group": "Splazm",
+                    "hash": "a3530a90",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205299",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_02_[1280x720][07C905E3].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "07C905E3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 02 (480p) [060313FB].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "060313FB",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2002%20(480p)%20%5B060313FB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 02 (720p) [F3363342].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "F3363342",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2002%20(720p)%20%5BF3363342%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SHiN-gx] Hanasaku Iroha - 02 [1280x720 h.264 AAC][3CDC72A6].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "3CDC72A6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211796",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-17T15:00:00",
+            "episode": 3,
+            "score": 8.2313644524,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206998",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206999",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Hana-Saku Iroha - 03 [357bdf04].mkv",
+                    "group": "Splazm",
+                    "hash": "357bdf04",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207116",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[D-MX x264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CCS] Hanasaku Iroha 03 (D-MX x264 AAC 1280x720)[94E8DF83].mkv",
+                    "group": "CCS",
+                    "hash": "94E8DF83",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_03_[1280x720][7734ABFB].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "7734ABFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 03 (480p) [2FFD393D].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "2FFD393D",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2003%20(480p)%20%5B2FFD393D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 03 (720p) [A043409B].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "A043409B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2003%20(720p)%20%5BA043409B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] Hanasaku Iroha - 03 [1280x720 h.264 AAC][3AC241B5].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "3AC241B5",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=217191",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-24T15:00:00",
+            "episode": 4,
+            "score": 8.2221695933,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Splazm] Hana-Saku Iroha - 04 [848aa0fe].mkv",
+                    "group": "Splazm",
+                    "hash": "848aa0fe",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208978",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 5,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_04_[1280x720][60634F3A].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "60634F3A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209010",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 04 (480p) [C984FD7B].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "C984FD7B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2004%20(480p)%20%5BC984FD7B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 04 (720p) [B4C72BF2].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "B4C72BF2",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2004%20(720p)%20%5BB4C72BF2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[LemonSubs] Hanasaku Iroha 4.mkv",
+                    "group": "LemonSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209250",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 5,
+                    "filename": "[SHiN-gx] Hanasaku Iroha - 04 [1280x720 h.264 AAC][6413BC98].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "6413BC98",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=220091",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-01T15:00:00",
+            "episode": 5,
+            "score": 8.215756954,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Splazm] Hana-Saku Iroha - 05 [522869ee].mkv",
+                    "group": "Splazm",
+                    "hash": "522869ee",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210852",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_05_[1280x720][EC685DC5].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "EC685DC5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210918",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 05 (480p) [BAC6C980].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "BAC6C980",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2005%20(480p)%20%5BBAC6C980%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 05 (720p) [E8FF277B].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "E8FF277B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2005%20(720p)%20%5BE8FF277B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_05v2_[1280x720][A29D1B90].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "A29D1B90",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212600",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] Hanasaku Iroha - 05 [1280x720 h.264 AAC][B9F9B5DA].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "B9F9B5DA",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Hanasaku%20Iroha%20-%2005%20%5B1280x720%20h.264%20AAC%5D%5BB9F9B5DA%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-08T15:00:00",
+            "episode": 6,
+            "score": 8.216175552,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212489",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212490",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_06_[1280x720][E0D0F251].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "E0D0F251",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]  ",
+                    "download_count": 0,
+                    "filename": "[Chiki-Subs] Hana-Saku Iroha - 06 (720p)  [F79BD386].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "F79BD386",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 06 (480p) [DCF36739].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "DCF36739",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2006%20(480p)%20%5BDCF36739%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 06 (720p) [D8DC47E4].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "D8DC47E4",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2006%20(720p)%20%5BD8DC47E4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Hanasaku Iroha - 06 [1280x720 h.264 AAC][D3E12400].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "D3E12400",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Hanasaku%20Iroha%20-%2006%20%5B1280x720%20h.264%20AAC%5D%5BD3E12400%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-15T15:00:00",
+            "episode": 7,
+            "score": 8.2179961076,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214128",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214129",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_07_[1280x720][2D8395C1].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "2D8395C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214361",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 07 (480p) [396C21A1].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "396C21A1",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2007%20(480p)%20%5B396C21A1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 07 (720p) [01B2F0CE].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "01B2F0CE",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2007%20(720p)%20%5B01B2F0CE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]  ",
+                    "download_count": 0,
+                    "filename": "[Chiki-Subs] Hana-Saku Iroha - 07 (720p)  [0D30101C].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "0D30101C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214418",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Chiki-Subs] Hana-Saku Iroha - 07 (720p) [4EB9E45A].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "4EB9E45A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=214585",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-22T15:00:00",
+            "episode": 8,
+            "score": 8.2225796872,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 5,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_08_[1280x720][F518A305].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "F518A305",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215931",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 08 (480p) [15F7DF0A].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "15F7DF0A",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2008%20(480p)%20%5B15F7DF0A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 08 (720p) [D2D556E8].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "D2D556E8",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2008%20(720p)%20%5BD2D556E8%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-29T15:00:00",
+            "episode": 9,
+            "score": 8.2154320405,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217404",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217405",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_09_[1280x720][1DD48A09].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "1DD48A09",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217534",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 09 (480p) [7E77D1C1].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "7E77D1C1",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2009%20(480p)%20%5B7E77D1C1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 09 (720p) [5D006109].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "5D006109",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2009%20(720p)%20%5B5D006109%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-05T15:00:00",
+            "episode": 10,
+            "score": 8.1904337592,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219051",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219052",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_10_[1280x720][C0ACBA6B].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "C0ACBA6B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219193",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 10 (480p) [9A631CD0].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "9A631CD0",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2010%20(480p)%20%5B9A631CD0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 10 (720p) [4AC495FE].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "4AC495FE",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2010%20(720p)%20%5B4AC495FE%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-12T15:00:00",
+            "episode": 11,
+            "score": 8.1940335616,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220570",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_11_[1280x720][2DD41DE2].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "2DD41DE2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 11 (480p) [02EAB8A2].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "02EAB8A2",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2011%20(480p)%20%5B02EAB8A2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 11 (720p) [270A4834].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "270A4834",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2011%20(720p)%20%5B270A4834%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-19T15:00:00",
+            "episode": 12,
+            "score": 8.2010738681,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 12v2 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222267",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_12_[1280x720][8ECFA5B2].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "8ECFA5B2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222394",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 12 (480p) [C71CB8F1].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "C71CB8F1",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2012%20(480p)%20%5BC71CB8F1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 12 (720p) [31C402BF].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "31C402BF",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2012%20(720p)%20%5B31C402BF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Hanasaku Iroha - 12 (1280x720 h264 AAC) [F5B9B231].mkv",
+                    "group": "Doki",
+                    "hash": "F5B9B231",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_12_1280x720_h264_AAC_F5B9B231.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Hanasaku Iroha - 12 (848x480 h264 AAC) [28461748].mkv",
+                    "group": "Doki",
+                    "hash": "28461748",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_12_848x480_h264_AAC_28461748.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-26T15:00:00",
+            "episode": 13,
+            "score": 8.1986630949,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223805",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223806",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 13 (480p) [372450C5].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "372450C5",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2013%20(480p)%20%5B372450C5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 13 (720p) [D8081FF2].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "D8081FF2",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2013%20(720p)%20%5BD8081FF2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 13 (1280x720 h264 AAC) [D34A570F].mkv",
+                    "group": "Doki",
+                    "hash": "D34A570F",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_13_1280x720_h264_AAC_D34A570F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 13 (848x480 h264 AAC) [684A68A2].mkv",
+                    "group": "Doki",
+                    "hash": "684A68A2",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_13_848x480_h264_AAC_684A68A2.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_13_[1280x720][783A07C4].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "783A07C4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225516",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-03T15:00:00",
+            "episode": 14,
+            "score": 8.1977828743,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225308",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225309",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_14_[1280x720][F21E556D].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "F21E556D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225517",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 14 (1280x720 h264 AAC) [7C3C1A34].mkv",
+                    "group": "Doki",
+                    "hash": "7C3C1A34",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_14_1280x720_h264_AAC_7C3C1A34.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 14 (848x480 h264 AAC) [12A24B87].mkv",
+                    "group": "Doki",
+                    "hash": "12A24B87",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_14_848x480_h264_AAC_12A24B87.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 14 (480p) [B50DE6C4].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "B50DE6C4",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2014%20(480p)%20%5BB50DE6C4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 14 (720p) [D3377C6B].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "D3377C6B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2014%20(720p)%20%5BD3377C6B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-10T15:00:00",
+            "episode": 15,
+            "score": 8.199249277,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227230",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227232",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_15_[1280x720][CCA2F4D9].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "CCA2F4D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Hanasaku Iroha - 15 (1280x720 h264 AAC) [299451BD].mkv",
+                    "group": "Doki",
+                    "hash": "299451BD",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_15_1280x720_h264_AAC_299451BD.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Hanasaku Iroha - 15 (848x480 h264 AAC) [FB6BE609].mkv",
+                    "group": "Doki",
+                    "hash": "FB6BE609",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_15_848x480_h264_AAC_FB6BE609.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 15 (480p) [F3F8F523].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "F3F8F523",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2015%20(480p)%20%5BF3F8F523%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 15 (720p) [A2F54567].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "A2F54567",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2015%20(720p)%20%5BA2F54567%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-17T15:00:00",
+            "episode": 16,
+            "score": 8.1898186319,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228950",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_16_[1280x720][2E577D5C].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "2E577D5C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229583",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 16 (480p) [8BE90319].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "8BE90319",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2016%20(480p)%20%5B8BE90319%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 16 (720p) [AC18FF97].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "AC18FF97",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2016%20(720p)%20%5BAC18FF97%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Hanasaku Iroha - 16 (1280x720 h264 AAC) [06D0F21D].mkv",
+                    "group": "Doki",
+                    "hash": "06D0F21D",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_16_1280x720_h264_AAC_06D0F21D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Hanasaku Iroha - 16 (848x480 h264 AAC) [59D120B9].mkv",
+                    "group": "Doki",
+                    "hash": "59D120B9",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_16_848x480_h264_AAC_59D120B9.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-24T15:00:00",
+            "episode": 17,
+            "score": 8.1693506124,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230804",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230802",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][eng]",
+                    "download_count": 1,
+                    "filename": "[p0kem0n]Hanasaku_Iroha-17_[720p][eng].mkv",
+                    "group": "p0kem0n",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_17_[1280x720][14016BAB].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "14016BAB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 17 (480p) [861D9C1F].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "861D9C1F",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2017%20(480p)%20%5B861D9C1F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 17 (720p) [8D1C1FF1].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "8D1C1FF1",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2017%20(720p)%20%5B8D1C1FF1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Hanasaku Iroha - 17 (1280x720 h264 AAC) [E9E4A30C].mkv",
+                    "group": "Doki",
+                    "hash": "E9E4A30C",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_17_1280x720_h264_AAC_E9E4A30C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Hanasaku Iroha - 17 (848x480 h264 AAC) [EE86857A].mkv",
+                    "group": "Doki",
+                    "hash": "EE86857A",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_17_848x480_h264_AAC_EE86857A.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-01T15:00:00",
+            "episode": 18,
+            "score": 8.1592065183,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232820",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232821",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_18_[1280x720][1FBBF341].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "1FBBF341",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 18 (480p) [7C95AC2A].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "7C95AC2A",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2018%20(480p)%20%5B7C95AC2A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 18 (720p) [CA0EA735].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "CA0EA735",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2018%20(720p)%20%5BCA0EA735%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 18 (1280x720 h264 AAC) [A910BDA3].mkv",
+                    "group": "Doki",
+                    "hash": "A910BDA3",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_18_1280x720_h264_AAC_A910BDA3.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 18 (848x480 h264 AAC) [BACBEEE4].mkv",
+                    "group": "Doki",
+                    "hash": "BACBEEE4",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_18_848x480_h264_AAC_BACBEEE4.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-07T15:00:00",
+            "episode": 19,
+            "score": 8.1410245475,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234960",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_19_[1280x720][8281FD00].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "8281FD00",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 19 (1280x720 h264 AAC) [4FCC4E4B].mkv",
+                    "group": "Doki",
+                    "hash": "4FCC4E4B",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_19_1280x720_h264_AAC_4FCC4E4B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 19 (848x480 h264 AAC) [F023FB2C].mkv",
+                    "group": "Doki",
+                    "hash": "F023FB2C",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_19_848x480_h264_AAC_F023FB2C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 19 (480p) [6470CF1A].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "6470CF1A",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2019%20(480p)%20%5B6470CF1A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater-Commie] Hanasaku Iroha - 19 (720p) [4B1220C1].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "4B1220C1",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Hanasaku%20Iroha%20-%2019%20(720p)%20%5B4B1220C1%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-14T15:00:00",
+            "episode": 20,
+            "score": 8.1314413772,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236725",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236727",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 20 (848x480 h264 AAC) [BF6DBE23].mkv",
+                    "group": "Doki",
+                    "hash": "BF6DBE23",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_20_848x480_h264_AAC_BF6DBE23.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 20 (1280x720 h264 AAC) [01B5F2AC].mkv",
+                    "group": "Doki",
+                    "hash": "01B5F2AC",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_20_1280x720_h264_AAC_01B5F2AC.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_20_[1280x720][1FED46C2].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "1FED46C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237862",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-21T15:00:00",
+            "episode": 21,
+            "score": 8.1219920239,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238945",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238946",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Hanasaku Iroha - 21 (848x480 h264 AAC) [B0EFFD56].mkv",
+                    "group": "Doki",
+                    "hash": "B0EFFD56",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_21_848x480_h264_AAC_B0EFFD56.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Hanasaku Iroha - 21 (1280x720 h264 AAC) [C0609069].mkv",
+                    "group": "Doki",
+                    "hash": "C0609069",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_21_1280x720_h264_AAC_C0609069.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_21_[1280x720][9AF347F4].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "9AF347F4",
+                    "url": "http://zoink.it/torrent/A306118E792D828642AB6A3FAF0B7707774D1D16.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-28T15:00:00",
+            "episode": 22,
+            "score": 8.1232009962,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][AnimeDragon]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 22 [720p] (AnimeDragon).mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240906",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 22 (1280x720 h264 AAC) [BE583FC9].mkv",
+                    "group": "Doki",
+                    "hash": "BE583FC9",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_22_1280x720_h264_AAC_BE583FC9.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 22 (848x480 h264 AAC) [00DBDE05].mkv",
+                    "group": "Doki",
+                    "hash": "00DBDE05",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_22_848x480_h264_AAC_00DBDE05.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_22_[1280x720][C63EF52D].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "C63EF52D",
+                    "url": "http://wilders.sleepsub.nl/torrents/%5BHatsuyuki-Tsuki%5D_Hanasaku_Iroha_-_22_%5B1280x720%5D%5BC63EF52D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-04T15:00:00",
+            "episode": 23,
+            "score": 8.1213053034,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242903",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242905",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Hanasaku Iroha - 23 (848x480 h264 AAC) [1340559A].mkv",
+                    "group": "Doki",
+                    "hash": "1340559A",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_23_848x480_h264_AAC_1340559A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Hanasaku Iroha - 23 (1280x720 h264 AAC) [E420A8B1].mkv",
+                    "group": "Doki",
+                    "hash": "E420A8B1",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_23_1280x720_h264_AAC_E420A8B1.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_23_[1280x720][06AC038F].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "06AC038F",
+                    "url": "http://wilders.sleepsub.nl/torrents/%5BHatsuyuki-Tsuki%5D_Hanasaku_Iroha_-_23_%5B1280x720%5D%5B06AC038F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-11T15:00:00",
+            "episode": 24,
+            "score": 8.1140224855,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 24 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 24 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244733",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_24_[1280x720][0FE8B13C].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "0FE8B13C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245017",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 24 (848x480 h264 AAC) [660ADDEA].mkv",
+                    "group": "Doki",
+                    "hash": "660ADDEA",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_24_848x480_h264_AAC_660ADDEA.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 24 (1280x720 h264 AAC) [C0EE1CBB].mkv",
+                    "group": "Doki",
+                    "hash": "C0EE1CBB",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_24_1280x720_h264_AAC_C0EE1CBB.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-18T15:00:00",
+            "episode": 25,
+            "score": 8.1042430537,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 25 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246367",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 25 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246368",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_25_[1280x720][9B43FA3A].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "9B43FA3A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 25 (848x480 h264 AAC) [D0685253].mkv",
+                    "group": "Doki",
+                    "hash": "D0685253",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_25_848x480_h264_AAC_D0685253.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Hanasaku Iroha - 25 (1280x720 h264 AAC) [78A4AF0A].mkv",
+                    "group": "Doki",
+                    "hash": "78A4AF0A",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_25_1280x720_h264_AAC_78A4AF0A.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-25T15:00:00",
+            "episode": 26,
+            "score": 8.1658600145,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 26 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248119",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hanasaku Iroha - 26 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248120",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Hanasaku_Iroha_-_26_END_[1280x720][4F96CAB3].mkv",
+                    "group": "Hatsyuki-Tsuki",
+                    "hash": "4F96CAB3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248531",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Hanasaku Iroha - 26 (1280x720 h264 AAC) [A2F4E43E].mkv",
+                    "group": "Doki",
+                    "hash": "A2F4E43E",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_26_1280x720_h264_AAC_A2F4E43E.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Hanasaku Iroha - 26 (848x480 h264 AAC) [7F0B16BD].mkv",
+                    "group": "Doki",
+                    "hash": "7F0B16BD",
+                    "url": "http://tracker.anime-index.org/Doki_Hanasaku_Iroha_-_26_848x480_h264_AAC_7F0B16BD.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7874,
+        "ann": 11795,
+        "mal": 9289,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4a4802b55a7fb03e1753494780c4ed9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ojej, jestem w chi\u0144skiej bajce!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/923883a814962479062dc58ec43e8ca0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Spadaj, to moja chi\u0144ska bajka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d287f4656a2f1af8678f82c6e6629c7a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/601c39810cd05b4d755e26cc628aafa7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/825cc5a3e53790eec4302a22b1c0105b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a09e6618656e69da0255910d6fc9c840.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Hanasaku Iroha (\u82b1\u54b2\u304f\u3044\u308d\u306f) http://rdir.pl/1bvig7",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d5df425323bfc88249f3a2692070db3d.jpg",
+            "hd": false
+        },
+        {
+            "description": "personel te\u017c musi si\u0119 czasem rozerwa\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/67fc08b82e0920197e2bd9b5e8e2cce6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/39da48d75df43018c992ed10bcc1734b.jpg",
+            "hd": false
+        },
+        {
+            "description": "plewienie ogr\u00f3dka to powa\u017cna bitwa!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b287e6661b8997c476d1d8043541b54b.jpg",
+            "hd": false
+        },
+        {
+            "description": "ci\u0105g dalszy rozrywek personelu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3d837ec01a53533b74d5d47ebe6cd6fa.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c6e308800bc5296d5060d6ae399e8b88.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5ad894991b26ef3a9044d29d53ad5d19.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f07a8d691f7fe7b8248858d42b36ec04.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7336027171b8fc0da32c5ca1d6e14656.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5c55575905195b079436f3f01f5bf1ad.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/58faca047099900d9a037cc4b71f705c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2ad82f6f0f0ca9e3971b44ea16dc5085.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d60e2fda3a5655724dc52ae77ff7a308.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c2d1e0baeb63f4e0117c103046dedd39.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ca573aad2b99a1ef8c2437d702253d75.jpg",
+            "hd": false
+        },
+        {
+            "description": "p?aska Ohana jest p?aska...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5ad46f4a950c8787284c006d2fcc9052.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b057ec0097c284cd32ee4ed64f46f5a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "?E JAKA KIN\u00d3WKA WYCHODZI W TYM ROKU?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3a1cd9f2171a9f9ccc80a95767b851d4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kuchenny N\u00f3? Wi?kszego Przyzwania Wspomnie?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/16a6a2672cdb0dd5d6c6881a2aea6110.jpg",
+            "hd": false
+        },
+        {
+            "description": "nie zadziera? z dzikimi zwierz?tami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b56f26fb8f32d70a15475cf8ec8651d2.jpg",
+            "hd": false
+        },
+        {
+            "description": "BOGACTWO!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2fa4dda50926f5da248bf9d4430c7d89.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d021988c1aa8655c0ea9f34d8ceea11b.jpg",
+            "hd": false
+        },
+        {
+            "description": "personel jak zwykle dobrze si? bawi...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/38a080ef17529512832c516e6ddcb547.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3d7cc115814aa9ce71a25382324d2644.jpg",
+            "hd": false
+        },
+        {
+            "description": "p?asko?? zidentyfikowana! To?samo?? celu potwierdzona!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/57ca12a31d05c06e173c2408cd1d474d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e73ef82e40cc7a4883ec814ef0095f85.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c40b711cedec334b5b2002924eb8da76.jpg",
+            "hd": false
+        },
+        {
+            "description": "WTF am I watching?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3b0ebb6d4d35a0b62451a6ec95665704.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tomoe umiera w 7 odcinku!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2f256e39671815b0406c97e65d29ed83.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/20380a0658ab42f39d48c7997db59fed.jpg",
+            "hd": false
+        },
+        {
+            "description": "TYLE CUKRU!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/04caa6e5a6187fbef3faea239c321ad3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/19ad81dd75d44d894aeaed25ed6f5567.jpg",
+            "hd": false
+        },
+        {
+            "description": "a m\u00f3wi?, ?e z?ych diabli nie bior?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/46ffd8df76704641e602266fc4b9c26c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d0b8da6390fa3b0ce43eeb1993367690.jpg",
+            "hd": false
+        },
+        {
+            "description": "zabi?em j?, naprawd? j? zabi?em!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/20632cfcf0fdbbd70c9e16fd522ded76.jpg",
+            "hd": false
+        },
+        {
+            "description": "morderstwo na martwej rybie!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/760bc75777f6b83a74f3948cbb1d1d39.jpg",
+            "hd": false
+        },
+        {
+            "description": "pracownicy Kissuiso jak zwykle dobrze si? bawi?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/07a57df0ae4059927c62320935c03cd5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cb4e843bcc112665d21adde3296b462a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ohana chora, a reszta bawi si? dalej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/67cff4df7099e74a86073494659e61be.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49005d3fa735e4375ce4e1bdfb58d3d0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a65ad158614b074d07265b5f60802f4e.jpg",
+            "hd": false
+        },
+        {
+            "description": "zdrad? mi swoje tajemnice, kawa?ku papieru!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/44298694fbf28319670aa73ab89dff2d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2d5c32555207004a8de420f849dba163.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ka?dy mo?e by? chi?czykiem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b5b4ab104b56af80e6ff157f24d94dc8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f654ff09f2cc9b0c1d5c120c9a9f01d5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ohana uczy si? prawdziwego ?ycia",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d53903564205bb4f24a0ca56b4bdf558.jpg",
+            "hd": false
+        },
+        {
+            "description": "konfrontacja twarz? w twarz!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4593bdb9a6d68a22546d35f7958932c2.jpg",
+            "hd": false
+        },
+        {
+            "description": "doushiyo...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/809ea0425c21ab2657b34817b8aca698.jpg",
+            "hd": false
+        },
+        {
+            "description": "Minko po zobaczeniu zwiastuna pewnej kin\u00f3wki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/231a8553662b6aab9ae6e6ca94739f89.jpg",
+            "hd": false
+        },
+        {
+            "description": "ledwo si? wakacje zacz??y, a liceali?ci ju? chlej?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d4c25373a2a8ce2b40fe80de1f011308.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3c8e4227565e27412c99c1667bae8244.jpg",
+            "hd": false
+        },
+        {
+            "description": ":<",
+            "filename": "http://s.modriv.net/abp/images/screencaps/29fa8cfcb0da522f61a63a6884e4972e.jpg",
+            "hd": false
+        },
+        {
+            "description": "D;",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a13e5d97d3e1ace36a103ec92e9f0738.jpg",
+            "hd": false
+        },
+        {
+            "description": "obowi?zkowy odcinek pla?owy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/117bcef1fea21eca4c498a110b4fbf65.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b731b1964076715ea98b89d10fa41d5.jpg",
+            "hd": false
+        },
+        {
+            "description": "fabu?a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d8eac982c465907000eba34ae95162f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9a2c703c015859548db4ba1a3af7102d.jpg",
+            "hd": false
+        },
+        {
+            "description": "praca w Kissuisou to niebezpieczna sprawa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9194ee5cea47a3a9ced5bb5dda29531a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4586e03e0c262f5f486d776ba2376065.jpg",
+            "hd": false
+        },
+        {
+            "description": "okazuje si?, ?e rozmiar jednak ma znaczenie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3b7b8e221e9af06f04a273d8d1319d5c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c62c49e71d79ad7a2aadea9f6f330d6b.jpg",
+            "hd": true
+        },
+        {
+            "description": "mapa skarb\u00f3w!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6e7fe92349bcb8d6f94e2a066e4f9b4c.jpg",
+            "hd": false
+        },
+        {
+            "description": ":o",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ab7e96226606cdd0fe50c6eaca189e68.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3595ebc31f7769393424932675cc5cc3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/32aca2bbbe0d94da1fc1aecd30c47e1a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Z pocz?tku Nako by?a przeciwna ?wiadczeniu go?ciom \"us?ug specjalnych\", jednak szybko zmieni?a zdanie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fc7ab76423145cd5eeaa8c1b712fbb4e.jpg",
+            "hd": false
+        },
+        {
+            "description": "...a Ohana ma mniejsze cycki, to i mniej kasy dosta?a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/de15c098bc141de0fa5df83fccc2bf2b.jpg",
+            "hd": false
+        },
+        {
+            "description": "urocza pokoj\u00f3wka z tego Kou... chwila, co?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a1d7afb229d3394e206c5b9e511446e2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9121ece230ebce9f58f53310bcc4cd5c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b5676cc1bb51c516860dda76fcbac10.jpg",
+            "hd": false
+        },
+        {
+            "description": "dobry towar",
+            "filename": "http://s.modriv.net/abp/images/screencaps/25650949de34d3588391d0e569e1f915.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/42cf744c820f79ed193b5239bac01299.jpg",
+            "hd": true
+        },
+        {
+            "description": "prawdziwa twarz Ohany",
+            "filename": "http://s.modriv.net/abp/images/screencaps/14404780ec6884989a72d6f2ee2e39a9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b2a7d79bf9e4782ecd7b556fc2167ba4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/01bc23dde61b1f231c523adbe6b1089b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zawstydzaj?cy Ry?owy Omlet raz!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5b3f586a7a763555162d8730b39b8569.jpg",
+            "hd": false
+        },
+        {
+            "description": "DRAMA commencing in 3... 2... 1...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/747b47c5552406d99be59185dffe5229.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f4ad2e758a5fee826c72f4665580e84.jpg",
+            "hd": false
+        },
+        {
+            "description": "pracownicy Kissuiso jak zwykle dobrze si? bawi?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a54a1c67a6796dbe3c29a80f9f08fb9f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4edc66e3a97e9fa57eee4255aab8f04.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/720034bee9b79b53b409aac190e18e55.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9d94029da7df820c05caf997379ee38b.jpg",
+            "hd": false
+        },
+        {
+            "description": "jak wida? Takako potrafi co? jeszcze gro?niejszego ni? w?adanie engrishem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4c1624ad7de3de9c71b55b3e8d7744aa.jpg",
+            "hd": false
+        },
+        {
+            "description": "to jest napad!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/abb3a10becca6de2862eeb94b336a3da.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a959446b2afa5b3341e44775a199f7c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Uwaga, drama!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/34d486d068fe3b572bd0228b8af2034d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kou-chan, co ty dzisiaj taki niewyra?ny jeste??",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fc873e9ba6181596860c731825f72392.jpg",
+            "hd": false
+        },
+        {
+            "description": "zosta? tylko jeden odcinek, a personel jak zawsze si? nie przejmuje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fbc1a1a57a7b166661b59f7d14beef9d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Hanasaku Iroha (??????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1bvig7)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bfc7f9bdb78b469c1c498947f23b1ed7.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "16-letnia Ohana zostaje wys\u0142ana przez swoj\u0105 matk\u0119 do babki, kt\u00f3ra prowadzi hotel z gor\u0105cymi \u017ar\u00f3d\u0142ami, otoczony drzewami wi\u015bni. Na miejscu uczy si\u0119 pracowniczego rygoru.",
+            "type": "abp"
+        },
+        {
+            "content": "After her single mother decides to run off with a boyfriend to dodge debt collectors, the young and energetic Ohana is sent to live with her grandmother. However, her grandmother is the strict owner of a hot springs inn and requires her to work at the inn to pay for her living expenses. Although Ohana is unhappy about this situation at first, she decides to make the best of her situation and work hard. Ohana&#039;s life is suddenly filled with fun, mischief, and drama!    [Written by MAL Rewrite]",
+            "type": "mal"
+        },
+        {
+            "content": "* An original project produced as the P.A. Works studio's tenth anniversary work.The story revolves around 16 year-old Matsumae Ohana, a normal girl who hopes and dreams of the future like most girls her age. One day reality catches up to her when she is left in the care of her estranged grandmother, following her mother's elopement with her boyfriend. After travelling to the countryside Ohana is forced to adapt to the new environment and begins working at a her grandmother's Taisho period styled hot spring inn, Kissuisou. Initially at odds with her grandmother, co-workers and customers she decides to use her circumstances as an opportunity to change herself for the better and to make amends with her deteriorating relationship with the Kissuisou staff for a more prominent future.",
+            "type": "anidb"
+        },
+        {
+            "content": "When her mother runs off with her latest boyfriend, Ohana Matsumae is sent to live with her grandmother, who she has never met nor spoken to. Her grandmother is not pleased to find Ohana on her doorstep, and sets her to work at her Taisho-era (1920s) hot springs inn. It's not a lifestyle that Ohana would have chosen, but she decides not to be discouraged and to make the most of her difficult circumstances.",
+            "type": "ann"
+        },
+        {
+            "content": "Hanasaku Iroha centers around Ohana Matsumae, a 16-year-old teenager living in Tokyo, who is left in the care of her estranged grandmother, following her mother's elopement with her boyfriend. Ohana arrives at her grandmother's country estate to realize she is the owner of a Taish\u014d period hot spring inn called Kissuis\u014d. She begins working at Kissuis\u014d, at her grandmother's request, but finds herself at odds with many employees and customers at the inn. Initially feeling discouraged, she decides to use her circumstances as an opportunity to change herself for the better and to make amends with her deteriorating relationship with the Kissuis\u014d's staff for a more prominent future.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 23421,
+            "date": "2012-09-29T13:21:31",
+            "score": 8.08,
+            "type": "mal"
+        },
+        {
+            "count": 1698,
+            "date": "2012-09-29T13:21:31",
+            "score": 8.13,
+            "type": "anidb"
+        },
+        {
+            "count": 1260,
+            "date": "2012-09-29T13:21:31",
+            "score": 8.434,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Hanasaku Iroha"
+}

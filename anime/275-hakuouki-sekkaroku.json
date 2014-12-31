@@ -1,0 +1,110 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u8584\u685c\u9b3c \u96ea\u83ef\u9332"
+        }
+    ],
+    "aliases": [
+        "Hakuouki Sekkaroku "
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2011-08-05T00:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[DVD][H264]",
+                    "download_count": 9,
+                    "filename": "[Ruri]Hakuouki Sekkaroku 01 [DVD][H264][601BECA3].mkv",
+                    "group": "Ruri",
+                    "hash": "601BECA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259193",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[DVD][H264]",
+                    "download_count": 8,
+                    "filename": "[Ruri]Hakuouki Sekkaroku 01v2 [DVD][H264][1068AF8A].mkv",
+                    "group": "Ruri",
+                    "hash": "1068AF8A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260312",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-08-26T00:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[DVD][H264]",
+                    "download_count": 4,
+                    "filename": "[Ruri]Hakuouki Sekkaroku 02 [DVD][H264][06CDB59D].mkv",
+                    "group": "Ruri",
+                    "hash": "06CDB59D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264673",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-30T00:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2011-10-28T00:00:00",
+            "episode": 4,
+            "score": 7.51,
+            "torrents": []
+        },
+        {
+            "date": "2011-11-24T23:00:00",
+            "episode": 5,
+            "score": 7.5085263158,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 5,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 8268,
+        "ann": 12620,
+        "mal": 10350,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 1089,
+            "date": "2012-09-29T13:38:01",
+            "score": 7.85,
+            "type": "mal"
+        },
+        {
+            "count": 56,
+            "date": "2012-09-29T13:38:01",
+            "score": 6.39,
+            "type": "anidb"
+        },
+        {
+            "count": 93,
+            "date": "2012-09-29T13:38:01",
+            "score": 5.156,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "191",
+    "title": "Hakuouki: Sekkaroku"
+}

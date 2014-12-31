@@ -1,0 +1,696 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ce\u30e9\u30ac\u30df"
+        }
+    ],
+    "aliases": [
+        "Noragami"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-01-05T23:30:00",
+            "episode": 1,
+            "score": 7.16,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Noragami - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=508949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 23,
+                    "filename": "[HorribleSubs] Noragami - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=508951",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Noragami - 01 (1280x720 10bit AAC) [659CC89D].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "659CC89D",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2001%20(1280x720%2010bit%20AAC)%20%5B659CC89D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Sekinin] Noragami - 01 (720p) [79DFD1BE].mkv",
+                    "group": "Sekinin",
+                    "hash": "79DFD1BE",
+                    "url": "http://www.nyaa.se/?page=download&tid=509388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 01v2 (1280x720 10bit AAC) [BF6C6A6C].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "BF6C6A6C",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2001v2%20(1280x720%2010bit%20AAC)%20%5BBF6C6A6C%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[FFF] Noragami - 01 [3B59E3E2].mkv",
+                    "group": "FFF",
+                    "hash": "3B59E3E2",
+                    "url": "http://www.nyaa.se/?page=download&tid=509718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_01_[1280x720][669FAE93].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "669FAE93",
+                    "url": "http://www.nyaa.se/?page=download&tid=510399",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-12T15:30:00",
+            "episode": 2,
+            "score": 7.5548142292,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Noragami - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=511383",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 20,
+                    "filename": "[HorribleSubs] Noragami - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=511384",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 02 (1280x720 10bit AAC) [19E5CFDC].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "19E5CFDC",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2002%20(1280x720%2010bit%20AAC)%20%5B19E5CFDC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[FFF] Noragami - 02 [CEDA4DAE].mkv",
+                    "group": "FFF",
+                    "hash": "CEDA4DAE",
+                    "url": "http://www.nyaa.se/?page=download&tid=511791",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_02_[1280x720][BB7C4417].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BB7C4417",
+                    "url": "http://www.nyaa.se/?page=download&tid=513190",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[DKS] Noragami - 2 [3895BE37].mkv",
+                    "group": "DKS",
+                    "hash": "3895BE37",
+                    "url": "http://www.nyaa.se/?page=download&tid=524413",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-19T15:30:00",
+            "episode": 3,
+            "score": 7.5635114754,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Noragami - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514021",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 23,
+                    "filename": "[HorribleSubs] Noragami - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Noragami - 03 (1280x720 10bit AAC) [BA329823].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "BA329823",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2003%20(1280x720%2010bit%20AAC)%20%5BBA329823%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[FFF] Noragami - 03 [6E970171].mkv",
+                    "group": "FFF",
+                    "hash": "6E970171",
+                    "url": "http://www.nyaa.se/?page=download&tid=514877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_03_[1280x720][5D1CEBED].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5D1CEBED",
+                    "url": "http://www.nyaa.se/?page=download&tid=517313",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-26T15:30:00",
+            "episode": 4,
+            "score": 7.5522222222,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Noragami - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=516581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Noragami - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=516582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 04 (1280x720 10bit AAC) [37D052CD].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "37D052CD",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2004%20(1280x720%2010bit%20AAC)%20%5B37D052CD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[FFF] Noragami - 04 [2C0B2B16].mkv",
+                    "group": "FFF",
+                    "hash": "2C0B2B16",
+                    "url": "http://www.nyaa.se/?page=download&tid=517170",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_04_[1280x720][4B509765].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4B509765",
+                    "url": "http://www.nyaa.se/?page=download&tid=518710",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-02T15:30:00",
+            "episode": 5,
+            "score": 7.6043258706,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Noragami - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519112",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] Noragami - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 05 (1280x720 10bit AAC) [C50DD45D].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "C50DD45D",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2005%20(1280x720%2010bit%20AAC)%20%5BC50DD45D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[FFF] Noragami - 05 [7A3C82E3].mkv",
+                    "group": "FFF",
+                    "hash": "7A3C82E3",
+                    "url": "http://www.nyaa.se/?page=download&tid=519986",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_05_[1280x720][3161D96B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "3161D96B",
+                    "url": "http://www.nyaa.se/?page=download&tid=523537",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-09T15:30:00",
+            "episode": 6,
+            "score": 7.6329906542,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 21,
+                    "filename": "[HorribleSubs] Noragami - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=521394",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Noragami - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=521393",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FUNi_OCRd] Noragami - 06 [22CBD770].mkv",
+                    "group": "FUNi OCRd",
+                    "hash": "22CBD770",
+                    "url": "http://www.nyaa.se/?page=download&tid=521562",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 3,
+                    "filename": "[DameDesuYo] Noragami - 06 (1280x720 10bit AAC) [171222FE].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "171222FE",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2006%20(1280x720%2010bit%20AAC)%20%5B171222FE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[FFF] Noragami - 06 [61065F88].mkv",
+                    "group": "FFF",
+                    "hash": "61065F88",
+                    "url": "http://www.nyaa.se/?page=download&tid=521972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_06_[1280x720][D79250E0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D79250E0",
+                    "url": "http://www.nyaa.se/?page=download&tid=525462",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-16T15:30:00",
+            "episode": 7,
+            "score": 7.5068522484,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Noragami - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=523827",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Noragami - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=523828",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FUNi_OCRd] Noragami - 07 [48415419].mkv",
+                    "group": "FUNi OCRd",
+                    "hash": "48415419",
+                    "url": "http://www.nyaa.se/?page=download&tid=523929",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 07 (1280x720 10bit AAC) [3197EFD0].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "3197EFD0",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2007%20(1280x720%2010bit%20AAC)%20%5B3197EFD0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[FFF] Noragami - 07 [67B1117E].mkv",
+                    "group": "FFF",
+                    "hash": "67B1117E",
+                    "url": "http://www.nyaa.se/?page=download&tid=525184",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_07_[1280x720][2C359600].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "2C359600",
+                    "url": "http://www.nyaa.se/?page=download&tid=530691",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-23T15:30:00",
+            "episode": 8,
+            "score": 7.5669512195,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Noragami - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526037",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Noragami - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526041",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[FFF] Noragami - 08 [69DA8A69].mkv",
+                    "group": "FFF",
+                    "hash": "69DA8A69",
+                    "url": "http://www.nyaa.se/?page=download&tid=526527",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 08 (1280x720 10bit AAC) [8FA13EA2].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "8FA13EA2",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2008%20(1280x720%2010bit%20AAC)%20%5B8FA13EA2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_08_[1280x720][8334F09A].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "8334F09A",
+                    "url": "http://www.nyaa.se/?page=download&tid=531784",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-02T15:30:00",
+            "episode": 9,
+            "score": 7.612976834,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Noragami - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=528416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Noragami - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=528417",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Noragami - 09 (1280x720 10bit AAC) [5B1AAD29].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "5B1AAD29",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2009%20(1280x720%2010bit%20AAC)%20%5B5B1AAD29%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[FFF] Noragami - 09 [D7612BAB].mkv",
+                    "group": "FFF",
+                    "hash": "D7612BAB",
+                    "url": "http://www.nyaa.se/?page=download&tid=529673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Noragami_-_09_[1280x720][4BF72D22].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4BF72D22",
+                    "url": "http://www.nyaa.se/?page=download&tid=534537",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-09T15:30:00",
+            "episode": 10,
+            "score": 7.6747937385,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Noragami - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531010",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Noragami - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 10 (1280x720 10bit AAC) [D7F3B6ED].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "D7F3B6ED",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2010%20(1280x720%2010bit%20AAC)%20%5BD7F3B6ED%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 10v2 (1280x720 10bit AAC) [97B90570].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "97B90570",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2010v2%20(1280x720%2010bit%20AAC)%20%5B97B90570%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Noragami - 10 [E39B470D].mkv",
+                    "group": "FFF",
+                    "hash": "E39B470D",
+                    "url": "http://www.nyaa.se/?page=download&tid=532312",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-16T15:30:00",
+            "episode": 11,
+            "score": 7.5541818182,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Noragami - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Noragami - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533197",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Noragami - 11 (1280x720 10bit AAC) [415B5D3B].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "415B5D3B",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Noragami%20-%2011%20(1280x720%2010bit%20AAC)%20%5B415B5D3B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Noragami - 11 [D27408C9].mkv",
+                    "group": "FFF",
+                    "hash": "D27408C9",
+                    "url": "http://www.nyaa.se/?page=download&tid=533485",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-23T15:30:00",
+            "episode": 12,
+            "score": 7.6465303571,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Noragami - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=535354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Noragami - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=535362",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Noragami - 12 [8B7448A1].mkv",
+                    "group": "FFF",
+                    "hash": "8B7448A1",
+                    "url": "http://www.nyaa.se/?page=download&tid=536188",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9925,
+        "ann": 15585,
+        "mal": 20507,
+        "schedule": 3242
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Yato is a minor deity who lacks even a single shrine. In order to build his own shrine, he scrawls his cell number on the wall of a downtown bathroom telling people he will help them in exchange for a 5-yen offering, becoming a self-styled \"delivery god.\" Hiyori, the daughter of a respectable family, is almost in a traffic accident, but is rescued by Yato. This causes her to become a \"hanyou,\" a person who can easily lose her soul. She chases Yato down, and they begin to work together. Yato also finds a boy named Yukine who becomes a \"sacred treasure\" that can be used by a god. The three of them battle \"you\" who bring harm to humans as Yato's hidden history is gradually revealed.",
+            "type": "ann"
+        },
+        {
+            "content": "The world consists of two parts: the near shore and far shore. The near shore is the place where people reside while the far shore is the place for deities and ayakashi, which are emotional fragments which can posses humans and cause trouble, so its a deity's responsibility to remove those ayakashi from the near shore with the help of weapons called Shinki, which are made from the spirits of dead people.Yato is a minor deity of war who doesn't even have a shrine. Together with his shinki, Tomone, he runs a Delivery wish granting service which he grants wishes for only 5 yen. After the quit of his shinki, he decides to run simple errands which don't evolve around ayakashi-related matters. While on a mission to find a lost kitty, he is nearly hit by a bus but is saved by a girl named Hyori. Hyori dies for a moment but then comes back to life. This, however, causes Hyouri's soul to become unstable and leaving her body very often. So by offering 5 yen, she asks Yato to fix her body...but Yato is a useless person without a Shinki, so Hyori chases him on his journey to find a Shinki and being able to return to normal. But behind Yato's kind hearted face lies a twisted past...",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 794,
+            "date": "2014-04-13T11:23:02",
+            "score": 7.46,
+            "type": "anidb"
+        },
+        {
+            "count": 554,
+            "date": "2014-04-13T11:23:02",
+            "score": 7.866,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Noragami"
+}

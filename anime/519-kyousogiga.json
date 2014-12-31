@@ -1,0 +1,679 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u4eac\u9a12\u622f\u753b"
+        },
+        {
+            "language": "pl",
+            "title": "Niesforna Karykatura Kyoto"
+        }
+    ],
+    "aliases": [
+        "Kyousougiga",
+        "Kyousou Giga TV"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-02T18:30:00",
+            "episode": 1,
+            "score": 3.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 28,
+                    "filename": "[Commie] Kyousougiga - 00 [CB3CE90C].mkv",
+                    "group": "Commie",
+                    "hash": "CB3CE90C",
+                    "url": "http://www.nyaa.se/?page=download&tid=479011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Kyousougiga - 00 [h264-720p][FE838235].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "FE838235",
+                    "url": "http://www.nyaa.se/?page=download&tid=479411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 01 (1280x720 x264-10 AAC)[B083E9F9].mkv",
+                    "group": "EveTaku",
+                    "hash": "B083E9F9",
+                    "url": "http://www.nyaa.se/?page=download&tid=482225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487423",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Kyousougiga - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487426",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyousougiga - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487429",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-09T18:30:00",
+            "episode": 2,
+            "score": 7.7333751425,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 25,
+                    "filename": "[Commie] Kyousougiga - 01 [4AE70B69].mkv",
+                    "group": "Commie",
+                    "hash": "4AE70B69",
+                    "url": "http://www.nyaa.se/?page=download&tid=481432",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Kyousougiga - 01 [h264-720p][D01445E5].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "D01445E5",
+                    "url": "http://www.nyaa.se/?page=download&tid=482140",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 02 (1280x720 x264-10 AAC)[351E05A3].mkv",
+                    "group": "EveTaku",
+                    "hash": "351E05A3",
+                    "url": "http://www.nyaa.se/?page=download&tid=484357",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487427",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kyousougiga - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487437",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyousougiga - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487443",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-16T18:30:00",
+            "episode": 3,
+            "score": 7.7856789617,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[Commie] Kyousougiga - 02 [50D76AA7].mkv",
+                    "group": "Commie",
+                    "hash": "50D76AA7",
+                    "url": "http://www.nyaa.se/?page=download&tid=483661",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Kyousougiga - 02 [h264-720p][46529C4F].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "46529C4F",
+                    "url": "http://www.nyaa.se/?page=download&tid=484038",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Kyousou Giga TV - 03 (1280x720 x264-10 AAC)[9B8F7CE6].mkv",
+                    "group": "EveTaku",
+                    "hash": "9B8F7CE6",
+                    "url": "http://www.nyaa.se/?page=download&tid=487347",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487431",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyousougiga - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyousougiga - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487447",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-23T18:30:00",
+            "episode": 4,
+            "score": 7.7791044776,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Kyousougiga - 03 [D089A825].mkv",
+                    "group": "Commie",
+                    "hash": "D089A825",
+                    "url": "http://www.nyaa.se/?page=download&tid=486016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Kyousougiga - 03 [h264-720p][31F2CEF3].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "31F2CEF3",
+                    "url": "http://www.nyaa.se/?page=download&tid=486469",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489692",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyousougiga - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489697",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 04 (1280x720 x264-10 AAC)[E7545C4B].mkv",
+                    "group": "EveTaku",
+                    "hash": "E7545C4B",
+                    "url": "http://www.nyaa.se/?page=download&tid=489855",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-30T18:30:00",
+            "episode": 5,
+            "score": 7.5108679245,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Kyousougiga - 04 [BE36470E].mkv",
+                    "group": "Commie",
+                    "hash": "BE36470E",
+                    "url": "http://www.nyaa.se/?page=download&tid=488328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Kyousougiga - 04 [h264-720p][CFCC4B07].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CFCC4B07",
+                    "url": "http://www.nyaa.se/?page=download&tid=490349",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyousougiga - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491114",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 05 (1280x720 x264-10 AAC).mkv",
+                    "group": "EveTaku",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492062",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 5.5 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493361",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-06T18:30:00",
+            "episode": 6,
+            "score": 7.3719085714,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 10,
+                    "filename": "[Anime-Koi] Kyousougiga - 05 [h264-720p][A7F1D9E8].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "A7F1D9E8",
+                    "url": "http://www.nyaa.se/?page=download&tid=491005",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Kyousougiga - 05 [60C68EEA].mkv",
+                    "group": "Commie",
+                    "hash": "60C68EEA",
+                    "url": "http://www.nyaa.se/?page=download&tid=491872",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495518",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyousougiga - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495519",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495520",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 06 (1280x720 x264-10 AAC)[CFDDB4CD].mkv",
+                    "group": "EveTaku",
+                    "hash": "CFDDB4CD",
+                    "url": "http://www.nyaa.se/?page=download&tid=496583",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kyousougiga - 05.5 [h264-720p][9806431A].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497048",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-13T18:30:00",
+            "episode": 7,
+            "score": 7.5188829787,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Kyousougiga - 06 [CA21498B].mkv",
+                    "group": "Commie",
+                    "hash": "CA21498B",
+                    "url": "http://www.nyaa.se/?page=download&tid=495030",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497910",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497913",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 07 (1280x720 x264-10 AAC)[FA1CF047].mkv",
+                    "group": "EveTaku",
+                    "hash": "FA1CF047",
+                    "url": "http://www.nyaa.se/?page=download&tid=499853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[Anime-Koi] Kyousougiga - 06 [h264-720p][F6094B6D].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "F6094B6D",
+                    "url": "http://www.nyaa.se/?page=download&tid=500064",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-20T18:30:00",
+            "episode": 8,
+            "score": 7.5678029557,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Kyousougiga - 07 [DCA41BC7].mkv",
+                    "group": "Commie",
+                    "hash": "DCA41BC7",
+                    "url": "http://www.nyaa.se/?page=download&tid=497346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499941",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyousougiga - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499944",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 08 (1280x720 x264-10 AAC)[784E7DBD].mkv",
+                    "group": "EveTaku",
+                    "hash": "784E7DBD",
+                    "url": "http://www.nyaa.se/?page=download&tid=500871",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-27T18:30:00",
+            "episode": 9,
+            "score": 7.5067209302,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Kyousougiga - 08 [9CA90A71].mkv",
+                    "group": "Commie",
+                    "hash": "9CA90A71",
+                    "url": "http://www.nyaa.se/?page=download&tid=499467",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502097",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyousougiga - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502098",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502100",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Kyousou Giga TV - 09 (1280x720 x264-10 AAC)[747F7C76].mkv",
+                    "group": "EveTaku",
+                    "hash": "747F7C76",
+                    "url": "http://www.nyaa.se/?page=download&tid=502987",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 09v2 (1280x720 x264 AAC)[A8EAA00E].mkv",
+                    "group": "EveTaku",
+                    "hash": "A8EAA00E",
+                    "url": "http://www.nyaa.se/?page=download&tid=503035",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-12-04T18:30:00",
+            "episode": 10,
+            "score": 7.5575947137,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Kyousougiga - 09 [4D1C06C5].mkv",
+                    "group": "Commie",
+                    "hash": "4D1C06C5",
+                    "url": "http://www.nyaa.se/?page=download&tid=501598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=504255",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyousougiga - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=504258",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyousougiga - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=504264",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-10 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kyousou Giga TV - 10 (1280x720 x264-10 AAC)[A63D9228].mkv",
+                    "group": "EveTaku",
+                    "hash": "A63D9228",
+                    "url": "http://www.nyaa.se/?page=download&tid=505228",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 10,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9992,
+        "ann": 15509,
+        "mal": 19703,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Koto and her brothers, A and Un are stuck in a strange city causing massive mayhem through the land called Kyoto but not the Kyoto they are from.  They are searching for an atypical rabbit in order to return home. Koto, who is the eldest of the three, seems to have some sort of connection to this weird place ruled by a monk, a demon, and a priest.",
+            "type": "mal"
+        },
+        {
+            "content": "Hidden within Kyoto is the \"mirror capital\" where youkai and humans live together and no one ever dies. It is protected by three people - Kurama, Yase, and Myoue - as they await the return of their parents, Myoue Jonin and Koto. One day a young girl named Koto (same name, different spelling) and her little brothers A and Un wander into the city from a different dimension looking for her mother. A mecha-geek with red eyes, it's not immediately clear whether she's human or youkai. Her arrival upsets the long peace that had ruled the city.",
+            "type": "ann"
+        },
+        {
+            "content": "Hidden within Kyoto is the \"mirror capital\" where youkai and humans live together and no one ever dies. It is protected by three people - Kurama, Yase, and Myoue - as they await the return of their parents, Myoue Jonin and Koto.One day a young girl named Koto (same name, different spelling) and her little brothers A and Un wander into the city from a different dimension looking for her mother. A mecha-geek with red eyes, it's not immediately clear whether she's human or youkai. Her arrival upsets the long peace that had ruled the city.Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 1584,
+            "date": "2013-10-27T06:13:34",
+            "score": 7.83,
+            "type": "mal"
+        },
+        {
+            "count": 118,
+            "date": "2013-12-25T05:41:09",
+            "score": 7.34,
+            "type": "anidb"
+        },
+        {
+            "count": 180,
+            "date": "2013-12-25T05:41:09",
+            "score": 7.828,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Kyousogiga"
+}

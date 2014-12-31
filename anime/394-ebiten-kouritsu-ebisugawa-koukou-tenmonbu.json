@@ -1,0 +1,122 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3048\u3073\u3066\u3093 \u516c\u7acb\u6d77\u8001\u6816\u5ddd\u9ad8\u6821\u5929\u60b6\u90e8"
+        },
+        {
+            "language": "pl",
+            "title": "Ebiten - Klub Mi\u0142o\u015bnik\u00f3w Astronomii Publicznego Liceum Ebisugawa"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-07-14T16:30:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-07-21T16:30:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-07-28T16:30:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-08-04T16:30:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-08-11T16:30:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-08-18T16:30:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-08-25T16:30:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-09-01T16:30:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-09-08T16:30:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-09-15T16:30:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 10,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8860,
+        "ann": 14081,
+        "mal": 14073,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on a manga by Inugami Kira and SCA-ji serialised in Gekkan Comp-Ace.The plot revolves around a high school boy who wanted to join his school's astronomy club but mistakenly joined the school's club for fujoshi (female otaku).Note: The first two episodes premiered at a special event on 05.07.2012. Nico Nico Live Broadcast started airing the anime on 14.07.2012.",
+            "type": "anidb"
+        },
+        {
+            "content": "Noya Itsuki just transferred to Ebisugawa High School. Since he has always had a fascination with space, he decides to join the Astronomy Club. However, he mistakenly walks into the Asstronomy Club - a club whose members are all female otaku. Itsuki notices that the members are really weird, but he has yet to realize that he joined the wrong club. His life becomes very strange very quickly.",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 810,
+            "date": "2012-09-29T14:34:35",
+            "score": 6.61,
+            "type": "mal"
+        },
+        {
+            "count": 56,
+            "date": "2012-09-29T14:34:35",
+            "score": 5.48,
+            "type": "anidb"
+        },
+        {
+            "count": 52,
+            "date": "2012-09-29T14:34:35",
+            "score": 6.375,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu"
+}

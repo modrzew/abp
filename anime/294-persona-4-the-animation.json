@@ -1,0 +1,1239 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30da\u30eb\u30bd\u30ca4 the ANIMATION"
+        },
+        {
+            "language": "pl",
+            "title": "Maska Cztery ANIMACJA"
+        }
+    ],
+    "aliases": [
+        "Persona 4 The Animation",
+        "Persona 4"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/743481175",
+            "content": "#anime #Jesie\u01442011 Persona 4 the Animation (\u30da\u30eb\u30bd\u30ca4 the ANIMATION) http://rdir.pl/1lppv7",
+            "episode": 1,
+            "filename": "f36db45b5387939ec0b5bd61cd40bd51.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/122646739156090881"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1088561235",
+            "content": "#anime #Jesie\u01442011 Persona 4 the Animation (\u30da\u30eb\u30bd\u30ca4 the ANIMATION) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/1lppv7)",
+            "episode": 25,
+            "filename": "6338c4f81e1a8a8b097e67f83f30bd12.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-06T18:30:00",
+            "episode": 1,
+            "score": 7.94,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Persona 4 The Animation - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250782",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Persona 4 - 01 [14684F67].mkv",
+                    "group": "Commie",
+                    "hash": "14684F67",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250801",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Persona 4 The Animation - 01 (1280x720 h264 AAC) [8243A8C2].mkv",
+                    "group": "Doki",
+                    "hash": "8243A8C2",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_01_1280x720_h264_AAC_8243A8C2.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Persona 4 The Animation - 01 (848x480 h264 AAC) [B566FDBC].mkv",
+                    "group": "Doki",
+                    "hash": "B566FDBC",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_01_848x480_h264_AAC_B566FDBC.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8bit]",
+                    "download_count": 1,
+                    "filename": "[EightBit] Persona 4 - 01 [720p][8bit].mkv",
+                    "group": "EightBit",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250834",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Persona 4 - 01 [720p][H.264][BA5B122E].mkv",
+                    "group": "OX-",
+                    "hash": "BA5B122E",
+                    "url": "http://1337x.org/download/251020/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Shini-subs] Persona 4 - 01 (1280x720 h264 AAC) [7CD67CD9].mkv",
+                    "group": "Shini-subs",
+                    "hash": "7CD67CD9",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Persona%204%20-%2001%20(1280x720%20h264%20AAC)%20%5b7CD67CD9%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Persona 4 - 01 (848x480 h264 AAC) [2913044C].mkv",
+                    "group": "Shini-subs",
+                    "hash": "2913044C",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Persona%204%20-%2001%20(848x480%20h264%20AAC)%20%5b2913044C%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][hi10p]",
+                    "download_count": 2,
+                    "filename": "[Tarot]_Persona_4_the_Animation_01_(720p)_(hi10p).mkv",
+                    "group": "Tarot",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=251537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][8-bit]",
+                    "download_count": 1,
+                    "filename": "[Tarot]_Persona_4_the_Animation_01_(720p)_(8-bit).mkv",
+                    "group": "Tarot",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=252027",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_01_[8bit][1280x720][E6FFD26B].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "E6FFD26B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=252234",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_01_[10bit][1280x720][F3541C57].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "F3541C57",
+                    "url": "http://www.nyaa.eu/?page=download&tid=252235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_01_[848x480][2FAF298E].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "2FAF298E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=252236",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 1,
+                    "filename": "[Ruri]Persona 4 01 [720p][10bit][19840E8D].mkv",
+                    "group": "Ruri",
+                    "hash": "19840E8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC 192Kbps RusSub]",
+                    "download_count": 5,
+                    "filename": "[AMCT] Persona 4 - 01 [720p h264 AAC 192Kbps RusSub].mkv",
+                    "group": "AMCT",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 01 [7B5A3774].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "7B5A3774",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256065",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[NotShitty-subs] Persona 4 - 01 (720p x264 AAC) [DF38F07F].mkv",
+                    "group": "NotShitty-subs",
+                    "hash": "DF38F07F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257772",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-13T18:30:00",
+            "episode": 2,
+            "score": 7.9206073281,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Shini-subs] Persona 4 - 02 (1280x720 h264 AAC) [26C94DBD].mkv",
+                    "group": "Shini-subs",
+                    "hash": "26C94DBD",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Persona%204%20-%2002%20(1280x720%20h264%20AAC)%20%5b26C94DBD%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Persona 4 - 02 (848x480 h264 AAC) [19113DAD].mkv",
+                    "group": "Shini-subs",
+                    "hash": "19113DAD",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Persona%204%20-%2002%20(848x480%20h264%20AAC)%20%5b19113DAD%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_02_[8bit][1280x720][5EA185AF].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "5EA185AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC 192Kbps RusSub]",
+                    "download_count": 6,
+                    "filename": "[AMCT] Persona 4 - 02 [720p h264 AAC 192Kbps RusSub].mkv",
+                    "group": "AMCT",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[NotShitty-subs] Persona 4 - 02 (720p x264 AAC) [FDBF095F].mkv",
+                    "group": "NotShitty-subs",
+                    "hash": "FDBF095F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257774",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 02 [D596AD2F].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "D596AD2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259792",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Persona 4 02 [720p][10bit][93CC4EE5].mkv",
+                    "group": "Ruri",
+                    "hash": "93CC4EE5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261315",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-20T18:30:00",
+            "episode": 3,
+            "score": 7.9098106758,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Persona 4 The Animation - 03 (848x480 h264 AAC) [A55F1D12].mkv",
+                    "group": "Doki",
+                    "hash": "A55F1D12",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_03_848x480_h264_AAC_A55F1D12.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Persona 4 The Animation - 03 (1280x720 h264 AAC) [D8F85526].mkv",
+                    "group": "Doki",
+                    "hash": "D8F85526",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_03_1280x720_h264_AAC_D8F85526.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Persona 4 - 03 [6408901D].mkv",
+                    "group": "Commie",
+                    "hash": "6408901D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Persona 4 The Animation - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254246",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC 192Kbps RusSub]",
+                    "download_count": 5,
+                    "filename": "[AMCT] Persona 4 - 03 [720p h264 AAC 192Kbps RusSub].mkv",
+                    "group": "AMCT",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_03_[8bit][1280x720][654156A1].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "654156A1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 03 [B42E3C61].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "B42E3C61",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260088",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Shini-subs] Persona 4 - 03 (1280x720 h264 AAC) [7D907227].mkv",
+                    "group": "Shini-subs",
+                    "hash": "7D907227",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Persona%204%20-%2003%20(1280x720%20h264%20AAC)%20%5b7D907227%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Shini-subs] Persona 4 - 03 (848x480 h264 AAC) [948C80AE].mkv",
+                    "group": "Shini-subs",
+                    "hash": "948C80AE",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Persona%204%20-%2003%20(848x480%20h264%20AAC)%20%5b948C80AE%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-27T18:30:00",
+            "episode": 4,
+            "score": 7.8645888967,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Persona 4 The Animation - 04 (848x480 h264 AAC) [B011A0A7].mkv",
+                    "group": "Doki",
+                    "hash": "B011A0A7",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_04_848x480_h264_AAC_B011A0A7.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Persona 4 The Animation - 04 (1280x720 h264 AAC) [39B3E566].mkv",
+                    "group": "Doki",
+                    "hash": "39B3E566",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_04_1280x720_h264_AAC_39B3E566.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Persona 4 - 04 [133B8B70].mkv",
+                    "group": "Commie",
+                    "hash": "133B8B70",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_04_[8bit][1280x720][69759254].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "69759254",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 04 [56A01700].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "56A01700",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Persona 4 - 04 (848x480 h264 AAC) [A9D6496E].mkv",
+                    "group": "Shini-subs",
+                    "hash": "A9D6496E",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Persona%204%20-%2004%20(848x480%20h264%20AAC)%20%5bA9D6496E%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Shini-subs] Persona 4 - 04 (1280x720 h264 AAC) [A3454E7F].mkv",
+                    "group": "Shini-subs",
+                    "hash": "A3454E7F",
+                    "url": "http://shini-subs.com/torrents/%5bShini-subs%5d%20Persona%204%20-%2004%20(1280x720%20h264%20AAC)%20%5bA3454E7F%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-03T17:30:00",
+            "episode": 5,
+            "score": 7.827153731,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Persona 4 - 05 [74B5FF2B].mkv",
+                    "group": "Commie",
+                    "hash": "74B5FF2B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257704",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Persona 4 The Animation - 05 (848x480 h264 AAC) [7AB3456D].mkv",
+                    "group": "Doki",
+                    "hash": "7AB3456D",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_05_848x480_h264_AAC_7AB3456D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Persona 4 The Animation - 05 (1280x720 h264 AAC) [DC79A8E3].mkv",
+                    "group": "Doki",
+                    "hash": "DC79A8E3",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_05_1280x720_h264_AAC_DC79A8E3.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_05_[8bit][1280x720][83A8269D].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "83A8269D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259337",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 05 [78B9E85D].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "78B9E85D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261754",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-10T17:30:00",
+            "episode": 6,
+            "score": 7.7973026644,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Persona 4 The Animation - 06 (848x480 h264 AAC) [99101E00].mkv",
+                    "group": "Doki",
+                    "hash": "99101E00",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_06_848x480_h264_AAC_99101E00.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Persona 4 The Animation - 06 (1280x720 h264 AAC) [807C8753].mkv",
+                    "group": "Doki",
+                    "hash": "807C8753",
+                    "url": "http://tracker.anime-index.org/Doki_Persona_4_The_Animation_-_06_1280x720_h264_AAC_807C8753.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Persona 4 - 06 [0DDA9B48].mkv",
+                    "group": "Commie",
+                    "hash": "0DDA9B48",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259470",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 06 [6C4CCBBB].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "6C4CCBBB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262094",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_06_[8bit][1280x720][5E9CB7F3].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "5E9CB7F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265286",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-17T17:30:00",
+            "episode": 7,
+            "score": 7.793092596,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Persona 4 - 07 [21C6C7FD].mkv",
+                    "group": "Commie",
+                    "hash": "21C6C7FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260930",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_07_[8bit][1280x720][A0FE0DF9].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "A0FE0DF9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265287",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 07 [43F3926B].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "43F3926B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=273310",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-24T17:30:00",
+            "episode": 8,
+            "score": 7.7987328047,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Persona 4 - 08 [BE0D6EBF].mkv",
+                    "group": "Commie",
+                    "hash": "BE0D6EBF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262742",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_08_[8bit][1280x720][74AF2EAA].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "74AF2EAA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265288",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 08 [B31FF7DA].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "B31FF7DA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274413",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-01T17:30:00",
+            "episode": 9,
+            "score": 7.8004690339,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Persona 4 - 09 [A416084A].mkv",
+                    "group": "Commie",
+                    "hash": "A416084A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_09_[8bit][1280x720][EB97553B].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "EB97553B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268523",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-08T17:30:00",
+            "episode": 10,
+            "score": 7.7999440051,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[AnimeUltima] Persona 4 - 10 [720p].mkv",
+                    "group": "AnimeUltima",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266384",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Persona 4 - 10 [32EC3418].mkv",
+                    "group": "Commie",
+                    "hash": "32EC3418",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267111",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_10_[8bit][1280x720][F237943F].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "F237943F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268524",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-15T17:30:00",
+            "episode": 11,
+            "score": 7.8098494804,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[AnimeUltima] Persona 4 - 11 [720p].mkv",
+                    "group": "AnimeUltima",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268734",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Persona 4 - 11 [A50CD66B].mkv",
+                    "group": "Commie",
+                    "hash": "A50CD66B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269349",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_11_[8bit][1280x720][FB1EBDDB].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "FB1EBDDB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271802",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 11 [13673F4A].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "13673F4A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285307",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-22T17:30:00",
+            "episode": 12,
+            "score": 7.7973697917,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Persona 4 - 12 [49083C60].mkv",
+                    "group": "Commie",
+                    "hash": "49083C60",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271051",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_12_[10bit][1280x720][992FF627].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "992FF627",
+                    "url": "http://www.nyaa.eu/?page=download&tid=273952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_12_[8bit][1280x720][AD2FFC84].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "AD2FFC84",
+                    "url": "http://www.nyaa.eu/?page=download&tid=273951",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 12 [472B19A2].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "472B19A2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285879",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-05T17:30:00",
+            "episode": 13,
+            "score": 7.7833657089,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[RS] Persona 4 - 13 [720p].mkv",
+                    "group": "RS",
+                    "hash": "",
+                    "url": "http://demo.ovh.com/download/6c8a734d90f834eb2bba6fe652e31b29/%5BRS%5D%20Persona%204%20-%2013%20%5B720p%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[Commie] Persona 4 - 13 [0A5EB6D7].mkv",
+                    "group": "Commie",
+                    "hash": "0A5EB6D7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 13 [A3F77CD9].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "A3F77CD9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_13_[8bit][1280x720][9BEFDA3B].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "9BEFDA3B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291554",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-12T17:30:00",
+            "episode": 14,
+            "score": 7.781553676,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 14 [F208842E].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "F208842E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_14_[8bit][1280x720][74670A91].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "74670A91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291555",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-19T17:30:00",
+            "episode": 15,
+            "score": 7.7830790139,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Persona 4 - 15 [AAE8B770].mkv",
+                    "group": "Commie",
+                    "hash": "AAE8B770",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279711",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 15 [FD26DBAD].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "FD26DBAD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301401",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_15_[8bit][1280x720][B4308D6C].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "B4308D6C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301407",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-26T17:30:00",
+            "episode": 16,
+            "score": 7.7914358407,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Persona 4 - 16 [A83BAE49].mkv",
+                    "group": "Commie",
+                    "hash": "A83BAE49",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281284",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_16_[8bit][1280x720][FF233B89].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "FF233B89",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301408",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Persona 4 The Animation 16 [42BA37E4].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "42BA37E4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304033",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-02T17:30:00",
+            "episode": 17,
+            "score": 7.7798578267,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Persona 4 - 17 [118F7E2A].mkv",
+                    "group": "Commie",
+                    "hash": "118F7E2A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284134",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-CTSS]_Persona_4_The_Animation_-_17_[8bit][1280x720][175638D1].mkv",
+                    "group": "Hatsuyuki-CTSS",
+                    "hash": "175638D1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301409",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-09T17:30:00",
+            "episode": 18,
+            "score": 7.7795515024,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[R-Subs] Persona 4 18 [720p].mkv",
+                    "group": "R-Subs",
+                    "hash": "",
+                    "url": "http://db.tt/OzWCygrr",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Persona 4 - 18 [EA2DA7BB].mkv",
+                    "group": "Commie",
+                    "hash": "EA2DA7BB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286336",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-16T17:30:00",
+            "episode": 19,
+            "score": 7.7680770108,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[CuzWeCan-TAN(unconsciously)]_Persona_4_The_Animation_-_19_[720p].mkv",
+                    "group": "CuzWeCan-TAN[unconsciously",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288134",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Persona 4 - 19 [F41DA709].mkv",
+                    "group": "Commie",
+                    "hash": "F41DA709",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291294",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-23T17:30:00",
+            "episode": 20,
+            "score": 7.7671565081,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[TheAnimeNetwork]_Persona_4_The_Animation_-_20_[720p].mkv",
+                    "group": "TheAnimeNetwork",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290438",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Persona 4 - 20 [83D6D923].mkv",
+                    "group": "Commie",
+                    "hash": "83D6D923",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291254",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-01T17:30:00",
+            "episode": 21,
+            "score": 7.7668827699,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[TheAnimeNetwork]_Persona_4_The_Animation_-_21_[720p].mkv",
+                    "group": "TheAnimeNetwork",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Persona 4 - 21 [6DA60908].mkv",
+                    "group": "Commie",
+                    "hash": "6DA60908",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293203",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-08T17:30:00",
+            "episode": 22,
+            "score": 7.7662553784,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[TheAnimeNetwork]_Persona_4_The_Animation_-_22_[720p].mkv",
+                    "group": "TheAnimeNetwork",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294690",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Persona 4 - 22 [CE667BB4].mkv",
+                    "group": "Commie",
+                    "hash": "CE667BB4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294812",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-15T17:30:00",
+            "episode": 23,
+            "score": 7.766322135,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[TheAnimeNetwork]_Persona_4_The_Animation_-_23_[720p].mkv",
+                    "group": "TheAnimeNetwork",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Persona 4 - 23 [E7F55519].mkv",
+                    "group": "Commie",
+                    "hash": "E7F55519",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296729",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-22T17:30:00",
+            "episode": 24,
+            "score": 7.7583772778,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[TheAnimeNetwork]_Persona_4_The_Animation_-_24_[720p].mkv",
+                    "group": "TheAnimeNetwork",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Persona 4 - 24 [B82671BA].mkv",
+                    "group": "Commie",
+                    "hash": "B82671BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298649",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-29T18:30:00",
+            "episode": 25,
+            "score": 7.8480434168,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AL-TAN] Persona 4 - 25 - END - [720p].mkv",
+                    "group": "AL-TAN",
+                    "hash": "",
+                    "url": "http://db.tt/9Q1Oz9zY",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Persona 4 - 25 [B87F03D9].mkv",
+                    "group": "Commie",
+                    "hash": "B87F03D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300665",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8378,
+        "ann": 12870,
+        "mal": 10588,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Taaaaaki nochal",
+            "filename": "http://s.modriv.net/abp/images/screencaps/09a5d90d629a4cdd9f3cc51b70590ec4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/40acc1500aaef242fcb9d6887be66627.jpg",
+            "hd": false
+        },
+        {
+            "description": "Te oczy, czyje to oczy?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8012686de3ba52847f656b05ec54deae.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ale mundurki to maj\u0105... s\u0142abe",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0b4864e0a4d89ff290da25dd6927175a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/609d846f48576779c3b49d259e5fa17a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4aa59a019ba0cbd7bfe00186c2b9e02.jpg",
+            "hd": false
+        },
+        {
+            "description": "Exploitable?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8d741e096eebdd130abca6c83e0fb92c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c3fd30bed4d0ddd7d927dcfcfe616d3e.jpg",
+            "hd": false
+        },
+        {
+            "description": "SO RANDUM XD",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9084035c78f9288828aa1f76c0d4a7e1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f94ff2a244060147087f1b7576f4cdc8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wtf",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f37f0493906230d9a00f91dcae1d1f10.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Persona 4 the Animation (\u30da\u30eb\u30bd\u30ca4 the ANIMATION) http://rdir.pl/1lppv7",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f36db45b5387939ec0b5bd61cd40bd51.jpg",
+            "hd": false
+        },
+        {
+            "description": "D:",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d5edfe596bbd43ed067984e42d90151c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9510ea42ce1c89a84b342297f4724097.jpg",
+            "hd": false
+        },
+        {
+            "description": "Okulary Hipstera: +4 do zajebisto\u015bci (-20 je\u015bli cel nie jest hipsterem)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/35944fffb81857ac9feead10456fa15c.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Persona 4 the Animation (\u30da\u30eb\u30bd\u30ca4 the ANIMATION) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/1lppv7)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6338c4f81e1a8a8b097e67f83f30bd12.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ody ch\u0142opak z wielkiego miasta z powod\u00f3w rodzinnych przeprowadza si\u0119 na zadupie, gdzie do\u015bwiadcza rzeczy niezwyk\u0142ej: zdobywa niezwyk\u0142\u0105 moc, dzi\u0119ki kt\u00f3rej mo\u017ce wej\u015b\u0107 do wn\u0119trza telewizora, gdzie nast\u0119pnie korzysta z innej niezwyk\u0142ej mocy: zak\u0142ada specjalne okulary, dzi\u0119ki kt\u00f3rym mo\u017ce przywo\u0142a\u0107 swoj\u0105 Person\u0119, za pomoc\u0105 kt\u00f3rej walczy z potworami.",
+            "type": "abp"
+        },
+        {
+            "content": "When Narukami Yuu's family moves to the rural country town of Inaba, he's expecting a lot more peace and quiet than he's been used to in the big city. Instead, the peace has been shattered and the only quiet is the quiet of the grave, as a rash of mysterious murders and kidnappings sweep the countryside. With the police stymied, Yuu finds himself joining with a group of eight other teenagers in a desperate bid to solve the mystery. A mystery that is somehow connected to both the local weather patterns and a strange video game world which Yuu, his friends and the enigmatic killer can all enter. And where each must wield a unique weapon and learn to use amazing powers if they wish to survive. Journey beyond the Velvet Room as the hit PlayStation 2\u2122 game becomes a spectacular anime in Persona 4 the Animation!Source: Sentai Filmworks",
+            "type": "anidb"
+        },
+        {
+            "content": "Yu Narukami has moved from Tokyo to Inaba to stay with his uncle and cousin, while his parents are away on business. However, after a murder shakes up the sleepy town, things get even more crazy when he discovers the mysterious \"Midnight Channel,\" and that he has the even more mysterious ability to enter TVs. Accompanied by his disbelieving friends, Yu discovers another world inside the TVs, that seems to be connected with the murder. They also discover the ability to summon 'Persona', their 'other selves', whose power they can use to fight the shadows that inhabit the TV world. The murders, the Midnight Channel, the world inside the TV, and Persona. Yu and his friends fight to figure out how they're connected, and to solve the case before it's too late.",
+            "type": "ann"
+        },
+        {
+            "content": "Persona 4 takes place in a rural town named Inaba. There have been mysterious murders occurring whenever there was fog after heavy rain. There were also rumors about a channel on television airing only at midnight called Mayonaka TV, during which it is said that one can see his/her \"other half\" when staring at the TV screen.   After hearing about a recent unsolved murder which occurred during the fog, the characters\u2014Narukami, Chie, and Yosuke\u2014discuss how each of them had attempted to watch the mysterious TV channel and witnessed the murder victim. The protagonist later realizes that during midnight when the channel is on, his body can phase into his television set as a gateway to enter another world infested with shadows.   After discovering this, they all decide to explore. When first completely entering the world, dazed and confused, Narukami meets Teddie. Mayonaka TV and the town murders seem to have a connection. The murder victims may be merely victims of Mayonaka TV. Everyone decides that they will together try to solve the mysterious murders by exploring the hidden world of Mayonaka TV.",
+            "type": "mal"
+        },
+        {
+            "content": "Persona 4 takes place in the fictional, rural Japanese town of Inaba, which lies among floodplains and has its own high school and shopping districts. Unexplained murders have taken place in the small town, where bodies are found dangling among television antennas and their cause of death unknown.[14] At the same time, rumor has begun to spread that watching a switched-off television set on rainy midnights will reveal a person's soulmate.[15] Following the rumor, a group of high-school students discovered a fog-shrouded world accessed through television sets infested with monsters called Shadows.[16] They also discovered each of their Shadow Selves, symbolizing their suppressed personalities. Confronting their Shadow Selves awakened their ability to summon beings known as Personas. Using Personas, the students form an Investigation Team to investigate the connection between the TV world and the murders, and possibly capture the culprit.[17]",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 15712,
+            "date": "2012-09-29T13:43:37",
+            "score": 7.88,
+            "type": "mal"
+        },
+        {
+            "count": 735,
+            "date": "2012-09-29T13:43:37",
+            "score": 7.582,
+            "type": "ann"
+        },
+        {
+            "count": 776,
+            "date": "2012-09-29T13:43:37",
+            "score": 7.26,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Persona 4 the Animation"
+}

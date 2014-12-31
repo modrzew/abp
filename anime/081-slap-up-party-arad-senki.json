@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b9\u30e9\u30c3\u30d7\u30a2\u30c3\u30d7\u30d1\u30fc\u30c6\u30a3 \u2212\u30a2\u30e9\u30c9\u6226\u8a18\u2212"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6226,
+        "ann": 10232,
+        "mal": 4657,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Adapted from the MMORPG Arad Senki originally developed in South Korea under the name Dungeon & Fighter, where NHN Japan says is it the most popular action RPG.The anime will follow the adventures of Baron, a man living on continent of Arad in the year 981 after \"the cursed light of Kazan\" has fallen across the land. Thanks to the curse, one of his arms has become possessed. After finding a sword that has been possessed by the spirit Roxy, he embarks on a quest to unravel the secret of the curse and meets various people who also join his party.",
+            "type": "anidb"
+        },
+        {
+            "content": "The anime will follow the adventures of Baron, a man living on continent of Arad in the year 981 after &quot;the cursed light of Kazan&quot; has fallen across the land. Thanks to the curse, one of his arms has become possessed. After finding a sword that has been possessed by the spirit Roxy, he embarks on a quest to unravel the secret of the curse and meets various people who also join his party.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "Swordsman Baron travels the world of Arad to find a way to heal his demonic left arm. Accompanying him is Roxy, the ghost of a woman who unwillingly unleashed the evil that also caused Barons transformation. On their travel they get to know other fighters who accompany them and soon they call their group the \"Party\".",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2304,
+            "date": "2012-09-29T02:34:42",
+            "score": 6.94,
+            "type": "mal"
+        },
+        {
+            "count": 262,
+            "date": "2012-09-29T02:34:42",
+            "score": 6.35,
+            "type": "anidb"
+        },
+        {
+            "count": 185,
+            "date": "2012-09-29T02:34:42",
+            "score": 6.425,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Slap Up Party: Arad Senki"
+}

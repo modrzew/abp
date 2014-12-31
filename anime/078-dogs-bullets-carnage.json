@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30c9\u30c3\u30b0\u30ba\uff0f\u30d0\u30ec\u30c3\u30c4\uff06\u30ab\u30fc\u30cd\u30a4\u30b8"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 4,
+    "episodes_length": 15,
+    "external_sites": {
+        "anidb": 6436,
+        "ann": 10703,
+        "mal": 5593,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The story takes place in a future European city where Mihai Mihaeroff \u2014 a former assassin, Badou Nails \u2014 a chain-smoking one-eyed mercenary, Fuyumine Naoto \u2014 a katana-wielding female orphan, and Heine Rammsteiner \u2014 a genetically altered albino gunman, ply their deadly trades on the streets and in the underground.Note: The first anime volume shipped in Japan with the fourth volume of Miwa's Dogs: Bullets & Carnage manga on May 19, 2009. The second anime volume shipped with the Dogs: Stray Dogs Howling in the Dark manga volume on July 17, 2009.",
+            "type": "anidb"
+        },
+        {
+            "content": "It is sometime in the future, where a certain European city extends far underground, even secret, dark levels that have the key to the past. Ex-assassin Mihai has returned and is living with Kiri, who now runs a resturaunt. Sword-wielding Naoto, Haine (white hair), a mysterious product of genetic engineering and his sometime partner Badou (eyepatch).     (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "Based off of the Japanese manga series by Shirow Miwa, Dogs is set in a world where violence, crime, genetic manipulation and other cruel scientific experiments have become common. The story focuses on four main characters who, through a series of coincidences, meet as they search for answers to their individual past.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 14232,
+            "date": "2012-09-29T02:34:26",
+            "score": 7.63,
+            "type": "mal"
+        },
+        {
+            "count": 1193,
+            "date": "2012-09-29T02:34:26",
+            "score": 7.29,
+            "type": "anidb"
+        },
+        {
+            "count": 506,
+            "date": "2012-09-29T02:34:26",
+            "score": 7.007,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Dogs: Bullets & Carnage"
+}

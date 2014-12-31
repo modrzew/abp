@@ -1,0 +1,57 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "DARKER THAN BLACK \u6d41\u661f\u306e\u53cc\u5b50"
+        },
+        {
+            "language": "pl",
+            "title": "Ciemniejszy ni\u017c CZER\u0143: Bli\u017ani\u0119ta Meteoru"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6644,
+        "ann": 10984,
+        "mal": 6573,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "...nie s\u0142ysza\u0142e\u015b, co to Darker than BLACK? Na jakiej planecie Ty \u017cyjesz?",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 47808,
+            "date": "2012-09-29T02:14:15",
+            "score": 7.85,
+            "type": "mal"
+        },
+        {
+            "count": 3330,
+            "date": "2012-09-29T02:14:15",
+            "score": 7.78,
+            "type": "anidb"
+        },
+        {
+            "count": 2683,
+            "date": "2012-09-29T02:14:15",
+            "score": 7.865,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Darker than BLACK",
+    "title": "Darker than BLACK: Ryuusei no Gemini"
+}

@@ -1,0 +1,55 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30f4\u30a1\u30a4\u30b9\u30fb\u30b5\u30f4\u30a1\u30a4\u30f4"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 16,
+    "episodes_length": 3,
+    "external_sites": {
+        "anidb": 6552,
+        "ann": 10821,
+        "mal": 6425,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Teoretycznie anime o grze karcianej niezbyt popularnej poza Japoni\u0105 (i pewnie w niej samej te\u017c); praktycznie fanserwis ze specyficznym poczuciem humoru.",
+            "type": "abp"
+        },
+        {
+            "content": "The story follows the main characters Takeshi and Michi as they get lost in the Card Battle world and have to win card battles to return home.",
+            "type": "mal"
+        },
+        {
+            "content": "The story follows the main characters Takeshi and Michi as they get lost in the Card Battle world and have to win card battles to return home.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3205,
+            "date": "2012-09-29T02:35:37",
+            "score": 6.6,
+            "type": "mal"
+        },
+        {
+            "count": 116,
+            "date": "2012-09-29T02:35:37",
+            "score": 6.529,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Wei\u00df Survive"
+}

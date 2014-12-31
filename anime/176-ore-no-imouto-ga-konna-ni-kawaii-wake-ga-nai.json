@@ -1,0 +1,608 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u4ffa\u306e\u59b9\u304c\u3053\u3093\u306a\u306b\u53ef\u611b\u3044\u308f\u3051\u304c\u306a\u3044"
+        },
+        {
+            "language": "pl",
+            "title": "Moja M\u0142odsza Siostra Nie Mo\u017ce By\u0107 Taka S\u0142odka"
+        },
+        {
+            "language": "short",
+            "title": "Oreimo"
+        }
+    ],
+    "aliases": [
+        "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+        "Ore No Imouto",
+        "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/176577597",
+            "content": "#anime #Jesie\u01442010 Ore no Imouto ga Konna ni Kawaii Wake ga Nai (\u4ffa\u306e\u59b9\u304c\u3053\u3093\u306a\u306b\u53ef\u611b\u3044\u308f\u3051\u304c\u306a\u3044) http://rdir.pl/syf0h",
+            "episode": 1,
+            "filename": "cd863206cd39e926dd29ed99bbc7474c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26311245062"
+        },
+        {
+            "blip_url": "http://blip.pl/s/183776713",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 02 - ca\u0142kiem trafne podsumowanie Kejona",
+            "episode": 2,
+            "filename": "d0d2028e8221d2c078e0e6b28424f2b9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26929895858"
+        },
+        {
+            "blip_url": "http://blip.pl/s/190117111",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 03 - z cyklu \"Jak sprawi\u0107, by dowolne #anime by\u0142o jeszcze lepsze ni\u017c jest\", odcinek 18: \"Relacje w rodzinie\"",
+            "episode": 3,
+            "filename": "8f903e62872a879d1cbff41ea510a6d9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27729115368"
+        },
+        {
+            "blip_url": "http://blip.pl/s/196005919",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 04 - czas teori\u0119 z gier prze\u0142o\u017cy\u0107 na praktyk\u0119!",
+            "episode": 4,
+            "filename": "d090187d8bebdc4455911971f3e1ce84.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/28918962761"
+        },
+        {
+            "blip_url": "http://blip.pl/s/201433187",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 05 - z cyklu \"Jak Skutecznie Wyrywa\u0107 Lachony\", odcinek 82: \"Sztuka Prawienia Komplement\u00f3w\"",
+            "episode": 5,
+            "filename": "f64e675d56a5ed8eda046bcd400683eb.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/296410431889408"
+        },
+        {
+            "blip_url": "http://blip.pl/s/204363877",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 06 - forever alone",
+            "episode": 6,
+            "filename": "b0b9b3e292b2ff44934d89fcde27e8e5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/1672577219039232"
+        },
+        {
+            "blip_url": "http://blip.pl/s/212298257",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 07 - przygania\u0142 kocio\u0142 garnkowi...",
+            "episode": 7,
+            "filename": "d3fe972b96e4cc26db0875e7132d4d83.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/4002246454939648"
+        },
+        {
+            "blip_url": "http://blip.pl/s/223013515",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 08 - Mashiro i Takagi te\u017c zazdroszcz\u0105 Kirino jej sukces\u00f3w",
+            "episode": 8,
+            "filename": "a72519f369045140e3242e3fa3c61eec.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/6845179243794432"
+        },
+        {
+            "blip_url": "http://blip.pl/s/241142403",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 10 - grupa docelowa tego #anime; nikt nie jest zaskoczony, prawda?",
+            "episode": 10,
+            "filename": "9ccb3420de82e7178c4dbe69e5bd5ada.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/11924678272614401"
+        },
+        {
+            "blip_url": "http://blip.pl/s/250603687",
+            "content": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai 11 - sup dawg, we heard you like Kirino...",
+            "episode": 11,
+            "filename": "2f91b47f30ab56333a9e06a28b39ca4e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14427113335554048"
+        },
+        {
+            "blip_url": "http://blip.pl/s/261048601",
+            "content": "#anime #Jesie\u01442010 Ore no Imouto ga Konna ni Kawaii Wake ga Nai (\u4ffa\u306e\u59b9\u304c\u3053\u3093\u306a\u306b\u53ef\u611b\u3044\u308f\u3051\u304c\u306a\u3044) - nasza ocena: ogl\u0105daj tylko je\u015bli si\u0119 nudzisz (wi\u0119cej: http://rdir.pl/syf0h)",
+            "episode": 12,
+            "filename": "e68f9d56d6b3cd5ab715b0813d0a8062.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/17322116357558272"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-10-03T16:30:00",
+            "episode": 1,
+            "score": 7.9624244229,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[SS]_Ore_No_Imouto_-_01_[03E7A607].mkv",
+                    "group": "SS",
+                    "hash": "03E7A607",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1345",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-10T16:30:00",
+            "episode": 2,
+            "score": 7.8641493073,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_02_[0330E299].mkv",
+                    "group": "Mazui",
+                    "hash": "0330E299",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_02_0330E299.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_02v2_[8530F9DB].mkv",
+                    "group": "Mazui",
+                    "hash": "8530F9DB",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_02v2_8530F9DB.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Himatsubushi]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_-_02_[738D234F].mkv",
+                    "group": "Himatsubushi",
+                    "hash": "738D234F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164593",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[SS]_Ore_No_Imouto_-_02_[3A56DDAC].mkv",
+                    "group": "SS",
+                    "hash": "3A56DDAC",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1347",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-17T16:30:00",
+            "episode": 3,
+            "score": 7.9497001376,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_03_[DF6F1D89].mkv",
+                    "group": "Mazui",
+                    "hash": "DF6F1D89",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_03_DF6F1D89.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[SS]_Ore_No_Imouto_-_03_[F0922429].mkv",
+                    "group": "SS",
+                    "hash": "F0922429",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168308",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-24T16:30:00",
+            "episode": 4,
+            "score": 7.9907764427,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_04_[73464065].mkv",
+                    "group": "Mazui",
+                    "hash": "73464065",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_04_73464065.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Shimizu]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_-_04_ENG+RUS_(MX_1280x720_x264_AAC).mkv",
+                    "group": "",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168979",
+                    "version": 0
+                }
+            ]
+        },
+        {
+            "date": "2010-10-31T15:30:00",
+            "episode": 5,
+            "score": 8.0027036815,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Afroman]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_-_05_[720p][E87357FA].mkv",
+                    "group": "Afroman",
+                    "hash": "E87357FA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Himatsubushi]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_-_05_ [5C5F77AC].mkv",
+                    "group": "Himatsubushi",
+                    "hash": "5C5F77AC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_05_[80842A68].mkv",
+                    "group": "Mazui",
+                    "hash": "80842A68",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_05_80842A68.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_05v2_[6D25FA8E].mkv",
+                    "group": "Mazui",
+                    "hash": "6D25FA8E",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_05v2_6D25FA8E.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-11-07T15:30:00",
+            "episode": 6,
+            "score": 8.0253576248,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Himatsubushi]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_-_06_[C50C33D3].mkv",
+                    "group": "Himatsubushi",
+                    "hash": "C50C33D3",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171679",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_06_[C72BA58E].mkv",
+                    "group": "Mazui",
+                    "hash": "C72BA58E",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_06_C72BA58E.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-14T15:30:00",
+            "episode": 7,
+            "score": 8.0202143389,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-21T15:30:00",
+            "episode": 8,
+            "score": 8.0008842433,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SS]_Ore_No_Imouto_-_08_[54BE83FC].mkv",
+                    "group": "SS",
+                    "hash": "54BE83FC",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1364",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-28T15:30:00",
+            "episode": 9,
+            "score": 7.9787318509,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[SS]_Ore_No_Imouto_-_09_[491F902F].mkv",
+                    "group": "SS",
+                    "hash": "491F902F",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1368",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-05T15:30:00",
+            "episode": 10,
+            "score": 7.9703593332,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_10_[F226AD4E].mkv",
+                    "group": "Mazui",
+                    "hash": "F226AD4E",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178165",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_10v2_[9D348AB9].mkv",
+                    "group": "Mazui",
+                    "hash": "9D348AB9",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178611",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[SS]_Ore_No_Imouto_-_10_[A381585B].mkv",
+                    "group": "SS",
+                    "hash": "A381585B",
+                    "url": "http://www.staticsubs.org/releases/torrent.php?id=1400",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-12T15:30:00",
+            "episode": 11,
+            "score": 7.9780981839,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_11_[8C8D660E].mkv",
+                    "group": "Mazui",
+                    "hash": "8C8D660E",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_11_8C8D660E.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-19T15:30:00",
+            "episode": 12,
+            "score": 7.9994823395,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Mazui]_Ore_No_Imouto_-_12_[37BF0908].mkv",
+                    "group": "Mazui",
+                    "hash": "37BF0908",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Ore_No_Imouto_-_12_37BF0908.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7525,
+        "ann": 11512,
+        "mal": 8769,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/182ceba66154991a8a20dfbb1ff869fe.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/00b90a21e7bbbdd41502cb455b83d915.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1066af2c9465b4b590266958885bacd3.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pude\u0142ko...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aaf093a785a94ef644549071c3252099.jpg",
+            "hd": false
+        },
+        {
+            "description": "...a w \u015brodku niespodzianka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dbc5d0a5c9e43553e7bbe978cfc82fea.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eafd799d86974d282b122ba3a203bc22.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aacd66b67b2b0f88694c2fe11c49c0ba.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ka\u017cdy marzy o takiej szafie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/be746f33f2874462c888bf5c965d67b2.jpg",
+            "hd": false
+        },
+        {
+            "description": "...i takiej siostrze",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4e3ccc48852226a0173e96cf6c47977.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ec846ab563f276873c58334506ed278d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Ore no Imouto ga Konna ni Kawaii Wake ga Nai (\u4ffa\u306e\u59b9\u304c\u3053\u3093\u306a\u306b\u53ef\u611b\u3044\u308f\u3051\u304c\u306a\u3044) http://rdir.pl/syf0h",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cd863206cd39e926dd29ed99bbc7474c.jpg",
+            "hd": false
+        },
+        {
+            "description": "ca\u0142kiem trafne podsumowanie Kejona",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d0d2028e8221d2c078e0e6b28424f2b9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Otaku-dziewczyny - a\u017c strach si\u0119 ba\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/902fbe4f916db29528e93774c327a2f9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e1d5a44dc43113bfbf54c312cfe027cd.jpg",
+            "hd": false
+        },
+        {
+            "description": "z cyklu \"Jak sprawi\u0107, by dowolne #anime by\u0142o jeszcze lepsze ni\u017c jest\", odcinek 18: \"Relacje w rodzinie\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8f903e62872a879d1cbff41ea510a6d9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d51c69c9ee41ce73b2b7a5a55f80ef11.jpg",
+            "hd": false
+        },
+        {
+            "description": "czas teori\u0119 z gier prze\u0142o\u017cy\u0107 na praktyk\u0119!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d090187d8bebdc4455911971f3e1ce84.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ed126c7533f5ba0b47ebecfc0d31409e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/91783ff43b0886731d8c4dd0fa854759.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e01150170bb110ca1b43910948d015c2.jpg",
+            "hd": false
+        },
+        {
+            "description": "z cyklu \"Jak Skutecznie Wyrywa\u0107 Lachony\", odcinek 82: \"Sztuka Prawienia Komplement\u00f3w\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f64e675d56a5ed8eda046bcd400683eb.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tsundere tatu\u015b?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e367ee6566055b3b9b1514b2e0f103b4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96613674616bca1daf977d5970d30f60.jpg",
+            "hd": false
+        },
+        {
+            "description": "forever alone",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b0b9b3e292b2ff44934d89fcde27e8e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "przygania\u0142 kocio\u0142 garnkowi...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d3fe972b96e4cc26db0875e7132d4d83.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/552a3bfd1b9499c77f58ca0f5eca84e3.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mashiro i Takagi te\u017c zazdroszcz\u0105 Kirino jej sukces\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a72519f369045140e3242e3fa3c61eec.jpg",
+            "hd": false
+        },
+        {
+            "description": "grupa docelowa tego #anime; nikt nie jest zaskoczony, prawda?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9ccb3420de82e7178c4dbe69e5bd5ada.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kate/starry night UNLICENSED BLADE WORKS",
+            "filename": "http://s.modriv.net/abp/images/screencaps/332b8a3dc6f890bcdaef465ef4ccb62d.jpg",
+            "hd": false
+        },
+        {
+            "description": "sup dawg, we heard you like Kirino...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2f91b47f30ab56333a9e06a28b39ca4e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Moe~",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eaa6e5eda3cfbf84832344a440a04dbd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d812a3d2734bbb172d4b1a4813851e88.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Ore no Imouto ga Konna ni Kawaii Wake ga Nai (\u4ffa\u306e\u59b9\u304c\u3053\u3093\u306a\u306b\u53ef\u611b\u3044\u308f\u3051\u304c\u306a\u3044) - nasza ocena: ogl\u0105daj tylko je\u015bli si\u0119 nudzisz (wi\u0119cej: http://rdir.pl/syf0h)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e68f9d56d6b3cd5ab715b0813d0a8062.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kirino od najlepszej strony",
+            "filename": "http://s.modriv.net/abp/images/screencaps/33547400178f99eb7d4d49d9dcfa1b2a.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Perypetie m\u0142odego ch\u0142opaka, kt\u00f3ry przypadkiem odkrywa, \u017ce jego rodzona siostra jest otaku i z lubo\u015bci\u0105 grywa w zboczone chi\u0144skie pornogry z udzia\u0142em \"m\u0142odszych si\u00f3str\".",
+            "type": "abp"
+        },
+        {
+            "content": "Kyousuke Kousaka, a normal seventeen-year-old high school student, hasn&#039;t gotten along with his younger sister, Kirino, in years. For longer than he can remember, Kirino has ignored his comings and goings and looked at him with spurning eyes. It seemed as if the relationship between Kyousuke and his sister, now fourteen, would continue this way forever.     One day, however, Kyousuke finds a DVD case of a magical girl anime entitled Hoshikuzu Witch Merle (Stardust Witch Merle), which had fallen into the entranceway of his house. To Kyousuke&#039;s surprise, inside the case is a hidden adult video game titled Imouto to Koishiyo! (Love with Little Sister!). Kyousuke attempts to fish out the culprit who dropped the case by bringing up the topic of magical girl anime at the family dinner table. All that comes out is a strong negative reaction from his parents, especially his anti-otaku policeman father.    That night, Kirino bursts into Kyousuke&#039;s room and, in perhaps the first conversation she has initiated with him in years, says they &quot;have things to talk about.&quot; Kirino brings Kyousuke to her room and shows him an extensive collection of moe anime and lolicon bishoujo games she has been collecting in secret.    (Source: Wikipedia)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Fushimi Tsukasa's Ore no Imouto ga Konnani Kawaii Wake ga Nai comedy light novel series.Kyousuke Kousaka, a normal seventeen-year-old high school student, hasn't gotten along with his younger sister, Kirino, in years. For longer than he can remember, Kirino has ignored his comings and goings and looked at him with spurning eyes. It seemed as if the relationship between Kyousuke and his sister, now fourteen, would continue this way forever.One day, however, Kyousuke finds a DVD case of a magical girl anime entitled Hoshikuzu Witch Meruru (Stardust Witch Meruru), which had fallen into the entranceway of his house. To Kyousuke's surprise, inside the case is a hidden adult video game titled Imouto to Koishiyo! (Love with Little Sister!). Kyousuke attempts to fish out the culprit who dropped the case by bringing up the topic of magical girl anime at the family dinner table. All that comes out is a strong negative reaction from his parents, especially his anti-otaku policeman father.That night, Kirino bursts into Kyousuke's room and, in perhaps the first conversation she has initiated with him in years, says they have things to talk about. Kirino brings Kyousuke to her room and shows him an extensive collection of moe anime and lolicon bishoujo games she has been collecting in secret.Source: Wikipedia",
+            "type": "anidb"
+        },
+        {
+            "content": "Living on the shadow of his prodigious younger sister, Kyousuke Kosaka conducts a normal lifestyle until he accidentally finds out that she hides a secret. In addition to being smart, pretty, and popular; Kirino Kosaka is also an obsessive consumer of anime and eroge (adult computer games). After being assured that Kyousuke is committed to not mock her and keep this concealed from their parents, she starts to share a bit of her world with him. Kirino faces several problems as she tries to keep the appearances and balance her exemplar school life with her hobbies. Her brother then becomes a crucial ally while dealing with all the difficulties that lie ahead.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 49897,
+            "date": "2012-09-29T12:50:42",
+            "score": 7.81,
+            "type": "mal"
+        },
+        {
+            "count": 3116,
+            "date": "2012-09-29T12:50:42",
+            "score": 7.79,
+            "type": "anidb"
+        },
+        {
+            "count": 2483,
+            "date": "2012-09-29T12:50:42",
+            "score": 7.577,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
+}

@@ -1,0 +1,871 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30aa\u30cf\u30e9\u30a4\u30c9"
+        }
+    ],
+    "aliases": [
+        "Ao Haru Ride"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-07-07T17:00:00",
+            "episode": 1,
+            "score": 7.23,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=572364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=572365",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=572369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Ao Haru Ride - 01 [F7550EDB].mkv",
+                    "group": "Commie",
+                    "hash": "F7550EDB",
+                    "url": "http://www.nyaa.se/?page=download&tid=572527",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 01 (1280x720 x264 AAC) [0571F37D].mkv",
+                    "group": "Waku",
+                    "hash": "0571F37D",
+                    "url": "http://www.nyaa.se/?page=download&tid=572548",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 01v2 (1280x720 x264 AAC) [B78114E7].mkv",
+                    "group": "Waku",
+                    "hash": "B78114E7",
+                    "url": "http://www.nyaa.se/?page=download&tid=572685",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 01 [14545A4A].mkv",
+                    "group": "Mezashite",
+                    "hash": "14545A4A",
+                    "url": "http://www.nyaa.se/?page=download&tid=572886",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-14T17:00:00",
+            "episode": 2,
+            "score": 7.2080375,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=575141",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=575142",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=575143",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 02 (1280x720 x264 AAC) [630C1773].mkv",
+                    "group": "Waku",
+                    "hash": "630C1773",
+                    "url": "http://www.nyaa.se/?page=download&tid=575276",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 02 [883C4F17].mkv",
+                    "group": "Mezashite",
+                    "hash": "883C4F17",
+                    "url": "http://www.nyaa.se/?page=download&tid=575286",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Ao Haru Ride - 02 [FCF8874C].mkv",
+                    "group": "Commie",
+                    "hash": "FCF8874C",
+                    "url": "http://www.nyaa.se/?page=download&tid=575274",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Ao Haru Ride - 02v2 [DE856544].mkv",
+                    "group": "Commie",
+                    "hash": "DE856544",
+                    "url": "http://www.nyaa.se/?page=download&tid=575384",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 02v2 (1280x720 x264 AAC) [5BCE1555].mkv",
+                    "group": "Waku",
+                    "hash": "5BCE1555",
+                    "url": "http://www.nyaa.se/?page=download&tid=576840",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-07-21T17:00:00",
+            "episode": 3,
+            "score": 7.4929473684,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=578092",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=578093",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=578094",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 03 (1280x720 x264 AAC) [926DF34E].mkv",
+                    "group": "Waku",
+                    "hash": "926DF34E",
+                    "url": "http://www.nyaa.se/?page=download&tid=578196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Ao Haru Ride - 03 [3F6AAF32].mkv",
+                    "group": "Commie",
+                    "hash": "3F6AAF32",
+                    "url": "http://www.nyaa.se/?page=download&tid=578244",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 03 [D4CBB30A].mkv",
+                    "group": "Mezashite",
+                    "hash": "D4CBB30A",
+                    "url": "http://www.nyaa.se/?page=download&tid=578255",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-28T17:00:00",
+            "episode": 4,
+            "score": 7.6852995392,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580992",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=580994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Ao Haru Ride - 04 [9EABA0BD].mkv",
+                    "group": "Commie",
+                    "hash": "9EABA0BD",
+                    "url": "http://www.nyaa.se/?page=download&tid=581151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 04 [B021C157].mkv",
+                    "group": "Mezashite",
+                    "hash": "B021C157",
+                    "url": "http://www.nyaa.se/?page=download&tid=581876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Waku] Ao Haru Ride - 04 (1280x720 x264 AAC) [6DF8AF57].mkv",
+                    "group": "Waku",
+                    "hash": "6DF8AF57",
+                    "url": "http://www.nyaa.se/?page=download&tid=582236",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-04T17:00:00",
+            "episode": 5,
+            "score": 7.6853191489,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=583818",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=583819",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=583820",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 05 (1280x720 x264 AAC) [16F11183].mkv",
+                    "group": "Waku",
+                    "hash": "16F11183",
+                    "url": "http://www.nyaa.se/?page=download&tid=583898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Ao Haru Ride - 05 [FB8A22A4].mkv",
+                    "group": "Commie",
+                    "hash": "FB8A22A4",
+                    "url": "http://www.nyaa.se/?page=download&tid=583937",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 05 [78B4C256].mkv",
+                    "group": "Mezashite",
+                    "hash": "78B4C256",
+                    "url": "http://www.nyaa.se/?page=download&tid=584316",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Waku] Ao Haru Ride - 05v2 (1280x720 x264 AAC) [5F314C8E].mkv",
+                    "group": "Waku",
+                    "hash": "5F314C8E",
+                    "url": "http://www.nyaa.se/?page=download&tid=585130",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-08-11T17:00:00",
+            "episode": 6,
+            "score": 7.716417004,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=586686",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=586687",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=586688",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 06 (1280x720 x264 AAC) [FDBF5808].mkv",
+                    "group": "Waku",
+                    "hash": "FDBF5808",
+                    "url": "http://www.nyaa.se/?page=download&tid=586776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Ao Haru Ride - 06 [CFEBC206].mkv",
+                    "group": "Commie",
+                    "hash": "CFEBC206",
+                    "url": "http://www.nyaa.se/?page=download&tid=586778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 06 [62B4143F].mkv",
+                    "group": "Mezashite",
+                    "hash": "62B4143F",
+                    "url": "http://www.nyaa.se/?page=download&tid=587538",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-18T17:00:00",
+            "episode": 7,
+            "score": 7.6457272727,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=589484",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=589487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=589488",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Ao Haru Ride - 07 [76506F9C].mkv",
+                    "group": "Commie",
+                    "hash": "76506F9C",
+                    "url": "http://www.nyaa.se/?page=download&tid=589627",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 07 (1280x720 x264 AAC) [FE6342E9].mkv",
+                    "group": "Waku",
+                    "hash": "FE6342E9",
+                    "url": "http://www.nyaa.se/?page=download&tid=589654",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 07 [CFF6FCDC].mkv",
+                    "group": "Mezashite",
+                    "hash": "CFF6FCDC",
+                    "url": "http://www.nyaa.se/?page=download&tid=590386",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 07v2 (1280x720 x264 AAC) [39B73FDD].mkv",
+                    "group": "Waku",
+                    "hash": "39B73FDD",
+                    "url": "http://www.nyaa.se/?page=download&tid=591226",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-08-25T17:00:00",
+            "episode": 8,
+            "score": 7.5997204301,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=592446",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=592454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=592456",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Ao Haru Ride - 08 [ED652CDA].mkv",
+                    "group": "Commie",
+                    "hash": "ED652CDA",
+                    "url": "http://www.nyaa.se/?page=download&tid=592600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Mezashite] Ao Haru Ride - 08 [9AD7CF04].mkv",
+                    "group": "Mezashite",
+                    "hash": "9AD7CF04",
+                    "url": "http://www.nyaa.se/?page=download&tid=592625",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Waku] Ao Haru Ride - 08 (1280x720 x264 AAC) [6ACEFE62].mkv",
+                    "group": "Waku",
+                    "hash": "6ACEFE62",
+                    "url": "http://www.nyaa.se/?page=download&tid=592964",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-01T17:00:00",
+            "episode": 9,
+            "score": 7.5205408163,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/1937E748BB7CE5ACC1C3DEEFE1DEE66F32D6CA6A.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/1B8D6C3FC9E54C30986C83731D624F0C724D892B.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/01EF380A8B32B15F1351B934C71150696EA49B66.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Ao Haru Ride - 09 [233A0AE2].mkv",
+                    "group": "Commie",
+                    "hash": "233A0AE2",
+                    "url": "http://torrentcaching.com/torrent/D480A4C8464560C6F8032C2CDD9035F4FB251C40.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Waku] Ao Haru Ride - 09 (1280x720 x264 AAC) [1AC6605D].mkv",
+                    "group": "Waku",
+                    "hash": "1AC6605D",
+                    "url": "http://torrentcaching.com/torrent/6A6E9231339D8872477CFD050E6F2F0BEFC0C6DE.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Waku] Ao Haru Ride - 09v2 (1280x720 x264 AAC) [DC14D573].mkv",
+                    "group": "Waku",
+                    "hash": "DC14D573",
+                    "url": "http://torrentcaching.com/torrent/E16E883020F2ABA6742FFB1482DA04B3B95878A2.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 09 [DD5DD08B].mkv",
+                    "group": "Mezashite",
+                    "hash": "DD5DD08B",
+                    "url": "http://torrentcaching.com/torrent/E03ED0EF27FFE7BF7E19973DE24798BC9CF26008.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-08T17:00:00",
+            "episode": 10,
+            "score": 7.540605178,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/CB7B3EDA8FEE014F4D84961E5361AB46CDFE9193.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/9461EF25EDABAD19891896251623648ADD5E626E.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/2B9523A1BC52EC7B4156B9646BD821E1F4CF0917.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Ao Haru Ride - 10 [E6327F7E].mkv",
+                    "group": "Commie",
+                    "hash": "E6327F7E",
+                    "url": "http://torrentcaching.com/torrent/9B42F9FC69D14DD1C116E950CECEEA83C4EDA5E9.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 10 (1280x720 x264 AAC) [A784531D].mkv",
+                    "group": "Waku",
+                    "hash": "A784531D",
+                    "url": "http://tracker.minglong.org/torrents/%5BWaku%5D%20Ao%20Haru%20Ride%20-%2010%20(1280x720%20x264%20AAC)%20%5BA784531D%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 10 [9F7F69BB].mkv",
+                    "group": "Mezashite",
+                    "hash": "9F7F69BB",
+                    "url": "http://www.torcache.net/torrent/EA3E2CEF3510E964D0BA960A8408012EDDA21DB7.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Waku] Ao Haru Ride - 10v2 (1280x720 x264 AAC) [B1538697].mkv",
+                    "group": "Waku",
+                    "hash": "B1538697",
+                    "url": "http://tracker.minglong.org/torrents/%5BWaku%5D%20Ao%20Haru%20Ride%20-%2010v2%20(1280x720%20x264%20AAC)%20%5BB1538697%5D.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-09-15T17:00:00",
+            "episode": 11,
+            "score": 7.3226238532,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597940",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597947",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=597949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Ao Haru Ride - 11 [BD85D3FF].mkv",
+                    "group": "Commie",
+                    "hash": "BD85D3FF",
+                    "url": "http://www.nyaa.se/?page=download&tid=597982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 11 (1280x720 x264 AAC) [DAC021F2].mkv",
+                    "group": "Waku",
+                    "hash": "DAC021F2",
+                    "url": "http://tracker.minglong.org/torrents/%5BWaku%5D%20Ao%20Haru%20Ride%20-%2011%20(1280x720%20x264%20AAC)%20%5BDAC021F2%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 11 [03D9672F].mkv",
+                    "group": "Mezashite",
+                    "hash": "03D9672F",
+                    "url": "http://www.nyaa.se/?page=download&tid=598477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 11v2 (1280x720 x264 AAC) [7637E4DF].mkv",
+                    "group": "Waku",
+                    "hash": "7637E4DF",
+                    "url": "http://tracker.minglong.org/torrents/%5BWaku%5D%20Ao%20Haru%20Ride%20-%2011v2%20(1280x720%20x264%20AAC)%20%5B7637E4DF%5D.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-09-22T17:00:00",
+            "episode": 12,
+            "score": 7.4028593997,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=600825",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=600826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Ao Haru Ride - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=600827",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 12 END (1280x720 x264 AAC) [63F78B89].mkv",
+                    "group": "Waku",
+                    "hash": "63F78B89",
+                    "url": "http://tracker.minglong.org/torrents/%5BWaku%5D%20Ao%20Haru%20Ride%20-%2012%20END%20(1280x720%20x264%20AAC)%20%5B63F78B89%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Ao Haru Ride - 12 [A31D0405].mkv",
+                    "group": "Commie",
+                    "hash": "A31D0405",
+                    "url": "http://www.nyaa.se/?page=download&tid=600964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Ao Haru Ride - 12 [7838BB3F].mkv",
+                    "group": "Mezashite",
+                    "hash": "7838BB3F",
+                    "url": "http://www.nyaa.se/?page=download&tid=601302",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Waku] Ao Haru Ride - 12v2 END (1280x720 x264 AAC) [8D435A11].mkv",
+                    "group": "Waku",
+                    "hash": "8D435A11",
+                    "url": "http://tracker.minglong.org/torrents/%5BWaku%5D%20Ao%20Haru%20Ride%20-%2012v2%20END%20(1280x720%20x264%20AAC)%20%5B8D435A11%5D.torrent",
+                    "version": 2
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10385,
+        "ann": 15817,
+        "mal": 21995,
+        "schedule": 3421
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Futaba Yoshioka has a few reasons why she wants to \"reset\" her image and life as a new high school student. She was ostracized by her female friends in junior high because she is cute, and because of a misunderstanding, she could not get her feelings across to the only boy she has ever liked, Kou Tanaka. Now in high school, she is determined to be as unladylike as possible so that her friends will not be jealous of her. While living her life this way contentedly, she meets Kou again, but he now goes under the name of Kou Mabuchi. He tells her that he felt the same way as she did when they were younger, but now that is the thing of the past.",
+            "type": "wiki"
+        },
+        {
+            "content": "Ao Haru Ride revolves around Futaba, a girl who was in love with a boy named K\u014d Tanaka in middle school. However, after a misunderstanding, their relationship as friends ends when he transfers schools over summer vacation. In high school, her world is turned around once again when she meets K\u014d again, this time under the name of K\u014d Mabuchi.",
+            "type": "ann"
+        },
+        {
+            "content": "* Bases on a shoujo manga series written and illustrated by Sakisaka Io, serialised Bessatsu Margaret.Yoshioka Futaba used to be in love with a boy named Tanaka Kou in middle school. However, after a misunderstanding, their relationship as friends ends when he transfers schools over summer vacation. In high school, her world is turned around once more when she meets Kou again, this time under the name of Mabuchi Kou.Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 396,
+            "date": "2014-10-13T03:00:56",
+            "score": 7.3,
+            "type": "anidb"
+        },
+        {
+            "count": 360,
+            "date": "2014-10-13T03:00:56",
+            "score": 7.479,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Ao Haru Ride"
+}

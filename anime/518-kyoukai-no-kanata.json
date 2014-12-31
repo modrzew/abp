@@ -1,0 +1,917 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5883\u754c\u306e\u5f7c\u65b9"
+        },
+        {
+            "language": "pl",
+            "title": "Poza Horyzontem"
+        }
+    ],
+    "aliases": [
+        "Kyoukai no Kanata"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-02T17:30:00",
+            "episode": 1,
+            "score": 7.6876282636,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478900",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478901",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478903",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 01 [C5710894].mkv",
+                    "group": "Mezashite",
+                    "hash": "C5710894",
+                    "url": "http://www.nyaa.se/?page=download&tid=479040",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Kyoukai no Kanata - 01 [8AFF69A3].mkv",
+                    "group": "Commie",
+                    "hash": "8AFF69A3",
+                    "url": "http://www.nyaa.se/?page=download&tid=479062",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_01_[h264-720p][EA7904DE].mkv",
+                    "group": "UTW",
+                    "hash": "EA7904DE",
+                    "url": "http://www.nyaa.se/?page=download&tid=479077",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Kyoukai no Kanata - 01 [351A3504].mkv",
+                    "group": "FFF",
+                    "hash": "351A3504",
+                    "url": "http://www.nyaa.se/?page=download&tid=479366",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-09T17:30:00",
+            "episode": 2,
+            "score": 7.6905959039,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481323",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Kyoukai no Kanata - 02 [4D6B5B41].mkv",
+                    "group": "FFF",
+                    "hash": "4D6B5B41",
+                    "url": "http://www.nyaa.se/?page=download&tid=481528",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_02_[h264-720p][154C16B3].mkv",
+                    "group": "UTW",
+                    "hash": "154C16B3",
+                    "url": "http://www.nyaa.se/?page=download&tid=481497",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 02 [D542BE45].mkv",
+                    "group": "Mezashite",
+                    "hash": "D542BE45",
+                    "url": "http://www.nyaa.se/?page=download&tid=481458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Kyoukai no Kanata - 02 [F1F5A1FE].mkv",
+                    "group": "Commie",
+                    "hash": "F1F5A1FE",
+                    "url": "http://www.nyaa.se/?page=download&tid=481469",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-16T17:30:00",
+            "episode": 3,
+            "score": 7.6791884677,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483540",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483543",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483545",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 03 [BCE78C81].mkv",
+                    "group": "Mezashite",
+                    "hash": "BCE78C81",
+                    "url": "http://www.nyaa.se/?page=download&tid=483690",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Kyoukai no Kanata - 03 [3101EE16].mkv",
+                    "group": "Commie",
+                    "hash": "3101EE16",
+                    "url": "http://www.nyaa.se/?page=download&tid=483692",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Kyoukai no Kanata - 03 [867A1423].mkv",
+                    "group": "FFF",
+                    "hash": "867A1423",
+                    "url": "http://www.nyaa.se/?page=download&tid=483719",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_03_[h264-720p][FA70301B].mkv",
+                    "group": "UTW",
+                    "hash": "FA70301B",
+                    "url": "http://www.nyaa.se/?page=download&tid=483752",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-23T17:30:00",
+            "episode": 4,
+            "score": 7.2498040541,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485888",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Kyoukai no Kanata - 04 [6D20EB28].mkv",
+                    "group": "Commie",
+                    "hash": "6D20EB28",
+                    "url": "http://www.nyaa.se/?page=download&tid=485990",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 04 [51C8CD51].mkv",
+                    "group": "Mezashite",
+                    "hash": "51C8CD51",
+                    "url": "http://www.nyaa.se/?page=download&tid=486009",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Kyoukai no Kanata - 04 [BDE2E8DD].mkv",
+                    "group": "FFF",
+                    "hash": "BDE2E8DD",
+                    "url": "http://www.nyaa.se/?page=download&tid=486026",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486047",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_04_[h264-720p][7716B45C].mkv",
+                    "group": "UTW",
+                    "hash": "7716B45C",
+                    "url": "http://www.nyaa.se/?page=download&tid=486051",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-30T17:30:00",
+            "episode": 5,
+            "score": 7.2086153846,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488223",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Kyoukai no Kanata - 05 [990C2416].mkv",
+                    "group": "FFF",
+                    "hash": "990C2416",
+                    "url": "http://www.nyaa.se/?page=download&tid=488346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 05 [1AE34B32].mkv",
+                    "group": "Mezashite",
+                    "hash": "1AE34B32",
+                    "url": "http://www.nyaa.se/?page=download&tid=488372",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Kyoukai no Kanata - 05 [E28D937B].mkv",
+                    "group": "Commie",
+                    "hash": "E28D937B",
+                    "url": "http://www.nyaa.se/?page=download&tid=488408",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_05_[h264-720p][9D70A03B].mkv",
+                    "group": "UTW",
+                    "hash": "9D70A03B",
+                    "url": "http://www.nyaa.se/?page=download&tid=488447",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-06T17:30:00",
+            "episode": 6,
+            "score": 7.1760780669,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490556",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490557",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Kyoukai no Kanata - 06 [D2A00257].mkv",
+                    "group": "Commie",
+                    "hash": "D2A00257",
+                    "url": "http://www.nyaa.se/?page=download&tid=490674",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 06 [98042C37].mkv",
+                    "group": "Mezashite",
+                    "hash": "98042C37",
+                    "url": "http://www.nyaa.se/?page=download&tid=490681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Kyoukai no Kanata - 06 [C52DDDEA].mkv",
+                    "group": "FFF",
+                    "hash": "C52DDDEA",
+                    "url": "http://www.nyaa.se/?page=download&tid=490732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_06_[h264-720p][065DBF62].mkv",
+                    "group": "UTW",
+                    "hash": "065DBF62",
+                    "url": "http://www.nyaa.se/?page=download&tid=490757",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-13T17:30:00",
+            "episode": 7,
+            "score": 7.2332394366,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492737",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492742",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492743",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 07 [108C6FA2].mkv",
+                    "group": "Mezashite",
+                    "hash": "108C6FA2",
+                    "url": "http://www.nyaa.se/?page=download&tid=492861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[FFF] Kyoukai no Kanata - 07 [3761D7FE].mkv",
+                    "group": "FFF",
+                    "hash": "3761D7FE",
+                    "url": "http://www.nyaa.se/?page=download&tid=492888",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Kyoukai no Kanata - 07 [35A9B5AA].mkv",
+                    "group": "Commie",
+                    "hash": "35A9B5AA",
+                    "url": "http://www.nyaa.se/?page=download&tid=492896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_07_[h264-720p][28AB7AC1].mkv",
+                    "group": "UTW",
+                    "hash": "28AB7AC1",
+                    "url": "http://www.nyaa.se/?page=download&tid=492928",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-20T17:30:00",
+            "episode": 8,
+            "score": 7.1678190789,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494948",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494950",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 08 [155C3642].mkv",
+                    "group": "Mezashite",
+                    "hash": "155C3642",
+                    "url": "http://www.nyaa.se/?page=download&tid=495051",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[FFF] Kyoukai no Kanata - 08 [F67DA809].mkv",
+                    "group": "FFF",
+                    "hash": "F67DA809",
+                    "url": "http://www.nyaa.se/?page=download&tid=495083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Kyoukai no Kanata - 08 [DEC43C74].mkv",
+                    "group": "Commie",
+                    "hash": "DEC43C74",
+                    "url": "http://www.nyaa.se/?page=download&tid=495098",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_08_[h264-720p][0D3504BA].mkv",
+                    "group": "UTW",
+                    "hash": "0D3504BA",
+                    "url": "http://www.nyaa.se/?page=download&tid=495176",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-27T17:30:00",
+            "episode": 9,
+            "score": 7.2196573209,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497254",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497255",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Asuka Subs] Kyoukai no Kanata - 09 (1280x720 h264 AAC)[204E7D6B].mkv",
+                    "group": "Asuka Subs",
+                    "hash": "204E7D6B",
+                    "url": "http://www.nyaa.se/?page=download&tid=497360",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 09 [329199DD].mkv",
+                    "group": "Mezashite",
+                    "hash": "329199DD",
+                    "url": "http://www.nyaa.se/?page=download&tid=497371",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Kyoukai no Kanata - 09 [8D66F3AB].mkv",
+                    "group": "FFF",
+                    "hash": "8D66F3AB",
+                    "url": "http://www.nyaa.se/?page=download&tid=497377",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_09_[h264-720p][9D5372F4].mkv",
+                    "group": "UTW",
+                    "hash": "9D5372F4",
+                    "url": "http://www.nyaa.se/?page=download&tid=497439",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Kyoukai no Kanata - 09 [DED57F4A].mkv",
+                    "group": "Commie",
+                    "hash": "DED57F4A",
+                    "url": "http://www.nyaa.se/?page=download&tid=498643",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-04T17:30:00",
+            "episode": 10,
+            "score": 7.3208217968,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499389",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499390",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 10 [CE77FC2B].mkv",
+                    "group": "Mezashite",
+                    "hash": "CE77FC2B",
+                    "url": "http://www.nyaa.se/?page=download&tid=499489",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_10_[h264-720p][87EDFFEB].mkv",
+                    "group": "UTW",
+                    "hash": "87EDFFEB",
+                    "url": "http://www.nyaa.se/?page=download&tid=499582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Kyoukai no Kanata - 10 [6A912B79].mkv",
+                    "group": "FFF",
+                    "hash": "6A912B79",
+                    "url": "http://www.nyaa.se/?page=download&tid=499939",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Kyoukai no Kanata - 10 [E82C5507].mkv",
+                    "group": "Commie",
+                    "hash": "E82C5507",
+                    "url": "http://www.nyaa.se/?page=download&tid=500727",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-11T17:30:00",
+            "episode": 11,
+            "score": 7.3588157525,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501506",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501507",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501510",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 11 [61309057].mkv",
+                    "group": "Mezashite",
+                    "hash": "61309057",
+                    "url": "http://www.nyaa.se/?page=download&tid=501614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_11_[h264-720p][153AFA92].mkv",
+                    "group": "UTW",
+                    "hash": "153AFA92",
+                    "url": "http://www.nyaa.se/?page=download&tid=501733",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Kyoukai no Kanata - 11 [A555AC91].mkv",
+                    "group": "FFF",
+                    "hash": "A555AC91",
+                    "url": "http://www.nyaa.se/?page=download&tid=501902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Kyoukai no Kanata - 11 [E6837D65].mkv",
+                    "group": "Commie",
+                    "hash": "E6837D65",
+                    "url": "http://www.nyaa.se/?page=download&tid=502060",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-18T17:30:00",
+            "episode": 12,
+            "score": 7.3173254531,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503620",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503622",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kyoukai no Kanata - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503624",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Mezashite] Kyoukai no Kanata - 12 [134306E5].mkv",
+                    "group": "Mezashite",
+                    "hash": "134306E5",
+                    "url": "http://www.nyaa.se/?page=download&tid=503730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kyoukai_no_Kanata_-_12_[h264-720p][FAEBA745].mkv",
+                    "group": "UTW",
+                    "hash": "FAEBA745",
+                    "url": "http://www.nyaa.se/?page=download&tid=503769",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Kyoukai no Kanata - 12 [188F98C1].mkv",
+                    "group": "FFF",
+                    "hash": "188F98C1",
+                    "url": "http://www.nyaa.se/?page=download&tid=503780",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Kyoukai no Kanata - 12 [CC9A8542].mkv",
+                    "group": "Commie",
+                    "hash": "CC9A8542",
+                    "url": "http://www.nyaa.se/?page=download&tid=503804",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9518,
+        "ann": 15546,
+        "mal": 18153,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The dark fantasy follows a high school sophomore named Akihito Kanbara. Although the boy appears human, he is half youmu and invulnerable to wounds because he can heal quickly. One day, Akihito meets freshman Mirai Kuriyama when it seems she is about to jump from the school rooftop. Mirai is isolated because of her ability to manipulate blood, which is unique even among members of the spirit world. Disturbing events begin to unfold after Akihito saves Mirai.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on the light novel by Torii Nagomu.",
+            "type": "anidb"
+        },
+        {
+            "content": "Akihito Kanbara is a high school sophomore in the literature club who believes himself to be a \"Meganest\", and although he appears to be human, he is actually half Y\u014dmu, which makes him invulnerable to wounds, due to the fact that he can heal so quickly, and also immortal. One day, Akihito meets freshman Mirai Kuriyama when it appears as if she is about to attempt suicide by jumping off of the school rooftop. Mirai is isolated because of her ability to manipulate blood, which is considered heresy even among other members of the underworld, so she is shunned. Soon after Akihito saves Mirai, disturbing events begin to arise.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 9880,
+            "date": "2013-10-27T06:03:15",
+            "score": 7.74,
+            "type": "mal"
+        },
+        {
+            "count": 656,
+            "date": "2013-12-25T05:31:07",
+            "score": 7.07,
+            "type": "anidb"
+        },
+        {
+            "count": 613,
+            "date": "2013-12-25T05:31:07",
+            "score": 7.582,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Kyoukai no Kanata"
+}

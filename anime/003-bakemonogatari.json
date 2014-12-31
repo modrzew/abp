@@ -1,0 +1,98 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5316\u7269\u8a9e"
+        },
+        {
+            "language": "pl",
+            "title": "Duchopowie\u015b\u0107"
+        }
+    ],
+    "aliases": [],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/49182615",
+            "content": "Bakemonogatari 14 - cycki w bardzo dobrym stylu \u2665",
+            "episode": 14,
+            "filename": "91147b3e0960263be9eb1bf9a5a8a91b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/9751043403"
+        }
+    ],
+    "episodes": [],
+    "episodes_count": 15,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6327,
+        "ann": 10196,
+        "mal": 5081,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dea492c3a6637880befab7dc2e55136d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/378e8b82d76377dcbcafdb3fa5a6f3dd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c3fea1d6d8d2e379c49d51102d501091.jpg",
+            "hd": false
+        },
+        {
+            "description": "cycki w bardzo dobrym stylu \u2665",
+            "filename": "http://s.modriv.net/abp/images/screencaps/91147b3e0960263be9eb1bf9a5a8a91b.jpg",
+            "hd": true
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ody ch\u0142opak b\u0119d\u0105cy w jednej dziesi\u0105tej wampirem pomaga dziwniejszym od siebie dziewczynom, przy okazji zdobywaj\u0105c ich serca.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a series of light novels written by Nishio Ishin and illustrated by Vofan.Bakemonogatari centres on Araragi Koyomi, a third year high school student who is almost human again after briefly becoming a vampire. One day, a classmate named Senjougahara Hitagi, who infamously never talks to anyone, falls down the stairs into Koyomi's arms. He discovers that Hitagi weighs next to nothing, in defiance of physics. After being threatened by her, Koyomi offers her help, and introduces her to Oshino Meme, a middle-aged homeless man who helped him stop being a vampire.Info: In each chapter of the series, he encounters a different heroine, each involved with a different \"apparition\". The events of the previous chapters play an important role in the subsequent ones. The series primarily focuses on conversations between characters; it contains a fair number of parodies of other series, as well as Nisio Ishin's trademark wordplay and meta-humour.Note: Episodes 13-15 (Tsubasa Cat parts 3-5) never received a TV broadcast, but instead were streamed online on the anime's official website.",
+            "type": "anidb"
+        },
+        {
+            "content": "The story centers on Koyomi Araragi, a third year high school student who has recently survived a vampire attack, and finds himself mixed up with all kinds of apparitions: gods, ghosts, myths, and spirits.     (Source: Wikipedia)",
+            "type": "mal"
+        },
+        {
+            "content": "Although there are still traces of the brief period he became a vampire, third-year high school student Koyomi Araragi is human again. He happens upon others with their own supernatural problems and finds that he can empathize. Koyomi becomes involved in their lives, seeking to help them and occasionally asking for advice from Meme Oshino, the homeless man who helped him become human again.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 83802,
+            "date": "2013-03-09T06:15:57",
+            "score": 8.46,
+            "type": "mal"
+        },
+        {
+            "count": 5825,
+            "date": "2013-03-09T06:15:57",
+            "score": 8.52,
+            "type": "anidb"
+        },
+        {
+            "count": 5130,
+            "date": "2013-03-09T06:15:57",
+            "score": 8.398,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Bakemonogatari"
+}

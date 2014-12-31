@@ -1,0 +1,793 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u301c\u795e\u306e\u30d1\u30ba\u30eb \u7b2c2\u30b7\u30ea\u30fc\u30ba"
+        },
+        {
+            "language": "pl",
+            "title": "M\u00f3zg Fi: Boskie Puzzle 2 Seria"
+        }
+    ],
+    "aliases": [
+        "Phi-Brain S2",
+        "Phi Brain S2",
+        "Phi Brain 2"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1102855139",
+            "content": "#anime #Wiosna2012 Phi Brain: Kami no Puzzle 2 (\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u301c\u795e\u306e\u30d1\u30ba\u30eb \u7b2c2\u30b7\u30ea\u30fc\u30ba) http://rdir.pl/1nbbhc",
+            "episode": 1,
+            "filename": "ae223a74d37eeeca31f4b644348fa9be.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190603109825908738"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-08T10:30:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_01_(1280x720_x264_AAC)_[EC081EF9].mkv",
+                    "group": "SubDESU",
+                    "hash": "EC081EF9",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D_Phi-Brain_S2_-_01_(1280x720_x264_AAC)_%5BEC081EF9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304087",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-15T10:30:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Phi_Brain_2_-_02_(1280x720_x264_AAC)_[B84FFEAE].mkv",
+                    "group": "SubDESU",
+                    "hash": "B84FFEAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305277",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 02 [5D573F0B].mkv",
+                    "group": "WhyNot",
+                    "hash": "5D573F0B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305362",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307219",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-22T10:30:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_03_(1280x720_x264_AAC)_[F2F72B5F].mkv",
+                    "group": "SubDESU",
+                    "hash": "F2F72B5F",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D_Phi-Brain_S2_-_03_(1280x720_x264_AAC)_%5BF2F72B5F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 03 [7E1C8678].mkv",
+                    "group": "WhyNot",
+                    "hash": "7E1C8678",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307660",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308438",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308439",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308440",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-29T10:30:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_04_(1280x720_x264_AAC)_[EE0967BC].mkv",
+                    "group": "SubDESU",
+                    "hash": "EE0967BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309784",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 04 [106194FD].mkv",
+                    "group": "WhyNot",
+                    "hash": "106194FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310705",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310709",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310710",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-06T10:30:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain S2 - 05 (1280x720 x264 AAC) [CFCFCA65].mkv",
+                    "group": "SubDESU",
+                    "hash": "CFCFCA65",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312206",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312854",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Phi Brain S2 - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312857",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-13T10:30:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_06_(1280x720_x264_AAC)_[05DAFF4F].mkv",
+                    "group": "SubDESU",
+                    "hash": "05DAFF4F",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D_Phi-Brain_S2_-_06_(1280x720_x264_AAC)_%5B05DAFF4F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-20T10:30:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 07 [23549BFC].mkv",
+                    "group": "WhyNot",
+                    "hash": "23549BFC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316037",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_07_(1280x720_x264_AAC)_[91695E34].mkv",
+                    "group": "SubDESU",
+                    "hash": "91695E34",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316065",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-27T10:30:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_S2_08_(1280x720_x264_AAC)_[2172ABC3].mkv",
+                    "group": "SubDESU",
+                    "hash": "2172ABC3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318064",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-03T10:30:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_09_(1280x720_x264-AAC)_[4C81C04C].mkv",
+                    "group": "SubDESU",
+                    "hash": "4C81C04C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 09 [76F90E53].mkv",
+                    "group": "WhyNot",
+                    "hash": "76F90E53",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320130",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-10T10:30:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_10_(1280x720_x264_AAC)_[9D48900C].mkv",
+                    "group": "SubDESU",
+                    "hash": "9D48900C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 10 [C3AF954C].mkv",
+                    "group": "WhyNot",
+                    "hash": "C3AF954C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322054",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-17T10:30:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_11_(1280x720_x264_AAC)_[AD9BD04E].mkv",
+                    "group": "SubDESU",
+                    "hash": "AD9BD04E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324009",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 11 [E3E8D8BA].mkv",
+                    "group": "WhyNot",
+                    "hash": "E3E8D8BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324023",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-24T10:30:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_12_(1280x720_x264_AAC)_[9F1F02A7].mkv",
+                    "group": "SubDESU",
+                    "hash": "9F1F02A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325890",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-01T10:30:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_S2_-_13_(1280x720_x264_AAC)_[CAAE67DB].mkv",
+                    "group": "SubDESU",
+                    "hash": "CAAE67DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327779",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 13 [1ED5F495].mkv",
+                    "group": "WhyNot",
+                    "hash": "1ED5F495",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328818",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-08T10:30:00",
+            "episode": 14,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi Brain S2 - 14 (1280x720 x264 AAC) [95B150F2].mkv",
+                    "group": "SubDESU",
+                    "hash": "95B150F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330021",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 14 [D70F7CE8].mkv",
+                    "group": "WhyNot",
+                    "hash": "D70F7CE8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330733",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-15T10:30:00",
+            "episode": 15,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi Brain S2 - 15 (1280x720 x264 AAC) [89DFE854].mkv",
+                    "group": "SubDESU",
+                    "hash": "89DFE854",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332147",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-22T10:30:00",
+            "episode": 16,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SubDESU] Phi Brain S2 - 16 (1280x720 x264 AAC) [2F37BB02].mkv",
+                    "group": "SubDESU",
+                    "hash": "2F37BB02",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334528",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 16 [51FB85C4].mkv",
+                    "group": "WhyNot",
+                    "hash": "51FB85C4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336126",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-29T10:30:00",
+            "episode": 17,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi Brain S2 - 17 (1280x720 x264 AAC) [00F44200].mkv",
+                    "group": "SubDESU",
+                    "hash": "00F44200",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 17 [6B45A920].mkv",
+                    "group": "WhyNot",
+                    "hash": "6B45A920",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337412",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-05T10:30:00",
+            "episode": 18,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Phi Brain S2 - 18 (1280x720 x264 AAC) [EC114484].mkv",
+                    "group": "SubDESU",
+                    "hash": "EC114484",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 18 [8340CF57].mkv",
+                    "group": "WhyNot",
+                    "hash": "8340CF57",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339292",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-12T10:30:00",
+            "episode": 19,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi Brain S2 - 19 (1280x720 x264 AAC) [C32B2B6D].mkv",
+                    "group": "SubDESU",
+                    "hash": "C32B2B6D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341523",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 19 [A9F75979].mkv",
+                    "group": "WhyNot",
+                    "hash": "A9F75979",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341747",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-19T10:30:00",
+            "episode": 20,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi Brain S2 - 20 (1280x720 x264 AAC) [224E99F9].mkv",
+                    "group": "SubDESU",
+                    "hash": "224E99F9",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=344226",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-26T10:30:00",
+            "episode": 21,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 21 [A8AB7C4B].mkv",
+                    "group": "WhyNot",
+                    "hash": "A8AB7C4B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346005",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain S2 - 21 (1280x720 x264 AAC) [F70AE3CD].mkv",
+                    "group": "SubDESU",
+                    "hash": "F70AE3CD",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D%20Phi-Brain%20S2%20-%2021%20(1280x720%20x264%20AAC)%20%5BF70AE3CD%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-02T10:30:00",
+            "episode": 22,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain S2 - 22 (1280x720 x264 AAC) [8FCBD3DE].mkv",
+                    "group": "SubDESU",
+                    "hash": "8FCBD3DE",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D%20Phi-Brain%20S2%20-%2022%20(1280x720%20x264%20AAC)%20%5B8FCBD3DE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 22 [1B49C961].mkv",
+                    "group": "WhyNot",
+                    "hash": "1B49C961",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349012",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-09T10:30:00",
+            "episode": 23,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain S2 - 23 (1280x720 x264 AAC) [043457DF].mkv",
+                    "group": "SubDESU",
+                    "hash": "043457DF",
+                    "url": "http://www.anirena.com/?action=torrent-download&id=93",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 23 [A12C605F].mkv",
+                    "group": "WhyNot",
+                    "hash": "A12C605F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351610",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-16T10:30:00",
+            "episode": 24,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain S2 - 24 (1280x720 x264 AAC) [29FDDF66].mkv",
+                    "group": "SubDESU",
+                    "hash": "29FDDF66",
+                    "url": "http://www.anirena.com/?action=torrent-download&id=113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 24 [E616B23D].mkv",
+                    "group": "WhyNot",
+                    "hash": "E616B23D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354069",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-23T10:30:00",
+            "episode": 25,
+            "score": 7.3499314064,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 25 [6BC65BCA].mkv",
+                    "group": "WhyNot",
+                    "hash": "6BC65BCA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355391",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain S2 - 25 Final (1280x720 x264 AAC) [29A913D8].mkv",
+                    "group": "SubDESU",
+                    "hash": "29A913D8",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D%20Phi-Brain%20S2%20-%2025%20Final%20(1280x720%20x264%20AAC)%20%5B29A913D8%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 25,
+    "external_sites": {
+        "anidb": 8924,
+        "ann": 14121,
+        "mal": 12753,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "To na pewno nie mo\u017ce by\u0107 Nowy G\u0142\u00f3wny Z\u0142y!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/921b3db7a41e6397c91c9a89ab4e27b6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kaito lekkoatleta",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e354c5aefc147e536f5412fe600e8207.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/642f38599a44f02b8e4526b8b44fd06c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b213ce11ef5ff2313708254ddb93151b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Szklana pu\u0142apka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/232e8451eabc35699a0e25fc1d66612a.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Phi Brain: Kami no Puzzle 2 (\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u301c\u795e\u306e\u30d1\u30ba\u30eb \u7b2c2\u30b7\u30ea\u30fc\u30ba) http://rdir.pl/1nbbhc",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ae223a74d37eeeca31f4b644348fa9be.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 2107,
+            "date": "2012-09-29T14:13:59",
+            "score": 7.41,
+            "type": "mal"
+        },
+        {
+            "count": 94,
+            "date": "2012-09-29T14:13:59",
+            "score": 6.51,
+            "type": "anidb"
+        },
+        {
+            "count": 117,
+            "date": "2012-09-29T14:13:59",
+            "score": 6.943,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "304",
+    "title": "Phi Brain: Kami no Puzzle 2"
+}

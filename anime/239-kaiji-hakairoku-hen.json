@@ -1,0 +1,778 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u9006\u5883\u7121\u983c\u30ab\u30a4\u30b8 \u7834\u6212\u9332\u7bc7"
+        },
+        {
+            "language": "pl",
+            "title": "Legendarnie Ocala\u0142y Kaiji: \u015awi\u0119tokradcze Zapiski"
+        }
+    ],
+    "aliases": [
+        "Kaiji S2"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/429761717",
+            "content": "#anime #Wiosna2011 Kaiji: Hakairoku-hen (\u9006\u5883\u7121\u983c\u30ab\u30a4\u30b8 \u7834\u6212\u9332\u7bc7) http://rdir.pl/1c1o5v",
+            "episode": 1,
+            "filename": "29fda0d06fcfbd7ab9592ff8ffc2a38d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/55756455759986688"
+        },
+        {
+            "blip_url": "http://blip.pl/s/463097929",
+            "content": "Kaiji: Hakairoku-hen 03 - temu panu dobrze z oczu patrzy - jak znalaz\u0142 jako opiekun dla twojego dziecka",
+            "episode": 3,
+            "filename": "e54b329ce3696785c576f4f36779cdf3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/61586572432244736"
+        },
+        {
+            "blip_url": "http://blip.pl/s/534774731",
+            "content": "Kaiji: Hakairoku-hen 08 - tyle zachodu o takie ma?e kostki...",
+            "episode": 8,
+            "filename": "018ad70eacc2a1192b3e1cf0df5efd9e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/74622146147651584"
+        },
+        {
+            "blip_url": "http://blip.pl/s/556064327",
+            "content": "Kaiji: Hakairoku-hen 10 - po wyj?ciu na powierzchni? Kaiji dowiedzia? si? o tym, co go czeka za p\u00f3? roku w kinie",
+            "episode": 10,
+            "filename": "84edcc92b7cd1d1abfcc3107581e89d7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/79952951787003905"
+        },
+        {
+            "blip_url": "http://blip.pl/s/608713047",
+            "content": "Kaiji: Hakairoku-hen 15 - ostatni krzyk mody: wyszukane wzorki na paznokcie w kolorze krwistej czerwieni",
+            "episode": 15,
+            "filename": "37ef02a5115dc106d9804c15c2d79fc5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/91532430447620096"
+        },
+        {
+            "blip_url": "http://blip.pl/s/731841651",
+            "content": "#anime #Wiosna2011 Kaiji: Hakairoku-hen (??????? ????) - nasza ocena: takie samo jak poprzednik (wi?cej: http://rdir.pl/1c1o5v)",
+            "episode": 24,
+            "filename": "c4b540bf5232d28d8f77c86c1304415a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/119541850272038912"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-05T17:59:00",
+            "episode": 1,
+            "score": 9.1971428571,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_01_[D721C8A7].mkv",
+                    "group": "Nutbladder",
+                    "hash": "D721C8A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204292",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Triad]_Kaiji_S2_-_01.mkv",
+                    "group": "Triad",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206324",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-12T17:59:00",
+            "episode": 2,
+            "score": 8.3021779859,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_02_[096DDC1E].mkv",
+                    "group": "Nutbladder",
+                    "hash": "096DDC1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205929",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Triad]_Kaiji_S2_-_02.mkv",
+                    "group": "Triad",
+                    "hash": "",
+                    "url": "http://torrents.the-triad.org/torrents/%5BTriad%5D_Kaiji_S2_-_02.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-19T17:59:00",
+            "episode": 3,
+            "score": 8.2804171934,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_03_[81E952E7].mkv",
+                    "group": "Nutbladder",
+                    "hash": "81E952E7",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=207912",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Triad]_Kaiji_S2_-_03.mkv",
+                    "group": "Triad",
+                    "hash": "",
+                    "url": "http://torrents.the-triad.org/torrents/%5BTriad%5D_Kaiji_S2_-_03.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-26T17:59:00",
+            "episode": 4,
+            "score": 8.2674916759,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Espada] Kaiji S2 - 04 [CFE1BC82].mkv",
+                    "group": "Espada",
+                    "hash": "CFE1BC82",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=210552",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_04_[165ECBA7].mkv",
+                    "group": "Nutbladder",
+                    "hash": "165ECBA7",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=210706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Triad]_Kaiji_S2_-_04.mkv",
+                    "group": "Triad",
+                    "hash": "",
+                    "url": "http://torrents.the-triad.org/torrents/%5BTriad%5D_Kaiji_S2_-_04.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-03T17:59:00",
+            "episode": 5,
+            "score": 8.2905483549,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Kaiji S2 - 05 (480p) [D3E1CD6E].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "D3E1CD6E",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Kaiji%20S2%20-%2005%20(480p)%20%5BD3E1CD6E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Kaiji S2 - 05 (720p) [75CAF914].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "75CAF914",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Kaiji%20S2%20-%2005%20(720p)%20%5B75CAF914%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Espada] Kaiji S2 - 05 [C835EE94].mkv",
+                    "group": "Espada",
+                    "hash": "C835EE94",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=211706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_05_[ABA7F787].mkv",
+                    "group": "Nutbladder",
+                    "hash": "ABA7F787",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213095",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-10T17:59:00",
+            "episode": 6,
+            "score": 8.3303568161,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_06_[E8CEF9A4].mkv",
+                    "group": "Nutbladder",
+                    "hash": "E8CEF9A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213100",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Espada] Kaiji S2 - 06 [639DF8AA].mkv",
+                    "group": "Espada",
+                    "hash": "639DF8AA",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=213139",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-17T17:59:00",
+            "episode": 7,
+            "score": 8.3327388535,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_07_[D6221284].mkv",
+                    "group": "Nutbladder",
+                    "hash": "D6221284",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214805",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-24T17:59:00",
+            "episode": 8,
+            "score": 8.3376470588,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_08_[28493786].mkv",
+                    "group": "Nutbladder",
+                    "hash": "28493786",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216522",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-31T17:59:00",
+            "episode": 9,
+            "score": 8.3612024117,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Kaiji S2 - 09 (480p) [C25F09A6].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "C25F09A6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Kaiji%20S2%20-%2009%20(480p)%20%5BC25F09A6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Kaiji S2 - 09 (720p) [237119CB].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "237119CB",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Kaiji%20S2%20-%2009%20(720p)%20%5B237119CB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_09_[E7BB2401].mkv",
+                    "group": "Nutbladder",
+                    "hash": "E7BB2401",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218424",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-07T17:59:00",
+            "episode": 10,
+            "score": 8.4878580563,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_10_[E06276B6].mkv",
+                    "group": "Nutbladder",
+                    "hash": "E06276B6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219795",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-14T17:59:00",
+            "episode": 11,
+            "score": 8.4880680437,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_11_[B90DFB93].mkv",
+                    "group": "Nutbladder",
+                    "hash": "B90DFB93",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221500",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-21T17:59:00",
+            "episode": 12,
+            "score": 8.4903827381,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_12_[51DAC074].mkv",
+                    "group": "Nutbladder",
+                    "hash": "51DAC074",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222828",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-28T17:59:00",
+            "episode": 13,
+            "score": 8.4990909091,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_13_[967F7E5E].mkv",
+                    "group": "Nutbladder",
+                    "hash": "967F7E5E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224654",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-05T17:59:00",
+            "episode": 14,
+            "score": 8.5155492958,
+            "torrents": []
+        },
+        {
+            "date": "2011-07-12T17:59:00",
+            "episode": 15,
+            "score": 8.5168491139,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_15_[F5DDEF78].mkv",
+                    "group": "Nutbladder",
+                    "hash": "F5DDEF78",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228110",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-19T17:59:00",
+            "episode": 16,
+            "score": 8.5371617647,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kaiji S2 - 16 (480p) [54E639C3].mkv",
+                    "group": "Underwater",
+                    "hash": "54E639C3",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Kaiji%20S2%20-%2016%20(480p)%20%5B54E639C3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kaiji S2 - 16 (720p) [1FCFDE46].mkv",
+                    "group": "Underwater",
+                    "hash": "1FCFDE46",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Kaiji%20S2%20-%2016%20(720p)%20%5B1FCFDE46%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_16_[E12B0CDD].mkv",
+                    "group": "Nutbladder",
+                    "hash": "E12B0CDD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229943",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-26T17:59:00",
+            "episode": 17,
+            "score": 8.5473055028,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kaiji S2 - 17 (480p) [A745CC53].mkv",
+                    "group": "Underwater",
+                    "hash": "A745CC53",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Kaiji%20S2%20-%2017%20(480p)%20%5BA745CC53%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kaiji S2 - 17 (720p) [0FA068F0].mkv",
+                    "group": "Underwater",
+                    "hash": "0FA068F0",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Kaiji%20S2%20-%2017%20(720p)%20%5B0FA068F0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_17_[8AB91F5C].mkv",
+                    "group": "Nutbladder",
+                    "hash": "8AB91F5C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232151",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-02T17:59:00",
+            "episode": 18,
+            "score": 8.5513284538,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Kaiji S2 - 18 (720p) [1958240E].mkv",
+                    "group": "Underwater",
+                    "hash": "1958240E",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Kaiji%20S2%20-%2018%20(720p)%20%5B1958240E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Kaiji S2 - 18 (480p) [AAE8159C].mkv",
+                    "group": "Underwater",
+                    "hash": "AAE8159C",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Kaiji%20S2%20-%2018%20(480p)%20%5BAAE8159C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_18_[2416B3E2].mkv",
+                    "group": "Nutbladder",
+                    "hash": "2416B3E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233771",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8-Bit]",
+                    "download_count": 5,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_18_[8-Bit]_[E5B302FC].mkv",
+                    "group": "Nutbladder",
+                    "hash": "E5B302FC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233810",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-09T17:59:00",
+            "episode": 19,
+            "score": 8.5513505109,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kaiji S2 - 19 (480p) [AE366ED6].mkv",
+                    "group": "Underwater",
+                    "hash": "AE366ED6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Kaiji%20S2%20-%2019%20(480p)%20%5BAE366ED6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Kaiji S2 - 19 (720p) [991E0924].mkv",
+                    "group": "Underwater",
+                    "hash": "991E0924",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Kaiji%20S2%20-%2019%20(720p)%20%5B991E0924%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_19_[CA525160].mkv",
+                    "group": "Nutbladder",
+                    "hash": "CA525160",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8-bit]",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_19_[8-bit]_[4F74D4EC].mkv",
+                    "group": "Nutbladder",
+                    "hash": "4F74D4EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235767",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-16T17:59:00",
+            "episode": 20,
+            "score": 8.5597541126,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_20_[D8709E2A].mkv",
+                    "group": "Nutbladder",
+                    "hash": "D8709E2A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237623",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8-bit]",
+                    "download_count": 0,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_20_[8-bit]_[4CB5D7D5].mkv",
+                    "group": "Nutbladder",
+                    "hash": "4CB5D7D5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237630",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-23T17:59:00",
+            "episode": 21,
+            "score": 8.5541896115,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_21_[827919EF].mkv",
+                    "group": "Nutbladder",
+                    "hash": "827919EF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239763",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-30T17:59:00",
+            "episode": 22,
+            "score": 8.5448894823,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_22_[5F901A56].mkv",
+                    "group": "Nutbladder",
+                    "hash": "5F901A56",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241837",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-06T17:59:00",
+            "episode": 23,
+            "score": 8.5330947452,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Doremi].Kaiji.S2.Episode.23.[78C5180F].mkv",
+                    "group": "Doremi",
+                    "hash": "78C5180F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243803",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_23_[468B03E6].mkv",
+                    "group": "Nutbladder",
+                    "hash": "468B03E6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8-bit]",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_23_[8-bit]_[302F639F].mkv",
+                    "group": "Nutbladder",
+                    "hash": "302F639F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244021",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-13T17:59:00",
+            "episode": 24,
+            "score": 8.5059452471,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_24_[AB9B9CD7].mkv",
+                    "group": "Nutbladder",
+                    "hash": "AB9B9CD7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248783",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8-bit]",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Kaiji_S2_-_24_[8-bit]_[8B7FBFC4].mkv",
+                    "group": "Nutbladder",
+                    "hash": "8B7FBFC4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248945",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8242,
+        "ann": 12435,
+        "mal": 10271,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Kaiji te\u017c musia\u0142 ucieka\u0107 przed WKU",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aad763c367eebc5aeebb19bc5207f5f6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f04599a57b7901ac5f217a6a761b0230.jpg",
+            "hd": false
+        },
+        {
+            "description": "M\u0119skie cia\u0142ka~",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ecfce1a667f18d05cca2993366e4109d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Kaiji: Hakairoku-hen (\u9006\u5883\u7121\u983c\u30ab\u30a4\u30b8 \u7834\u6212\u9332\u7bc7) http://rdir.pl/1c1o5v",
+            "filename": "http://s.modriv.net/abp/images/screencaps/29fda0d06fcfbd7ab9592ff8ffc2a38d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a4f3574046eee0e3fdc0a2177b82cda.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/425b9ab102554b7031688b0f1be7125e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cf390cadd98e910417a2cf24b3b95e8b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e341143f886d5b38aa9d04e4669c15d.jpg",
+            "hd": false
+        },
+        {
+            "description": "U\u015bmiech typu \"zgwa\u0142c\u0119 ci\u0119, zabij\u0119, a potem jeszcze raz zgwa\u0142c\u0119\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eb8fe2fb29f7eca665b81ab353f0cb8a.jpg",
+            "hd": false
+        },
+        {
+            "description": "temu panu dobrze z oczu patrzy - jak znalaz\u0142 jako opiekun dla twojego dziecka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e54b329ce3696785c576f4f36779cdf3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/30f58f1af35c161c54df8d499e7a71ed.jpg",
+            "hd": false
+        },
+        {
+            "description": "tyle zachodu o takie ma?e kostki...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/018ad70eacc2a1192b3e1cf0df5efd9e.jpg",
+            "hd": false
+        },
+        {
+            "description": "po wyj?ciu na powierzchni? Kaiji dowiedzia? si? o tym, co go czeka za p\u00f3? roku w kinie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/84edcc92b7cd1d1abfcc3107581e89d7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Not sure if want",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e3262f22e5e871a438810b9b98810e9e.jpg",
+            "hd": false
+        },
+        {
+            "description": "ostatni krzyk mody: wyszukane wzorki na paznokcie w kolorze krwistej czerwieni",
+            "filename": "http://s.modriv.net/abp/images/screencaps/37ef02a5115dc106d9804c15c2d79fc5.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Kaiji: Hakairoku-hen (??????? ????) - nasza ocena: takie samo jak poprzednik (wi?cej: http://rdir.pl/1c1o5v)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4b540bf5232d28d8f77c86c1304415a.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 7903,
+            "date": "2012-09-29T13:16:41",
+            "score": 8.36,
+            "type": "mal"
+        },
+        {
+            "count": 647,
+            "date": "2012-09-29T13:16:41",
+            "score": 8.04,
+            "type": "anidb"
+        },
+        {
+            "count": 173,
+            "date": "2012-09-29T13:16:41",
+            "score": 7.915,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "Kaiji",
+    "title": "Kaiji: Hakairoku-hen"
+}

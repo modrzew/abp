@@ -1,0 +1,702 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "A\u30c1\u30e3\u30f3\u30cd\u30eb"
+        },
+        {
+            "language": "pl",
+            "title": "Kana\u0142 A"
+        }
+    ],
+    "aliases": [
+        "A-Channel",
+        "A Channel"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/439228229",
+            "content": "#anime #Wiosna2011 A Channel (A\u30c1\u30e3\u30f3\u30cd\u30eb) http://rdir.pl/1cg52b",
+            "episode": 1,
+            "filename": "03c6d55b43eb26d2610cc8a7c7ce9193.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/57553956649451521"
+        },
+        {
+            "blip_url": "http://blip.pl/s/458390599",
+            "content": "A Channel 02 - nowa moda bezmajtkowa nie przypad\u0142a Tooru do gustu",
+            "episode": 2,
+            "filename": "10cef034f6454be968b41c9af817c5b0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/60763525638926336"
+        },
+        {
+            "blip_url": "http://blip.pl/s/469202805",
+            "content": "A Channel 03 - i kolejny argument dla przeciwnik\u00f3w #anime... ?eby takie rzeczy w telewizji pokazywa?...",
+            "episode": 3,
+            "filename": "7d8441a45c781a5ee17e6d088c9d4208.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/62904216607391744"
+        },
+        {
+            "blip_url": "http://blip.pl/s/478856101",
+            "content": "A Channel 04 - zazdro?? o cycki zawsze by?a powa?nym problemem w?r\u00f3d dziewczyn",
+            "episode": 4,
+            "filename": "4c03bc28806a4fb2dc6de8a4ae1d5c1f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/64709015187365889"
+        },
+        {
+            "blip_url": "http://blip.pl/s/534843431",
+            "content": "A Channel 08 - Miho i Yutaka zobaczy?y, jak pa??sasz por?cz",
+            "episode": 8,
+            "filename": "cd9627d998f4c1d13c97c0883b6307ba.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/74638517405356032"
+        },
+        {
+            "blip_url": "http://blip.pl/s/555890431",
+            "content": "A Channel 10 - deprawacja w?r\u00f3d m?odzie?y si? szerzy",
+            "episode": 10,
+            "filename": "a454c69815f0106e8224dcc7c883094a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/79918329283878912"
+        },
+        {
+            "blip_url": "http://blip.pl/s/566982959",
+            "content": "A Channel 11 - Tooru przypomina o sesji",
+            "episode": 11,
+            "filename": "da749c21b6615b921e053eff7d00eef4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/81871313077141504"
+        },
+        {
+            "blip_url": "http://blip.pl/s/585398903",
+            "content": "#anime #Wiosna2011 A Channel (A?????) - nasza ocena: ogl?daj tylko je?li si? nudzisz (wi?cej: http://rdir.pl/1cg52b)",
+            "episode": 12,
+            "filename": "805f77167b51e82103b5e51606407565.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/86053286683217920"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-07T18:40:00",
+            "episode": 1,
+            "score": 7.133967684,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 01v2 (1280x720 x264 AAC).mkv",
+                    "group": "EveTaku",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=204752",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[pwq]_A-Channel_-_01_[604D6752].mkv",
+                    "group": "pwq",
+                    "hash": "604D6752",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HQ-team]_A_Channel_01_[720p]_[46B1DA7B].mkv",
+                    "group": "HQ-team",
+                    "hash": "46B1DA7B",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=206048",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] A Channel - 01 [1280x720 h.264 AAC][6FF830E9].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "6FF830E9",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20A%20Channel%20-%2001%20%5B1280x720%20h.264%20AAC%5D%5B6FF830E9%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-14T18:40:00",
+            "episode": 2,
+            "score": 7.140120603,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 02 (1280x720 x264 AAC).mkv",
+                    "group": "EveTaku",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=206387",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[pwq]_A-Channel_-_02_[D1258910].mkv",
+                    "group": "pwq",
+                    "hash": "D1258910",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HQ-team]_A_Channel_02_[720p]_[BE586714].mkv",
+                    "group": "HQ-team",
+                    "hash": "BE586714",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210473",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] A Channel - 02 [1280x720 h.264 AAC][20E68BE2].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "20E68BE2",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20A%20Channel%20-%2002%20%5B1280x720%20h.264%20AAC%5D%5B20E68BE2%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-21T18:40:00",
+            "episode": 3,
+            "score": 7.112366548,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 03 (1280x720 x264 AAC)[2eff0c21].mkv",
+                    "group": "EveTaku",
+                    "hash": "2eff0c21",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=208220",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[pwq]_A-Channel_-_03_[DB098148].mkv",
+                    "group": "pwq",
+                    "hash": "DB098148",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208777",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 1280x720]",
+                    "download_count": 1,
+                    "filename": "[Saitei] A Channel - 03 (h264 1280x720)[C59CE4F3].mkv",
+                    "group": "Saitei",
+                    "hash": "C59CE4F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209626",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HQ-team]_A_Channel_03_[720p]_[ADEDC775].mkv",
+                    "group": "HQ-team",
+                    "hash": "ADEDC775",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211850",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SHiN-gx] A Channel - 03 [1280x720 h.264 AAC][64DF8BE5].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "64DF8BE5",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=217387",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-28T18:40:00",
+            "episode": 4,
+            "score": 7.1089351331,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 04 (1280x720 x264 AAC)[cc359287].mkv",
+                    "group": "EveTaku",
+                    "hash": "cc359287",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=210200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[pwq]_A-Channel_-_04_[9C2460A2].mkv",
+                    "group": "pwq",
+                    "hash": "9C2460A2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210891",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] A Channel - 04 [1280x720 h.264 AAC][76455E54].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "76455E54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221335",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-05T18:40:00",
+            "episode": 5,
+            "score": 7.1106534131,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 05 (1280x720 x264 AAC)[FD691EAC].mkv",
+                    "group": "EveTaku",
+                    "hash": "FD691EAC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211963",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[pwq]_A-Channel_-_05_[71E6B655].mkv",
+                    "group": "pwq",
+                    "hash": "71E6B655",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] A Channel - 05 [1280x720 h.264 AAC][9109D84D].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "9109D84D",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20A%20Channel%20-%2005%20%5B1280x720%20h.264%20AAC%5D%5B9109D84D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-12T18:40:00",
+            "episode": 6,
+            "score": 7.1029575239,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[EveTaku] A-Channel - 06 (1280x720 x264 AAC)[381b60d9].mkv",
+                    "group": "EveTaku",
+                    "hash": "381b60d9",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=213549",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[pwq]_A-Channel_-_06_[3B074CEB].mkv",
+                    "group": "pwq",
+                    "hash": "3B074CEB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214654",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] A Channel - 06 [1280x720 h.264 AAC][35B58C5F].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "35B58C5F",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20A%20Channel%20-%2006%20%5B1280x720%20h.264%20AAC%5D%5B35B58C5F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-19T18:40:00",
+            "episode": 7,
+            "score": 7.1041516245,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 07 (1280x720 x264 AAC)[60b3d854].mkv",
+                    "group": "EveTaku",
+                    "hash": "60b3d854",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=215082",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[pwq]_A-Channel_-_07_[20D9E96E].mkv",
+                    "group": "pwq",
+                    "hash": "20D9E96E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] A Channel - 07 [1280x720 h.264 AAC][76842DF3].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "76842DF3",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20A%20Channel%20-%2007%20%5B1280x720%20h.264%20AAC%5D%5B76842DF3%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-26T18:40:00",
+            "episode": 8,
+            "score": 7.1084955897,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 08 (1280x720 x264 AAC)[b10126d9].mkv",
+                    "group": "EveTaku",
+                    "hash": "b10126d9",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=216843",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-02T18:40:00",
+            "episode": 9,
+            "score": 7.1082704783,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 09 (1280x720 x264 AAC)[9768a7de].mkv",
+                    "group": "EveTaku",
+                    "hash": "9768a7de",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=218478",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-09T18:40:00",
+            "episode": 10,
+            "score": 7.1082438125,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 10v0 (1280x720 x264 AAC)[fbdb0a3f].mkv",
+                    "group": "EveTaku",
+                    "hash": "fbdb0a3f",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220060",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 10 (1280x720 x264 AAC)[d89ca143].mkv",
+                    "group": "EveTaku",
+                    "hash": "d89ca143",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=220733",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-16T18:40:00",
+            "episode": 11,
+            "score": 7.08893857,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 11 (1280x720 x264 AAC)[2cc5f087].mkv",
+                    "group": "EveTaku",
+                    "hash": "2cc5f087",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=221660",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-23T18:40:00",
+            "episode": 12,
+            "score": 7.2546112985,
+            "torrents": [
+                {
+                    "additional_info": "1280x720 x264 AAC",
+                    "download_count": 1,
+                    "filename": "[EveTaku] A-Channel - 12 END (1280x720 x264 AAC)[01678112].mkv",
+                    "group": "EveTaku",
+                    "hash": "01678112",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=223224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] A Channel - 12 (1280x720 h264 AAC) [3D536D0F].mkv",
+                    "group": "Doki",
+                    "hash": "3D536D0F",
+                    "url": "http://tracker.anime-index.org/Doki_A_Channel_-_12_1280x720_h264_AAC_3D536D0F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] A Channel - 12 (848x480 h264 AAC) [D05FC1FC].mkv",
+                    "group": "Doki",
+                    "hash": "D05FC1FC",
+                    "url": "http://tracker.anime-index.org/Doki_A_Channel_-_12_848x480_h264_AAC_D05FC1FC.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8107,
+        "ann": 12112,
+        "mal": 9776,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/90e3adc929c8b9696d103a5e1d408df4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mamo, zdeformowali mnie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/52197442a3bc3f5cbb76c87d4195a992.jpg",
+            "hd": false
+        },
+        {
+            "description": "CO TU SI\u0118 WYRABIA",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7bc69b50b2d7bb727c03b80acd28550f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2ccf1d725e2b580c3c7da90dea28c599.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ciekawostki kultury japo\u0144skiej: du\u017ce cycki maj\u0105 wi\u0119ksz\u0105 szanse na to, \u017ce zostan\u0105 wymacane",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b60a9b554e699fd8552bdda7b11ee424.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc808ac69c86c2c5087fe9fa963494b7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/35bd6af2215786a30d36c1b96c2769a1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/900d320caaf2f68cbc1bde2cdbf8d0e4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/41613f765aaf7da5ba77b93b0cc29a43.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 A Channel (A\u30c1\u30e3\u30f3\u30cd\u30eb) http://rdir.pl/1cg52b",
+            "filename": "http://s.modriv.net/abp/images/screencaps/03c6d55b43eb26d2610cc8a7c7ce9193.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tooru does not appreciate",
+            "filename": "http://s.modriv.net/abp/images/screencaps/adcaac42881b2cc87faaeb50202a031d.jpg",
+            "hd": false
+        },
+        {
+            "description": "tylko nie ta kin\u00f3wka!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/92efd7bce7e4df7920b10f6ec8a71351.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b1eb42f1b4b67dd6635233abddab4c4d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9ab50f0b8d16974bba87e4f07bc9413a.jpg",
+            "hd": false
+        },
+        {
+            "description": "a ostrzegali, \u017ce Wii jest niebezpieczne...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2923926351866e1f780c2cba044e2b9f.jpg",
+            "hd": false
+        },
+        {
+            "description": "nowa moda bezmajtkowa nie przypad\u0142a Tooru do gustu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/10cef034f6454be968b41c9af817c5b0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a9b87066a5a26149e3db35b2df50c18f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a9f433bf40e208ee6dd97814942757f8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/680c3a1d2b495d774c0d2313af9a2cf4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e2dd39514501c67280dc5dd294f5cf30.jpg",
+            "hd": false
+        },
+        {
+            "description": "ajpod srajpod",
+            "filename": "http://s.modriv.net/abp/images/screencaps/76755b18628b23082c3a55a7357d7c1b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6a0d282304d98577fb811fb93960c1d4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ka?dy powinien mie? jaki? fetysz",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6035d564784de370471db78b0e08e320.jpg",
+            "hd": false
+        },
+        {
+            "description": "i kolejny argument dla przeciwnik\u00f3w #anime... ?eby takie rzeczy w telewizji pokazywa?...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d8441a45c781a5ee17e6d088c9d4208.jpg",
+            "hd": false
+        },
+        {
+            "description": "zazdro?? o cycki zawsze by?a powa?nym problemem w?r\u00f3d dziewczyn",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4c03bc28806a4fb2dc6de8a4ae1d5c1f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1bb21ccad749d6b0b2976d97e5c56399.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4e81d716cba9fd35846783e7427ff6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Miho i Yutaka zobaczy?y, jak pa??sasz por?cz",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cd9627d998f4c1d13c97c0883b6307ba.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/73ac55cd2d15555de2a3865b3bccd837.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/735f0c2a267619759799b66413f532fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/87c9cd260972d2f3c18de29a20d09eea.jpg",
+            "hd": false
+        },
+        {
+            "description": "deprawacja w?r\u00f3d m?odzie?y si? szerzy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a454c69815f0106e8224dcc7c883094a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a905c89502a398c15ae0a613c6243c2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tooru przypomina o sesji",
+            "filename": "http://s.modriv.net/abp/images/screencaps/da749c21b6615b921e053eff7d00eef4.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 A Channel (A?????) - nasza ocena: ogl?daj tylko je?li si? nudzisz (wi?cej: http://rdir.pl/1cg52b)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/805f77167b51e82103b5e51606407565.jpg",
+            "hd": false
+        },
+        {
+            "description": "O matko, CIASTO",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0c230a9e95d0586cafdd9d3ab02df070.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9c84d3028811562948b0c1020ff5fb15.jpg",
+            "hd": false
+        },
+        {
+            "description": "oh exploitable",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1aa42ba5231b55548036acba37bb56ff.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "\u017bycie codzienne czterech licealistek.",
+            "type": "abp"
+        },
+        {
+            "content": "The story revolves around the everyday life of four high school girls: the flighty Run, the reckless Tooru, the timid Yuuko, and the level-headed Nagi.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on a four-panel manga by Kuroda BB serialised in Houbunsha's Manga Time Kirara Carat magazine since 2008.The story revolves around the everyday life of four high school girls: the flighty Run, the reckless Tooru, the timid Yuuko, and the level-headed Nagi.",
+            "type": "anidb"
+        },
+        {
+            "content": "Tooru takes a test so she can enter the same high school as Run, the girl she likes. She passes, but when she goes to tell Run, she finds her hugging a girl she's never seen before.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 11953,
+            "date": "2012-09-29T13:19:28",
+            "score": 7.18,
+            "type": "mal"
+        },
+        {
+            "count": 900,
+            "date": "2012-09-29T13:19:28",
+            "score": 6.87,
+            "type": "anidb"
+        },
+        {
+            "count": 626,
+            "date": "2012-09-29T13:19:28",
+            "score": 7.125,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "A Channel"
+}

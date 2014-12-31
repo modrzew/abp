@@ -1,0 +1,990 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30c7\u30c3\u30c9\u30de\u30f3\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9"
+        },
+        {
+            "language": "pl",
+            "title": "Kraina Czar\u00f3w Martwych Ludzi"
+        }
+    ],
+    "aliases": [
+        "Deadman Wonderland "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/454532091",
+            "content": "#anime #Wiosna2011 Deadman Wonderland (\u30c7\u30c3\u30c9\u30de\u30f3\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9) http://rdir.pl/1d0940",
+            "episode": 1,
+            "filename": "0bd501cb8b560c9833e9b28948cc38ac.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/60078329239306240"
+        },
+        {
+            "blip_url": "http://blip.pl/s/470048709",
+            "content": "Deadman Wonderland 02 - przyjaciele stoj?cy za tob? murem s? na wag? z?ota - ale bezcenni s? ci, kt\u00f3rzy stan? przed tob?",
+            "episode": 2,
+            "filename": "785685dd703df31c2fd7edaf7ec4f006.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/63028074547122176"
+        },
+        {
+            "blip_url": "http://blip.pl/s/493026279",
+            "content": "Deadman Wonderland 04 - cycki: jedna z najpot??niejszych broni, jakie kiedykolwiek powsta?y",
+            "episode": 4,
+            "filename": "a62b4254645f6cb49e167b1fe76b1f4e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/67625493322678272"
+        },
+        {
+            "blip_url": "http://blip.pl/s/508359313",
+            "content": "Deadman Wonderland 05 - pierwsze spotkanie Ganty z samogonem p?dzonym przez wi??ni\u00f3w nie zako?czy?o si? najlepiej",
+            "episode": 5,
+            "filename": "1df6e6add5a3666570ec92b715a127dd.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/70277883364507648"
+        },
+        {
+            "blip_url": "http://blip.pl/s/520122302",
+            "content": "Deadman Wonderland 06 - pierwsze bliskie spotkanie Ganty z p?ci? przeciwn?: pora?ka na ca?ej linii",
+            "episode": 6,
+            "filename": "d837d8867fbe55d127bb3b6b7fc2fe5d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/72248350455513088"
+        },
+        {
+            "blip_url": "http://blip.pl/s/541857797",
+            "content": "Deadman Wonderland 07 - skazanym na ?mier? te? nale?y si? fanserwis, a co!",
+            "episode": 7,
+            "filename": "f6dbec0ee74777d8253d57505693b7f5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/76012370396327936"
+        },
+        {
+            "blip_url": "http://blip.pl/s/569904799",
+            "content": "Deadman Wonderland 10 - bo o?mieli?a si? opu?ci? kuchni?",
+            "episode": 10,
+            "filename": "2b3d7716163c2802feaa2353ae95fb62.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/82583603220987904"
+        },
+        {
+            "blip_url": "http://blip.pl/s/586258831",
+            "content": "Deadman Wonderland 11 - impreza si? rozkr?ca, wszyscy dobrze si? bawi?",
+            "episode": 11,
+            "filename": "d6578d2a0bf974f71669058654798b8f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/86220361980592128"
+        },
+        {
+            "blip_url": "http://blip.pl/s/591517103",
+            "content": "#anime #Wiosna2011 Deadman Wonderland (????????????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1d0940)",
+            "episode": 12,
+            "filename": "15714b0fe40ebec7d6e7fefa726fca57.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/87525965986664448"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-16T18:00:00",
+            "episode": 1,
+            "score": 8.6321065574,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206767",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206785",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_01_[62084908].mkv",
+                    "group": "umee",
+                    "hash": "62084908",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206865",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CCS] Deadman Wonderland 01(720p)[D060FE00].mkv",
+                    "group": "CCS",
+                    "hash": "D060FE00",
+                    "url": "http://torrage.ws/torrent/FFD7231DCBCBF48976897C24C3DD79F0E345835E.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[ShounenHeart] Deadman Wonderland - 01 [720p].mkv",
+                    "group": "ShounenHeart",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Deadman Wonderland - 01 [93328230].mkv",
+                    "group": "Splazm",
+                    "hash": "93328230",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206976",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_01_[720p_H264][7F35AE6F].mkv",
+                    "group": "GotWoot",
+                    "hash": "7F35AE6F",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=208100",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Deadman Wonderland - 01 [CB611109].mkv",
+                    "group": "Commie",
+                    "hash": "CB611109",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208741",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[lomo] Deadman Wonderland - 01 [720p].mkv",
+                    "group": "lomo",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209756",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-23T18:00:00",
+            "episode": 2,
+            "score": 8.2541879533,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208619",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Lomo] Deadman Wonderland 02 [720p].mkv",
+                    "group": "Lomo",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Splazm] Deadman Wonderland - 02 [932fe357].mkv",
+                    "group": "Splazm",
+                    "hash": "932fe357",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208723",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[umee]_Deadman_Wonderland_-_02_[E68DC341].mkv",
+                    "group": "umee",
+                    "hash": "E68DC341",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209003",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Deadman Wonderland - 02 [A331E718].mkv",
+                    "group": "Commie",
+                    "hash": "A331E718",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 5,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_02_[720p_H264]_[DEADF00D].mkv",
+                    "group": "GotWoot",
+                    "hash": "DEADF00D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210861",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-30T18:00:00",
+            "episode": 3,
+            "score": 8.2378122837,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210544",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210545",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_03_[BA446D2E].mkv",
+                    "group": "umee",
+                    "hash": "BA446D2E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210658",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Deadman Wonderland - 03 [15cc8dcf].mkv",
+                    "group": "Splazm",
+                    "hash": "15cc8dcf",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210790",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Deadman Wonderland - 03 [FA4E9753].mkv",
+                    "group": "Commie",
+                    "hash": "FA4E9753",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211676",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_03_[720p_H264][F67D6360].mkv",
+                    "group": "GotWoot",
+                    "hash": "F67D6360",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212007",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-07T18:00:00",
+            "episode": 4,
+            "score": 8.2026448087,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212258",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212259",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Deadman Wonderland - 04 [18D16855].mkv",
+                    "group": "Commie",
+                    "hash": "18D16855",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_04_[EE805528].mkv",
+                    "group": "umee",
+                    "hash": "EE805528",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_04_[720p_H264][31A759E5].mkv",
+                    "group": "GotWoot",
+                    "hash": "31A759E5",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=214451",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-14T18:00:00",
+            "episode": 5,
+            "score": 8.1898789238,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213891",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Deadman Wonderland - 05 [419A531A].mkv",
+                    "group": "Commie",
+                    "hash": "419A531A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=213942",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_05_[FA4E90EA].mkv",
+                    "group": "umee",
+                    "hash": "FA4E90EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213941",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_05_[720p_H264][83F70DD7].mkv",
+                    "group": "GotWoot",
+                    "hash": "83F70DD7",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=214841",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-21T18:00:00",
+            "episode": 6,
+            "score": 8.1891409881,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215547",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_06_[BEED7153].mkv",
+                    "group": "umee",
+                    "hash": "BEED7153",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=215773",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Deadman Wonderland - 06 [B8C0CABA].mkv",
+                    "group": "Commie",
+                    "hash": "B8C0CABA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215924",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_06_[720p_H264][3F7DA543].mkv",
+                    "group": "GotWoot",
+                    "hash": "3F7DA543",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=216813",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-28T18:00:00",
+            "episode": 7,
+            "score": 8.1878284554,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Deadman Wonderland - 07 [F3CF738F].mkv",
+                    "group": "Commie",
+                    "hash": "F3CF738F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217300",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_07_[C43BDF92].mkv",
+                    "group": "umee",
+                    "hash": "C43BDF92",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217805",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_07_[720p_H264][2819E14C].mkv",
+                    "group": "GotWoot",
+                    "hash": "2819E14C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218556",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-04T18:00:00",
+            "episode": 8,
+            "score": 8.1651351022,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218830",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218833",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Deadman Wonderland - 08 [1E2C60B1].mkv",
+                    "group": "Commie",
+                    "hash": "1E2C60B1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_08_[720p_H264][A97C82AF].mkv",
+                    "group": "GotWoot",
+                    "hash": "A97C82AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220380",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_08_[DB31FD6D].mkv",
+                    "group": "umee",
+                    "hash": "DB31FD6D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220666",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-11T18:00:00",
+            "episode": 9,
+            "score": 8.1397764186,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220402",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220403",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Deadman Wonderland - 09 [54064E42].mkv",
+                    "group": "Commie",
+                    "hash": "54064E42",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220798",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[umee]_Deadman_Wonderland_-_09_[AC09C492].mkv",
+                    "group": "umee",
+                    "hash": "AC09C492",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221032",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 5,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_09_v3_[720p_H264][0F06C93F].mkv",
+                    "group": "GotWoot",
+                    "hash": "0F06C93F",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=223153",
+                    "version": 3
+                }
+            ]
+        },
+        {
+            "date": "2011-06-18T18:00:00",
+            "episode": 10,
+            "score": 8.112136276,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222012",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Deadman Wonderland - 10 [C2FB2908].mkv",
+                    "group": "Commie",
+                    "hash": "C2FB2908",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222295",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_10_[F2F1D86A].mkv",
+                    "group": "umee",
+                    "hash": "F2F1D86A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_10_[720p_H264][A40B6F35].mkv",
+                    "group": "GotWoot",
+                    "hash": "A40B6F35",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=228720",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-25T18:00:00",
+            "episode": 11,
+            "score": 8.086544215,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Deadman Wonderland - 11 [F1E59A55].mkv",
+                    "group": "Commie",
+                    "hash": "F1E59A55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223632",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223713",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Deadman_Wonderland_-_11_[F5166C10].mkv",
+                    "group": "umee",
+                    "hash": "F5166C10",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224817",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 0,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_11_[720p_H264][9B1E0A18].mkv",
+                    "group": "GotWoot",
+                    "hash": "9B1E0A18",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=231091",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-02T18:00:00",
+            "episode": 12,
+            "score": 7.8736998039,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225089",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Deadman Wonderland  - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225090",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Deadman Wonderland - 12 [14809A0C].mkv",
+                    "group": "Commie",
+                    "hash": "14809A0C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225184",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 2,
+                    "filename": "[GotWoot]_Deadman_Wonderland_-_12_[720p_H264][6B138D06].mkv",
+                    "group": "GotWoot",
+                    "hash": "6B138D06",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=235017",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7902,
+        "ann": 11826,
+        "mal": 6880,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "S\u0105 tu jacy\u015b gimnazjali\u015bci?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/22be8ffe140c28e060d38671ecc8a285.jpg",
+            "hd": false
+        },
+        {
+            "description": "To zabija\u0142bym",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3fed7912b1901f8c6c554acb4ac38957.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/513d51a58e1518b49cf3fc27874bd741.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ganta 0:1 wymiar sprawiedliwo\u015bci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f566e5c5aadabb88a084aded16cbae21.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dfb4b246e8124788e5ec11f845155d28.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/14d8c99cea04701352c639d9caeaeb3e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d98b763bcfae465122f0a0724384a055.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ten kwiatek...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/84d8db8ad777836ab14a2a1568ed2b2f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1220791727b126fb57fd637a4242c800.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2a1aa7fe0e678b7040e9ae7580b91e29.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Deadman Wonderland (\u30c7\u30c3\u30c9\u30de\u30f3\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9) http://rdir.pl/1d0940",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0bd501cb8b560c9833e9b28948cc38ac.jpg",
+            "hd": false
+        },
+        {
+            "description": "Prawid\u0142owy spos\u00f3b zadawania si\u0119 z kobietami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4d3a9953432bd23fbadb35fda1c3d818.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/126d199a70e26bba17b567e562ed70b4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f8e86e59d37aefe4e39f343e0391344.jpg",
+            "hd": false
+        },
+        {
+            "description": "Bo cukierk\u00f3w w sklepie nie by\u0142o",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5d71dda83678f091de72b9b4df337a78.jpg",
+            "hd": false
+        },
+        {
+            "description": "przyjaciele stoj?cy za tob? murem s? na wag? z?ota - ale bezcenni s? ci, kt\u00f3rzy stan? przed tob?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/785685dd703df31c2fd7edaf7ec4f006.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6bcefa38cdfbd9947a19c42220a5fbe5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c5cb3c8bef0941cb78d3dc050f8701b5.jpg",
+            "hd": false
+        },
+        {
+            "description": "cycki: jedna z najpot??niejszych broni, jakie kiedykolwiek powsta?y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a62b4254645f6cb49e167b1fe76b1f4e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Shiro is win :3",
+            "filename": "http://s.modriv.net/abp/images/screencaps/701abb2071e123da2e9f914706e714b4.jpg",
+            "hd": false
+        },
+        {
+            "description": "pierwsze spotkanie Ganty z samogonem p?dzonym przez wi??ni\u00f3w nie zako?czy?o si? najlepiej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1df6e6add5a3666570ec92b715a127dd.jpg",
+            "hd": false
+        },
+        {
+            "description": "pierwsze bliskie spotkanie Ganty z p?ci? przeciwn?: pora?ka na ca?ej linii",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d837d8867fbe55d127bb3b6b7fc2fe5d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75a1420ecfc1637b6f25396534c21614.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e8346f45c77ae2a55c93ed7762441903.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ach, ci dzisiejsi gimnazjali?ci...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4562f3d806037a011f7b712d23545c90.jpg",
+            "hd": false
+        },
+        {
+            "description": "skazanym na ?mier? te? nale?y si? fanserwis, a co!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f6dbec0ee74777d8253d57505693b7f5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e97634c9bbb64a70dab3ddeca97ebb8c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/97b404d4471437c4b6d8833b79269302.jpg",
+            "hd": false
+        },
+        {
+            "description": "bo o?mieli?a si? opu?ci? kuchni?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2b3d7716163c2802feaa2353ae95fb62.jpg",
+            "hd": false
+        },
+        {
+            "description": "EVERYONE IS GETTING RAPED",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ade4952c02019bec116a5357ca0fcfbf.jpg",
+            "hd": false
+        },
+        {
+            "description": "impreza si? rozkr?ca, wszyscy dobrze si? bawi?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6578d2a0bf974f71669058654798b8f.jpg",
+            "hd": false
+        },
+        {
+            "description": "PE?NOMETRA?OWY FILM CZEGO?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d4f0926a117b64c9bdbae0706b0e326.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Deadman Wonderland (????????????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1d0940)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/15714b0fe40ebec7d6e7fefa726fca57.jpg",
+            "hd": false
+        },
+        {
+            "description": "U?miech nr 16",
+            "filename": "http://s.modriv.net/abp/images/screencaps/63f7cca9bc1a39d81b42649ec595bbb4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/51510f23405fda08230f10c4b076f296.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Ganta, zwyk\u0142y gimnazjalista, jest jedynym, kt\u00f3ry prze\u017cy\u0142 zmasakrowanie swojej klasy. Na jego nieszcz\u0119\u015bcie, zostaje oskar\u017cony o dokonanie tej zbrodni, skazany na \u015bmier\u0107 i trafia do wi\u0119zienia, kt\u00f3re wygl\u0105da jak weso\u0142e miasteczko, a w kt\u00f3rym wi\u0119\u017aniowe zabijaj\u0105 si\u0119 o cukierki.",
+            "type": "abp"
+        },
+        {
+            "content": "A massive earthquake ravaged Japan's mainland and destroyed most of Tokyo, sinking three-quarters of it into the ocean.  Ten years later, the story starts with Igarashi Ganta, a seemingly ordinary, unassuming middle school student attending Nagano Prefecture's middle school. An escapee, a survivor of the great earthquake, Ganta has no memories of the tragedy and has lived a simple, normal life. This all changes one day when a strange man covered in blood and crimson armour appears, floating, out of his classroom windows. Smirking madly, this Red Man massacres Ganta's entire class and, instead of killing him, embeds a red crystal shard in his chest.  Within days of the massacre, Ganta is declared the sole suspect and, following a suspiciously quick trial, is sentenced to life imprisonment in Deadman Wonderland, a massive theme-park-like prison. (Source: AniDB)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on a manga written by Kataoka Jinsei and illustrated by Kondou Kazuma, serialised in Shounen Ace.A massive earthquake ravaged Japan's mainland and destroyed most of Tokyo, sinking three-quarters of it into the ocean. Ten years later, the story starts with Igarashi Ganta, a seemingly ordinary, unassuming middle school student attending Nagano Prefecture's middle school. An escapee, a survivor of the great earthquake, Ganta has no memories of the tragedy and has lived a simple, normal life. This all changes one day when a strange man covered in blood and crimson armour appears, floating, out of his classroom windows. Smirking madly, this Red Man massacres Ganta's entire class and, instead of killing him, embeds a red crystal shard in his chest. Within days of the massacre, Ganta is declared the sole suspect and, following a suspiciously quick trial, is sentenced to death and imprisoned in Deadman Wonderland, a massive theme-park-like prison.",
+            "type": "anidb"
+        },
+        {
+            "content": "Ganta Igarashi has been convicted of a crime that he hasn't committed, and sent to a new, privately owned and operated prison, where the inmates are the main attraction in a modern day twist to the gladiatorial coliseums of ancient times. Throw in a healthy dose of weird little girl, some new-found super powers, and a little conspiracy theory, and you have Deadman Wonderland.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 46949,
+            "date": "2012-09-29T13:08:34",
+            "score": 7.75,
+            "type": "mal"
+        },
+        {
+            "count": 2070,
+            "date": "2012-09-29T13:08:34",
+            "score": 7.15,
+            "type": "anidb"
+        },
+        {
+            "count": 1953,
+            "date": "2012-09-29T13:08:34",
+            "score": 7.676,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Deadman Wonderland"
+}

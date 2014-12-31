@@ -1,0 +1,694 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ac\u30f3\u30c0\u30e0 G\u306e\u30ec\u30b3\u30f3\u30ae\u30b9\u30bf"
+        }
+    ],
+    "aliases": [
+        "Gundam Reconguista in G",
+        "Gundam Reconguista in G - 01 & ",
+        "Gundam Reconguista in G - 01-"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2015-01-04T11:30:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=604568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=604593",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=604594",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[sage]  Gundam Reconguista in G - 01-02 [720p][2FDC8FEE].mkv",
+                    "group": "sage",
+                    "hash": "2FDC8FEE",
+                    "url": "http://www.nyaa.se/?page=download&tid=606468",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Reconguista in G - 01 & 02 [720p][A360FECE].mkv",
+                    "group": "AG",
+                    "hash": "A360FECE",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Reconguista%20in%20G%20-%2001%20&%2002%20%5B720p%5D%5BA360FECE%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2015-01-11T11:30:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=604569",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=604645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=604646",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(Project-gxs)_Gundam_Reconguista_in_G_-_01-02_(10bit_720p).mkv",
+                    "group": "Project-gxs",
+                    "hash": "",
+                    "url": "http://www.anirena.com/dl/11483",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-10T18:55:00",
+            "episode": 3,
+            "score": 5.11,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=607466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=609279",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[sage]  Gundam Reconguista in G - 03 [720p][2B70432F].mkv",
+                    "group": "sage",
+                    "hash": "2B70432F",
+                    "url": "http://www.nyaa.se/?page=download&tid=609390",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Reconguista in G - 03 [720p][3BEF6D1C].mkv",
+                    "group": "AG",
+                    "hash": "3BEF6D1C",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Reconguista%20in%20G%20-%2003%20%5B720p%5D%5B3BEF6D1C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=609578",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-16T19:04:00",
+            "episode": 4,
+            "score": 4.89,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=610514",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=610515",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=610616",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Reconguista in G - 04 [720p][08EE41A7].mkv",
+                    "group": "AG",
+                    "hash": "08EE41A7",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Reconguista%20in%20G%20-%2004%20%5B720p%5D%5B08EE41A7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-23T18:49:00",
+            "episode": 5,
+            "score": 5.1094444444,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=613825",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=613826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=616563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Reconguista in G - 05 [720p][800EF4B1].mkv",
+                    "group": "AG",
+                    "hash": "800EF4B1",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Reconguista%20in%20G%20-%2005%20%5B720p%5D%5B800EF4B1%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-30T17:49:00",
+            "episode": 6,
+            "score": 4.84,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=617319",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=617320",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=617571",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Reconguista in G - 06 [720p][D4D927BC].mkv",
+                    "group": "AG",
+                    "hash": "D4D927BC",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Reconguista%20in%20G%20-%2006%20%5B720p%5D%5BD4D927BC%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-06T17:49:00",
+            "episode": 7,
+            "score": 5.1225511811,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=620155",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=620210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=620211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Reconguista in G - 07 [720p][83017257].mkv",
+                    "group": "AG",
+                    "hash": "83017257",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Reconguista%20in%20G%20-%2007%20%5B720p%5D%5B83017257%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-13T17:49:00",
+            "episode": 8,
+            "score": 5.1417910448,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623053",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623054",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=623071",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AG] Gundam Reconguista in G - 08 [720p][01A662CE].mkv",
+                    "group": "AG",
+                    "hash": "01A662CE",
+                    "url": "http://www.anime-gundam.org/bittorrent/%5BAG%5D%20Gundam%20Reconguista%20in%20G%20-%2008%20%5B720p%5D%5B01A662CE%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-20T17:49:00",
+            "episode": 9,
+            "score": 5.1452246377,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=625581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=625584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=625585",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-27T17:49:00",
+            "episode": 10,
+            "score": 5.0928391608,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=628317",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=628369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=628370",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-04T17:49:00",
+            "episode": 11,
+            "score": 5.1202432432,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=630899",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=630977",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=630978",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-11T17:49:00",
+            "episode": 12,
+            "score": 5.1433421053,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=633643",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=633713",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=633714",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-18T17:49:00",
+            "episode": 13,
+            "score": 5.1094805195,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=636215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=636216",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=637001",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-25T17:45:00",
+            "episode": 14,
+            "score": 5.1380254777,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 14 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=638750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=640470",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gundam Reconguista in G - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=640469",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2015-01-08T18:04:00",
+            "episode": 15,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-15T17:49:00",
+            "episode": 16,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-22T17:49:00",
+            "episode": 17,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-29T17:49:00",
+            "episode": 18,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-05T17:49:00",
+            "episode": 19,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-12T17:49:00",
+            "episode": 20,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-19T17:49:00",
+            "episode": 21,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-26T17:49:00",
+            "episode": 22,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-05T17:49:00",
+            "episode": 23,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-12T17:49:00",
+            "episode": 24,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-19T17:49:00",
+            "episode": 25,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-26T17:49:00",
+            "episode": 26,
+            "score": 0.0,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 10531,
+        "ann": 16104,
+        "mal": 23259,
+        "schedule": 3548
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The Universal Century, with its history of colonization and wars, passes into posterity, and time flows on. Mankind enters a new age of seemingly endless peace and prosperity called the Regild Century.The year is R.C. 1014. The Capital Tower, an orbital elevator, connects earth and space. Due to its role in supplying Earth's power by transferring Photon Batteries from space, it is worshiped with a religious fervor. Bellri Zenam, a cadet in the Capital Guard formed to protect Capital Tower, is participating in his first non-simulated exercise when he is attacked by the powerful but unaffiliated G-Self mobile suit. He manages to capture the G-Self while piloting a Recten maintenance mobile suit. However, seeing the G-Self's pilot, a young space pirate named Aida Rayhunton, stirs something within him, as does the G-Self which he was sure he'd never seen before.Aida's mission to attack Capital Tower. Bellri's destiny as a chosen pilot of the G-Self. The truth which will shake the Regild Century.It was all the beginning of the Reconguista.Source: en.gundam.infoNote: Preview screenings of first three episodes was held in 13 theaters nationwide for two weeks from August 23rd to the September 5th, 2014. The regular TV broadcast started on October 2, 2014.",
+            "type": "anidb"
+        },
+        {
+            "content": "The year is Regild Century 1014. A millennium has past since the catastrophic end of the Universal Century era. Mankind has rebuilt itself and, through the lessons learned from the previous era, managed to sustain a long lasting peace. However conflict has once again risen, resulting from disagreements regarding the world's only space orbital elevator, the Capital Tower, and its role as the sole means by which nations on Earth obtain energy. During a routine training session while ascending the Capital Tower, Capital Guard pilot cadet Bellri Zenam, tasked with protection of the Tower, fights off an attacking space pirate, Aida Rayhunton, and helps capture her mobile suit, the G-Self. Strangely, Bellri finds out that he is one of the only three individuals to be able to pilot this mysterious mobile suit. Seemingly chosen by the G-Self, Bellri is thus drawn into a brewing conflict that will have consequences for the entire world.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 79,
+            "date": "2014-12-31T03:04:34",
+            "score": 4.83,
+            "type": "anidb"
+        },
+        {
+            "count": 78,
+            "date": "2014-12-19T03:04:12",
+            "score": 5.45,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Gundam G no Reconguista"
+}

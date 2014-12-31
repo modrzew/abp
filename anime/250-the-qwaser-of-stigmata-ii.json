@@ -1,0 +1,146 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u8056\u75d5\u306e\u30af\u30a7\u30a4\u30b5\u30fcII"
+        },
+        {
+            "language": "pl",
+            "title": "Kwazer Stygmat\u00f3w II"
+        }
+    ],
+    "aliases": [
+        "Seikon no Qwaser II"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2011-04-11T19:30:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CTSS] Seikon no Qwaser II - 01 [H264 AAC 1280x720][a4dfc8d6].mkv",
+                    "group": "CTSS",
+                    "hash": "a4dfc8d6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208170",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CTSS] Seikon no Qwaser II - 01v2 [H264 AAC 1280x720][B95D31BF].mkv",
+                    "group": "CTSS",
+                    "hash": "B95D31BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218703",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-04-18T19:30:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2011-04-25T19:30:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2011-05-02T19:30:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2011-05-09T19:30:00",
+            "episode": 5,
+            "score": 7.5174407583,
+            "torrents": []
+        },
+        {
+            "date": "2011-05-16T19:30:00",
+            "episode": 6,
+            "score": 7.5159484778,
+            "torrents": []
+        },
+        {
+            "date": "2011-05-23T19:30:00",
+            "episode": 7,
+            "score": 7.5161378505,
+            "torrents": []
+        },
+        {
+            "date": "2011-05-30T19:30:00",
+            "episode": 8,
+            "score": 7.512628638,
+            "torrents": []
+        },
+        {
+            "date": "2011-06-06T19:30:00",
+            "episode": 9,
+            "score": 7.4193952673,
+            "torrents": []
+        },
+        {
+            "date": "2011-06-13T19:30:00",
+            "episode": 10,
+            "score": 7.3644191419,
+            "torrents": []
+        },
+        {
+            "date": "2011-06-20T19:30:00",
+            "episode": 11,
+            "score": 7.3199831461,
+            "torrents": []
+        },
+        {
+            "date": "2011-06-27T19:30:00",
+            "episode": 12,
+            "score": 7.1009579031,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8154,
+        "ann": 12359,
+        "mal": 10073,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 6376,
+            "date": "2012-09-29T13:20:19",
+            "score": 6.82,
+            "type": "mal"
+        },
+        {
+            "count": 341,
+            "date": "2012-09-29T13:20:19",
+            "score": 5.86,
+            "type": "anidb"
+        },
+        {
+            "count": 285,
+            "date": "2012-09-29T13:20:19",
+            "score": 6.263,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "102",
+    "title": "The Qwaser of Stigmata II"
+}

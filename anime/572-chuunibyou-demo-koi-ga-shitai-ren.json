@@ -1,0 +1,813 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u4e2d\u4e8c\u75c5\u3067\u3082\u604b\u304c\u3057\u305f\u3044! \u6200"
+        }
+    ],
+    "aliases": [
+        "Chuunibyou demo Koi ga Shitai! Ren"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-01-08T16:30:00",
+            "episode": 1,
+            "score": 7.61,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509862",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 01 [7CE5D863].mkv",
+                    "group": "Commie",
+                    "hash": "7CE5D863",
+                    "url": "http://www.nyaa.se/?page=download&tid=509957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_01_[720p][9172389F].mkv",
+                    "group": "FTW",
+                    "hash": "9172389F",
+                    "url": "http://www.nyaa.se/?page=download&tid=510131",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 1,
+                    "filename": "[Baka-Chi] Chuunibyou demo Koi ga Shitai! Ren - 01v2 [720p][10bit][50DC0B70].mkv",
+                    "group": "Baka-Chi",
+                    "hash": "50DC0B70",
+                    "url": "http://www.nyaa.se/?page=download&tid=510783",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 01v2 [992F7420].mkv",
+                    "group": "Commie",
+                    "hash": "992F7420",
+                    "url": "http://www.nyaa.se/?page=download&tid=512463",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 01 [F7387BB6].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "F7387BB6",
+                    "url": "http://www.nyaa.se/?page=download&tid=513573",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-15T16:30:00",
+            "episode": 2,
+            "score": 7.336,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512470",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512473",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 02 [FC0586C1].mkv",
+                    "group": "Commie",
+                    "hash": "FC0586C1",
+                    "url": "http://www.nyaa.se/?page=download&tid=512578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_02_[720p][EBB35987].mkv",
+                    "group": "FTW",
+                    "hash": "EBB35987",
+                    "url": "http://www.nyaa.se/?page=download&tid=513110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Baka-Chi] Chuunibyou demo Koi ga Shitai! Ren - 02 [720p][10bit][34BA4441].mkv",
+                    "group": "Baka-Chi",
+                    "hash": "34BA4441",
+                    "url": "http://www.nyaa.se/?page=download&tid=513711",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 02 [E4887D77].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "E4887D77",
+                    "url": "http://www.nyaa.se/?page=download&tid=516095",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-22T16:30:00",
+            "episode": 3,
+            "score": 7.5015399061,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515071",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515072",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 03 [4BB047F9].mkv",
+                    "group": "Commie",
+                    "hash": "4BB047F9",
+                    "url": "http://www.nyaa.se/?page=download&tid=515324",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 1,
+                    "filename": "[Baka-Chi] Chuunibyou demo Koi ga Shitai! Ren - 03 [720p][10bit][2F25267B].mkv",
+                    "group": "Baka-Chi",
+                    "hash": "2F25267B",
+                    "url": "http://www.nyaa.se/?page=download&tid=515734",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_03_[720p][2EDFAEEA].mkv",
+                    "group": "FTW",
+                    "hash": "2EDFAEEA",
+                    "url": "http://www.nyaa.se/?page=download&tid=515862",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-29T16:30:00",
+            "episode": 4,
+            "score": 7.3736401674,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_04_[720p][885CC218].mkv",
+                    "group": "FTW",
+                    "hash": "885CC218",
+                    "url": "http://www.nyaa.se/?page=download&tid=517994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518205",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518209",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 04 [D53FEF4D].mkv",
+                    "group": "Commie",
+                    "hash": "D53FEF4D",
+                    "url": "http://www.nyaa.se/?page=download&tid=519830",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 04 [622043A1].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "622043A1",
+                    "url": "http://www.nyaa.se/?page=download&tid=524410",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-05T16:30:00",
+            "episode": 5,
+            "score": 7.31553125,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_05_[720p][A74AB2C0].mkv",
+                    "group": "FTW",
+                    "hash": "A74AB2C0",
+                    "url": "http://www.nyaa.se/?page=download&tid=520353",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520574",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520576",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520631",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 05 [FF82390F].mkv",
+                    "group": "Commie",
+                    "hash": "FF82390F",
+                    "url": "http://www.nyaa.se/?page=download&tid=521768",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 05 [41FD859B].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "41FD859B",
+                    "url": "http://www.nyaa.se/?page=download&tid=530246",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-12T16:30:00",
+            "episode": 6,
+            "score": 7.2088669065,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_06_[720p][6A43A850].mkv",
+                    "group": "FTW",
+                    "hash": "6A43A850",
+                    "url": "http://www.nyaa.se/?page=download&tid=522782",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522912",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522915",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 06 [40E2E217].mkv",
+                    "group": "Commie",
+                    "hash": "40E2E217",
+                    "url": "http://www.nyaa.se/?page=download&tid=523956",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 06 [2FFEE4E4].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "2FFEE4E4",
+                    "url": "http://www.nyaa.se/?page=download&tid=530291",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-19T16:30:00",
+            "episode": 7,
+            "score": 7.2671186441,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_07_[720p][414F72D6].mkv",
+                    "group": "FTW",
+                    "hash": "414F72D6",
+                    "url": "http://www.nyaa.se/?page=download&tid=525031",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525190",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 07 [0BCE9C31].mkv",
+                    "group": "Commie",
+                    "hash": "0BCE9C31",
+                    "url": "http://www.nyaa.se/?page=download&tid=526454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 07 [E49A6CD3].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "E49A6CD3",
+                    "url": "http://www.nyaa.se/?page=download&tid=530964",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-26T16:30:00",
+            "episode": 8,
+            "score": 7.2400517799,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_08_[720p][157600D7].mkv",
+                    "group": "FTW",
+                    "hash": "157600D7",
+                    "url": "http://www.nyaa.se/?page=download&tid=527373",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527583",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527617",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 08 [6CFF8DD4].mkv",
+                    "group": "Commie",
+                    "hash": "6CFF8DD4",
+                    "url": "http://www.nyaa.se/?page=download&tid=528546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 08 [F1858D00].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "F1858D00",
+                    "url": "http://www.nyaa.se/?page=download&tid=531943",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-05T16:30:00",
+            "episode": 9,
+            "score": 7.1513993808,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_09_[720p][12AC811E].mkv",
+                    "group": "FTW",
+                    "hash": "12AC811E",
+                    "url": "http://www.nyaa.se/?page=download&tid=529875",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=530042",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=530043",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=530044",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 09 [B4670B84].mkv",
+                    "group": "Commie",
+                    "hash": "B4670B84",
+                    "url": "http://www.nyaa.se/?page=download&tid=531710",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 09 [90DB68E7].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "90DB68E7",
+                    "url": "http://www.nyaa.se/?page=download&tid=533904",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-12T16:30:00",
+            "episode": 10,
+            "score": 6.935601173,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_10_[720p][4FBADEFB].mkv",
+                    "group": "FTW",
+                    "hash": "4FBADEFB",
+                    "url": "http://www.nyaa.se/?page=download&tid=532154",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 10 [6275A683].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "6275A683",
+                    "url": "http://www.nyaa.se/?page=download&tid=533928",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 10 [B10B4397].mkv",
+                    "group": "Commie",
+                    "hash": "B10B4397",
+                    "url": "http://www.nyaa.se/?page=download&tid=534025",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-19T16:30:00",
+            "episode": 11,
+            "score": 6.9488333333,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534455",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_11_[720p][CF50756D].mkv",
+                    "group": "FTW",
+                    "hash": "CF50756D",
+                    "url": "http://www.nyaa.se/?page=download&tid=534472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 11 [9304F4BE].mkv",
+                    "group": "Commie",
+                    "hash": "9304F4BE",
+                    "url": "http://www.nyaa.se/?page=download&tid=536194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 11 [4966DAC5].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "4966DAC5",
+                    "url": "http://www.nyaa.se/?page=download&tid=537827",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-26T16:30:00",
+            "episode": 12,
+            "score": 7.2081177215,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[FTW]_Chuunibyou_demo_Koi_ga_Shitai!_Ren_-_12_[720p][9E4F4294].mkv",
+                    "group": "FTW",
+                    "hash": "9E4F4294",
+                    "url": "http://www.nyaa.se/?page=download&tid=536643",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Chuunibyou demo Koi ga Shitai! Ren - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Chuunibyou Demo Koi ga Shitai! Ren - 12 [ADF87FDE].mkv",
+                    "group": "Commie",
+                    "hash": "ADF87FDE",
+                    "url": "http://www.nyaa.se/?page=download&tid=537835",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! Ren 12 [2737AE3D].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "2737AE3D",
+                    "url": "http://www.nyaa.se/?page=download&tid=539968",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9874,
+        "ann": 15622,
+        "mal": 18671,
+        "schedule": 3259
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Y\u016bta Togashi is a boy who, during junior high school, had 'adolescent delusions' (\u4e2d\u4e8c\u75c5, ch\u016bniby\u014d?, lit. \"junior high school second grade illness\"), believing that he possesses supernatural powers and dubbing himself the 'Dark Flame Master,' therefore alienating himself from his classmates. Finding his past embarrassing, Y\u016bta attempts to start off high school where he does not know anyone, free from his old delusions. This proves to be difficult, however, as a delusional girl in his class, Rikka Takanashi, learns of Y\u016bta's past and becomes interested in him. As the plot progresses, Rikka becomes more attached to Y\u016bta, who, despite finding her delusions irritating and embarrassing, accepts her. He helps Rikka with a number of things, including founding and maintaining her club and tutoring her. When he joins her on her summer vacation, Y\u016bta learns that two years prior, Rikka's father, whom she was very close to, died unexpectedly due to a terminal illness, causing her to fall into her delusions. After Y\u016bta agrees to help Rikka search for the 'Ethereal Horizon' (\u4e0d\u53ef\u8996\u5883\u754c\u7dda, Fukashi Ky\u014dkaisen?), which she believes will lead her to her father, she becomes romantically interested in him and vice versa.",
+            "type": "wiki"
+        },
+        {
+            "content": "* Based on a light novel series by Torako, with illustrations by Ousaka Nozomi.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 521,
+            "date": "2014-04-15T04:32:24",
+            "score": 7.03,
+            "type": "anidb"
+        },
+        {
+            "count": 401,
+            "date": "2014-04-15T04:32:24",
+            "score": 7.426,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": true,
+    "sequel_parent": "402",
+    "title": "Chuunibyou demo Koi ga Shitai! Ren"
+}

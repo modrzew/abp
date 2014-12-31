@@ -1,0 +1,560 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u732b\u795e\u3084\u304a\u3088\u308d\u305a"
+        },
+        {
+            "language": "pl",
+            "title": "Miriady Bogokot\u00f3w"
+        }
+    ],
+    "aliases": [
+        "Nekogami Yaoyorozu"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/606722079",
+            "content": "#anime #Lato2011 Nekogami Yaoyorozu (???????) http://rdir.pl/1jgheo",
+            "episode": 1,
+            "filename": "cbe07359000ca993549950713c0e3d60.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/91170984907898880"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-09T01:30:00",
+            "episode": 1,
+            "score": 6.8448837209,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227650",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227651",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 01v2 [480p][97719D90].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "97719D90",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229210",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 01v2 [720p][2EAE48CE].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "2EAE48CE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229212",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-07-16T01:30:00",
+            "episode": 2,
+            "score": 6.7255102041,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 02 [480p][F0EA3415].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "F0EA3415",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229249",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 02 [720p][A267AF2E].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "A267AF2E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229250",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229378",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229379",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-23T01:30:00",
+            "episode": 3,
+            "score": 6.6807284768,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Nekogami Yaoyorozu - 03 [C5FE53FF].mkv",
+                    "group": "WhyNot",
+                    "hash": "C5FE53FF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230922",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231233",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 03 [720p][1E12EE3A].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "1E12EE3A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234572",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 03 [480p][10C14244].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "10C14244",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234573",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-30T01:30:00",
+            "episode": 4,
+            "score": 6.6531914894,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233244",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 04 [720p][E8B3441D].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "E8B3441D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 04 [480p][8DDC76C9].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "8DDC76C9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234589",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-06T01:30:00",
+            "episode": 5,
+            "score": 6.6264324324,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 05v2 [480p][EAC13BDA].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "EAC13BDA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239188",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 05v2 [720p][D418BB85].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "D418BB85",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239189",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-08-13T01:30:00",
+            "episode": 6,
+            "score": 6.6035258359,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237300",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237301",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 06 [720p][669456AA].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "669456AA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 06 [480p][37AAC77C].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "37AAC77C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240590",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-20T01:30:00",
+            "episode": 7,
+            "score": 6.5397826087,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239294",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239295",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 07 [480p][AA655DD7].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "AA655DD7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245694",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Nekogami Yaoyorozu 07 [720p][E8826A27].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "E8826A27",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245695",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-27T01:30:00",
+            "episode": 8,
+            "score": 6.5133616652,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241343",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241344",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-03T01:30:00",
+            "episode": 9,
+            "score": 6.532854321,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243335",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243338",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-10T01:30:00",
+            "episode": 10,
+            "score": 6.5384283465,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245062",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245070",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-17T01:30:00",
+            "episode": 11,
+            "score": 6.5061983471,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246758",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-24T01:30:00",
+            "episode": 12,
+            "score": 6.7832952303,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248499",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nekogami Yaoyorozu - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248500",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8117,
+        "ann": 12223,
+        "mal": 9934,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e306dc047984970518f6a4f035b4ee33.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8ebef4d1bd8fcdc8b4a4f8bf0265569d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1e93debe6b8fe1130c453c9559d67484.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1ca8d3163d7b4242a4b6ea28f40d5375.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Nekogami Yaoyorozu (???????) http://rdir.pl/1jgheo",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cbe07359000ca993549950713c0e3d60.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8a640ad9e3a96c6bbe55dc26d30b60d8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad957f5630f3a82a5ee9ae82bd46e7b4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zaprawd?, zaprawd? powiadam wam...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/99a6010eb0a50721ea9b1fb3bc9ec603.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142oda niewiasta prowadzi spokojne, acz biedne \u017cycie. Codzienno\u015b\u0107 umila jej obecno\u015b\u0107 wielu b\u00f3stw, w\u015br\u00f3d kt\u00f3rych prym wiedzie bogokot Mayu.",
+            "type": "abp"
+        },
+        {
+            "content": "Koyama Yuzu is running an antique shop. Mayu, a cat god (nekogami), is living off Yuzu and leads an idle life playing games. Lots of other gods visit Mayu and enjoy merrymaking.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "Komiya Yuzu is running an antique shop. Mayu, a cat god (nekogami), is living off Yuzu and leads an idle life playing games. Lots of other gods visit Mayu and enjoy merrymaking.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "Koyama Yuzu is running an antique shop. Mayu, a cat god (nekogami), is living off Yuzu and leads an idle life playing games. Lots of other gods visit Mayu and enjoy merrymaking.",
+            "type": "ann"
+        },
+        {
+            "content": "Nekogami Yaoyorozu is a story about a Cat God named Mayu who has been stripped of her rank and powers and banished from Takamagahara to live on Earth for illegal gambling. She ends up living in an antique shop called Yaoyorozudou with a girl called Yuzu. The story revolves around the various antics the two get up to as they meet with various other gods and creatures from Japanese Mythology.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2404,
+            "date": "2012-09-29T13:36:34",
+            "score": 6.84,
+            "type": "mal"
+        },
+        {
+            "count": 287,
+            "date": "2012-09-29T13:36:34",
+            "score": 6.4,
+            "type": "anidb"
+        },
+        {
+            "count": 202,
+            "date": "2012-09-29T13:36:34",
+            "score": 6.085,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Nekogami Yaoyorozu"
+}

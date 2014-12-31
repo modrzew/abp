@@ -1,0 +1,960 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u604b\u611b\u30e9\u30dc"
+        },
+        {
+            "language": "pl",
+            "title": "Laboratorium Mi\u0142ostek"
+        }
+    ],
+    "aliases": [
+        "Love Lab"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-07-04T19:05:00",
+            "episode": 1,
+            "score": 7.5628586279,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Love Lab - 01 [708F7A56].mkv",
+                    "group": "Commie",
+                    "hash": "708F7A56",
+                    "url": "http://www.nyaa.eu/?page=download&tid=449706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[FFF] Love Lab - 01 [74524FD1].mkv",
+                    "group": "FFF",
+                    "hash": "74524FD1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=449909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Love Lab - 01 [720p] [F5536C5B].mkv",
+                    "group": "Hadena",
+                    "hash": "F5536C5B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Love%20Lab%20-%2001%20%5B720p%5D%20%5BF5536C5B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Scylla] Love Lab 01 [4CD4DEC8].mkv",
+                    "group": "Diogo4D-Scylla",
+                    "hash": "4CD4DEC8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451279",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471529",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Love Lab - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471532",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471546",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-11T19:05:00",
+            "episode": 2,
+            "score": 7.5335423542,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Love Lab - 02 [155EF1F3].mkv",
+                    "group": "Commie",
+                    "hash": "155EF1F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451690",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Love Lab - 02 [720p] [A4C29A2B].mkv",
+                    "group": "Hadena",
+                    "hash": "A4C29A2B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Love%20Lab%20-%2002%20%5B720p%5D%20%5BA4C29A2B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Love Lab - 02 [A5B82D4B].mkv",
+                    "group": "FFF",
+                    "hash": "A5B82D4B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451908",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 02v2 [9D722CF0].mkv",
+                    "group": "FFF",
+                    "hash": "9D722CF0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451938",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Scylla] Love Lab 02 [8F7B336B].mkv",
+                    "group": "Diogo4D-Scylla",
+                    "hash": "8F7B336B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=458345",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471530",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471540",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471544",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-18T19:05:00",
+            "episode": 3,
+            "score": 7.5115437988,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Love Lab - 03 [5D42F809].mkv",
+                    "group": "Commie",
+                    "hash": "5D42F809",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454076",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Love Lab - 03 [720p] [B4A574AB].mkv",
+                    "group": "Hadena",
+                    "hash": "B4A574AB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Love%20Lab%20-%2003%20%5B720p%5D%20%5BB4A574AB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 03 [649F9010].mkv",
+                    "group": "FFF",
+                    "hash": "649F9010",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454298",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Scylla] Love Lab 03 [1979ABCB].mkv",
+                    "group": "Diogo4D-Scylla",
+                    "hash": "1979ABCB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=458999",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471535",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Love Lab - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471548",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471549",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-25T19:05:00",
+            "episode": 4,
+            "score": 7.4931322859,
+            "torrents": [
+                {
+                    "additional_info": "[720p]  ",
+                    "download_count": 2,
+                    "filename": "[Hadena] Love Lab - 04 [720p]  [B46A84B7].mkv",
+                    "group": "Hadena",
+                    "hash": "B46A84B7",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Love%20Lab%20-%2004%20%5B720p%5D%20%20%5BB46A84B7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 04 [F1DAA42C].mkv",
+                    "group": "FFF",
+                    "hash": "F1DAA42C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Love Lab - 04 [6F5169CF].mkv",
+                    "group": "Commie",
+                    "hash": "6F5169CF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 04v2 [F9B690F6].mkv",
+                    "group": "FFF",
+                    "hash": "F9B690F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456863",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Scylla] Love Lab 04 [C1D43F2B].mkv",
+                    "group": "Diogo4D-Scylla",
+                    "hash": "C1D43F2B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Love Lab - 04 (720p x264 AAC) [7243618B].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "7243618B",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Love%20Lab%20-%2004%20(720p%20x264%20AAC)%20%5B7243618B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Love Lab - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471539",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=471550",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-01T19:05:00",
+            "episode": 5,
+            "score": 7.4843218178,
+            "torrents": [
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Love Lab - 05 (720p x264 AAC) [48A343C3].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "48A343C3",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Love%20Lab%20-%2005%20(720p%20x264%20AAC)%20%5B48A343C3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Love Lab - 05 [E5F08D87].mkv",
+                    "group": "Commie",
+                    "hash": "E5F08D87",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Love Lab - 05 [720p] [7C3AFCE6].mkv",
+                    "group": "Hadena",
+                    "hash": "7C3AFCE6",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Love%20Lab%20-%2005%20%5B720p%5D%20%5B7C3AFCE6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 05 [F701EE16].mkv",
+                    "group": "FFF",
+                    "hash": "F701EE16",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459214",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Scylla] Love Lab 05 [46E6A1B9].mkv",
+                    "group": "Diogo4D-Scylla",
+                    "hash": "46E6A1B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475540",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475541",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475547",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-08T19:05:00",
+            "episode": 6,
+            "score": 7.4792722028,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Love Lab - 06 [B8664170].mkv",
+                    "group": "Commie",
+                    "hash": "B8664170",
+                    "url": "http://www.nyaa.se/?page=download&tid=461290",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Love Lab - 06 (720p x264 AAC) [69877C92].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "69877C92",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Love%20Lab%20-%2006%20(720p%20x264%20AAC)%20%5B69877C92%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 06 [97187713].mkv",
+                    "group": "FFF",
+                    "hash": "97187713",
+                    "url": "http://www.nyaa.se/?page=download&tid=461487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Love Lab - 06 [720p] [86A0BFA5].mkv",
+                    "group": "Hadena",
+                    "hash": "86A0BFA5",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Love%20Lab%20-%2006%20%5B720p%5D%20%5B86A0BFA5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Scylla] Love Lab 06 [51F148FA].mkv",
+                    "group": "Diogo4D-Scylla",
+                    "hash": "51F148FA",
+                    "url": "http://www.nyaa.se/?page=download&tid=462894",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475556",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-15T19:05:00",
+            "episode": 7,
+            "score": 7.491790083,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Love Lab - 07 [9A8C7775].mkv",
+                    "group": "Commie",
+                    "hash": "9A8C7775",
+                    "url": "http://www.nyaa.se/?page=download&tid=463713",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 07 [16E83EEA].mkv",
+                    "group": "FFF",
+                    "hash": "16E83EEA",
+                    "url": "http://www.nyaa.se/?page=download&tid=463760",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Love Lab - 07 (720p x264 AAC) [78FDCDB3].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "78FDCDB3",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Love%20Lab%20-%2007%20(720p%20x264%20AAC)%20%5B78FDCDB3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Scylla] Love Lab 07 [5D3339FC].mkv",
+                    "group": "Diogo4D-Scylla",
+                    "hash": "5D3339FC",
+                    "url": "http://www.nyaa.se/?page=download&tid=464539",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475561",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475565",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-22T19:05:00",
+            "episode": 8,
+            "score": 7.4977727437,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Love Lab - 08 [EF5CC4A2].mkv",
+                    "group": "Commie",
+                    "hash": "EF5CC4A2",
+                    "url": "http://www.nyaa.se/?page=download&tid=466038",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Love Lab - 08 [9E302B5E].mkv",
+                    "group": "FFF",
+                    "hash": "9E302B5E",
+                    "url": "http://www.nyaa.se/?page=download&tid=466162",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Love Lab - 08 (720p x264 AAC) [DC4AACA5].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "DC4AACA5",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Love%20Lab%20-%2008%20(720p%20x264%20AAC)%20%5BDC4AACA5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Love Lab - 08 [720p] [AF9C419C].mkv",
+                    "group": "Hadena",
+                    "hash": "AF9C419C",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Love%20Lab%20-%2008%20%5B720p%5D%20%5BAF9C419C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Love Lab - 08 v2 (720p x264 AAC) [8414F430].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "8414F430",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Love%20Lab%20-%2008%20v2%20(720p%20x264%20AAC)%20%5B8414F430%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475566",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475583",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-29T19:05:00",
+            "episode": 9,
+            "score": 7.5082484796,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Love Lab - 09 [18968622].mkv",
+                    "group": "Commie",
+                    "hash": "18968622",
+                    "url": "http://www.nyaa.se/?page=download&tid=468009",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Love Lab - 09 (720p x264 AAC) [418882CA].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "418882CA",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Love%20Lab%20-%2009%20(720p%20x264%20AAC)%20%5B418882CA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 09 [5D213B6A].mkv",
+                    "group": "FFF",
+                    "hash": "5D213B6A",
+                    "url": "http://www.nyaa.se/?page=download&tid=469252",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Hadena] Love Lab - 09 [4481988E].mkv",
+                    "group": "Hadena",
+                    "hash": "4481988E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Love%20Lab%20-%2009%20%5B4481988E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475551",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475574",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-05T19:05:00",
+            "episode": 10,
+            "score": 7.4973190083,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Love Lab - 10 [FD7FBF51].mkv",
+                    "group": "Commie",
+                    "hash": "FD7FBF51",
+                    "url": "http://www.nyaa.se/?page=download&tid=470404",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 10 [AD883EF5].mkv",
+                    "group": "FFF",
+                    "hash": "AD883EF5",
+                    "url": "http://www.nyaa.se/?page=download&tid=470498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475557",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475572",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-12T19:05:00",
+            "episode": 11,
+            "score": 7.4983570646,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472709",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Love Lab - 11 [50119B5A].mkv",
+                    "group": "Commie",
+                    "hash": "50119B5A",
+                    "url": "http://www.nyaa.se/?page=download&tid=472720",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472722",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 11 [E695C0D9].mkv",
+                    "group": "FFF",
+                    "hash": "E695C0D9",
+                    "url": "http://www.nyaa.se/?page=download&tid=473174",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-19T19:05:00",
+            "episode": 12,
+            "score": 7.5258901392,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=474991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=474995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475009",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Love Lab - 12 [8EB2A79D].mkv",
+                    "group": "Commie",
+                    "hash": "8EB2A79D",
+                    "url": "http://www.nyaa.se/?page=download&tid=475048",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 12 [1AB40B9E].mkv",
+                    "group": "FFF",
+                    "hash": "1AB40B9E",
+                    "url": "http://www.nyaa.se/?page=download&tid=477709",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-26T19:05:00",
+            "episode": 13,
+            "score": 7.6462441684,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Love Lab - 13 [3D15C81C].mkv",
+                    "group": "Commie",
+                    "hash": "3D15C81C",
+                    "url": "http://www.nyaa.se/?page=download&tid=477186",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477325",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Love Lab - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477327",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Love Lab - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477331",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Love Lab - 13 [32CF30A3].mkv",
+                    "group": "FFF",
+                    "hash": "32CF30A3",
+                    "url": "http://www.nyaa.se/?page=download&tid=478088",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9509,
+        "ann": 14896,
+        "mal": 16353,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.   (Source: MU)",
+            "type": "mal"
+        },
+        {
+            "content": "The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.",
+            "type": "anidb"
+        },
+        {
+            "content": "The Fujisaki Girls Academy is well known for educating la cr\u00e8me de la cr\u00e8me of young ladies. And the perfect example of demeanor is the beloved student president Maki. Except that Riko -the boyish tomboy of the school- discovers by accident that Maki really has a young girl heart filled with curiosity and passion, and now Riko is forced to keep the secret so that she can help Maki in her romantic experiences by acting as a substitute boyfriend.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7537,
+            "date": "2013-09-29T04:31:44",
+            "score": 7.67,
+            "type": "mal"
+        },
+        {
+            "count": 183,
+            "date": "2013-09-29T04:31:44",
+            "score": 6.96,
+            "type": "anidb"
+        },
+        {
+            "count": 168,
+            "date": "2013-09-29T04:31:44",
+            "score": 7.328,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Love Lab"
+}

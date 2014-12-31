@@ -1,0 +1,985 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226OG -\u30b8\u30fb\u30a4\u30f3\u30b9\u30da\u30af\u30bf\u30fc-"
+        },
+        {
+            "language": "pl",
+            "title": "Wojny Super Robot\u00f3w OG: Inspektor"
+        }
+    ],
+    "aliases": [
+        "Super Robot Wars OG - The Inspector ",
+        "Super Robot Taisen OG - The Inspector",
+        "Super Robot Taisen OG The Inspector",
+        "Super Robot Wars OG The Inspector "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/176468944",
+            "content": "#anime #Jesie\u01442010 Super Robot Wars OG: The Inspector (\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226OG -\u30b8\u30fb\u30a4\u30f3\u30b9\u30da\u30af\u30bf\u30fc-) http://rdir.pl/sxthf",
+            "episode": 1,
+            "filename": "709cde33ed46e17dc527e68f9838d714.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26296474201"
+        },
+        {
+            "blip_url": "http://blip.pl/s/184994685",
+            "content": "Super Robot Wars OG: The Inspector 02 - zombie roboty atakuj\u0105",
+            "episode": 2,
+            "filename": "63bbf13220e87f98cc473a91bdd79e8a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27055869138"
+        },
+        {
+            "blip_url": "http://blip.pl/s/191110921",
+            "content": "Super Robot Wars OG: The Inspector 03 - \"Jutrzenka, s\u0142onecznym kolorem, budzi dzie\u0144. Wstaj\u0105ce s\u0142o\u0144ce, z\u0142otem maluje niebo.\"",
+            "episode": 3,
+            "filename": "89f1dcd89b1b10163a22c48abd8a0d85.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27925135259"
+        },
+        {
+            "blip_url": "http://blip.pl/s/200600511",
+            "content": "Super Robot Wars OG: The Inspector 05 - Obro\u0144cy Krzy\u017ca r\u00f3wnie\u017c i w tym #anime",
+            "episode": 5,
+            "filename": "d92fd28aa7da1e35f161fbc189eb5f2b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/29598727861"
+        },
+        {
+            "blip_url": "http://blip.pl/s/227692449",
+            "content": "Super Robot Wars OG: The Inspector 08 - mi\u0119dzygalaktyczna wojna, a ta w koszuli nocnej z mi\u015bkiem paraduje",
+            "episode": 8,
+            "filename": "539668606ff3819cc80a6dc445b5ade8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/8109538674737152"
+        },
+        {
+            "blip_url": "http://blip.pl/s/248917403",
+            "content": "Super Robot Wars OG: The Inspector 11 - w pierwszej kolejno\u015bci denaturat uszkadza wzrok",
+            "episode": 11,
+            "filename": "ab53edd91ef04bbf50a3cb106ca553c8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13995214846824448"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-10-01T18:00:00",
+            "episode": 1,
+            "score": 7.2232286996,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 1,
+                    "filename": "[ShinRyuu]_Super_Robot_Taisen_OG_The_Inspector_-_01_[1280x720_h264][A418A930].mkv",
+                    "group": "ShinRyuu",
+                    "hash": "A418A930",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165374",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 01.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ryugan-Seiippai]_Super_Robot_Wars_OG_The_Inspector_01_[720p]_[D1A4CA11].mkv",
+                    "group": "Ryugan-Seiippai",
+                    "hash": "D1A4CA11",
+                    "url": "http://tracker.minglong.org/torrents/%5BRyugan-Seiippai%5D_Super_Robot_Wars_OG_The_Inspector_01_%5B720p%5D_%5BD1A4CA11%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-08T18:00:00",
+            "episode": 2,
+            "score": 7.1166376812,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164286",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164287",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 02.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166230",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-15T18:00:00",
+            "episode": 3,
+            "score": 7.1209090909,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 03 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166092",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 03 [720p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166093",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 03.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166231",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-22T18:00:00",
+            "episode": 4,
+            "score": 7.131987041,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167777",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-29T18:00:00",
+            "episode": 5,
+            "score": 7.1173611111,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 05.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=169834",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169860",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-05T17:00:00",
+            "episode": 6,
+            "score": 7.0729182156,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171542",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171544",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-12T17:00:00",
+            "episode": 7,
+            "score": 7.0778546099,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-19T17:00:00",
+            "episode": 8,
+            "score": 7.0665417376,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-26T17:00:00",
+            "episode": 9,
+            "score": 7.0566389351,
+            "torrents": []
+        },
+        {
+            "date": "2010-12-03T17:00:00",
+            "episode": 10,
+            "score": 6.8990704648,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 10 [720p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178041",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 10 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178043",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 10.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178088",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-10T17:00:00",
+            "episode": 11,
+            "score": 6.9060492041,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 11 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179468",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 11 [720p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179469",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 11.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179550",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-17T17:00:00",
+            "episode": 12,
+            "score": 6.9192682927,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180882",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180884",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 12.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180936",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-24T17:00:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 13 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 13.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182383",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-07T17:00:00",
+            "episode": 14,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 14.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=185088",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-14T17:00:00",
+            "episode": 15,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 15 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186634",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 15 [720p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186635",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 15.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186731",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-21T17:00:00",
+            "episode": 16,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188722",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Super Robot Wars OG - The Inspector - 16 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188725",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 16.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=188797",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-28T17:00:00",
+            "episode": 17,
+            "score": 6.9793975,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190377",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190378",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 17.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190471",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-04T17:00:00",
+            "episode": 18,
+            "score": 6.9889353659,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=192032",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=192033",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 18.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=192136",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-11T17:00:00",
+            "episode": 19,
+            "score": 6.9871568154,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193715",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193716",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 19.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193804",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-18T17:00:00",
+            "episode": 20,
+            "score": 6.9822257683,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=195302",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=195303",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 20.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=195452",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-25T17:00:00",
+            "episode": 21,
+            "score": 6.9750104773,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196792",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 21.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196863",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-04T17:00:00",
+            "episode": 22,
+            "score": 6.9794226804,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198299",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 22.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198366",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-11T17:00:00",
+            "episode": 23,
+            "score": 6.9795187287,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200347",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 23.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200963",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-18T17:00:00",
+            "episode": 24,
+            "score": 6.9882678571,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 24 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=201244",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 24.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=201509",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-25T17:00:00",
+            "episode": 25,
+            "score": 6.9981855104,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 25 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=202211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 25 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=202212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 25.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=202289",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-01T18:00:00",
+            "episode": 26,
+            "score": 7.2337212276,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[ReinWeiss] Super Robot Wars OG - The Inspector - 26.mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203844",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7718,
+        "ann": 11760,
+        "mal": 9241,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "#anime #Jesie\u01442010 Super Robot Wars OG: The Inspector (\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226OG -\u30b8\u30fb\u30a4\u30f3\u30b9\u30da\u30af\u30bf\u30fc-) http://rdir.pl/sxthf",
+            "filename": "http://s.modriv.net/abp/images/screencaps/709cde33ed46e17dc527e68f9838d714.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nowoczesne kombinezony uwydatniaj\u0105ce sutki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/efd9c1bc85eb1d946a73ee1415818527.jpg",
+            "hd": false
+        },
+        {
+            "description": "GIGA... DORIRU... BUREIKA!!!!!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9ce8b62ebf3dc3e260492b3fc120e64b.jpg",
+            "hd": false
+        },
+        {
+            "description": " ",
+            "filename": "http://s.modriv.net/abp/images/screencaps/48033b56b8f21c0739fa59c493d47d6d.jpg",
+            "hd": false
+        },
+        {
+            "description": "JARUZELSKI?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/61bba132f9c54e35fc0a89e11ffa4f9a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/88084bded7907b337e69a62c441c78ce.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e725a53e8e2fea81a6137057d01660ef.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c30c942bf9d848dcbffda1c4efaf7c1a.jpg",
+            "hd": false
+        },
+        {
+            "description": "zombie roboty atakuj\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/63bbf13220e87f98cc473a91bdd79e8a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6ad8480542805eac6d96147db7fc2228.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fd71be19968b853a512f7fc0edd499d0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c91ac84c4553cb24e0f638eac4bebcd3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e2a12a731df6d51dd20e9173d3273aa4.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Jutrzenka, s\u0142onecznym kolorem, budzi dzie\u0144. Wstaj\u0105ce s\u0142o\u0144ce, z\u0142otem maluje niebo.\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/89f1dcd89b1b10163a22c48abd8a0d85.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/85d71c5c6d02d82380b26f93f729689b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nasza Klasa?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ae4ddbc7debe09d8a75b95b333a3cfe7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Obro\u0144cy Krzy\u017ca r\u00f3wnie\u017c i w tym #anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d92fd28aa7da1e35f161fbc189eb5f2b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/684f1e1426acea0bf28f3e33d64eda88.jpg",
+            "hd": false
+        },
+        {
+            "description": "mi\u0119dzygalaktyczna wojna, a ta w koszuli nocnej z mi\u015bkiem paraduje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/539668606ff3819cc80a6dc445b5ade8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Denaturat bez chlebka = hardkor",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d391963dedb7db1b8c8c8edb596379a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "w pierwszej kolejno\u015bci denaturat uszkadza wzrok",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ab53edd91ef04bbf50a3cb106ca553c8.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Roboty si\u0119 strzelaj\u0105... broni\u0105 Ziemi przed kosmitami.... strzelaj\u0105.... kopc\u0105 energi\u0105.... strzelaj\u0105.... wybuchaj\u0105...",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 1341,
+            "date": "2012-09-29T12:54:34",
+            "score": 7.37,
+            "type": "mal"
+        },
+        {
+            "count": 175,
+            "date": "2012-09-29T12:54:34",
+            "score": 7.04,
+            "type": "anidb"
+        },
+        {
+            "count": 109,
+            "date": "2012-09-29T12:54:34",
+            "score": 6.784,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "Super Robot Taisen OG: Divine Wars Special",
+    "title": "Super Robot Wars OG: The Inspector"
+}

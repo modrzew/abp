@@ -1,0 +1,836 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u4fb5\u7565!? \u30a4\u30ab\u5a18"
+        },
+        {
+            "language": "pl",
+            "title": "Inwazja!? M\u0105twiana Dziewczyna"
+        }
+    ],
+    "aliases": [
+        "Shinryaku!? Ika Musume ",
+        "Shinryaku! Ika Musume S2",
+        "Shinryaku Ika Musume",
+        "Shinryaku Ika Musume S2",
+        "Shinryaku Ika Musume! S2"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2011-09-26T19:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[CrazySquid]_Shinryaku!?_Ika_Musume_1_[480p].mkv",
+                    "group": "CrazySquid",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=248426",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[KindaHorribleSubs] Shinryaku! Ika Musume S2 - 01 [480p].mkv",
+                    "group": "KindaHorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248434",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[KindaHorribleSubs] Shinryaku! Ika Musume S2 - 01 [720p].mkv",
+                    "group": "KindaHorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248436",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CrazySquid]_Shinryaku!?_Ika_Musume_1_[720p].mkv",
+                    "group": "CrazySquid",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=248441",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248480",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 01 (720p) [E93ADEE3].mkv",
+                    "group": "Underwater",
+                    "hash": "E93ADEE3",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2001%20(720p)%20%5BE93ADEE3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 01 [480p][B0D4FA23].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "B0D4FA23",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248622",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 01 [720p][C87C8E7C].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "C87C8E7C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248623",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[AQUA] Shinryaku! Ika Musume S2 - 01 (720p x264 AAC) [643B01B5].mkv",
+                    "group": "AQUA",
+                    "hash": "643B01B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 01 [AB5D82DF].mkv",
+                    "group": "WhyNot",
+                    "hash": "AB5D82DF",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=251286",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-03T19:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[KindaHorribleSubs] Shinryaku! Ika Musume S2 - 02 [480p].mkv",
+                    "group": "KindaHorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[KindaHorribleSubs] Shinryaku! Ika Musume S2 - 02 [720p].mkv",
+                    "group": "KindaHorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 02 (720p) [03B3C0E2].mkv",
+                    "group": "Underwater",
+                    "hash": "03B3C0E2",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2002%20(720p)%20%5B03B3C0E2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250145",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 02 [480p][A696A71C].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "A696A71C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250233",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 02 [720p][6648AA4F].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "6648AA4F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250234",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[AQUA] Shinryaku! Ika Musume S2 - 02 (720p x264 AAC) [ABC1296B].mkv",
+                    "group": "AQUA",
+                    "hash": "ABC1296B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250558",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shinryaku Ika Musume! S2 - 02 [2EC9D96D].mkv",
+                    "group": "WhyNot",
+                    "hash": "2EC9D96D",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=251287",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-10T19:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 03 (720p) [A5A296F6].mkv",
+                    "group": "Underwater",
+                    "hash": "A5A296F6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2003%20(720p)%20%5BA5A296F6%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-17T19:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 04 (720p) [3E5A065B].mkv",
+                    "group": "Underwater",
+                    "hash": "3E5A065B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2004%20(720p)%20%5B3E5A065B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[whine-connoisseur] Shinryaku! Ika Musume S2 - 04 [1280x720 x264 AAC] [C93FAF26].mkv",
+                    "group": "whine-connoisseur",
+                    "hash": "C93FAF26",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253433",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253443",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 04 [480p][C525653E].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "C525653E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253497",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 04 [720p][3C6AFB6D].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "3C6AFB6D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 04 [DCCD1D70].mkv",
+                    "group": "WhyNot",
+                    "hash": "DCCD1D70",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255195",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-31T18:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256878",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 05 [720p][0F337F34].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "0F337F34",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257253",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 05 [480p][9F95C60D].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "9F95C60D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257252",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 05 [71DE5EA1].mkv",
+                    "group": "WhyNot",
+                    "hash": "71DE5EA1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260111",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 05 (720p) [9A4B4B8A].mkv",
+                    "group": "Underwater",
+                    "hash": "9A4B4B8A",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2005%20(720p)%20%5B9A4B4B8A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 05v2 [94DCBFF3].mkv",
+                    "group": "WhyNot",
+                    "hash": "94DCBFF3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262137",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-11-14T18:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 06 [480p][271E3392].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "271E3392",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=260501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 06 [720p][A85A5685].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "A85A5685",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=260502",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 06 [87AA8AF3].mkv",
+                    "group": "WhyNot",
+                    "hash": "87AA8AF3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260554",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 06 (720p) [61DC59F7].mkv",
+                    "group": "Underwater",
+                    "hash": "61DC59F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260701",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-21T18:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261835",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261836",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 07 (720p) [29EE93D7].mkv",
+                    "group": "Underwater",
+                    "hash": "29EE93D7",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2007%20(720p)%20%5B29EE93D7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 07 [720p][EA430892].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "EA430892",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262098",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 07 [480p][78DA1DC7].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "78DA1DC7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262097",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 07 [85A899ED].mkv",
+                    "group": "WhyNot",
+                    "hash": "85A899ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262139",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-28T18:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263446",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263486",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 08 (720p) [D83197BF].mkv",
+                    "group": "Underwater",
+                    "hash": "D83197BF",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2008%20(720p)%20%5BD83197BF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 08 [480p][AE81B817].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "AE81B817",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 08 [720p][02B560D0].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "02B560D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264067",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 08 [CE220218].mkv",
+                    "group": "WhyNot",
+                    "hash": "CE220218",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271584",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-05T18:00:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265497",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 09 (720p) [B55BADF5].mkv",
+                    "group": "Underwater",
+                    "hash": "B55BADF5",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2009%20(720p)%20%5BB55BADF5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 09 [480p][6719747A].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "6719747A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266446",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 09 [720p][16AEB830].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "16AEB830",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266447",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 09 [3FE34FC6].mkv",
+                    "group": "WhyNot",
+                    "hash": "3FE34FC6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271585",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-12T18:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267862",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 10 (720p) [BBF6802F].mkv",
+                    "group": "Underwater",
+                    "hash": "BBF6802F",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2010%20(720p)%20%5BBBF6802F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 10 [480p][BE9E63DA].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "BE9E63DA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 10 [720p][9709F19E].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "9709F19E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 10 [71E79374].mkv",
+                    "group": "WhyNot",
+                    "hash": "71E79374",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271586",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-19T18:00:00",
+            "episode": 11,
+            "score": 7.7616586985,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 11 [480p][7ABD8686].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "7ABD8686",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270051",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 11 [720p][8F450E4C].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "8F450E4C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270050",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 11 (720p) [94DA44E7].mkv",
+                    "group": "Underwater",
+                    "hash": "94DA44E7",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2011%20(720p)%20%5B94DA44E7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 11 [F294F51C].mkv",
+                    "group": "WhyNot",
+                    "hash": "F294F51C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271587",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-26T18:00:00",
+            "episode": 12,
+            "score": 7.7039577465,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271553",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Shinryaku Ika Musume S2 - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271554",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 12 [480p][9556899B].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "9556899B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271699",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[FFFpeeps] Shinryaku! Ika Musume S2 - 12 [720p][0AF4CCF3].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "0AF4CCF3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271700",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Shinryaku! Ika Musume S2 - 12 (720p) [4D935DF3].mkv",
+                    "group": "Underwater",
+                    "hash": "4D935DF3",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Shinryaku!%20Ika%20Musume%20S2%20-%2012%20(720p)%20%5B4D935DF3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Shinryaku! Ika Musume S2 - 12 [9936506F].mkv",
+                    "group": "WhyNot",
+                    "hash": "9936506F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=273575",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8294,
+        "ann": 12842,
+        "mal": 10378,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 8595,
+            "date": "2012-09-29T13:43:59",
+            "score": 7.67,
+            "type": "mal"
+        },
+        {
+            "count": 456,
+            "date": "2012-09-29T13:43:59",
+            "score": 7.873,
+            "type": "ann"
+        },
+        {
+            "count": 655,
+            "date": "2012-09-29T13:43:59",
+            "score": 7.38,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "183",
+    "title": "Shinryaku!? Ika Musume"
+}

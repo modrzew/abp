@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u304b\u306a\u3081\u3082"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6531,
+        "ann": 10644,
+        "mal": 5914,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Gimnazjalistka zostaje zatrudniona w drukarni gazet prowadzonej przez uczennic\u0119 podstaw\u00f3wki i zatrudniaj\u0105c\u0105 licealistki oraz studentk\u0119.",
+            "type": "abp"
+        },
+        {
+            "content": "* Adaptation of Iwami Shouko's Kanamemo four-panel manga.The story revolves around the daily life of Nakamachi Kana, an orphaned middle-school girl, who begins living and working at a newspaper delivery office staffed exclusively by cute girls.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "Nakamachi Kana is a junior high school girl. Her grandmother passed away and she was left all alone. She finds a newspaper carrier station and starts working as a live-in carrier. Her room has a hole on the wall. Other female workers living next door comes in through the hole and start a wild merrymaking.",
+            "type": "mal"
+        },
+        {
+            "content": "The story centers on Kana Nakamichi, a middle-school girl who had already lost her parents and just recently lost her only remaining relative, her grandmother. As a result, she ends up living and working at a newspaper delivery office. Everyone else living at the office are all charming, self-assertive bish\u014djo.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5660,
+            "date": "2012-09-29T02:01:35",
+            "score": 7.14,
+            "type": "mal"
+        },
+        {
+            "count": 727,
+            "date": "2012-09-29T02:01:35",
+            "score": 6.74,
+            "type": "anidb"
+        },
+        {
+            "count": 417,
+            "date": "2012-09-29T02:01:35",
+            "score": 7.115,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Kanamemo"
+}

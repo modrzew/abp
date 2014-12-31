@@ -1,0 +1,1082 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u9019\u3044\u3088\u308c\uff01\u30cb\u30e3\u30eb\u5b50\u3055\u3093"
+        },
+        {
+            "language": "en",
+            "title": "Nyarko-san: Another Crawling Chaos"
+        },
+        {
+            "language": "pl",
+            "title": "Pe\u0142zaj! Nyaruko-san"
+        }
+    ],
+    "aliases": [
+        "Haiyore! Nyaruko-san",
+        "Haiyore! Nyarlko-san",
+        "Haiyore! Nyarlko"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1105173921",
+            "content": "#anime #Wiosna2012 Haiyore! Nyaruko-san (\u9019\u3044\u3088\u308c\uff01\u30cb\u30e3\u30eb\u5b50\u3055\u3093) http://rdir.pl/1nbmox",
+            "episode": 1,
+            "filename": "e4087e790ce5836eb3da89d068256165.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190886507358330880"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1139328233",
+            "content": "Haiyore! Nyaruko-san 03 - ju\u017c tylko lataj\u0105cego walca brakuje",
+            "episode": 3,
+            "filename": "245ebc8b8a493bd789d5d88c09886786.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/195251120464068608"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1226556745",
+            "content": "Haiyore! Nyaruko-san 08 - Cthulhu knows",
+            "episode": 8,
+            "filename": "097ab4364054f91a894a39ea91270623.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/207799150715215873"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-09T19:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 01 [2F4D073C].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "2F4D073C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Haiyore! Nyarlko - 01 [9BCF9CCC].mkv",
+                    "group": "Commie",
+                    "hash": "9BCF9CCC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p hi10 AAC]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Haiyore! Nyaruko-san - 01 [720p hi10 AAC][90EE169C].mkv",
+                    "group": "Ahodomo",
+                    "hash": "90EE169C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304389",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Haiyore! Nyaruko-san - 01 [720p h264 AAC][B5D3A45C].mkv",
+                    "group": "Ahodomo",
+                    "hash": "B5D3A45C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Haiyore! Nyaruko-san - 01 [480p h264 AAC][8E24EAB9].mkv",
+                    "group": "Ahodomo",
+                    "hash": "8E24EAB9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304407",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Ahodomo] Haiyore! Nyaruko-san - 01v2 [720p h264 AAC][3ADE1A65].mkv",
+                    "group": "Ahodomo",
+                    "hash": "3ADE1A65",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304724",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Ahodomo] Haiyore! Nyaruko-san - 01v2 [480p h264 AAC][4A453185].mkv",
+                    "group": "Ahodomo",
+                    "hash": "4A453185",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304719",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p hi10 AAC]",
+                    "download_count": 0,
+                    "filename": "[Ahodomo] Haiyore! Nyaruko-san - 01v2 [720p hi10 AAC][ACD146E2].mkv",
+                    "group": "Ahodomo",
+                    "hash": "ACD146E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304725",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_01_[1280x720][02A49D2B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "02A49D2B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306122",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_01v2_[1280x720][31CD13ED].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "31CD13ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307577",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-04-16T19:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305551",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305553",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305556",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Haiyore! Nyarlko - 02 [E6247E97].mkv",
+                    "group": "Commie",
+                    "hash": "E6247E97",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305639",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 02 [7AE9CF95].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "7AE9CF95",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305642",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_02_[1280x720][4AE27D2F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4AE27D2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306123",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_02v2_[1280x720][E8E623D1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E8E623D1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307578",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p hi10 AAC]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Haiyore! Nyaruko-san - 02v2 [720p hi10 AAC][60838841].mkv",
+                    "group": "Ahodomo",
+                    "hash": "60838841",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307732",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Haiyore! Nyaruko-san - 02v2 [720p h264 AAC][7F5D9007].mkv",
+                    "group": "Ahodomo",
+                    "hash": "7F5D9007",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307731",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-04-23T19:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307912",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307915",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Haiyore! Nyarlko - 03 [939BCC09].mkv",
+                    "group": "Commie",
+                    "hash": "939BCC09",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308041",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 03 [D0DFF808].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "D0DFF808",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_03_[1280x720][7A5AA468].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7A5AA468",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310142",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-30T19:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310123",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310128",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310132",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 04 [23E4EC17].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "23E4EC17",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Haiyore! Nyarlko - 04 [9746819A].mkv",
+                    "group": "Commie",
+                    "hash": "9746819A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310298",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_04_[1280x720][0EC5F02C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0EC5F02C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310751",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-07T19:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312347",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312348",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Haiyore! Nyarlko - 05 [824E2BB4].mkv",
+                    "group": "Commie",
+                    "hash": "824E2BB4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312459",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 05 [C7A3308A].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "C7A3308A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312521",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_05_[10bit][1280x720][FBD3E975].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FBD3E975",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_05_[1280x720][40B0EE73].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "40B0EE73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313436",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-14T19:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314274",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314275",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Haiyore! Nyarlko - 06 [584054EE].mkv",
+                    "group": "Commie",
+                    "hash": "584054EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 06 [A52B4F07].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "A52B4F07",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314374",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_06_[10bit][1280x720][A5D8F342].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A5D8F342",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317535",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_06_[1280x720][D5DD9557].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D5DD9557",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317536",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-21T19:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316189",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 07 [5629011B].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "5629011B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316305",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Haiyore! Nyarlko - 07 [0284B938].mkv",
+                    "group": "Commie",
+                    "hash": "0284B938",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316311",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_07_[10bit][1280x720][9C593F3B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9C593F3B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_07_[1280x720][CCA79703].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CCA79703",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317539",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-28T19:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318216",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318221",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318222",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 08 [5BDD3E66].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "5BDD3E66",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318373",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Haiyore! Nyarlko - 08 [C10016B9].mkv",
+                    "group": "Commie",
+                    "hash": "C10016B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_08_[10bit][1280x720][C9536BFB].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C9536BFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318935",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_08_[1280x720][54DB2388].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "54DB2388",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318936",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-04T19:00:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320217",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320221",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320223",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 09 [0A30248E].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "0A30248E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320303",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 09 [0A30248E].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "0A30248E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320303",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Haiyore! Nyarlko - 09 [84EDFA79].mkv",
+                    "group": "Commie",
+                    "hash": "84EDFA79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320734",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_09_[10bit][1280x720][A84B3CD1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A84B3CD1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_09_[1280x720][48E47EA4].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "48E47EA4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320815",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-11T19:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322263",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322266",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 10 [30606460].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "30606460",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Haiyore! Nyarlko - 10 [2B56B967].mkv",
+                    "group": "Commie",
+                    "hash": "2B56B967",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322401",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_10_[10bit][1280x720][BB22290A].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BB22290A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322823",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-18T19:00:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324158",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 11 [170016C1].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "170016C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324211",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Haiyore! Nyarlko - 11 [BDA8785C].mkv",
+                    "group": "Commie",
+                    "hash": "BDA8785C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324504",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_11_[8bit][1280x720][F2757537].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F2757537",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326533",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_11_[10bit][1280x720][07DDE671].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "07DDE671",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326534",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-25T19:00:00",
+            "episode": 12,
+            "score": 7.3251302117,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Haiyore! Nyaruko-san - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Underwater-rori] Haiyore! Nyarlko-san - 12 [9DFD9853].mkv",
+                    "group": "Underwater-rori",
+                    "hash": "9DFD9853",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325929",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Haiyore! Nyarlko - 12 [F0E9773B].mkv",
+                    "group": "Commie",
+                    "hash": "F0E9773B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325969",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Haiyore!_Nyaruko-san_-_12_END_[8bit][1280x720][2A30CED3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "2A30CED3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326535",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8719,
+        "ann": 13719,
+        "mal": 11785,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/925632d5ea82f474559b99f16333df50.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6abafca67fb8f4869011f375c2a2f185.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2de4d8fe82466f10d0b8fa89a19b6df6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/07ff2bfb11d9fdbec233229e77bd794a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/29926111173c182b67fdbe2c6081a04b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/939567b1e16d604d24ab30c7d3f3e0c8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d159ee45d9951c0424f270e2cac9cefd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fd50c860f501ca04664d97bd27eb604c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ab2396bf2cbd29ef944a1d21935b147c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f82372b7bc40525016f623bb939b7ca9.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Haiyore! Nyaruko-san (\u9019\u3044\u3088\u308c\uff01\u30cb\u30e3\u30eb\u5b50\u3055\u3093) http://rdir.pl/1nbmox",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e4087e790ce5836eb3da89d068256165.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/341421eba0918209774fd2ffb71f0358.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/09fc181e9092f5d0ea0ab0654b7ca033.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/190c36525af5d3a009d50851983118ec.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ca98e1b535755bbda063c4392de0a99c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b8a6d3c2292b1bcc46c5eeab2c6033dd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/67c86ab1bc4bef57ef4dd1ff63203588.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9775ef8b92f341860e7815520d566f8d.jpg",
+            "hd": false
+        },
+        {
+            "description": "ju\u017c tylko lataj\u0105cego walca brakuje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/245ebc8b8a493bd789d5d88c09886786.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ce924230017e5277aed7ab318a25abe1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Cthulhu knows",
+            "filename": "http://s.modriv.net/abp/images/screencaps/097ab4364054f91a894a39ea91270623.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "The story revolves around an ordinary boy Yasaka Mahiro who encounters a human-like alien named Nyarlathotep (Nyaruko for short) who takes the form of a silver-haired girl.",
+            "type": "anidb"
+        },
+        {
+            "content": "\"I'm Nyarlathotep, the creeping chaos always smiling beside you.\" But you can call her Nyaruko for short. One by one, the Great Ones from the Cthulhu mythos are coming to earth to target Nyaruko and her human friend Mahiro. He's utterly clueless about the true nature of his cosmic conflict and just wants to live in peace.",
+            "type": "ann"
+        },
+        {
+            "content": "\"I'm Nyarlathotep, the creeping chaos always smiling beside you.\" But you can call her Nyaruko for short. One by one, the Great Ones from the Cthulhu mythos are coming to earth to target Nyaruko and her human friend Mahiro. He's utterly clueless about the true nature of his cosmic conflict and just wants to live in peace.  (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "The story of Haiyore! Nyaruko-san centers around Nyaruko, a formless Cthulhu-deity of chaos (Nyarlathotep) who can take on the shape of a seemingly ordinary silver-haired girl. Mahiro Yasaka is a normal high school boy who is being chased by a fearsome black alien one night, until Nyaruko saves him. She explains that the creatures from H. P. Lovecraft's works are actually races of aliens, and that she has been sent to Earth to protect him from being kidnapped by an alien trafficker. Eventually, Nyaruko and two other Lovecraft-creatures, Cthugha and Hastur, ends up being freeloaders at Mahiro's place.[1]",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 13655,
+            "date": "2012-09-29T14:14:57",
+            "score": 7.29,
+            "type": "mal"
+        },
+        {
+            "count": 694,
+            "date": "2012-09-29T14:14:57",
+            "score": 6.66,
+            "type": "anidb"
+        },
+        {
+            "count": 514,
+            "date": "2012-09-29T14:14:57",
+            "score": 7.267,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Haiyore! Nyaruko-san"
+}

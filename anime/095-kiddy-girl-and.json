@@ -1,0 +1,48 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ad\u30c7\u30a3\u30fb\u30ac\u30fc\u30e9\u30f3\u30c9"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 4999,
+        "ann": 7612,
+        "mal": 3349,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 2760,
+            "date": "2012-09-29T02:38:46",
+            "score": 7.12,
+            "type": "mal"
+        },
+        {
+            "count": 499,
+            "date": "2012-09-29T02:38:46",
+            "score": 6.35,
+            "type": "anidb"
+        },
+        {
+            "count": 373,
+            "date": "2012-09-29T02:38:46",
+            "score": 6.212,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Kiddy Grade",
+    "title": "Kiddy GiRL-AND"
+}

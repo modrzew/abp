@@ -1,0 +1,901 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3086\u308b\u3086\u308a"
+        }
+    ],
+    "aliases": [
+        "YuruYuri",
+        "Yuru Yuri"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/595153503",
+            "content": "#anime #Lato2011 Yuruyuri (????) http://rdir.pl/1j06s0",
+            "episode": 1,
+            "filename": "131699bad8423392b7c6437b193cbdd8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/88420715476422656"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-04T19:00:00",
+            "episode": 1,
+            "score": 7.1252589183,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tonde] YuruYuri - 01 720p.mkv",
+                    "group": "Tonde",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[LowRes]",
+                    "download_count": 1,
+                    "filename": "[Tonde] YuruYuri - 01 LowRes.mkv",
+                    "group": "Tonde",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225875",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 01 [132211C2].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "132211C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226922",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-DS]_Yuru_Yuri_01_[D9E03992]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "D9E03992",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228190",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280 x 720 h264 aac]",
+                    "download_count": 1,
+                    "filename": "[Asuka-subs] YuruYuri - 01 - Middle School Debut! (1280 x 720 h264 aac).mkv",
+                    "group": "Asuka-subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228524",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tonde] Yuru Yuri - 01v2 [720p] [F8830299].mkv",
+                    "group": "Tonde",
+                    "hash": "F8830299",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232961",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-07-11T19:00:00",
+            "episode": 2,
+            "score": 7.120361991,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227583",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-DS]_Yuru_Yuri_02_[CE092DF8]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "CE092DF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080 x 720 h264 aac]",
+                    "download_count": 1,
+                    "filename": "[Asuka-subs] YuruYuri - 02 - You and I and the Student Council (1080 x 720 h264 aac).mkv",
+                    "group": "Asuka-subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 02 [C105DABB].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "C105DABB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228504",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Tonde] Yuru Yuri - 02 [720p] [2DA02DEB].mkv",
+                    "group": "Tonde",
+                    "hash": "2DA02DEB",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=232137",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tonde] Yuru Yuri - 02v2 [720p] [C1D68BD7].mkv",
+                    "group": "Tonde",
+                    "hash": "C1D68BD7",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=232342",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-07-18T19:00:00",
+            "episode": 3,
+            "score": 7.1166835152,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229290",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280 x 720 h264 aac]",
+                    "download_count": 1,
+                    "filename": "[Asuka-subs] YuruYuri - 03 - Wanna Come Visit... Yeah, Let\\'s Go (1280 x 720 h264 aac).mkv",
+                    "group": "Asuka-subs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-DS]_Yuru_Yuri_03_[1C9685A2]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "1C9685A2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 03 [5883C69E].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "5883C69E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] Yuru Yuri - 03 [720p][0234EC16].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "0234EC16",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230490",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tonde] Yuru Yuri - 03 [720p] [1827A8D4].mkv",
+                    "group": "Tonde",
+                    "hash": "1827A8D4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232870",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-25T19:00:00",
+            "episode": 4,
+            "score": 7.155132874,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] YuruYuri - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231099",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231100",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-DS]_Yuru_Yuri_04_[C772CC7F]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "C772CC7F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231656",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 04 [DD89930B].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "DD89930B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232357",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tonde] Yuru Yuri - 04 [720p] [D89EF7B4].mkv",
+                    "group": "Tonde",
+                    "hash": "D89EF7B4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235678",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-01T19:00:00",
+            "episode": 5,
+            "score": 7.2247275064,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280 x 720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Asuka-subs] YuruYuri - 05 - When Akari and the Cicadas Cry(1280 x 720 h264 AAC)[B01D9C66].mkv",
+                    "group": "Asuka-subs",
+                    "hash": "B01D9C66",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233476",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 05 [99634B9C].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "99634B9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234086",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-DS]_Yuru_Yuri_05_[B4639C83]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "B4639C83",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234217",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tonde] Yuru Yuri - 05 [720p] [9289119F].mkv",
+                    "group": "Tonde",
+                    "hash": "9289119F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236468",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-08T19:00:00",
+            "episode": 6,
+            "score": 7.2714764479,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] YuruYuri - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235176",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] YuruYuri - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235177",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280 x 720 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Asuka-subs] YuruYuri - 06 - Art - Arter - Artist(1280 x 720 h264 AAC)[DC911864].mkv",
+                    "group": "Asuka-subs",
+                    "hash": "DC911864",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235410",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 06 [0FC9479D].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "0FC9479D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235924",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-DS]_Yuru_Yuri_06_[50B01731]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "50B01731",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SHiN-gx] Yuru Yuri - 06 [720p][E510FCB7].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "E510FCB7",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yuru%20Yuri%20-%2006%20%5B720p%5D%5BE510FCB7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Tonde] Yuru Yuri - 06 [720p] [CDB4C5DF].mkv",
+                    "group": "Tonde",
+                    "hash": "CDB4C5DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239278",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-15T19:00:00",
+            "episode": 7,
+            "score": 7.2933955492,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] YuruYuri - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237204",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] YuruYuri - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237207",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 07 [3B6F22F2].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "3B6F22F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238173",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] Yuru Yuri - 07 [720p][1A536079].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "1A536079",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yuru%20Yuri%20-%2007%20%5B720p%5D%5B1A536079%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-DS]_Yuru_Yuri_07_[3DA100AD]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "3DA100AD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239073",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tonde] Yuru Yuri - 07 [720p] [94C4F775].mkv",
+                    "group": "Tonde",
+                    "hash": "94C4F775",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249194",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-22T19:00:00",
+            "episode": 8,
+            "score": 7.326902834,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] YuruYuri - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] YuruYuri - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-DS]_Yuru_Yuri_08_[D9B71A60]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "D9B71A60",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240854",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 08 [0E76F3BD].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "0E76F3BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] Yuru Yuri - 08 [720p][73935CF6].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "73935CF6",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yuru%20Yuri%20-%2008%20%5B720p%5D%5B73935CF6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Tonde] Yuru Yuri - 08 [720p] [0D7CBFE8].mkv",
+                    "group": "Tonde",
+                    "hash": "0D7CBFE8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260503",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-29T19:00:00",
+            "episode": 9,
+            "score": 7.3453076187,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] YuruYuri - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] YuruYuri - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241258",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 09 [8AD40AA6].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "8AD40AA6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242417",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-DS]_Yuru_Yuri_09_[E4684FEA]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "E4684FEA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242773",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SHiN-gx] Yuru Yuri - 09 [720p][8E6C4DA4].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "8E6C4DA4",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yuru%20Yuri%20-%2009%20%5B720p%5D%5B8E6C4DA4%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-05T19:00:00",
+            "episode": 10,
+            "score": 7.3534669882,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243237",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] YuruYuri - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Coalgirls]_Yuru_Yuri_10_(1280x720_H.264_AAC)_[AABAB096].mkv",
+                    "group": "Coalgirls",
+                    "hash": "AABAB096",
+                    "url": "http://coalgirls.wakku.to/torrents/%5BCoalgirls%5D_Yuru_Yuri_10_%281280x720_H.264_AAC%29_%5BAABAB096%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 10 [79795519].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "79795519",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280 x 720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Asuka Subs] YuruYuri - 10 - We\\'re on a School Trip. So Why are we Supposed to Study (1280 x 720 h264 AAC)[176CCFBE].mkv",
+                    "group": "Asuka-subs",
+                    "hash": "176CCFBE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SHiN-gx] Yuru Yuri - 10 [720p][787D4665].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "787D4665",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yuru%20Yuri%20-%2010%20%5B720p%5D%5B787D4665%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-DS]_Yuru_Yuri_10_[D452742F]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "D452742F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247695",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-12T19:00:00",
+            "episode": 11,
+            "score": 7.3587273756,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] YuruYuri - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245003",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] YuruYuri - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Coalgirls]_Yuru_Yuri_11_(1280x720_H.264_AAC)_[8AC61EB1].mkv",
+                    "group": "Coalgirls",
+                    "hash": "8AC61EB1",
+                    "url": "http://coalgirls.wakku.to/torrents/%5BCoalgirls%5D_Yuru_Yuri_11_%281280x720_H.264_AAC%29_%5B8AC61EB1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280 x 720 H264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Asuka Subs] YuruYuri - 11 - Our Amusement Club (1280 x 720 H264 AAC)[0CE34F1F].mkv",
+                    "group": "Asuka Subs",
+                    "hash": "0CE34F1F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245482",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 11 [2F1AD9CA].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "2F1AD9CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245655",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-DS]_Yuru_Yuri_11_[E37FDCC4]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "E37FDCC4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[SHiN-gx] Yuru Yuri - 11 [720p][BF79B569].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "BF79B569",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yuru%20Yuri%20-%2011%20%5B720p%5D%5BBF79B569%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-19T19:00:00",
+            "episode": 12,
+            "score": 7.6599541476,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] YuruYuri - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] YuruYuri - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246741",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-DS]_Yuru_Yuri_12_[C4FBE7DB]_(720p).mkv",
+                    "group": "Anime-DS",
+                    "hash": "C4FBE7DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247697",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Yuru Yuri 12 [BBA3D9DB].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "BBA3D9DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[END][720p]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Yuru Yuri - 12 [END][720p][0C2D8D2B].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "0C2D8D2B",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yuru%20Yuri%20-%2012%20%5BEND%5D%5B720p%5D%5B0C2D8D2B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8353,
+        "ann": 12828,
+        "mal": 10495,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Pierwszy dzie? szko?y, to z?bki trzeba umy?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e0fc27d61e395bee34c732a5892e4659.jpg",
+            "hd": false
+        },
+        {
+            "description": ":D",
+            "filename": "http://s.modriv.net/abp/images/screencaps/81d25a4bfb0b6c47e5d4ecb5b4eaf021.jpg",
+            "hd": false
+        },
+        {
+            "description": ":DD",
+            "filename": "http://s.modriv.net/abp/images/screencaps/11192e291b9d6919c8bdbd936d4aa618.jpg",
+            "hd": false
+        },
+        {
+            "description": "A teraz... sedes!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1cc5263232b91866fe33f78fe4890ce6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak, Akari, jeste? krzywo narysowana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/52e8265ad407e876e66dba6f1a019912.jpg",
+            "hd": false
+        },
+        {
+            "description": "Fabu?a... oh wait",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d7ca543468121f686470bbe20f481519.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bb50e5c928d9e37c29213f34967c454d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Yuruyuri (????) http://rdir.pl/1j06s0",
+            "filename": "http://s.modriv.net/abp/images/screencaps/131699bad8423392b7c6437b193cbdd8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/436c665c17be837c64ed0a97d465f360.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f6463ca5cf6ed70f0511e27d611302a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "SSIJ M\u00d3J MIECZ",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3bd426553cb82e16e4f3a98fda24f441.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Przygody czterech gimnazjalitek i ich pe\u0142nego zwrot\u00f3w w akcji szkolnego \u017cycia, kt\u00f3re polega na obijaniu si\u0119 w Klubie Rozrywki.",
+            "type": "abp"
+        },
+        {
+            "content": "Right after starting middle school, Akari Akaza joins the Amusement Club which is composed solely by her two childhood friends, Kyouko Toshinou and Yui Funami. Chinatsu Yoshikawa, Akaza&#039;s classmate, becomes a member after finding out about the dissolution of the Tea Club.     The Amusement Club, situated at the tea room facility since the Tea Club disbanded, has no clear purpose, being free for the girls to do whatever they want.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on a manga series written and illustrated by Namori, serialised in Comic Yuri Hime S from June 12, 2008, before being moved over to Comic Yuri Hime in September 2010.The story follows the everyday life of four fun-loving schoolgirls - at a fictitious junior high school in Takaoka, Toyama - who decide to take over the former room of the now defunct tea ceremony club for their own Amusement Club. All the while the student council does its best to eliminate this unauthorised club.",
+            "type": "anidb"
+        },
+        {
+            "content": "Right after starting middle school, Akari Akaza joins the Amusement Club which is composed solely of her two childhood friends, Kyouko Toshinou and Yui Funami. Chinatsu Yoshikawa, Akaza's classmate, becomes a member after finding out about the dissolution of the Tea Club. The Amusement Club, situated at the tea room facility since the Tea Club disbanded, has no clear purpose, being free for the girls to do whatever they want.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 15635,
+            "date": "2012-09-29T13:33:55",
+            "score": 7.72,
+            "type": "mal"
+        },
+        {
+            "count": 857,
+            "date": "2012-09-29T13:33:55",
+            "score": 7.35,
+            "type": "anidb"
+        },
+        {
+            "count": 554,
+            "date": "2012-09-29T13:33:55",
+            "score": 7.59,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Yuruyuri"
+}

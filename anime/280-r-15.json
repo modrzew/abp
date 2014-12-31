@@ -1,0 +1,842 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3042\u30fc\u308b\u3058\u3085\u3046\u3054"
+        }
+    ],
+    "aliases": [
+        "R-15",
+        "R15"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/603370937",
+            "content": "#anime #Lato2011 R-15 (???????) http://rdir.pl/1jbs9g",
+            "episode": 1,
+            "filename": "7bd70ef483553f946f4d6ae78651609d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/90436316516466688"
+        },
+        {
+            "blip_url": "http://blip.pl/s/616849833",
+            "content": "R-15 02 - nowa, jeszcze nieopisana choroba oczu wzbudzi?a zainteresowanie oftalmolog\u00f3w na ca?ym ?wiecie",
+            "episode": 2,
+            "filename": "e9cc5307275d73298171e544f3228113.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/93071186682064896"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-09T18:00:00",
+            "episode": 1,
+            "score": 6.6611764706,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] R-15 - 01 [52843FAE].mkv",
+                    "group": "Commie",
+                    "hash": "52843FAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227026",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_01_(848x480_H.264_AAC)_[1A579C57].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "1A579C57",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227250",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_01_(1280x720_H.264_AAC)_[A280F70E].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "A280F70E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227251",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_01v2_(1280x720_H.264_AAC)_[A280F70E].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "A280F70E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227379",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] R-15 - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230131",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] R-15 - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230132",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_01_(1280x720 x264 AAC)_[AF986473].mkv",
+                    "group": "Fail-15",
+                    "hash": "AF986473",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233312",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-16T18:00:00",
+            "episode": 2,
+            "score": 6.6426838586,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 02 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[NotSoHorrible] R-15 - 02 [720p H264 AAC] [2ADCD556].mkv",
+                    "group": "NotSoHorrible",
+                    "hash": "2ADCD556",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230539",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230541",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_02_(1280x720_H.264_AAC)_[4684FE9C].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "4684FE9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231417",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_02_(848x480_H.264_AAC)_[8493DC0F].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "8493DC0F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_02_(1280x720 x264 AAC)_[AEEBF582].mkv",
+                    "group": "Fail-15",
+                    "hash": "AEEBF582",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233314",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-23T18:00:00",
+            "episode": 3,
+            "score": 6.6347809377,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 03 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NotSoHorrible] R-15 - 03 [720p H264 AAC] [06E08E30].mkv",
+                    "group": "NotSoHorrible",
+                    "hash": "06E08E30",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_03_(1280x720_H.264_AAC)_[3EFFB3B5].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "3EFFB3B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_03_(848x480_H.264_AAC)_[3204018F].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "3204018F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232637",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_03_(1280x720 x264 AAC)_[53E7EA50].mkv",
+                    "group": "Fail-15",
+                    "hash": "53E7EA50",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233316",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-30T18:00:00",
+            "episode": 4,
+            "score": 6.5591515908,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 04 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p AAC]",
+                    "download_count": 6,
+                    "filename": "[Loli-Subs] R15 - 04 [720p AAC] [2D8E419C].mkv",
+                    "group": "Loli-Subs",
+                    "hash": "2D8E419C",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=232979",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264 AAC]",
+                    "download_count": 7,
+                    "filename": "[NotSoHorrible] R-15 - 04 [720p H264 AAC] [34B53580].mkv",
+                    "group": "NotSoHorrible",
+                    "hash": "34B53580",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=233042",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Loli-Subs] R-15 - 04v2 [720p h264 AAC] [6B80AE9D].mkv",
+                    "group": "Loli-Subs",
+                    "hash": "6B80AE9D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233251",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC][F0DEB8D]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_04_(1280x720 x264 AAC)_[F0DEB8D].mkv",
+                    "group": "Fail-15",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233317",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_04_(1280x720_H.264_AAC)_[B2D00DC9].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "B2D00DC9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233848",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_R-15_-_04_(848x480_H.264_AAC)_[F6D206C0].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "F6D206C0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233847",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234675",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Zenyaku] R-15 - 04 [720p h264 AAC] [3FD7683C].mkv",
+                    "group": "Zenyaku",
+                    "hash": "3FD7683C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239448",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-06T18:00:00",
+            "episode": 5,
+            "score": 6.590779661,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 05 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_05_(1280x720 x264 AAC)_[74A6AC4B].mkv",
+                    "group": "Fail-15",
+                    "hash": "74A6AC4B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Zenyaku] R-15 - 05 [720p h264 AAC] [4593CE7B].mkv",
+                    "group": "Zenyaku",
+                    "hash": "4593CE7B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235054",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236453",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236454",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-13T18:00:00",
+            "episode": 6,
+            "score": 6.5927166409,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 06 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236486",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Zenyaku] R-15 - 06 [720p h264 AAC] [1A2E7EAD].mkv",
+                    "group": "Zenyaku",
+                    "hash": "1A2E7EAD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_06_(1280x720 x264 AAC)_[CAFF8957].mkv",
+                    "group": "Fail-15",
+                    "hash": "CAFF8957",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238686",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238691",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-20T18:00:00",
+            "episode": 7,
+            "score": 6.5787881726,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 07 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238736",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_07_(1280x720 x264 AAC)_[E474C4CD].mkv",
+                    "group": "Fail-15",
+                    "hash": "E474C4CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Zenyaku] R-15 - 07 [720p h264 AAC] [26B37129].mkv",
+                    "group": "Zenyaku",
+                    "hash": "26B37129",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239185",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://is.gd/Vna8Li",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240678",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-27T18:00:00",
+            "episode": 8,
+            "score": 6.564626035,
+            "torrents": [
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Zenyaku] R-15 - 08 [720p h264 AAC] [BB2CE55D].mkv",
+                    "group": "Zenyaku",
+                    "hash": "BB2CE55D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240958",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_08_(1280x720 x264 AAC)_[5ED1E87D].mkv",
+                    "group": "Fail-15",
+                    "hash": "5ED1E87D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242604",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-03T18:00:00",
+            "episode": 9,
+            "score": 6.5774576271,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 6,
+                    "filename": "[NicoNico] R-15 - 09 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=242620",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Zenyaku] R-15 - 09 [720p h264 AAC] [4AD26E1D].mkv",
+                    "group": "Zenyaku",
+                    "hash": "4AD26E1D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243278",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_09_(1280x720 x264 AAC)_[503AE6EB].mkv",
+                    "group": "Fail-15",
+                    "hash": "503AE6EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244503",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244505",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-10T18:00:00",
+            "episode": 10,
+            "score": 6.5728380049,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 10 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244504",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_10_(1280x720 x264 AAC)_[622DC13B].mkv",
+                    "group": "Fail-15",
+                    "hash": "622DC13B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246120",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Zenyaku] R-15 - 10 [720p h264 AAC] [A374118D].mkv",
+                    "group": "Zenyaku",
+                    "hash": "A374118D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251738",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-17T18:00:00",
+            "episode": 11,
+            "score": 6.5454791748,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 11 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246136",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Fail-15]_R-15_-_11_(1280x720 x264 AAC)_[5F39251C].mkv",
+                    "group": "Fail-15",
+                    "hash": "5F39251C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246512",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] R-15 - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247908",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] R-15 - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247910",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-24T18:00:00",
+            "episode": 12,
+            "score": 6.7584082605,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] R-15 - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247838",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] R-15 - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247840",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] R-15 - 12 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247909",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8396,
+        "ann": 12895,
+        "mal": 10611,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0769078db0900a89c8d31887b026b567.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e64fcf188e1ced39aa14ce2abb87dc22.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/168c6b0331c0c7938011931e1c3051ed.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/feaa219b247d38dd08bd2a84279118e0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/efe7849532904fa527b1e70315066bb1.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4e8b9115a5f36cda97ecfea2798f67fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a0cb580e9d4f9b8f744a11075fa480cc.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pami?taj chemiku m?ody, lej zawsze kwas do wody",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5e38c0d787700248251146fb67d36b12.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0384637b3837e5eb90227ed84cb69905.jpg",
+            "hd": false
+        },
+        {
+            "description": "Przygotowania do poprawki z polskiego w toku!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b694ebc56369625b2725aa9a2f02e7b9.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 R-15 (???????) http://rdir.pl/1jbs9g",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7bd70ef483553f946f4d6ae78651609d.jpg",
+            "hd": false
+        },
+        {
+            "description": "nowa, jeszcze nieopisana choroba oczu wzbudzi?a zainteresowanie oftalmolog\u00f3w na ca?ym ?wiecie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e9cc5307275d73298171e544f3228113.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b5a257296186647af941f4f42336434a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Too much want",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fccbc8510d371b9f8ac3682c2756dba1.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Nastoletni pisarz erotyk\u00f3w trafia do Akademii Hirameki, kt\u00f3ra akceptuje w swoich progach tylko geniuszy z wybitnymi talentami.",
+            "type": "abp"
+        },
+        {
+            "content": "R-15 is about a boy, Taketo Akutagawa, who attends a school for geniuses: Inspiration Academy Private High School. Taketo is a genius novelist and writes erotica. Despite negative perceptions many people have of him, he aims to be at the top of his class and be recognized as the world's greatest writer. (Source: Wikipedia)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based off a series of light novels by Fujima Takuya and Fushimi Hiroyuki.Akutagawa Takuto is a teenage porn novel writer. He enters Hirameki Gakuen, which accepts only geniuses with outstanding talents, leading his classmates with his unusual writing skills to win the interclass competition.",
+            "type": "anidb"
+        },
+        {
+            "content": "Takuto Akutagawa has a special ability for writing porn novels. He applies to Hirameki Gakuen, a high school which only accepts people with \"unique\" talent. Now he must chase his dream and direct his classmates to win an interclass competition\u2014all while trying to create the prefect harem.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7716,
+            "date": "2012-09-29T13:39:17",
+            "score": 6.84,
+            "type": "mal"
+        },
+        {
+            "count": 489,
+            "date": "2012-09-29T13:39:17",
+            "score": 5.99,
+            "type": "anidb"
+        },
+        {
+            "count": 428,
+            "date": "2012-09-29T13:39:17",
+            "score": 6.509,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "R-15"
+}

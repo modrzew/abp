@@ -1,0 +1,911 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ac\u30fc\u30eb\u30ba&\u30d1\u30f3\u30c4\u30a1\u30fc"
+        },
+        {
+            "language": "de",
+            "title": "M\u00e4dchen und Panzer"
+        },
+        {
+            "language": "pl",
+            "title": "Dziewcz\u0119ta i Czo\u0142gi"
+        }
+    ],
+    "aliases": [
+        "Girls und Panzer"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-10-08T18:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Girls und Panzer - 01 [242F0520].mkv",
+                    "group": "Commie",
+                    "hash": "242F0520",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360441",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Girls und Panzer - 01v2 [00B0DB16].mkv",
+                    "group": "Commie",
+                    "hash": "00B0DB16",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360454",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Girls und Panzer 01 [Hi10P 1280x720 H264] [47979848].mkv",
+                    "group": "Hiryuu",
+                    "hash": "47979848",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360613",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361006",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361007",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[CR] GIRLS und PANZER - 01 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] GIRLS und PANZER - 01 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2189",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 2,
+                    "filename": "[CR] GIRLS und PANZER - 01 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2190",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Girls und Panzer - 01v3 [EA213BDD].mkv",
+                    "group": "Commie",
+                    "hash": "EA213BDD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362947",
+                    "version": 3
+                }
+            ]
+        },
+        {
+            "date": "2012-10-15T18:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Girls und Panzer - 02 [8D48AD22].mkv",
+                    "group": "Commie",
+                    "hash": "8D48AD22",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362948",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 02 [Hi10P 1280x720 H264] [17F29F33].mkv",
+                    "group": "Hiryuu",
+                    "hash": "17F29F33",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363295",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363729",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363737",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 02 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2537",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-22T18:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Girls und Panzer - 03 [BD14DFAA].mkv",
+                    "group": "Commie",
+                    "hash": "BD14DFAA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=365679",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 03 [Hi10P 1280x720 H264] [939CF3C2].mkv",
+                    "group": "Hiryuu",
+                    "hash": "939CF3C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=365983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366408",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366410",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 03 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2536",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-29T17:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Girls und Panzer - 04 [C8013490].mkv",
+                    "group": "Commie",
+                    "hash": "C8013490",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368474",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Girls und Panzer 04 [Hi10P 1280x720 H264] [C77B1A8C].mkv",
+                    "group": "Hiryuu",
+                    "hash": "C77B1A8C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368721",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369078",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369080",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 04 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2535",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-05T17:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Girls und Panzer - 05 [0266E7CB].mkv",
+                    "group": "Commie",
+                    "hash": "0266E7CB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370987",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 05 [Hi10P 1280x720 H264] [3B186775].mkv",
+                    "group": "Hiryuu",
+                    "hash": "3B186775",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371259",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371619",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371623",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 5.5 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2500",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 5.5 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 5.5 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2502",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 5.5 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Girls und Panzer - 5.5 [56CF43E1].mkv",
+                    "group": "Commie",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374347",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 05.5 [Hi10P 1280x720 H264] [045E0378].mkv",
+                    "group": "Hiryuu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374450",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 05 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2534",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-19T17:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Girls und Panzer - 06 [EE102256].mkv",
+                    "group": "Commie",
+                    "hash": "EE102256",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 06 [Hi10P 1280x720 H264] [8E5C02A3].mkv",
+                    "group": "Hiryuu",
+                    "hash": "8E5C02A3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376152",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376439",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376440",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 06 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2528",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376453",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-26T17:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Girls und Panzer - 07 [AD91E758].mkv",
+                    "group": "Commie",
+                    "hash": "AD91E758",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 07 [Hi10P 1280x720 H264] [9BA032FD].mkv",
+                    "group": "Hiryuu",
+                    "hash": "9BA032FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378375",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378754",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] GIRLS und PANZER - 07 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2594",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378756",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-03T17:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Girls und Panzer - 08 [75E16614].mkv",
+                    "group": "Commie",
+                    "hash": "75E16614",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Girls und Panzer 08 [Hi10P 1280x720 H264] [0420C79A].mkv",
+                    "group": "Hiryuu",
+                    "hash": "0420C79A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380473",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380817",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380819",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] GIRLS und PANZER - 08 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2630",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-10T17:00:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Girls und Panzer - 09 [F901356B].mkv",
+                    "group": "Commie",
+                    "hash": "F901356B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382961",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Girls und Panzer 09 [Hi10P 1280x720 H264] [5758FE51].mkv",
+                    "group": "Hiryuu",
+                    "hash": "5758FE51",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383984 ",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-17T17:00:00",
+            "episode": 10,
+            "score": 6.9558013136,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Girls und Panzer - 10 [5F36B69E].mkv",
+                    "group": "Commie",
+                    "hash": "5F36B69E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384421",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 10 [Hi10P 1280x720 H264] [1ACDD275].mkv",
+                    "group": "Hiryuu",
+                    "hash": "1ACDD275",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384597",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384893",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384899",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[StuGLyfe] Girls und Panzer - 10.5 [720p][10bit][00000000].mkv",
+                    "group": "StuGLyfe",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386962",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[StuGLyfe] Girls und Panzer - 10.5 [720p][8bit][A243385C].mkv",
+                    "group": "StuGLyfe",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386968",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 10.5 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387230",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 10.5 [Hi10P 1280x720 H264] [AF018B54].mkv",
+                    "group": "Hiryuu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387882",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-18T14:00:00",
+            "episode": 11,
+            "score": 7.2055122116,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Girls und Panzer - 11 [49DDE402].mkv",
+                    "group": "Commie",
+                    "hash": "49DDE402",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414710",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 11 [Hi10P 1280x720 H264] [E8C7AC56].mkv",
+                    "group": "Hiryuu",
+                    "hash": "E8C7AC56",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417772",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417865",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-25T14:00:00",
+            "episode": 12,
+            "score": 7.6235389644,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Girls und Panzer - 12 [DF4E061A].mkv",
+                    "group": "Commie",
+                    "hash": "DF4E061A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416888",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Girls und Panzer - 12v2 [4A4FF7AF].mkv",
+                    "group": "Commie",
+                    "hash": "4A4FF7AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417130",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GIRLS und PANZER - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417864",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Girls und Panzer 12 [Hi10P 1280x720 H264] [7F12C756].mkv",
+                    "group": "Hiryuu",
+                    "hash": "7F12C756",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419859",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9227,
+        "ann": 14334,
+        "mal": 14131,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "In the world, the manipulation of tanks (Sensha-do) is one of the traditional martial arts especially for girls. Miho doesn't like Sensha-do and moves to Oarai Girl's High School. But the chairperson of the student council orders Miho to participate in the national Sensha-do championship.",
+            "type": "mal"
+        },
+        {
+            "content": "In this world, \"Sensha-do\", the military art of using tanks, is every bit as important to a yamato nadeshiko as flower arrangement and tea ceremony.Nishizumi Miho is a new transfer student who want nothing to do with Sensha-do. However, she is summoned before the Student Council President who forcibly enrolls her in Sensha-do, with the ultimate goal of being part of the school's team in the National Sensha-do Tournament. To make matters worse, every single member of the team is eccentric.",
+            "type": "anidb"
+        },
+        {
+            "content": "In this world, Sensha-do (\u6226\u8eca\u9053), the art of tank-combat, is a traditional Japanese martial art for girls. Miho, a girl who just transfered into the \u014crai Girls' Academy in Ibaraki Prefecture, has been ordered by the academy's student council chairperson to join the school team and compete in the national Sensha-do championships.",
+            "type": "ann"
+        },
+        {
+            "content": "The story will focus around high school girls battling in tanks. The setting involves a universe where the art of operating tanks is a traditional martial art for girls. The protagonist, Miho, moves to Oarai Girl's High School, where she is ordered by the student council chairperson to participate in the national Sensha-do championship.",
+            "type": "wiki"
+        },
+        {
+            "content": "Ma\u0142e dziewczynki robi\u0105ce s\u0142odkie rzeczy je\u017cd\u017c\u0105c Panzerkampfwagenem IV.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5268,
+            "date": "2013-03-27T04:23:31",
+            "score": 7.72,
+            "type": "mal"
+        },
+        {
+            "count": 299,
+            "date": "2013-03-27T04:23:31",
+            "score": 6.53,
+            "type": "anidb"
+        },
+        {
+            "count": 246,
+            "date": "2013-03-27T04:23:31",
+            "score": 6.887,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Girls und Panzer"
+}

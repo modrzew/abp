@@ -1,0 +1,48 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3046\u305f\u308f\u308c\u308b\u3082\u306eOVA"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 3,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 6285,
+        "ann": 9034,
+        "mal": 3593,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 2882,
+            "date": "2012-09-29T02:07:36",
+            "score": 7.38,
+            "type": "mal"
+        },
+        {
+            "count": 546,
+            "date": "2012-09-29T02:07:36",
+            "score": 6.91,
+            "type": "anidb"
+        },
+        {
+            "count": 382,
+            "date": "2012-09-29T02:07:36",
+            "score": 7.148,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Utawarerumono",
+    "title": "Utawarerumono OVA"
+}

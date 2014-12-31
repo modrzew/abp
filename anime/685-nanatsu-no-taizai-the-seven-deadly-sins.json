@@ -1,0 +1,541 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u4e03\u3064\u306e\u5927\u7f6a The Seven Deadly Sins"
+        }
+    ],
+    "aliases": [
+        "Nanatsu no Taizai",
+        "[Chyuu] Nanatsu no Taizai",
+        "Nanatsu no Taizai - The Seven Deadly Sins",
+        "Nanatsu no Taizai [The Seven Deadly Sins]"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-10-05T10:00:00",
+            "episode": 1,
+            "score": 7.64,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 01 [720p][DBDBA2F6].mkv",
+                    "group": "Chyuu",
+                    "hash": "DBDBA2F6",
+                    "url": "http://www.nyaa.se/?page=download&tid=606694",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 2,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_01_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/7BFC024702B56CCF5D6A068BEDFD4038E01AAE47.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[dn92][Chyuu] Nanatsu no Taizai - 01 [720p][C8817544].mkv",
+                    "group": "dn92",
+                    "hash": "C8817544",
+                    "url": "http://tracker.anime-index.org/download.php?id=8dbbbc8aedd8887f547aba03924d2505b55358f2&f=%5BMinitheatre.org%5D%5Bdn92%5D%5BChyuu%5D%20Nanatsu%20no%20Taizai%20-%2001%20%5B720p%5D%5BC8817544%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Some-stuffs]_Nanatsu_no_Taizai_01_[B56DFDFA].mkv",
+                    "group": "Some-stuffs",
+                    "hash": "B56DFDFA",
+                    "url": "http://www.nyaa.se/?page=download&tid=607458",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-12T10:00:00",
+            "episode": 2,
+            "score": 7.46,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 02 [720p][DBDBA2F6].mkv",
+                    "group": "Chyuu",
+                    "hash": "DBDBA2F6",
+                    "url": "http://www.nyaa.se/?page=download&tid=608954",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 02 [720p][213A7002].mkv",
+                    "group": "Chyuu",
+                    "hash": "213A7002",
+                    "url": "http://www.nyaa.se/?page=download&tid=608957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[dn92][Chyuu] Nanatsu no Taizai - 02 [720p][B7E496FB].mkv",
+                    "group": "dn92",
+                    "hash": "B7E496FB",
+                    "url": "http://tracker.anime-index.org/download.php?id=54c5d4295c487be01b605365d34f465df2e39e35&f=%5BMinitheatre.org%5D%5Bdn92%5D%5BChyuu%5D%20Nanatsu%20no%20Taizai%20%5B720p%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_02_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/8CE14306EA963C1F61EA4AB5F039FA3B7E94BA1B.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-19T10:00:00",
+            "episode": 3,
+            "score": 7.34,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[F.B.I.] Nanatsu no Taizai - The Seven Deadly Sins - 03 [720p] [B459AEFF].mkv",
+                    "group": "F.B.I.",
+                    "hash": "B459AEFF",
+                    "url": "http://www.nyaa.se/?page=download&tid=611920",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 03 [720p][4289E1FA].mkv",
+                    "group": "Chyuu",
+                    "hash": "4289E1FA",
+                    "url": "http://torcache.net/torrent/8039422506EA06AE350A239EA8FACAA7811A4FB1.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 4,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_03_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/80CC1A831333D88D3D54BF28C4849518B42395A9.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[dn92][Chyuu] Nanatsu no Taizai - 03 [720p][97DBF624].mkv",
+                    "group": "dn92",
+                    "hash": "97DBF624",
+                    "url": "http://tracker.anime-index.org/download.php?id=98b1a9798b548b31af81ccab814a9c1f0bb33bfa&f=%5BMinitheatre.org%5D%5Bdn92%5D%5BChyuu%5D%20Nanatsu%20no%20Taizai%20-%2003%20%5B720p%5D%5B97DBF624%5D.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-10-26T09:00:00",
+            "episode": 4,
+            "score": 7.34,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[F.B.I.] Nanatsu no Taizai - The Seven Deadly Sins - 04 [720p].mkv",
+                    "group": "F.B.I.",
+                    "hash": "",
+                    "url": "https://kickass.to/torrents/f-b-i-nanatsu-no-taizai-the-seven-deadly-sins-04-720p-t9763444/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 04 [720p][1D897CFF].mkv",
+                    "group": "Chyuu",
+                    "hash": "1D897CFF",
+                    "url": "http://www.nyaa.se/?page=download&tid=616084",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[dn92][Chyuu] Nanatsu no Taizai - 04 [720p][95C67A85].mkv",
+                    "group": "dn92",
+                    "hash": "95C67A85",
+                    "url": "http://tracker.anime-index.org/download.php?id=18e1033a41b5905ce60707b25206fdd32b1a9512&f=%5BMinitheatre,org%5D%5Bdn92%5D%5BChyuu%5D%20Nanatsu%20no%20Taizai%20-%2004%20%5B720p%5D%5B95C67A85%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 1,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_04_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/8AC3CE20C957B28F830B6F303EB62E4399825A00.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-02T09:00:00",
+            "episode": 5,
+            "score": 7.3,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 05 [720p][43E796BF].mkv",
+                    "group": "Chyuu",
+                    "hash": "43E796BF",
+                    "url": "http://www.nyaa.se/?page=download&tid=619462",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[dn92][Chyuu] Nanatsu no Taizai - 05 [720p][997E4216].mkv",
+                    "group": "dn92",
+                    "hash": "997E4216",
+                    "url": "http://tracker.anime-index.org/download.php?id=91a33897c6ea93451b1f52a9b9eee86bcd9e537d&f=%5BMinitheatre.org%5D%5Bdn92%5D%5BChyuu%5D%20Nanatsu%20no%20Taizai%20-%2005%20%5B720p%5D%5B997E4216%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 4,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_05_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/3lfxug4y98v5wpo/%28project-gxs%29_Nanatsu_no_Taizai_-_05_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-09T09:00:00",
+            "episode": 6,
+            "score": 7.3,
+            "torrents": [
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 7,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_06_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/91ksodxpmvhy28t/%28project-gxs%29_Nanatsu_no_Taizai_-_06_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-16T09:00:00",
+            "episode": 7,
+            "score": 6.8667365854,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[FedSubs] Nanatsu no Taizai (The Seven Deadly Sins) - 07 [720p] [BACE4E3A].mkv",
+                    "group": "FedSubs",
+                    "hash": "BACE4E3A",
+                    "url": "http://www.nyaa.se/?page=download&tid=624313",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 07 [720p][B81AD833].mkv",
+                    "group": "Chyuu",
+                    "hash": "B81AD833",
+                    "url": "http://www.nyaa.se/?page=download&tid=624932",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 1,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_07_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/4x3fkiikx16eccc/%28project-gxs%29_Nanatsu_no_Taizai_-_07_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-23T09:00:00",
+            "episode": 8,
+            "score": 6.9515550459,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[FedSubs] Nanatsu no Taizai - The Seven Deadly Sins - 08 [720p] [A06554EC].mkv",
+                    "group": "FedSubs",
+                    "hash": "A06554EC",
+                    "url": "https://kickass.so/torrents/fedsubs-nanatsu-no-taizai-the-seven-deadly-sins-08-720p-a06554ec-mkv-t9890561/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 08 [720p][0FE85154].mkv",
+                    "group": "Chyuu",
+                    "hash": "0FE85154",
+                    "url": "http://www.nyaa.se/?page=download&tid=631829",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 2,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_08_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/ui1byryndkwjrw5/%28project-gxs%29_Nanatsu_no_Taizai_-_08_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-11-30T09:00:00",
+            "episode": 9,
+            "score": 6.9498672566,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[FedSubs] Nanatsu no Taizai - The Seven Deadly Sins - 09 [720p] [F810C9FD].mkv",
+                    "group": "FedSubs",
+                    "hash": "F810C9FD",
+                    "url": "http://www.nyaa.se/?page=download&tid=629827",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 09 [720p][721A2E8D].mkv",
+                    "group": "Chyuu",
+                    "hash": "721A2E8D",
+                    "url": "http://www.nyaa.se/?page=download&tid=631830",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 0,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_09_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/d8usn46ugwqsq07/%28project-gxs%29_Nanatsu_no_Taizai_-_09_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-07T09:00:00",
+            "episode": 10,
+            "score": 6.9991710526,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[FedSubs] Nanatsu no Taizai - 10 [720p] [667632DF].mkv",
+                    "group": "FedSubs",
+                    "hash": "667632DF",
+                    "url": "http://www.nyaa.se/?page=download&tid=632241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 1,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_10_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/qxwglqg9icpczg0/%28project-gxs%29_Nanatsu_no_Taizai_-_10_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-14T09:00:00",
+            "episode": 11,
+            "score": 7.0838953975,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[FedSubs] Nanatsu no Taizai - 11 [720p] [5F7B6B52].mkv",
+                    "group": "FedSubs",
+                    "hash": "5F7B6B52",
+                    "url": "http://www.nyaa.se/?page=download&tid=635168",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 11 [720p][318CE236].mkv",
+                    "group": "Chyuu",
+                    "hash": "318CE236",
+                    "url": "http://www.nyaa.se/?page=download&tid=635751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit 720p]",
+                    "download_count": 2,
+                    "filename": "(project-gxs)_Nanatsu_no_Taizai_-_11_(10bit_720p).mkv",
+                    "group": "project-gxs",
+                    "hash": "",
+                    "url": "https://dl.dropboxusercontent.com/s/7fsjubn6ad5i5wu/%28project-gxs%29_Nanatsu_no_Taizai_-_11_%2810bit_720p%29.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-12-21T09:00:00",
+            "episode": 12,
+            "score": 7.1129335938,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[FedSubs] Nanatsu no Taizai - 12 [720p][89F614C9].mkv",
+                    "group": "FedSubs",
+                    "hash": "89F614C9",
+                    "url": "http://www.nyaa.se/?page=download&tid=637650",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Chyuu] Nanatsu no Taizai - 12 [720p][D1F49539].mkv",
+                    "group": "Chyuu",
+                    "hash": "D1F49539",
+                    "url": "http://www.nyaa.se/?page=download&tid=639239",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2015-01-11T09:00:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-18T09:00:00",
+            "episode": 14,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-01-25T09:00:00",
+            "episode": 15,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-01T09:00:00",
+            "episode": 16,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-08T09:00:00",
+            "episode": 17,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-15T09:00:00",
+            "episode": 18,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-02-22T09:00:00",
+            "episode": 19,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-01T09:00:00",
+            "episode": 20,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-08T09:00:00",
+            "episode": 21,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-15T09:00:00",
+            "episode": 22,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-22T09:00:00",
+            "episode": 23,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2015-03-29T10:00:00",
+            "episode": 24,
+            "score": 0.0,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 10596,
+        "ann": 16167,
+        "mal": 23755,
+        "schedule": 3542
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The Seven Deadly Sins were once an active group of knights in the region of Britannia (\u30d6\u30ea\u30bf\u30cb\u30a2, Buritania?), who disbanded after they supposedly plotted to overthrow the Liones Kingdom (\u30ea\u30aa\u30cd\u30b9\u738b\u56fd, Rionesu \u014ckoku?). Their supposed defeat came at the hands of the Holy Knights, but rumors continued to persist that they were still alive. Ten years later, the Holy Knights staged a coup d'\u00e9tat and capture the king, becoming the new, tyrannical rulers of the kingdom. The third princess, Elizabeth, then starts on a journey to find the Seven Deadly Sins, and to enlist their help in taking back the kingdom.",
+            "type": "wiki"
+        },
+        {
+            "content": "In a world where humans and non-humans have not yet been separated, the kingdom of Leones is protected by the Holy Knights, powerful magic users both revered and feared by the people. Supposedly the strongest, most fearsome of these knights, the Seven Deadly Sins, betrayed the kingdom and made enemies of all the other knights. Queen Elizabeth doesn't believe this story, and sets out to find the Sins - but when she meets the first Sin at a tavern, his name is Melodias, and he's nothing but a boy in charge of the pigs.",
+            "type": "ann"
+        },
+        {
+            "content": "* Based on the manga series written and illustrated by Suzuki Nakaba.When they were accused of trying to overthrow the monarchy, the feared warriors the Seven Deadly Sins were sent into exile. Princess Elizabeth discovers the truth - the Sins were framed by the king's guard, the Holy Knights - too late to prevent them from assassinating her father and seizing the throne!Now the princess is on the run, seeking the Sins to help her reclaim the kingdom. But the first Sin she meets, Meliodas, is a little innkeeper with a talking pig. He doesn't even have a real sword! Have the legends of the Sins' strength been exaggerated?Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 155,
+            "date": "2014-12-31T03:06:41",
+            "score": 7.44,
+            "type": "anidb"
+        },
+        {
+            "count": 101,
+            "date": "2014-12-19T03:06:09",
+            "score": 6.611,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Nanatsu no Taizai: The Seven Deadly Sins"
+}

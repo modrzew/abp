@@ -1,0 +1,1586 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b7\u30e5\u30bf\u30a4\u30f3\u30ba\u30fb\u30b2\u30fc\u30c8"
+        },
+        {
+            "language": "pl",
+            "title": "Kamienne;Wrota"
+        }
+    ],
+    "aliases": [
+        "Steins;Gate"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/429769143",
+            "content": "#anime #Wiosna2011 Steins;Gate (\u30b7\u30e5\u30bf\u30a4\u30f3\u30ba\u30fb\u30b2\u30fc\u30c8) http://rdir.pl/1c1of0",
+            "episode": 1,
+            "filename": "011174cdb280ca27321f365c559c922c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/55757412438769664"
+        },
+        {
+            "blip_url": "http://blip.pl/s/444319825",
+            "content": "Steins;Gate 02 - sma\u017cenie banan\u00f3w w mikrofal\u00f3wce: powa\u017cny biznes",
+            "episode": 2,
+            "filename": "4b5328afc66dc3914e6b2573e8224ae4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/58607878759649280"
+        },
+        {
+            "blip_url": "http://blip.pl/s/463100985",
+            "content": "Steins;Gate 03 - poznajecie? Tak, za spraw\u0105 w\u0142a\u015bnie tego ustrojstwa \u015bwiat mia\u0142 si\u0119 dwa lata temu sko\u0144czy\u0107",
+            "episode": 3,
+            "filename": "76c4ec6fa5a16e39c6d7cf44cef3bda8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/61587550451671040"
+        },
+        {
+            "blip_url": "http://blip.pl/s/486383021",
+            "content": "Steins;Gate 05 - dwa powody, dla kt\u00f3rych ka?dy chcia?by zosta? naukowcem",
+            "episode": 5,
+            "filename": "7c995e0d86aa5d5ae3b2cbf4be8c7230.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/66488475498708992"
+        },
+        {
+            "blip_url": "http://blip.pl/s/497850451",
+            "content": "Steins;Gate 06 - tak zawodowcy przygotowuj? si? do rozszerzonej z fizyki",
+            "episode": 6,
+            "filename": "599bd91f3a5f9c963ca43f7982eacca4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/68431238737821696"
+        },
+        {
+            "blip_url": "http://blip.pl/s/512512383",
+            "content": "Steins;Gate 07 - prawdziwy naukowiec cofnie si? w czasie, byleby skosztowa? ulubionego napoju",
+            "episode": 7,
+            "filename": "f605500a33ddb2cf2a3596160551c6c3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/70938881566060544"
+        },
+        {
+            "blip_url": "http://blip.pl/s/534784045",
+            "content": "Steins;Gate 08 - plotka niesie, ?e prawdziwy naukowiec sw\u00f3j ulubiony nap\u00f3j gazowany zagryza dorodnym arbuzem",
+            "episode": 8,
+            "filename": "75518d037086afb45eae5bd96ab2c97d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/74624480328167426"
+        },
+        {
+            "blip_url": "http://blip.pl/s/560548057",
+            "content": "Steins;Gate 11 - jest Dr Pepper, jest impreza",
+            "episode": 11,
+            "filename": "c6a3d88989ad79e00cc74a396fd4ef23.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/80739097588670464"
+        },
+        {
+            "blip_url": "http://blip.pl/s/594989487",
+            "content": "Steins;Gate 14 - od dzi? w sprzeda?y nowy wynalazek Laboratorium Futurystycznych Gad?et\u00f3w - licznik pokazuj?cy odleg?o?? do najbli?szego dr Peppera",
+            "episode": 14,
+            "filename": "3a7e0fb9a4d6fe491efdf2cacbe1736e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/88378632506060800"
+        },
+        {
+            "blip_url": "http://blip.pl/s/605658571",
+            "content": "Steins;Gate 15 - Suzuha dowiedzia?a si?, ?e kto? zhakowa? jej konto w WoWie",
+            "episode": 15,
+            "filename": "3150e5dccef87725d44d54a59973605f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/90916305393291265"
+        },
+        {
+            "blip_url": "http://blip.pl/s/618746035",
+            "content": "Steins;Gate 16 - nie ma to jak zimny Dr Pepper po sko?czonej pracy... chwila, co?!",
+            "episode": 16,
+            "filename": "fb493c27ccaaf1171d1d992077f7b645.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/93405174822993920"
+        },
+        {
+            "blip_url": "http://blip.pl/s/633555219",
+            "content": "Steins;Gate 17 - Mayuri do uratowania, a Okarin romansuje z Feiris, nie?adnie",
+            "episode": 17,
+            "filename": "5817c698dccc315060d580377724df0b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/96015935411978240"
+        },
+        {
+            "blip_url": "http://blip.pl/s/647799043",
+            "content": "Steins;Gate 18 - ten si? znowu migdali, a Mayuri nadal umiera",
+            "episode": 18,
+            "filename": "50d02122c1b50a6d5bafa26038661011.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/98516593457364992"
+        },
+        {
+            "blip_url": "http://blip.pl/s/654418703",
+            "content": "Steins;Gate 19 - ten tu gwa?ci Moek?, a Mayuri zionie ducha",
+            "episode": 19,
+            "filename": "ded1faab2090a6e35ff6bbbb8288d8b3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/101049042724851712"
+        },
+        {
+            "blip_url": "http://blip.pl/s/664839883",
+            "content": "Steins;Gate 20 - Mayuri po raz kolejny odwiedza krain? wiecznych ?ow\u00f3w, tymczasem Okarin i Kurisu kontempluj? nad zbli?aj?cym si? rokiem szkolnym",
+            "episode": 20,
+            "filename": "b71acb8e8c235c71e1e5b817601b755d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/103588970897747968"
+        },
+        {
+            "blip_url": "http://blip.pl/s/675541995",
+            "content": "Steins;Gate 21 - cotygodniowa dawka kopi?cej w kalendarz Mayuri",
+            "episode": 21,
+            "filename": "49b198c9060c289389b1059168691d58.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/106157757312409600"
+        },
+        {
+            "blip_url": "http://blip.pl/s/686229113",
+            "content": "Steins;Gate 22 - skoro i tak ju? wszyscy o tym wiedz?...",
+            "episode": 22,
+            "filename": "7cbe5dbd5cd7f8cb2ca5be62569aed8d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/108695850653466624"
+        },
+        {
+            "blip_url": "http://blip.pl/s/696334049",
+            "content": "Steins;Gate 23 - \"No i patrz co zrobi?a? g?upia kobieto... poplami?a? mi fartuch!\"",
+            "episode": 23,
+            "filename": "7bbff0d47ae60f4a9cb94ce1bdadfae7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/111170972203233280"
+        },
+        {
+            "blip_url": "http://blip.pl/s/706681977",
+            "content": "#anime #Wiosna2011 Steins;Gate (??????????) - nasza ocena: warte obejrzenia (wi?cej: http://rdir.pl/1c1of0)",
+            "episode": 24,
+            "filename": "15bc19070bb3d363ba5652ca8ca882d5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/113701767853776897"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-05T19:05:00",
+            "episode": 1,
+            "score": 7.4930321637,
+            "torrents": [
+                {
+                    "additional_info": "[SD]",
+                    "download_count": 0,
+                    "filename": "[UTW-Mazui]_Steins;Gate_-_01_[SD][040FAC03].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "040FAC03",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_SteinsGate_-_01_SD040FAC03.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Steins;Gate - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204249",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204250",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[UTW-Mazui]_Steins;Gate_-_01_[720p][2994A18E].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "2994A18E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204343",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 01 [5D6ABAE3].mkv",
+                    "group": "Commie",
+                    "hash": "5D6ABAE3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204479",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Steins;Sub]_Steins;Gate_01_[720p][37A127ED].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "37A127ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Steins;Gate - 01 [585edbb2].mkv",
+                    "group": "Splazm",
+                    "hash": "585edbb2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204693",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-12T19:05:00",
+            "episode": 2,
+            "score": 7.6090842572,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205812",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Steins;Gate - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=205814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Steins;Gate - 02 [6c8bbe48].mkv",
+                    "group": "Splazm",
+                    "hash": "6c8bbe48",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205993",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 02 [D5F742BB].mkv",
+                    "group": "Commie",
+                    "hash": "D5F742BB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206069",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_02_[720p][EB1A8305].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "EB1A8305",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206626",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-19T19:05:00",
+            "episode": 3,
+            "score": 7.7955869632,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207609",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Steins;Gate - 03 [ac5ee0af].mkv",
+                    "group": "Splazm",
+                    "hash": "ac5ee0af",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207819",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 03 [52ED6287].mkv",
+                    "group": "Commie",
+                    "hash": "52ED6287",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_03_[720p][EEA38CB0].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "EEA38CB0",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=208163",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-26T19:05:00",
+            "episode": 4,
+            "score": 7.8065582074,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209480",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Steins;Gate - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209479",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Splazm] Steins;Gate - 04 [be36d2b7].mkv",
+                    "group": "Splazm",
+                    "hash": "be36d2b7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209762",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Steins;Sub]_Steins;Gate_04_[720p][8A39D381].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "8A39D381",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 04 [39A2D4D2].mkv",
+                    "group": "Commie",
+                    "hash": "39A2D4D2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 04v2 [D23797BA].mkv",
+                    "group": "Commie",
+                    "hash": "D23797BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211777",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-05-03T19:05:00",
+            "episode": 5,
+            "score": 7.843569681,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211395",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Steins;Gate - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211396",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Splazm] Steins;Gate - 05 [CBE11412].mkv",
+                    "group": "Splazm",
+                    "hash": "CBE11412",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211520",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_05_[720p][28ECB2AF].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "28ECB2AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211650",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 05 [A3EA74B7].mkv",
+                    "group": "Commie",
+                    "hash": "A3EA74B7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Steins;Gate - 05v2 [9BA73F2C].mkv",
+                    "group": "Commie",
+                    "hash": "9BA73F2C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211809",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-05-10T19:05:00",
+            "episode": 6,
+            "score": 7.8923688761,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Steins;Gate - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213013",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_06_[720p][2F165C38].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "2F165C38",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Steins;Gate - 06 [D34A848A].mkv",
+                    "group": "Commie",
+                    "hash": "D34A848A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214453",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-17T19:05:00",
+            "episode": 7,
+            "score": 7.8944982387,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Steins;Gate - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214606",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 07 [B80BD60A].mkv",
+                    "group": "Commie",
+                    "hash": "B80BD60A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_07_[720p][E3574DED].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "E3574DED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215366",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-24T19:05:00",
+            "episode": 8,
+            "score": 7.9101331006,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Steins;Gate - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 08 [9A8D9ED2].mkv",
+                    "group": "Commie",
+                    "hash": "9A8D9ED2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216836",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_08_[720p][F87D33B6].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "F87D33B6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217164",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-31T19:05:00",
+            "episode": 9,
+            "score": 7.9170902207,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Steins;Gate - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 09 [E98BDFD9].mkv",
+                    "group": "Commie",
+                    "hash": "E98BDFD9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218619",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_09_[720p][9F430E6C].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "9F430E6C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220927",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-07T19:05:00",
+            "episode": 10,
+            "score": 8.1021463739,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Steins;Gate - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[TempSubs] Steins;Gate - 10 [459CA406].mkv",
+                    "group": "TempSubs",
+                    "hash": "459CA406",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 10 [FA233F56].mkv",
+                    "group": "Commie",
+                    "hash": "FA233F56",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221031",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_10_[720p][115CE309].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "115CE309",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223131",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-14T19:05:00",
+            "episode": 11,
+            "score": 8.149967666,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Steins;Gate - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Steins;Gate - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 11 [21EFBB77].mkv",
+                    "group": "Commie",
+                    "hash": "21EFBB77",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221205",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_11_[720p][A1371313].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "A1371313",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223915",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-21T19:05:00",
+            "episode": 12,
+            "score": 8.1748152672,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222711",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Steins;Gate - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222713",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 12 [69996EE2].mkv",
+                    "group": "Commie",
+                    "hash": "69996EE2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224101",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_12_[720p][53F7AA55].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "53F7AA55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224336",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-28T19:05:00",
+            "episode": 13,
+            "score": 8.2803222345,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Steins;Gate - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224320",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Steins;Gate - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 13 [31068AAB].mkv",
+                    "group": "Commie",
+                    "hash": "31068AAB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Steins;Gate - 13v3 [8A516848].mkv",
+                    "group": "Commie",
+                    "hash": "8A516848",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224340",
+                    "version": 3
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_13_[720p][8398357F].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "8398357F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225446",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-05T19:05:00",
+            "episode": 14,
+            "score": 8.3376970241,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225891",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_14_[720p][0655474C].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "0655474C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226637",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Steins;Gate - 14 [5F99DF79].mkv",
+                    "group": "Commie",
+                    "hash": "5F99DF79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226725",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-12T19:05:00",
+            "episode": 15,
+            "score": 8.3787977104,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227848",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Steins;Gate - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227849",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Steins;Gate - 15 [1F4A7A8D].mkv",
+                    "group": "Commie",
+                    "hash": "1F4A7A8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_15_[720p][5C7056A8].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "5C7056A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228854",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-19T19:05:00",
+            "episode": 16,
+            "score": 8.428814952,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229564",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Steins;Gate - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229569",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Zero-Raws_HorribleSubs-TUTTURU REMUX] Steins;Gate 16 [720p].mkv",
+                    "group": "Zero-Raws HorribleSubs-TUTTURU REMUX",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Animeload] Steins;Gate - 16 [720p].mkv",
+                    "group": "Animeload",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=230206",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_16_[720p][379B1EC0].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "379B1EC0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230379",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Steins;Gate - 16 [662416A2].mkv",
+                    "group": "Commie",
+                    "hash": "662416A2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230646",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-26T19:05:00",
+            "episode": 17,
+            "score": 8.4584814038,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Steins;Gate - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231442",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Steins;Gate - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231441",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][eng]",
+                    "download_count": 0,
+                    "filename": "[p0kem0n]Steins_Gate-17_[720p][eng].mkv",
+                    "group": "p0kem0n",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Steins;Gate - 17 [3B48936C].mkv",
+                    "group": "Commie",
+                    "hash": "3B48936C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231787",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_17_[720p][A9F6EC36].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "A9F6EC36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232621",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-02T19:05:00",
+            "episode": 18,
+            "score": 8.4798982512,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233448",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Steins;Gate - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233456",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][eng]",
+                    "download_count": 1,
+                    "filename": "[p0kem0n]Steins_Gate-18_[720p][eng].mkv",
+                    "group": "p0kem0n",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233573",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Steins;Gate - 18 [1FFA56CF].mkv",
+                    "group": "Commie",
+                    "hash": "1FFA56CF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233675",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-09T19:05:00",
+            "episode": 19,
+            "score": 8.4894302504,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235420",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Steins;Gate - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235421",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 19 [1E991C0C].mkv",
+                    "group": "Commie",
+                    "hash": "1E991C0C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_19_[720p][572A3E59].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "572A3E59",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236623",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-16T19:05:00",
+            "episode": 20,
+            "score": 8.518921852,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237492",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Steins;Gate - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 20 [E7C1D969].mkv",
+                    "group": "Commie",
+                    "hash": "E7C1D969",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238562",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_20_[720p][E8E9796A].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "E8E9796A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=238993",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-23T19:05:00",
+            "episode": 21,
+            "score": 8.5359884579,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Steins;Sub]_Steins;Gate_21_[720p][57647FBA].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "57647FBA",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=240065",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-30T19:05:00",
+            "episode": 22,
+            "score": 8.5886587116,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Steins;Gate - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241608",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Steins;Gate - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241609",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10P]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 22 [720p][Hi10P][debanded].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "debanded",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 22 [D7B3EE76].mkv",
+                    "group": "Commie",
+                    "hash": "D7B3EE76",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241852",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_22_[720p][59ED7A58].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "59ED7A58",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243408",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-06T19:05:00",
+            "episode": 23,
+            "score": 8.6498671868,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243500",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Steins;Gate - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243502",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 23 [024E9F10].mkv",
+                    "group": "Commie",
+                    "hash": "024E9F10",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243549",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_23_[720p][29CC005C].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "29CC005C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244402",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-13T19:05:00",
+            "episode": 24,
+            "score": 9.0452758045,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Steins;Gate - 24 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245230",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Steins;Gate - 24 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245231",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Steins;Gate - 24 [F635EA79].mkv",
+                    "group": "Commie",
+                    "hash": "F635EA79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245254",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Steins;Sub]_Steins;Gate_24_[720p][EB145834].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "EB145834",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246371",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Steins;Sub]_Steins;Gate_24v2_[720p][02B85756].mkv",
+                    "group": "Steins;Sub",
+                    "hash": "02B85756",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246548",
+                    "version": 2
+                }
+            ]
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7729,
+        "ann": 11770,
+        "mal": 9253,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f0f0e52f7bd53b06404e3afc8285b9ef.jpg",
+            "hd": false
+        },
+        {
+            "description": "dd",
+            "filename": "http://s.modriv.net/abp/images/screencaps/806c863eba563fe31742394d07dcc16a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pfffff",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c7aee0c8d84a6d659d794ff9181a45d5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Sprzeciw!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b19819a518cfb449bdf85be1b401c06b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d34f7e700805eb1bf2f69e32b9dc1c8e.jpg",
+            "hd": false
+        },
+        {
+            "description": "SPOILER SPOILER SPOILER",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a2c3cf3b2740f905212e9fc4a5594271.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5ec28ea800a8da8bf452812c2ec9c53.jpg",
+            "hd": false
+        },
+        {
+            "description": "Hashida ma wyjebane",
+            "filename": "http://s.modriv.net/abp/images/screencaps/271b9f80a3a3a5ad63f2b846ff9a40fe.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Steins;Gate (\u30b7\u30e5\u30bf\u30a4\u30f3\u30ba\u30fb\u30b2\u30fc\u30c8) http://rdir.pl/1c1of0",
+            "filename": "http://s.modriv.net/abp/images/screencaps/011174cdb280ca27321f365c559c922c.jpg",
+            "hd": false
+        },
+        {
+            "description": "sma\u017cenie banan\u00f3w w mikrofal\u00f3wce: powa\u017cny biznes",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b5328afc66dc3914e6b2573e8224ae4.jpg",
+            "hd": false
+        },
+        {
+            "description": "poznajecie? Tak, za spraw\u0105 w\u0142a\u015bnie tego ustrojstwa \u015bwiat mia\u0142 si\u0119 dwa lata temu sko\u0144czy\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/76c4ec6fa5a16e39c6d7cf44cef3bda8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zajebisto??",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d3e61c2fab224a6a0f77db083a4d69ae.jpg",
+            "hd": true
+        },
+        {
+            "description": "Pora karmienia",
+            "filename": "http://s.modriv.net/abp/images/screencaps/848eac4844817771858af9c4bf95f115.jpg",
+            "hd": false
+        },
+        {
+            "description": "dwa powody, dla kt\u00f3rych ka?dy chcia?by zosta? naukowcem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7c995e0d86aa5d5ae3b2cbf4be8c7230.jpg",
+            "hd": true
+        },
+        {
+            "description": "tak zawodowcy przygotowuj? si? do rozszerzonej z fizyki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/599bd91f3a5f9c963ca43f7982eacca4.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawdziwy naukowiec cofnie si? w czasie, byleby skosztowa? ulubionego napoju",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f605500a33ddb2cf2a3596160551c6c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "plotka niesie, ?e prawdziwy naukowiec sw\u00f3j ulubiony nap\u00f3j gazowany zagryza dorodnym arbuzem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75518d037086afb45eae5bd96ab2c97d.jpg",
+            "hd": true
+        },
+        {
+            "description": "jest Dr Pepper, jest impreza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c6a3d88989ad79e00cc74a396fd4ef23.jpg",
+            "hd": false
+        },
+        {
+            "description": "ZDRAD? MI SWE SEKRETY BUTELKO",
+            "filename": "http://s.modriv.net/abp/images/screencaps/be4371c24c2df2342a4d97b8161d4cd8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/923ad5a013c3769992a257ebd51d4b24.jpg",
+            "hd": false
+        },
+        {
+            "description": "od dzi? w sprzeda?y nowy wynalazek Laboratorium Futurystycznych Gad?et\u00f3w - licznik pokazuj?cy odleg?o?? do najbli?szego dr Peppera",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3a7e0fb9a4d6fe491efdf2cacbe1736e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Suzuha dowiedzia?a si?, ?e kto? zhakowa? jej konto w WoWie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3150e5dccef87725d44d54a59973605f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ab94c04697157e14fb81af44941d817.jpg",
+            "hd": false
+        },
+        {
+            "description": "nie ma to jak zimny Dr Pepper po sko?czonej pracy... chwila, co?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fb493c27ccaaf1171d1d992077f7b645.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mayuri do uratowania, a Okarin romansuje z Feiris, nie?adnie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5817c698dccc315060d580377724df0b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e6f5b487911a09ec3653cbf9475e75a2.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawie jak meido cafe",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1f9ac8a6f387b419708b94e3137c884a.jpg",
+            "hd": false
+        },
+        {
+            "description": "ten si? znowu migdali, a Mayuri nadal umiera",
+            "filename": "http://s.modriv.net/abp/images/screencaps/50d02122c1b50a6d5bafa26038661011.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/533371afff6f3b96f2ce9e13136d5bbe.jpg",
+            "hd": false
+        },
+        {
+            "description": "W ryj dziwce!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fbe5bf7d87a37f1dc4e4f887b8ee6f74.jpg",
+            "hd": false
+        },
+        {
+            "description": "ten tu gwa?ci Moek?, a Mayuri zionie ducha",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ded1faab2090a6e35ff6bbbb8288d8b3.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mayuri po raz kolejny odwiedza krain? wiecznych ?ow\u00f3w, tymczasem Okarin i Kurisu kontempluj? nad zbli?aj?cym si? rokiem szkolnym",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b71acb8e8c235c71e1e5b817601b755d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8ebc7ea4bfe96af0d31afdce01bce537.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1e1a56f8e1ad500ed2e92ed5a6f90d3f.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka kopi?cej w kalendarz Mayuri",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49b198c9060c289389b1059168691d58.jpg",
+            "hd": true
+        },
+        {
+            "description": "Okabe spojrza? w kalendarz i u?wiadomi? sobie, ?e ju? za 8 dni pocz?tek roku szkolnego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7bab37ccb331146a148936deb1c91bcf.jpg",
+            "hd": false
+        },
+        {
+            "description": "skoro i tak ju? wszyscy o tym wiedz?...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7cbe5dbd5cd7f8cb2ca5be62569aed8d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/03a7a2a30cce6df468d17b36576b3f44.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/157ad642e34eff66f1053d10a355bbdf.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"No i patrz co zrobi?a? g?upia kobieto... poplami?a? mi fartuch!\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7bbff0d47ae60f4a9cb94ce1bdadfae7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/46aca231a4bf06f83b7c688e5d3a3750.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ceb2bfb620d25885b442cc594867b18f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/abc88e13963023d99409e0bb0f83354a.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Steins;Gate (??????????) - nasza ocena: warte obejrzenia (wi?cej: http://rdir.pl/1c1of0)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/15bc19070bb3d363ba5652ca8ca882d5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/599fc8c53a2b3a904be86741aac9a570.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a60234c0bdb2fd1114400180b95ff5ad.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aa34146561c38bf4a4590db57bd06eba.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ody i szalony naukowiec, podczas eksperymentowania z mikrofal\u00f3wk\u0105 zmieniaj\u0105c\u0105 banany w zielonkawy \u017cel odkrywa, \u017ce straci\u0142 cz\u0119\u015b\u0107 swojej pami\u0119ci. W tej cz\u0119\u015bci zawarte by\u0142y: upadek satelity na budynek w Akihabarze, zamordowanie znanej pani naukowiec oraz wys\u0142anie smsa w przesz\u0142o\u015b\u0107.",
+            "type": "abp"
+        },
+        {
+            "content": "Steins;Gate is set in the summer of 2010, approximately one year after the events that took place in Chaos;Head, in Akihabara.    Steins;Gate is about a group of friends who have customized their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN, who has been doing their own research on time travel, tracks them down and now the characters have to find a way to avoid being captured by them.    (Sources: VNDB, Wikipedia)",
+            "type": "mal"
+        },
+        {
+            "content": "The story of Steins;Gate takes place in Akihabara and is about a group of friends who have managed to customize their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.Note: The first episode received a preview screening in Tokyo on Sunday, March 6, 2011. Participants were chosen through an email lottery held until Monday, February 28. Two other preview screenings were held in Aichi, Nagoya's Gamers branch on Saturday, March 12 and Osaka, Namba's Gamers branch on Sunday, March 13. Tickets for those two events were given out to people who pre-ordered and paid either the opening or ending single. The regular television broadcast started on April 6, 2011.",
+            "type": "anidb"
+        },
+        {
+            "content": "Rintaro Okabe is a self-proclaimed \"mad scientist\" who believes that an international scientific organization named SERN is conspiring to reshape the world according to its own interests. He and his friend Itaru Hashida inadvertently create a gadget able to send messages to the past. The discovery and experimentation of this instrument become the catalyst of fundamental alterations to the present. Okabe is the only one aware of these changes because he possesses a Reading Steiner, the ability to retain the memories from previous experienced timelines. Oblivious of the consequences of their actions, Rintaro and his friends end up creating modifications of grievous proportions. He must then try to find a way to return as close as possible to the original timeline in order to save his precious lab partners.",
+            "type": "ann"
+        },
+        {
+            "content": "Steins;Gate is set in the summer of 2010, approximately one year after the events that took place in Chaos;Head,[7] in Akihabara. Physical locales of Akihabara like the Radio Kaikan building can be spotted in the game.[8] According to Chiyomaru Shikura, who headed the planning of Steins;Gate, Akihabara was chosen because it is an easy place for acquiring hardware parts which makes it the ideal place for people interested in inventing and tinkering with things.[9] The notion of time and time traveling are the main themes of the game.[8][10] The concept of cause and effect is featured prominently in the game as the protagonist travels back in time numerous times to perform different actions in an attempt to alter what has happened in the future.[10]",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 52572,
+            "date": "2012-09-29T13:19:09",
+            "score": 9.17,
+            "type": "mal"
+        },
+        {
+            "count": 2997,
+            "date": "2012-09-29T13:19:09",
+            "score": 8.92,
+            "type": "anidb"
+        },
+        {
+            "count": 2576,
+            "date": "2012-09-29T13:19:09",
+            "score": 9.171,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Steins;Gate"
+}

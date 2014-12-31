@@ -1,0 +1,786 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u604b\u3068\u9078\u6319\u3068\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8"
+        },
+        {
+            "language": "pl",
+            "title": "Mi\u0142o\u015b\u0107, Wyb\u00f3r i Czekolada"
+        }
+    ],
+    "aliases": [
+        "Koi to Senkyo to Chocolate"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-07-05T18:25:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 01 [720p][6D846746].mkv",
+                    "group": "Hadena",
+                    "hash": "6D846746",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2001%20%5B720p%5D%5B6D846746%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 01 [7612CA8D].mkv",
+                    "group": "Pomf",
+                    "hash": "7612CA8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[WhyNot] Koi to Senkyo to Chocolate - 01 [2291D1EE].mkv",
+                    "group": "WhyNot",
+                    "hash": "2291D1EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329389",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p]",
+                    "download_count": 5,
+                    "filename": "[m.3.3.w]_Koi_To_Senkyo_to_Chocolate_01_[h264_720p]_[18E07DF1].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "18E07DF1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329768",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 5,
+                    "filename": "[m.3.3.w]_Koi_To_Senkyo_to_Chocolate_01_[h264_480p]_[1A27B7D2].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "1A27B7D2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329769",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 01v2 (1280x720 x264 AAC) [094913F5].mkv",
+                    "group": "SubDESU",
+                    "hash": "094913F5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329966",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 01 (1280x720 Hi10P AAC) [09E87347].mkv",
+                    "group": "Doki",
+                    "hash": "09E87347",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2001%20(1280x720%20Hi10P%20AAC)%20%5B09E87347%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 01 (848x480 h264 AAC) [C437D336].mkv",
+                    "group": "Doki",
+                    "hash": "C437D336",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2001%20(848x480%20h264%20AAC)%20%5BC437D336%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Sigh] Koi to Senkyo to Chocolate - 01 [761B6597].mkv",
+                    "group": "Sigh",
+                    "hash": "761B6597",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331082",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[UraharaShop] Koi to Senkyo to Chocolate - 01.mkv",
+                    "group": "UraharaShop",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332362",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Blu-ray FLAC]",
+                    "download_count": 1,
+                    "filename": "[Coalgirls]_Koi_to_Senkyo_to_Chocolate_01_(1280x720_Blu-ray_FLAC)_[23581AC1].mkv",
+                    "group": "Coalgirls",
+                    "hash": "23581AC1",
+                    "url": "http://coalgirls.wakku.to/torrents/%5BCoalgirls%5D_Koi_to_Senkyo_to_Chocolate_01_%281280x720_Blu-ray_FLAC%29_%5B23581AC1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080 Blu-ray FLAC]",
+                    "download_count": 1,
+                    "filename": "[Coalgirls]_Koi_to_Senkyo_to_Chocolate_01_(1920x1080_Blu-ray_FLAC)_[BC561397].mkv",
+                    "group": "Coalgirls",
+                    "hash": "BC561397",
+                    "url": "http://coalgirls.wakku.to/torrents/%5BCoalgirls%5D_Koi_to_Senkyo_to_Chocolate_01_%281920x1080_Blu-ray_FLAC%29_%5BBC561397%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-12T18:25:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 02 [97981753].mkv",
+                    "group": "Pomf",
+                    "hash": "97981753",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331273",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Koi to Senkyo to Chocolate - 02 [C1E2D8D3].mkv",
+                    "group": "WhyNot",
+                    "hash": "C1E2D8D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331274",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 02 (1280x720 x264 AAC) [0F8EE0E3].mkv",
+                    "group": "SubDESU",
+                    "hash": "0F8EE0E3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 02 [720p] [92E08917].mkv",
+                    "group": "Hadena",
+                    "hash": "92E08917",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Koi_to_Senkyo_to_Chocolate_02v2_[h264_720p]_[D5B369A0].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "D5B369A0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332218",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Koi_to_Senkyo_to_Chocolate_02_v2_[h264_480p]_[2E764590].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "2E764590",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332220",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[UraharaShop] Koi to Senkyo to Chocolate - 02.mkv",
+                    "group": "UraharaShop",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333573",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Sigh] Koi to Senkyo to Chocolate - 02 [94D901B7].mkv",
+                    "group": "Sigh",
+                    "hash": "94D901B7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334507",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-19T18:25:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 03 [21F853B1].mkv",
+                    "group": "Pomf",
+                    "hash": "21F853B1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333565",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Koi to Senkyo to Chocolate - 03 [71618AA3].mkv",
+                    "group": "WhyNot",
+                    "hash": "71618AA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333805",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 03 [720p] [9CD64623].mkv",
+                    "group": "Hadena",
+                    "hash": "9CD64623",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 03 (1280x720 x264 AAC) [B39C8B88].mkv",
+                    "group": "SubDESU",
+                    "hash": "B39C8B88",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Sigh] Koi to Senkyo to Chocolate - 03 [2921F1E3].mkv",
+                    "group": "Sigh",
+                    "hash": "2921F1E3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337942",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 03 (1280x720 Hi10P AAC) [381531E1].mkv",
+                    "group": "Doki",
+                    "hash": "381531E1",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2003%20(1280x720%20Hi10P%20AAC)%20%5B381531E1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 03 (848x480 h264 AAC) [28A13913].mkv",
+                    "group": "Doki",
+                    "hash": "28A13913",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2003%20(848x480%20h264%20AAC)%20%5B28A13913%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-26T18:25:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 04 [90E95470].mkv",
+                    "group": "Pomf",
+                    "hash": "90E95470",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335587",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 04 [720p].mkv",
+                    "group": "Hadena",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335971",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Koi to Senkyo to Chocolate - 04 [BD943692].mkv",
+                    "group": "WhyNot",
+                    "hash": "BD943692",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336907",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 04 (1280x720 x264 AAC) [776D4F42].mkv",
+                    "group": "SubDESU",
+                    "hash": "776D4F42",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337370",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p]",
+                    "download_count": 3,
+                    "filename": "[m.3.3.w]_Koi_to_Senkyo_to_Chocolate_04_[h264_720p]_[03A7A49A].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "03A7A49A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339259",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 3,
+                    "filename": "[m.3.3.w]_Koi_to_Senkyo_to_Chocolate_04_[h264_480p]_[526D5176].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "526D5176",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 04 (1280x720 Hi10P AAC) [B16628FA].mkv",
+                    "group": "Doki",
+                    "hash": "B16628FA",
+                    "url": "http://tracker.anime-index.org/download.php?id=4f35dac829d602d498d0289460e7cfa41b5790f6&f=%5BDoki%5D+Koi+to+Senkyo+to+Chocolate+-+04+%281280x720+Hi10P+AAC%29+%5BB16628FA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 04 (848x480 h264 AAC) [CB251A78].mkv",
+                    "group": "Doki",
+                    "hash": "CB251A78",
+                    "url": "http://tracker.anime-index.org/download.php?id=05b41460a14e9592d6c9e875debe2c5711c3f104&f=%5BDoki%5D+Koi+to+Senkyo+to+Chocolate+-+04+%28848x480+h264+AAC%29+%5BCB251A78%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-02T18:25:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 05 [E21D4E73].mkv",
+                    "group": "Pomf",
+                    "hash": "E21D4E73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 05 [720p][0A9F31C9].mkv",
+                    "group": "Hadena",
+                    "hash": "0A9F31C9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 25,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 05 (1280x720 x264 AAC) [B6A0C4DF].mkv",
+                    "group": "SubDESU",
+                    "hash": "B6A0C4DF",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2005%20(1280x720%20x264%20AAC)%20%5BB6A0C4DF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Koi to Senkyo to Chocolate - 05 [0C6BAF55].mkv",
+                    "group": "WhyNot",
+                    "hash": "0C6BAF55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348170",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Koi_to_Senkyo_to_Chocolate_05_[h264_480p]_[AC3A403C].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "AC3A403C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357547",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264 720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Koi_to_Senkyo_to_Chocolate_05_[h264_720p]_[59F8E8B8].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "59F8E8B8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 05 (1280x720 Hi10P AAC) [27C0B01B].mkv",
+                    "group": "Doki",
+                    "hash": "27C0B01B",
+                    "url": "http://tracker.anime-index.org/download.php?id=32d89ac9b9d15529a4336673bf0719a64e70ac6c&f=%5BDoki%5D+Koi+to+Senkyo+to+Chocolate+-+05+%281280x720+Hi10P+AAC%29+%5B27C0B01B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 05 (848x480 h264 AAC) [3FB02209].mkv",
+                    "group": "Doki",
+                    "hash": "3FB02209",
+                    "url": "http://tracker.anime-index.org/download.php?id=76e31f775632ed1eb6cae9723c24e8b55fcacf13&f=%5BDoki%5D+Koi+to+Senkyo+to+Chocolate+-+05+%28848x480+h264+AAC%29+%5B3FB02209%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-09T18:25:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 06 [0A5066F7].mkv",
+                    "group": "Pomf",
+                    "hash": "0A5066F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342573",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 06 [720p] [A2764871].mkv",
+                    "group": "Hadena",
+                    "hash": "A2764871",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2006%20%5B720p%5D%20%5BA2764871%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 9,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 06 (1280x720 x264 AAC) [14685C74].mkv",
+                    "group": "SubDESU",
+                    "hash": "14685C74",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2006%20(1280x720%20x264%20AAC)%20%5B14685C74%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Koi to Senkyo to Chocolate - 06 [B60BBC0C].mkv",
+                    "group": "WhyNot",
+                    "hash": "B60BBC0C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 06 (1280x720 Hi10P AAC) [0D8BC445].mkv",
+                    "group": "Doki",
+                    "hash": "0D8BC445",
+                    "url": "http://tracker.anime-index.org/download.php?id=478d4784e3f601286d08fc2013f7b329ccec3d36&f=%5BDoki%5D+Koi+to+Senkyo+to+Chocolate+-+06+%281280x720+Hi10P+AAC%29+%5B0D8BC445%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 06 (848x480 h264 AAC) [EC3100D2].mkv",
+                    "group": "Doki",
+                    "hash": "EC3100D2",
+                    "url": "http://tracker.anime-index.org/download.php?id=537d2f0c6e73c4e5c414e10d6d55b551ada4abbb&f=%5BDoki%5D+Koi+to+Senkyo+to+Chocolate+-+06+%28848x480+h264+AAC%29+%5BEC3100D2%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-16T18:25:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 07v2 [802D0150].mkv",
+                    "group": "Pomf",
+                    "hash": "802D0150",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344999",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]  ",
+                    "download_count": 11,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 07 [720p]  [0ADE03F3].mkv",
+                    "group": "Hadena",
+                    "hash": "0ADE03F3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2007%20%5B720p%5D%20%20%5B0ADE03F3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 28,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 07 (1280x720 x264 AAC) [7D102600].mkv",
+                    "group": "SubDESU",
+                    "hash": "7D102600",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2007%20(1280x720%20x264%20AAC)%20%5B7D102600%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Koi to Senkyo to Chocolate - 07 [AE7DEDA0].mkv",
+                    "group": "WhyNot",
+                    "hash": "AE7DEDA0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 07 (1280x720 h264 AAC) [C7B93F73].mkv",
+                    "group": "Doki",
+                    "hash": "C7B93F73",
+                    "url": "http://tracker.anime-index.org/download.php?id=4f6856084a7969fcd86572d145ad00034caaabe9&f=%5BDoki%5D+Koi+to+Senkyo+to+Chocolate+-+07+%281280x720+h264+AAC%29+%5BC7B93F73%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Koi to Senkyo to Chocolate - 07 (848x480 h264 AAC) [B2BDAED4].mkv",
+                    "group": "Doki",
+                    "hash": "B2BDAED4",
+                    "url": "http://tracker.anime-index.org/download.php?id=f09327cebf476ea9e046e0c32ed3b466e25d7e2e&f=%5BDoki%5D+Koi+to+Senkyo+to+Chocolate+-+07+%28848x480+h264+AAC%29+%5BB2BDAED4%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-23T18:25:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 08 [7F950C95].mkv",
+                    "group": "Pomf",
+                    "hash": "7F950C95",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 08 (1280x720 x264 AAC) [88D2EE9D].mkv",
+                    "group": "SubDESU",
+                    "hash": "88D2EE9D",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2008%20(1280x720%20x264%20AAC)%20%5B88D2EE9D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 08 [720p] [9FFD12F8].mkv",
+                    "group": "Hadena",
+                    "hash": "9FFD12F8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2008%20%5B720p%5D%20%5B9FFD12F8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Koi to Senkyo to Chocolate - 08 [80BDC4BA].mkv",
+                    "group": "WhyNot",
+                    "hash": "80BDC4BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352755",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-30T18:25:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 09 [01FD424E].mkv",
+                    "group": "Pomf",
+                    "hash": "01FD424E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 09 (1280x720 x264 AAC) [932A6B23].mkv",
+                    "group": "SubDESU",
+                    "hash": "932A6B23",
+                    "url": "http://www.anirena.com/?action=torrent-download&id=92",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 09 [720p] [FC945BAF].mkv",
+                    "group": "Hadena",
+                    "hash": "FC945BAF",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2009%20%5B720p%5D%20%5BFC945BAF%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-06T18:25:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 10 [E9DCE670].mkv",
+                    "group": "Pomf",
+                    "hash": "E9DCE670",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352120",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 10 [720p] [85108158].mkv",
+                    "group": "Hadena",
+                    "hash": "85108158",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2010%20%5B720p%5D%20%5B85108158%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 10 (1280x720 x264 AAC) [4589005C].mkv",
+                    "group": "SubDESU",
+                    "hash": "4589005C",
+                    "url": "http://www.anirena.com/?action=torrent-download&id=134",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-13T18:25:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 11 [5AF97CAC].mkv",
+                    "group": "Pomf",
+                    "hash": "5AF97CAC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354397",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 11 [720p] [E4E70DF4].mkv",
+                    "group": "Hadena",
+                    "hash": "E4E70DF4",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2011%20%5B720p%5D%20%5BE4E70DF4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SubDESU] Koi to Senkyo to Chocolate - 11 (1280x720 x264 AAC) [F405C8CC].mkv",
+                    "group": "SubDESU",
+                    "hash": "F405C8CC",
+                    "url": "http://www.anirena.com/?action=torrent-download&id=135",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-20T18:25:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Pomf] Koi to Senkyo to Chocolate - 12 [E02EDCE1].mkv",
+                    "group": "Pomf",
+                    "hash": "E02EDCE1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=356465",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Koi to Senkyo to Chocolate - 12 [720p] [28D4EB39].mkv",
+                    "group": "Hadena",
+                    "hash": "28D4EB39",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Koi%20to%20Senkyo%20to%20Chocolate%20-%2012%20%5B720p%5D%20%5B28D4EB39%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8820,
+        "ann": 13810,
+        "mal": 12175,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Koi to Senkyo to Chocolate follows the protagonist Oojima Yuuki, who attends Private Takafuji Academy, a large school with over 6,000 students. Yuuki is a member of the food research club, along with seven others, including his childhood friend Sumiyoshi Chisato. The members leisurely spend their time in the club not participating in many activities. When the election of the next student council president comes up, the front runner, Shinonome Satsuki, proposes that clubs with no merit should be separated and subsequently abolished. The food research club, in an act of desperation, seeks advice from the current student council president, Mori Yakumo, who suggests Yuuki run in the election as an opposing candidate. Yuuki learns about the issues facing the school and decides to run in the election.",
+            "type": "anidb"
+        },
+        {
+            "content": "Y\u016bki \u014cjima attends Takafuji Private Academy, a large school with over 6,000 students, where he is a member of the Food Research Club along with seven others, including his childhood friend Chisato Sumiyoshi. The members leisurely spend their time in the club doing very little. When the election for the next student council president comes up, the front runner Satsuki Shinonome proposes that clubs which have no merit should be sorted out and abolished. The Food Research Club seeks advice from the current student council president, Yakumo M\u014dri, who suggests that Y\u016bki run in the election as an opposing candidate. Y\u016bki learns about the issues facing the school and decides to run in the election.",
+            "type": "ann"
+        },
+        {
+            "content": "In Japan, participation in extra-curricular activities is as fundamental a part of an education as chalk and gym shorts. However, not all students are overachievers, and for those like Yuki Ojima, groups like the Food Research Club are welcome havens in which to slack-off. But what's a slacker to do when the radical new candidate for Student Council president announces her intent to get rid of clubs like the FRC? Well, getting the help of the current Student Council president is a good start, but HIS suggestion is so counter-intuitive that it's crazy: Yuki should run for the Student Council himself? And yet, it's SO crazy that it just might work! Especially when Chisato, the chocolate-adverse president of the FRC (and Yuki's best childhood friend,) and members of other targeted school clubs start to join the swelling FRC army. But can this army of goofs and goof-offs coast all the way to political victory? Or will someone have to step up to the plate and take one for the term?   (Source: Sentai Filmworks)",
+            "type": "mal"
+        },
+        {
+            "content": "Koi to Senkyo to Chocolate follows the protagonist Y\u016bki \u014cjima, who attends Takafuji Private Academy (\u79c1\u7acb\u9ad8\u85e4\u5b66\u5712, Shiritsu Takafuji Gakuen?), a large school with over 6,000 students. Y\u016bki is a member of the Food Research Club (\u98df\u54c1\u7814\u7a76\u90e8, Shokuhin kenky\u016b-bu?), also known as \"Shokken\" (\u30b7\u30e7\u30c3\u30b1\u30f3?) for short, along with seven others, including his childhood friend Chisato Sumiyoshi. The members leisurely spend their time in the club not doing much activities. When the election of the next student council president comes up, the front runner Satsuki Shinonome proposes that clubs that have no merit should be sorted out and abolished. The Food Research Club seeks advice from the current student council president Yakumo M\u014dri, who suggests Y\u016bki run in the election as an opposing candidate. Y\u016bki learns about the issues facing the school and decides to run in the election.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5385,
+            "date": "2012-09-29T14:30:48",
+            "score": 7.45,
+            "type": "mal"
+        },
+        {
+            "count": 187,
+            "date": "2012-09-29T14:30:48",
+            "score": 6.4,
+            "type": "anidb"
+        },
+        {
+            "count": 232,
+            "date": "2012-09-29T14:30:48",
+            "score": 6.893,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Koi to Senkyo to Chocolate"
+}

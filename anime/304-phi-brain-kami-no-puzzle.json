@@ -1,0 +1,954 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u795e\u306e\u30d1\u30ba\u30eb"
+        },
+        {
+            "language": "pl",
+            "title": "M\u00f3zg Fi: Boskie Puzzle"
+        }
+    ],
+    "aliases": [
+        "Phi Brain - Kami no Puzzle",
+        "Phi Brain",
+        "Phi-Brain",
+        "Phi Brain - Kami no Puzzle S2"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/739887041",
+            "content": "#anime #Jesie\u01442011 Phi Brain: Kami no Puzzle (\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u795e\u306e\u30d1\u30ba\u30eb) http://rdir.pl/1lp4ci",
+            "episode": 1,
+            "filename": "2f013efe9c6d728e50d3491916e68d39.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/121697816631459840"
+        },
+        {
+            "blip_url": "http://blip.pl/s/748678759",
+            "content": "Phi Brain: Kami no Puzzle 02 - Je\u015bli narzekasz na nudne \u017cycie, najwyra\u017aniej potrzeba ci rywala",
+            "episode": 2,
+            "filename": "2074cdb709704398442f85ab93032fd9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/124224757385273344"
+        },
+        {
+            "blip_url": "http://blip.pl/s/872029821",
+            "content": "Phi Brain: Kami no Puzzle 13 - poranki po imprezach bywaj\u0105 ci\u0119\u017ckie",
+            "episode": 13,
+            "filename": "0cfba388d44a6f5c5601a2b040475747.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/152425721116106752"
+        },
+        {
+            "blip_url": "http://blip.pl/s/888409473",
+            "content": "Phi Brain: Kami no Puzzle 14 - profesjonalna zgraja debili zg\u0142asza gotowo\u015b\u0107 do pracy!",
+            "episode": 14,
+            "filename": "34667d8c43f7845c79b4ae7bfdd93caf.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/156878013991104513"
+        },
+        {
+            "blip_url": "http://blip.pl/s/891038859",
+            "content": "Phi Brain: Kami no Puzzle 15 - prawie jak Death Note...",
+            "episode": 15,
+            "filename": "e38dc534f64ffa2b0979b9f4612caa30.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/159101268655214592"
+        },
+        {
+            "blip_url": "http://blip.pl/s/907727911",
+            "content": "Phi Brain: Kami no Puzzle 16 - protest przeciwko cenzurowaniu internetu przybra\u0142 nieoczekiwany przebieg",
+            "episode": 16,
+            "filename": "3edb4e1709aaefcf166537cfa4c0f69a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161578457011195904"
+        },
+        {
+            "blip_url": "http://blip.pl/s/927343793",
+            "content": "Phi Brain: Kami no Puzzle 17 - Kaito te\u017c paru egzamin\u00f3w nie zaliczy\u0142",
+            "episode": 17,
+            "filename": "377ca4f65e3660c01edda13752b44d53.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/164287544211673088"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1088531755",
+            "content": "#anime #Jesie\u01442011 Phi Brain: Kami no Puzzle (\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u795e\u306e\u30d1\u30ba\u30eb) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/1lp4ci)",
+            "episode": 25,
+            "filename": "185525fda7beb35398848f10d6e03a0e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-02T10:30:00",
+            "episode": 1,
+            "score": 7.28,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 01 [7105C87D].mkv",
+                    "group": "WhyNot",
+                    "hash": "7105C87D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[pp] Phi Brain - Kami no Puzzle - 01 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249923",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 1,
+                    "filename": "[whynot] Phi Brain - Kami No Puzzle - 01 [8bit}.mkv",
+                    "group": "whynot",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Phi-Brain - 01 (1280x720 x264 AAC)[ B9769C14] .mkv",
+                    "group": "SubDESU",
+                    "hash": "B9769C14",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251040",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 01 [42440FCF].mkv",
+                    "group": "WhyNot",
+                    "hash": "42440FCF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303589",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-09T10:30:00",
+            "episode": 2,
+            "score": 7.23,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 aac]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Phi Brain - 02 [1280x720 x264 aac] [96C3B976].mkv",
+                    "group": "SubDESU",
+                    "hash": "96C3B976",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AonE]_Phi_Brain_02_[35C8170B].mkv",
+                    "group": "AonE",
+                    "hash": "35C8170B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254362",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-16T10:30:00",
+            "episode": 3,
+            "score": 7.1359823789,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 03 [DBF79342].mkv",
+                    "group": "WhyNot",
+                    "hash": "DBF79342",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SubDESU]_Phi-Brain_-_03_(1280x720_x264_AAC)_[3CA597E5].mkv",
+                    "group": "SubDESU",
+                    "hash": "3CA597E5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253196",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-23T10:30:00",
+            "episode": 4,
+            "score": 7.1393836672,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Phi-Brain_-_04_(1280x720_x264_AAC)_[5D629885].mkv",
+                    "group": "SubDESU",
+                    "hash": "5D629885",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 04 [5708EE68].mkv",
+                    "group": "WhyNot",
+                    "hash": "5708EE68",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[SubDESU]_Phi-Brain_-_04v2_(1280x720_x264_AAC)_[B9E929A7].mkv",
+                    "group": "SubDESU",
+                    "hash": "B9E929A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255017",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-10-30T09:30:00",
+            "episode": 5,
+            "score": 7.1273884469,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[SubDESU]_Phi-Brain_-_05_(1280x720_x264_AAC)_[5F885C7E].mkv",
+                    "group": "SubDESU",
+                    "hash": "5F885C7E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 05 [B09D4793].mkv",
+                    "group": "WhyNot",
+                    "hash": "B09D4793",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256692",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle S2 - 05 [B7BFF296].mkv",
+                    "group": "WhyNot",
+                    "hash": "B7BFF296",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312209",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-06T09:30:00",
+            "episode": 6,
+            "score": 7.1091231511,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU] Phi Brain - Kami no Puzzle 06 (1280x720 x264 AAC) [57280D91].mkv",
+                    "group": "SubDESU",
+                    "hash": "57280D91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258772",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 06 [92697374].mkv",
+                    "group": "WhyNot",
+                    "hash": "92697374",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259324",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-13T09:30:00",
+            "episode": 7,
+            "score": 7.0811357988,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 9,
+                    "filename": "[SubDESU]_Phi-Brain_-_07_(1280x720_x264_AAC)_[D06218EA].mkv",
+                    "group": "SubDESU",
+                    "hash": "D06218EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 07 [28AB77FB].mkv",
+                    "group": "WhyNot",
+                    "hash": "28AB77FB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260356",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-20T09:30:00",
+            "episode": 8,
+            "score": 7.060333712,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[SubDESU]_Phi-Brain_-_08_[68DBC625].mkv",
+                    "group": "SubDESU",
+                    "hash": "68DBC625",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 08 [76B82FD3].mkv",
+                    "group": "WhyNot",
+                    "hash": "76B82FD3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262176",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-27T09:30:00",
+            "episode": 9,
+            "score": 7.0400572988,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 09 [BD60C576].mkv",
+                    "group": "WhyNot",
+                    "hash": "BD60C576",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263702",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-04T09:30:00",
+            "episode": 10,
+            "score": 7.0264554768,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[SubDESU]_Phi_Brain_-_10_[DA467B7B].mkv",
+                    "group": "SubDESU",
+                    "hash": "DA467B7B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265327",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 10 [01E7064E].mkv",
+                    "group": "WhyNot",
+                    "hash": "01E7064E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265593",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-11T09:30:00",
+            "episode": 11,
+            "score": 7.0192847682,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[SubDESU]_Phi_Brain_-_11_(1280x720_x264_AAC)_[10F65DEF].mkv",
+                    "group": "SubDESU",
+                    "hash": "10F65DEF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267508",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 11 [7D505A9A].mkv",
+                    "group": "WhyNot",
+                    "hash": "7D505A9A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267589",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-18T09:30:00",
+            "episode": 12,
+            "score": 7.0267778875,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[SubDESU]_Phi-Brain_-_12_(1280x720_x264_AAC)_[E76B75CF].mkv",
+                    "group": "SubDESU",
+                    "hash": "E76B75CF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 12 [72EDBBF8].mkv",
+                    "group": "WhyNot",
+                    "hash": "72EDBBF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270973",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-25T09:30:00",
+            "episode": 13,
+            "score": 7.0367748298,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU]_Phi_Brain_-_13_(1280x720_x264_AAC)_[D1C1DC87].mkv",
+                    "group": "SubDESU",
+                    "hash": "D1C1DC87",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271503",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 13 [E142EBB2].mkv",
+                    "group": "WhyNot",
+                    "hash": "E142EBB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271638",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-08T09:30:00",
+            "episode": 14,
+            "score": 7.021413939,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 14 [E3C3968C].mkv",
+                    "group": "WhyNot",
+                    "hash": "E3C3968C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Phi-Brain_-_14_(1280x720_x264_AAC)_[CB3F9D5F].mkv",
+                    "group": "SubDESU",
+                    "hash": "CB3F9D5F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275106",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-15T09:30:00",
+            "episode": 15,
+            "score": 6.2699943503,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Phi-Brain 15 (1280x720 x264 AAC) [C3B05C92].mkv",
+                    "group": "SubDESU",
+                    "hash": "C3B05C92",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277059",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-22T09:30:00",
+            "episode": 16,
+            "score": 7.0087569897,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[SubDESU] Phi-Brain 16 (1280x720 x264 AAC)[583E3A91].mkv",
+                    "group": "SubDESU",
+                    "hash": "583E3A91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278799",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 16 [D2638E91].mkv",
+                    "group": "WhyNot",
+                    "hash": "D2638E91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279077",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-29T09:30:00",
+            "episode": 17,
+            "score": 7.000817111,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 17 [968A53A4].mkv",
+                    "group": "WhyNot",
+                    "hash": "968A53A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281841",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain 17(1280x720 x264 AAC)[FC0ABC34].mkv",
+                    "group": "SubDESU",
+                    "hash": "FC0ABC34",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282118",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-05T09:30:00",
+            "episode": 18,
+            "score": 6.9916335216,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain 18(1280x720 x264 AAC)[3977DF2C].mkv",
+                    "group": "SubDESU",
+                    "hash": "3977DF2C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284459",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 18 [07B64599].mkv",
+                    "group": "WhyNot",
+                    "hash": "07B64599",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284838",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-12T09:30:00",
+            "episode": 19,
+            "score": 6.9833098257,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU] Phi-Brain 19(1280x720 x264 AAC)[EA612ABA].mkv",
+                    "group": "SubDESU",
+                    "hash": "EA612ABA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286722",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 19 [771DF6FE].mkv",
+                    "group": "WhyNot",
+                    "hash": "771DF6FE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286918",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-19T09:30:00",
+            "episode": 20,
+            "score": 6.9692612647,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-AAC]",
+                    "download_count": 3,
+                    "filename": "[SubDESU]_Phi-Brain_20(1280x720_x264-AAC)[44DF6251].mkv",
+                    "group": "SubDESU",
+                    "hash": "44DF6251",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 20 [F9FDB840].mkv",
+                    "group": "WhyNot",
+                    "hash": "F9FDB840",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288946",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-26T09:30:00",
+            "episode": 21,
+            "score": 6.9645498204,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 21 [53809616].mkv",
+                    "group": "WhyNot",
+                    "hash": "53809616",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291217",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU]_Phi-Brain_-_21_(1280x720_x264_AAC)_[7D11C0F2].mkv",
+                    "group": "SubDESU",
+                    "hash": "7D11C0F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291252",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-04T09:30:00",
+            "episode": 22,
+            "score": 6.9685906465,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 22 [06D26DA3].mkv",
+                    "group": "WhyNot",
+                    "hash": "06D26DA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-AAC]",
+                    "download_count": 2,
+                    "filename": "[SubDESU]Phi_Brain_-_22_[1280x720_x264-AAC][856E0529].mkv",
+                    "group": "SubDESU",
+                    "hash": "856E0529",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293506",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-11T09:30:00",
+            "episode": 23,
+            "score": 6.9748417779,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[SubDESU]_Phi-Brain_-_23_(1280x720_x264_AAC)_[2438048A].mkv",
+                    "group": "SubDESU",
+                    "hash": "2438048A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 23 [B38004BD].mkv",
+                    "group": "WhyNot",
+                    "hash": "B38004BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295360",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-18T09:30:00",
+            "episode": 24,
+            "score": 6.9778445679,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Phi-Brain_-_24_(1280x720_x264_AAC)_[D651670E].mkv",
+                    "group": "SubDESU",
+                    "hash": "D651670E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297198",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 24 [16333E25].mkv",
+                    "group": "WhyNot",
+                    "hash": "16333E25",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297525",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-25T10:30:00",
+            "episode": 25,
+            "score": 6.9743633194,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[SubDESU]_Phi-Brain_-_25_(1280x720_x264_AAC)_[D15301E6].mkv",
+                    "group": "SubDESU",
+                    "hash": "D15301E6",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D_Phi-Brain_-_25_(1280x720_x264_AAC)_%5BD15301E6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Phi Brain - Kami no Puzzle - 25 [8323650A].mkv",
+                    "group": "WhyNot",
+                    "hash": "8323650A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301451",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8131,
+        "ann": 12271,
+        "mal": 9981,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Ale szko\u0142\u0119 to \u0142adnie odwalili",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d715190f2878a386ece0446130286c0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/264ea561c2433fe0bc20659eba62d6e7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3d7b2273f21cf0e028741283199a11bf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/54e0e70262b8523a0ff737fe2efe4804.jpg",
+            "hd": false
+        },
+        {
+            "description": "S\u00f3doku",
+            "filename": "http://s.modriv.net/abp/images/screencaps/37b4157d2e2b1fed415b1808be369e6e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Te nowe naklejki na ajfona",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ac1dd3a823d305ab715b17f2563117e8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1a06d649561dc21f090e77536c00d839.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0626d919659ba16a5a863e33756f8bb7.jpg",
+            "hd": false
+        },
+        {
+            "description": "W oczach twych g\u0142\u0119bia niezmierzona",
+            "filename": "http://s.modriv.net/abp/images/screencaps/05aed84d53dfe2c4c307caa0e4705bb9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/804e6ca143c249c342b3058fa5f2a8aa.jpg",
+            "hd": false
+        },
+        {
+            "description": "I BELIEVE I CAN FLYYYYY",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9f8903eaeca26e1554be012d861dacda.jpg",
+            "hd": false
+        },
+        {
+            "description": "Niewidzialny kogucik",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a8d1eb3af99bfaf7d18c07fd81222a16.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Phi Brain: Kami no Puzzle (\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u795e\u306e\u30d1\u30ba\u30eb) http://rdir.pl/1lp4ci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2f013efe9c6d728e50d3491916e68d39.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bb3bbef2c7c788950232d44bd2294a0e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Je\u015bli narzekasz na nudne \u017cycie, najwyra\u017aniej potrzeba ci rywala",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2074cdb709704398442f85ab93032fd9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7481aea01101bf11de83df84f55d422.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9c8e57d7c0d7c03adb01e74b6be7029b.jpg",
+            "hd": false
+        },
+        {
+            "description": "poranki po imprezach bywaj\u0105 ci\u0119\u017ckie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0cfba388d44a6f5c5601a2b040475747.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/458b5820cf1c054aab9e41a06f0f8a6e.jpg",
+            "hd": false
+        },
+        {
+            "description": "z\u0142owrogi wzrok +5 do zajebisto\u015bci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8f880e3045ba312a75718b6c648d487e.jpg",
+            "hd": false
+        },
+        {
+            "description": "cheater!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2a5eb62d444d4bed055ac93ccb18a37c.jpg",
+            "hd": false
+        },
+        {
+            "description": "profesjonalna zgraja debili zg\u0142asza gotowo\u015b\u0107 do pracy!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/34667d8c43f7845c79b4ae7bfdd93caf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fdc72ae597e91a60c3b54d76b2f3e22e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5316e44a553e014fc08604fa7c139d9e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e6f37c3b3d47af011ffa9786fbe8e772.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawie jak Death Note...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e38dc534f64ffa2b0979b9f4612caa30.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e33c2f1865efe14f6061085369d295dd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/95d0396ac900bc088319831a05453e73.jpg",
+            "hd": false
+        },
+        {
+            "description": "protest przeciwko cenzurowaniu internetu przybra\u0142 nieoczekiwany przebieg",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3edb4e1709aaefcf166537cfa4c0f69a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f973fe3ca5a5743645d7a4b845a12903.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kaito te\u017c paru egzamin\u00f3w nie zaliczy\u0142",
+            "filename": "http://s.modriv.net/abp/images/screencaps/377ca4f65e3660c01edda13752b44d53.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Phi Brain: Kami no Puzzle (\u30d5\u30a1\u30a4\u30fb\u30d6\u30ec\u30a4\u30f3 \u795e\u306e\u30d1\u30ba\u30eb) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/1lp4ci)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/185525fda7beb35398848f10d6e03a0e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b34b19f469ece1b5097e826e4f0d3f5.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Pewien m\u0142odzian szczyc\u0105cy si\u0119 tym, \u017ce potrafi rozwi\u0105za\u0107 ka\u017cd\u0105 zagadk\u0119, wchodzi w posiadanie supermocy, dzi\u0119ki kt\u00f3rej mo\u017ce definitywnie rozwi\u0105za\u0107 ka\u017cd\u0105 zagadk\u0119 na amen.",
+            "type": "abp"
+        },
+        {
+            "content": "Daimon Kaito would be a completely average high school student except for one thing: he's a demon at solving puzzles. Kaito's so brilliant, in fact, that when he's asked to take some special tests of his unique ability, he immediately suspects that the test itself is a test. Kaito suddenly finds himself caught up in a lethal Philosopher's Puzzle made by the sinister group POG, a murderous maze of trap upon trap, where failing to solve the secret correctly will result in death! Fortunately, Kaito's skills prove up to the first test, both for himself AND his childhood friend Nanoha, who is also caught up in the deadly scheme. But now that he has been designated as a Solver, he is pulled into a new life where he must travel the world with other Solvers, attempting to solve the latest deadly riddles left by POG. There's a new conundrum around every corner and each deception could lead to death, but once a riddle has been posed, you can count on Kaito to unfold, unravel and unlock it in Phi-Brain ~ Kami no Puzzle!Source: Sentai Filmworks",
+            "type": "anidb"
+        },
+        {
+            "content": "Kaito Daimon is a brilliant 16-year-old teenager who loves to solve puzzles. He acquires an enigmatic item called the Armband of Orpheus that allows him to fully utilize his brain, but that consequentially drains him completely. Currently attending Root Academy as an honor student, he is invited by the school principal to confront a secret organization named POG that creates deadly Sage Puzzles to protect invaluable treasures and challenge the select few individuals capable of facing them. Given the title of Einstein, Kaito battles against the mysterious group in order to keep a promise he made as a kid while at the same time he heads towards the ultimate test: the Divine Puzzle.",
+            "type": "ann"
+        },
+        {
+            "content": "Kaito Daimon would be a completely average high school student except for one thing: he's a 'demon' at solving puzzles. Kaito is so brilliant, in fact, that when he's asked to take some 'special' tests of his unique ability, he immediately suspects that the test itself is a test. Kaito suddenly finds himself caught up in a lethal Philosopher's Puzzle made by the sinister group POG, a murderous maze of trap upon trap, where failing to solve the secret correctly will result in death! Fortunately, Kaito's skills prove up to the first test, both for himself and his childhood friend Nanoha, who is also caught up in the deadly scheme. But now that he has been designated as a Solver, he is pulled into a new life where he must travel the world with other Solvers, attempting to solve the latest deadly riddles left by POG. There's a new conundrum around every corner and each deception could lead to death, but once a riddle has been posed, you can count on Kaito to unfold, unravel and unlock it!  (Source: Sentai Filmworks)",
+            "type": "mal"
+        },
+        {
+            "content": "Kaito, a puzzle-loving high school freshman, is selected as a candidate for \"Phi Brain\". He and his friend Nonoha find an \"unsolvable puzzle\" near their school. The puzzle turns out to be a life-threatening \"philosopher's puzzle\" created by the mysterious group P.O.G. (Puzzle Of God). After successfully solving the puzzle, Kaito is designated as a Solver and is joined by other Solvers as they battle P.O.G. all over the world by solving the \"philosopher's puzzles\".",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 8106,
+            "date": "2012-09-29T13:47:12",
+            "score": 7.33,
+            "type": "mal"
+        },
+        {
+            "count": 376,
+            "date": "2012-09-29T13:47:12",
+            "score": 6.459,
+            "type": "ann"
+        },
+        {
+            "count": 441,
+            "date": "2012-09-29T13:47:12",
+            "score": 6.07,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Phi Brain: Kami no Puzzle"
+}

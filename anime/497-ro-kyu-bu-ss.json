@@ -1,0 +1,463 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ed\u30a6\u304d\u3085\u30fc\u3076! SS"
+        }
+    ],
+    "aliases": [
+        ".Ro-Kyu-Bu!.SS.",
+        "Ro-Kyu-Bu! SS"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-07-05T15:30:00",
+            "episode": 1,
+            "score": 7.4449574106,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Doremi].Ro-Kyu-Bu!.SS.01.[C1B5CE5D].mkv",
+                    "group": "Doremi",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=449992",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 01 (1280x720 h264 AAC) [251BC7C7].mkv",
+                    "group": "Doki",
+                    "hash": "251BC7C7",
+                    "url": "http://tracker.anime-index.org/download.php?id=7718004b0ad128e432e769c4249d6a98167cf69a&f=%5BDoki%5D+Ro-Kyu-Bu%21+SS+-+01+%281280x720+h264+AAC%29+%5B251BC7C7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 01 (848x480 h264 AAC) [2D3DC25E].mkv",
+                    "group": "Doki",
+                    "hash": "2D3DC25E",
+                    "url": "http://tracker.anime-index.org/download.php?id=c02057d900396d829dc3c1f067187de007633f07&f=%5BDoki%5D+Ro-Kyu-Bu%21+SS+-+01+%28848x480+h264+AAC%29+%5B2D3DC25E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Asenshi] Ro-Kyu-Bu! SS - 01 [574BF66A].mkv",
+                    "group": "Asenshi",
+                    "hash": "574BF66A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=450291",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-12T15:30:00",
+            "episode": 2,
+            "score": 7.3928521537,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Asenshi] Ro-Kyu-Bu! SS - 02 [2C025D27].mkv",
+                    "group": "Asenshi",
+                    "hash": "2C025D27",
+                    "url": "http://www.nyaa.eu/?page=download&tid=452009",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 02 (1280x720 h264 AAC) [513D1C65].mkv",
+                    "group": "Doki",
+                    "hash": "513D1C65",
+                    "url": "http://tracker.anime-index.org/download.php?id=76cef94b4a6c37d1259db638db42bcc88b19b770&f=%5BDoki%5D%20Ro-Kyu-Bu!%20SS%20-%2002%20(1280x720%20h264%20AAC)%20%5B513D1C65%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 02 (848x480 h264 AAC) [D0AB4B32].mkv",
+                    "group": "Doki",
+                    "hash": "D0AB4B32",
+                    "url": "http://tracker.anime-index.org/download.php?id=e4db7ffa9e526555a9084e30db29cca981f7d1e9&f=%5BDoki%5D%20Ro-Kyu-Bu!%20SS%20-%2002%20(848x480%20h264%20AAC)%20%5BD0AB4B32%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 02v2 (1280x720 h264 AAC) [3DCB8E66].mkv",
+                    "group": "Doki",
+                    "hash": "3DCB8E66",
+                    "url": "http://tracker.anime-index.org/download.php?id=901a08e68e2addd06f0dd430fb5b3ff27f0931be&f=%5BDoki%5D%20Ro-Kyu-Bu!%20SS%20-%2002v2%20(1280x720%20h264%20AAC)%20%5B3DCB8E66%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 02v2 (848x480 h264 AAC) [525D0246].mkv",
+                    "group": "Doki",
+                    "hash": "525D0246",
+                    "url": "http://tracker.anime-index.org/download.php?id=1ae6947155c2cd47d2fb45eab93d2d6ad2b2e08f&f=%5BDoki%5D%20Ro-Kyu-Bu!%20SS%20-%2002v2%20(848x480%20h264%20AAC)%20%5B525D0246%5D.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-07-19T15:30:00",
+            "episode": 3,
+            "score": 7.3547219414,
+            "torrents": [
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 3,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 03 [720p 10bit][A1DF0A3F].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "A1DF0A3F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 1,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 03 [720p 8bit][D5D1D9A5].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "D5D1D9A5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455153",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 03 (1280x720 h264 AAC) [F43CD7B2].mkv",
+                    "group": "Doki",
+                    "hash": "F43CD7B2",
+                    "url": "http://tracker.anime-index.org/download.php?id=9bb8170a6bca7cc92adea008a764710e387224bf&f=%5BDoki%5D%20Ro-Kyu-Bu!%20SS%20-%2003%20(1280x720%20h264%20AAC)%20%5BF43CD7B2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 03 (848x480 h264 AAC) [5824B740].mkv",
+                    "group": "Doki",
+                    "hash": "5824B740",
+                    "url": "http://tracker.anime-index.org/download.php?id=a515c36da22cc17edcafb9323cb08994c8f53b4d&f=%5BDoki%5D%20Ro-Kyu-Bu!%20SS%20-%2003%20(848x480%20h264%20AAC)%20%5B5824B740%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-26T15:30:00",
+            "episode": 4,
+            "score": 7.3474216652,
+            "torrents": [
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 5,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 04 [720p 10bit][77B20E2D].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "77B20E2D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=457605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 3,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 04 [720p 8bit][BCD412DD].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "BCD412DD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=457606",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 04 (848x480 h264 AAC) [0F57E57D].mkv",
+                    "group": "Doki",
+                    "hash": "0F57E57D",
+                    "url": "http://tracker.anime-index.org/download.php?id=bfaf004c9eea9318ddb483d86f6f03161e8b53c6&f=%5BDoki%5D%20Ro-Kyu-Bu!%20SS%20-%2004%20(848x480%20h264%20AAC)%20%5B0F57E57D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Ro-Kyu-Bu! SS - 04 (1280x720 h264 AAC) [DA1A26D4].mkv",
+                    "group": "Doki",
+                    "hash": "DA1A26D4",
+                    "url": "http://tracker.anime-index.org/download.php?id=c1d9ecc8279957396f0e630f6b57d0f45d53f273&f=%5BDoki%5D%20Ro-Kyu-Bu!%20SS%20-%2004%20(1280x720%20h264%20AAC)%20%5BDA1A26D4%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-02T15:30:00",
+            "episode": 5,
+            "score": 7.3558695652,
+            "torrents": [
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 5,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 05v0 [720p 8bit][7DD06FA8].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "7DD06FA8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459417",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 1,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 05 [720p 10bit][E2027CEC].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "E2027CEC",
+                    "url": "http://www.nyaa.se/?page=download&tid=472608",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 0,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 05 [720p 8bit][B6959C4E].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "B6959C4E",
+                    "url": "http://www.nyaa.se/?page=download&tid=472607",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-09T15:30:00",
+            "episode": 6,
+            "score": 7.3600738007,
+            "torrents": [
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 5,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 06v0 [720p 8bit][04E6F52D].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "04E6F52D",
+                    "url": "http://www.nyaa.se/?page=download&tid=461841",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 0,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 06 [720p 10bit][CC09AC05].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "CC09AC05",
+                    "url": "http://www.nyaa.se/?page=download&tid=472610",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 0,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 06 [720p 8bit][5BFEA739].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "5BFEA739",
+                    "url": "http://www.nyaa.se/?page=download&tid=472609",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-23T15:30:00",
+            "episode": 7,
+            "score": 7.3573029046,
+            "torrents": [
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 4,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 07v0 [720p 8bit][A07C716C].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "A07C716C",
+                    "url": "http://www.nyaa.se/?page=download&tid=466758",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 1,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 07 [720p 10bit][933E0384].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "933E0384",
+                    "url": "http://www.nyaa.se/?page=download&tid=472613",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 0,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 07 [720p 8bit][DF055BE2].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "DF055BE2",
+                    "url": "http://www.nyaa.se/?page=download&tid=472612",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-30T15:30:00",
+            "episode": 8,
+            "score": 7.3576280323,
+            "torrents": [
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 2,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 08v0 [720p 8bit][009E23B6].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "009E23B6",
+                    "url": "http://www.nyaa.se/?page=download&tid=468655",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[NBA&] Ro-Kyu-Bu! SS - 08 [E253E5E3].mkv",
+                    "group": "NBA&",
+                    "hash": "E253E5E3",
+                    "url": "http://www.nyaa.se/?page=download&tid=471362",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 1,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 08 [720p 10bit][5F71FD98].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "5F71FD98",
+                    "url": "http://www.nyaa.se/?page=download&tid=472619",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 0,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 08 [720p 8bit][D68082B7].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "D68082B7",
+                    "url": "http://www.nyaa.se/?page=download&tid=472618",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-06T15:30:00",
+            "episode": 9,
+            "score": 7.3460268714,
+            "torrents": [
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 0,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 09 [720p 8bit][21139825].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "21139825",
+                    "url": "http://www.nyaa.se/?page=download&tid=471790",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 3,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 09 [720p 10bit][88025452].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "88025452",
+                    "url": "http://www.nyaa.se/?page=download&tid=471789",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-13T15:30:00",
+            "episode": 10,
+            "score": 7.3367696109,
+            "torrents": [
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 3,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 10 [720p 10bit][CA7EF66B].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "CA7EF66B",
+                    "url": "http://www.nyaa.se/?page=download&tid=473669",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 1,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 10 [720p 8bit][5856EDFD].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "5856EDFD",
+                    "url": "http://www.nyaa.se/?page=download&tid=473672",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-20T15:30:00",
+            "episode": 11,
+            "score": 7.3729520295,
+            "torrents": [
+                {
+                    "additional_info": "[720p 8bit]",
+                    "download_count": 0,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 11 [720p 8bit][D07CBC7B].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "D07CBC7B",
+                    "url": "http://www.nyaa.se/?page=download&tid=475943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 2,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 11 [720p 10bit][EFE2D10E].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "EFE2D10E",
+                    "url": "http://www.nyaa.se/?page=download&tid=475941",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-27T15:30:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p 10bit]",
+                    "download_count": 2,
+                    "filename": "[Asenshi-Doremi] Ro-Kyu-Bu! SS - 12 [720p 10bit][F1FBF613].mkv",
+                    "group": "Asenshi-Doremi",
+                    "hash": "F1FBF613",
+                    "url": "http://www.nyaa.se/?page=download&tid=478181",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9485,
+        "ann": 14852,
+        "mal": 16051,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 1313,
+            "date": "2013-09-27T05:31:13",
+            "score": 7.39,
+            "type": "mal"
+        },
+        {
+            "count": 42,
+            "date": "2013-09-11T06:55:20",
+            "score": 6.84,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2013
+    },
+    "sequel": true,
+    "sequel_parent": "282",
+    "title": "Ro-Kyu-Bu! SS"
+}

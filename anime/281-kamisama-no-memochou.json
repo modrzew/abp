@@ -1,0 +1,994 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u795e\u69d8\u306e\u30e1\u30e2\u5e33"
+        },
+        {
+            "language": "pl",
+            "title": "Notes Pana Boga"
+        }
+    ],
+    "aliases": [
+        "Kamisama no Memo-chou",
+        "Kamisama no Memochou",
+        "Kami-sama no Memo-chou",
+        "Kami-sama no Memochou "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/593311031",
+            "content": "#anime #Lato2011 Kamisama no Memochou (??????) http://rdir.pl/1ixgir",
+            "episode": 1,
+            "filename": "d7edd2fe9501e338dc0b2f07a7c76742.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/87983525491511296"
+        },
+        {
+            "blip_url": "http://blip.pl/s/633454509",
+            "content": "Kamisama no Memochou 03 - i wszystko jasne: Japonia znowu odpowiedzialna, tym razem za pija?stwo w?r\u00f3d nieletnich",
+            "episode": 3,
+            "filename": "a108210cc210e0be70a9b376d0292cbc.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/95997389122441216"
+        },
+        {
+            "blip_url": "http://blip.pl/s/645596945",
+            "content": "Kamisama no Memochou 04 - \"nie ?pi?, bo gotuj? ramen\"",
+            "episode": 4,
+            "filename": "32cc9284c0b6e979508ab6357b4c6428.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/98149192622546944"
+        },
+        {
+            "blip_url": "http://blip.pl/s/651895897",
+            "content": "Kamisama no Memochou 05 - prosz? czeka?, gwa?t w toku...",
+            "episode": 5,
+            "filename": "4b34dbe8f5abf6808bbf49da178b3626.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/100517993125130241"
+        },
+        {
+            "blip_url": "http://blip.pl/s/660774611",
+            "content": "Kamisama no Memochou 06 - cotygodniowa dawka Alice",
+            "episode": 6,
+            "filename": "efc62fd8dfa51793813767e1f8f8d790.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/102550881391747072"
+        },
+        {
+            "blip_url": "http://blip.pl/s/670872605",
+            "content": "Kamisama no Memochou 07 - Alice dawka cotygodniowa",
+            "episode": 7,
+            "filename": "9eeb4b9e4782d0501a43b0fd65faecda.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/105013596999786497"
+        },
+        {
+            "blip_url": "http://blip.pl/s/684567499",
+            "content": "Kamisama no Memochou 08 - dawka Alice cotygodniowa",
+            "episode": 8,
+            "filename": "3c0aeee4bfe13d3e231a1808d24e9e5a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/108323596350406657"
+        },
+        {
+            "blip_url": "http://blip.pl/s/693259115",
+            "content": "Kamisama no Memochou 09 - cotygodniowa Alice dawka",
+            "episode": 9,
+            "filename": "1c900a6739a7891734e981ba72fce9ae.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/110421359569534976"
+        },
+        {
+            "blip_url": "http://blip.pl/s/702944775",
+            "content": "Kamisama no Memochou 10 - dawka cotygodniowa Alice",
+            "episode": 10,
+            "filename": "fffbbe057adaa57aaf399e1613341973.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/112697089133256705"
+        },
+        {
+            "blip_url": "http://blip.pl/s/713498707",
+            "content": "Kamisama no Memochou 11 - Alice cotygodniowa dawka",
+            "episode": 11,
+            "filename": "5629a0ab84ccdb03d617e727f1f39f74.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/115236126507286528"
+        },
+        {
+            "blip_url": "http://blip.pl/s/731783127",
+            "content": "#anime #Lato2011 Kamisama no Memochou (??????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1ixgir)",
+            "episode": 12,
+            "filename": "4cfb6becc006d9ccfea15244557a3162.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/119528560938590208"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-02T16:00:00",
+            "episode": 1,
+            "score": 7.8936837851,
+            "torrents": [
+                {
+                    "additional_info": "[preair part A]",
+                    "download_count": 2,
+                    "filename": "[gg]_Kamisama_no_Memochou_-_01_Part_A_(Preair)_[0694A82A].mkv",
+                    "group": "gg",
+                    "hash": "0694A82A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225183",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 01 (1280x720 x264 AAC)[81210EC6].mkv",
+                    "group": "EveTaku",
+                    "hash": "81210EC6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 01v2 (1280x720 x264 AAC)[E6A3D5D1].mkv",
+                    "group": "EveTaku",
+                    "hash": "E6A3D5D1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225484",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[Part A]",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou Parte A 01 [8B44D32A].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "8B44D32A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Parte B]",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou Parte B 01 [7CE73831].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "7CE73831",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_01_[h264-720p][C2C005FF].mkv",
+                    "group": "UTW",
+                    "hash": "C2C005FF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Tokimeki] Kami-sama no Memo-chou - 01 [720p][D6EE4C89].mkv",
+                    "group": "Tokimeki",
+                    "hash": "D6EE4C89",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229170",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Monokage]_Kamisama_no_Memo-chou_-_01_[C3C3A00F].mkv",
+                    "group": "Monokage",
+                    "hash": "C3C3A00F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231054",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kamisama no Memo-chou - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=233263",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 0,
+                    "filename": "[PHT-KAW]_Kami-sama_no_Memochou_01_[h264][405315EF].mkv",
+                    "group": "PHT-KAW",
+                    "hash": "405315EF",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=237327",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-16T16:00:00",
+            "episode": 2,
+            "score": 7.8186354588,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 02 (1280x720 x264 AAC)[78445B8C].mkv",
+                    "group": "EveTaku",
+                    "hash": "78445B8C",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=228671",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_02_[h264-720p][10294B66].mkv",
+                    "group": "UTW",
+                    "hash": "10294B66",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228676",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 02v2 (1280x720 x264 AAC)[79E1A50F].mkv",
+                    "group": "EveTaku",
+                    "hash": "79E1A50F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228905",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 02v3 (1280x720 x264 AAC)[24e474b5].mkv",
+                    "group": "EveTaku",
+                    "hash": "24e474b5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229113",
+                    "version": 3
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 02 [06029F8D].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "06029F8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Monokage]_Kamisama_no_Memo-chou_-_02_[F8314FF4].mkv",
+                    "group": "Monokage",
+                    "hash": "F8314FF4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231055",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kamisama no Memo-chou - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=233265",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 1,
+                    "filename": "[PHT-KAW]_Kami-sama_no_Memochou_02_[h264][0D07FD81].mkv",
+                    "group": "PHT-KAW",
+                    "hash": "0D07FD81",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=237329",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-23T16:00:00",
+            "episode": 3,
+            "score": 7.7945481283,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 03 (1280x720 x264 AAC)[F9D16F46].mkv",
+                    "group": "EveTaku",
+                    "hash": "F9D16F46",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=230483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_03_[h264-720p][D0D118ED].mkv",
+                    "group": "UTW",
+                    "hash": "D0D118ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Chihiro]_Kami-sama_no_Memo-chou_-_03_[1280x720_H.264_AAC][324FC937].mkv",
+                    "group": "Chihiro",
+                    "hash": "324FC937",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Kami-sama_no_Memo-chou_-_03_%5B1280x720_H.264_AAC%5D%5B324FC937%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 03 [6BAB291B].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "6BAB291B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Monokage]_Kamisama_no_Memo-chou_-_03_[3B9C6863].mkv",
+                    "group": "Monokage",
+                    "hash": "3B9C6863",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232579",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Kamisama no Memochou - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233621",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-30T16:00:00",
+            "episode": 4,
+            "score": 7.758654489,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_04_[h264-720p][204E5F71].mkv",
+                    "group": "UTW",
+                    "hash": "204E5F71",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232482",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 04 (1280x720 x264 AAC)[3E93F4C8].mkv",
+                    "group": "EveTaku",
+                    "hash": "3E93F4C8",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=232566",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 04 [DDB5F951].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "DDB5F951",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Monokage]_Kamisama_no_Memo-chou_-_04_[1BF25504].mkv",
+                    "group": "Monokage",
+                    "hash": "1BF25504",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234134",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Kami-sama_no_Memo-chou_-_04_[1280x720_H.264_AAC][612FD6F3].mkv",
+                    "group": "Chihiro",
+                    "hash": "612FD6F3",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Kami-sama_no_Memo-chou_-_04_%5B1280x720_H.264_AAC%5D%5B612FD6F3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kamisama no Memochou - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235721",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720P]",
+                    "download_count": 2,
+                    "filename": "[Kagayaki]Kami-sama no Memochou_04_[720P] [EBAB14B7].mkv",
+                    "group": "Kagayaki",
+                    "hash": "EBAB14B7",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=237554",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-06T16:00:00",
+            "episode": 5,
+            "score": 7.7572945566,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 05 (1280x720 x264 AAC)[211B50A1].mkv",
+                    "group": "EveTaku",
+                    "hash": "211B50A1",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=234483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_05v2_[h264-720p][FE3A0B12].mkv",
+                    "group": "UTW",
+                    "hash": "FE3A0B12",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234804",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kamisama no Memochou - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235723",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 05 [B5CAB56A].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "B5CAB56A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235882",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Kami-sama_no_Memo-chou_-_05_[1280x720_H.264_AAC][73A8B027].mkv",
+                    "group": "Chihiro",
+                    "hash": "73A8B027",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Kami-sama_no_Memo-chou_-_05_%5B1280x720_H.264_AAC%5D%5B73A8B027%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-13T16:00:00",
+            "episode": 6,
+            "score": 7.7180152656,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 06 (1280x720 x264 AAC)[E179AAF0].mkv",
+                    "group": "EveTaku",
+                    "hash": "E179AAF0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236332",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_06_[h264-720p][0BAA4636].mkv",
+                    "group": "UTW",
+                    "hash": "0BAA4636",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236445",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Kami-sama_no_Memo-chou_-_06_[1280x720_H.264_AAC][4BD05707].mkv",
+                    "group": "Chihiro",
+                    "hash": "4BD05707",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Kami-sama_no_Memo-chou_-_06_%5B1280x720_H.264_AAC%5D%5B4BD05707%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 06 [10F6BB8E].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "10F6BB8E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kamisama no Memochou - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238822",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-20T16:00:00",
+            "episode": 7,
+            "score": 7.6930480383,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 07 (1280x720 x264 AAC)[AF9C5B3F].mkv",
+                    "group": "EveTaku",
+                    "hash": "AF9C5B3F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238571",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_07_[h264-720p][5456F069].mkv",
+                    "group": "UTW",
+                    "hash": "5456F069",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238674",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Kami-sama_no_Memo-chou_-_07_[1280x720_H.264_AAC][10CC5F7A].mkv",
+                    "group": "Chihiro",
+                    "hash": "10CC5F7A",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Kami-sama_no_Memo-chou_-_07_%5B1280x720_H.264_AAC%5D%5B10CC5F7A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kamisama no Memochou - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 07 [EC9FE71C].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "EC9FE71C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240177",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-27T16:00:00",
+            "episode": 8,
+            "score": 7.6872367562,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 08 (1280x720 x264 AAC)[06850DC0].mkv",
+                    "group": "EveTaku",
+                    "hash": "06850DC0",
+                    "url": "http://is.gd/Eknz41",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_08_[h264-720p][A066DD14].mkv",
+                    "group": "UTW",
+                    "hash": "A066DD14",
+                    "url": "http://utw.me/file/%5BUTW%5D_Kamisama_no_Memochou_-_08_%5Bh264-720p%5D%5BA066DD14%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 08 [D24AC438].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "D24AC438",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241993",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Kami-sama_no_Memo-chou_-_08_[1280x720_H.264_AAC][D6A43D26].mkv",
+                    "group": "Chihiro",
+                    "hash": "D6A43D26",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Kami-sama_no_Memo-chou_-_08_%5B1280x720_H.264_AAC%5D%5BD6A43D26%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-03T16:00:00",
+            "episode": 9,
+            "score": 7.6648442228,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_09_[h264-720p][4C067108].mkv",
+                    "group": "UTW",
+                    "hash": "4C067108",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242588",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Evetaku] Kamisama no Memo-chou - 09 (1280x720 x264 AAC)[1EF6008E].mkv",
+                    "group": "Evetaku",
+                    "hash": "1EF6008E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 09 [A8BE5CE2].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "A8BE5CE2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243134",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Kami-sama_no_Memo-chou_-_09_[1280x720_H.264_AAC][6D982759].mkv",
+                    "group": "Chihiro",
+                    "hash": "6D982759",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Kami-sama_no_Memo-chou_-_09_%5B1280x720_H.264_AAC%5D%5B6D982759%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-10T16:00:00",
+            "episode": 10,
+            "score": 7.657863836,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 10 (1280x720 x264 AAC)[6FC46B0E].mkv",
+                    "group": "EveTaku",
+                    "hash": "6FC46B0E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244348",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_10_[h264-720p][68BAE546].mkv",
+                    "group": "UTW",
+                    "hash": "68BAE546",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244471",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 10 [15B86BC7].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "15B86BC7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245216",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Kami-sama_no_Memo-chou_-_10_[1280x720_H.264_AAC][DB064898].mkv",
+                    "group": "Chihiro",
+                    "hash": "DB064898",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Kami-sama_no_Memo-chou_-_10_%5B1280x720_H.264_AAC%5D%5BDB064898%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-17T16:00:00",
+            "episode": 11,
+            "score": 7.6474123695,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 11 (1280x720 x264 AAC)[57B5D827].mkv",
+                    "group": "EveTaku",
+                    "hash": "57B5D827",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246026",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_11_[h264-720p][325AB2F9].mkv",
+                    "group": "UTW",
+                    "hash": "325AB2F9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246112",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 11 [DB9933E9].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "DB9933E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247157",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-24T16:00:00",
+            "episode": 12,
+            "score": 7.7387325551,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Kamisama_no_Memochou_-_12_[h264-720p][47BF442A].mkv",
+                    "group": "UTW",
+                    "hash": "47BF442A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Kamisama no Memo-chou - 12 END (1280x720 x264 AAC)[AFA1AD19].mkv",
+                    "group": "EveTaku",
+                    "hash": "AFA1AD19",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Kanade] Kamisama no Memo-chou 12 [CCADEDFB].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "CCADEDFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248674",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8370,
+        "ann": 12865,
+        "mal": 10568,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "The Girl Who Leapt Through Window",
+            "filename": "http://s.modriv.net/abp/images/screencaps/00a5a377d6a425fff0f923d7b9217177.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c9e412c8d9a8051233ee572b8f0467ef.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e4a756dd6a2513549429b37d63a9c0d5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fb1c0be9adc2ee9d453215aa95132183.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bf6a5eb8866c45a93b90028b08581768.jpg",
+            "hd": false
+        },
+        {
+            "description": "D:",
+            "filename": "http://s.modriv.net/abp/images/screencaps/35bdf355ba0a83d88b4e735898e62f96.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e2f79e5b759fef5f57cea79cf250219a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pot?ga hakowania emacsem przez sendmail",
+            "filename": "http://s.modriv.net/abp/images/screencaps/43cad9071e0db5b6569fe7c7752655f1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/147260e65b67b0775ca3335c61399d82.jpg",
+            "hd": false
+        },
+        {
+            "description": "FABU?A",
+            "filename": "http://s.modriv.net/abp/images/screencaps/132d54115077690ba3e848f1512bc995.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Kamisama no Memochou (??????) http://rdir.pl/1ixgir",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d7edd2fe9501e338dc0b2f07a7c76742.jpg",
+            "hd": false
+        },
+        {
+            "description": "i wszystko jasne: Japonia znowu odpowiedzialna, tym razem za pija?stwo w?r\u00f3d nieletnich",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a108210cc210e0be70a9b376d0292cbc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8008a88c3b24399db8e574f2570e68c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "banda NEET\u00f3w patrzy jak jesz ramen",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a7ee3046128a71aa0e043bbeeb2f1f02.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a6f98cdb6c3db5504675faf91fcf47cc.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"nie ?pi?, bo gotuj? ramen\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/32cc9284c0b6e979508ab6357b4c6428.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/34810b6f0c39b21d89785597ed70e515.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b686e239f38f0029eb626dc592c8ed73.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3493a3b0cb5c19d68e685f87e61384ed.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Alice",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b8c8ec48e0767456c7dad99a19dc5c6b.jpg",
+            "hd": false
+        },
+        {
+            "description": "pedofilia si? szerzy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f9091327b83e4069d9e1176a561ed74.jpg",
+            "hd": true
+        },
+        {
+            "description": "prosz? czeka?, gwa?t w toku...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b34dbe8f5abf6808bbf49da178b3626.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kenshiro macza? w tym palce",
+            "filename": "http://s.modriv.net/abp/images/screencaps/93da0814f837ce1462baf3b468db1337.jpg",
+            "hd": false
+        },
+        {
+            "description": "tsundere mode on",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f6b6421d682643bc0b425872a0f001c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "w jednym ?\u00f3?ku z nieletni?... ?adne rzeczy...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cbf8a1577cb89146b3f44984d4acc09b.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa dawka Alice",
+            "filename": "http://s.modriv.net/abp/images/screencaps/efc62fd8dfa51793813767e1f8f8d790.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/69a854c570d52c3af4cb6da4f02d7459.jpg",
+            "hd": true
+        },
+        {
+            "description": "Alice dawka cotygodniowa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9eeb4b9e4782d0501a43b0fd65faecda.jpg",
+            "hd": false
+        },
+        {
+            "description": "dawka Alice cotygodniowa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3c0aeee4bfe13d3e231a1808d24e9e5a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nieletni pij?cy alkohol, znowu!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/23f4b861834670375e558b38d0d39d2d.jpg",
+            "hd": false
+        },
+        {
+            "description": "cotygodniowa Alice dawka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c900a6739a7891734e981ba72fce9ae.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e44d40f7617203dbc5c581536fed86c8.jpg",
+            "hd": false
+        },
+        {
+            "description": "dawka cotygodniowa Alice",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fffbbe057adaa57aaf399e1613341973.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4afa43dd42c21f6f375bc00aa4541598.jpg",
+            "hd": false
+        },
+        {
+            "description": "Alice cotygodniowa dawka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5629a0ab84ccdb03d617e727f1f39f74.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Kamisama no Memochou (??????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1ixgir)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4cfb6becc006d9ccfea15244557a3162.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Aspo\u0142eczny licealista, na skutek paru zbieg\u00f3w okoliczno\u015bci, zostaje cz\u0142onkiem grupy NEET\u00f3w, kt\u00f3ra - wraz z samozwa\u0144cz\u0105 NEET-detektyw na czele - zajmuje si\u0119 rozwik\u0142ywaniem r\u00f3\u017cnorakich zagadek.",
+            "type": "abp"
+        },
+        {
+            "content": "Narumi Fujishima is a plain high school boy, who has been isolated in class. His classmate, Ayaka Shinozaki, invites Narumi to the gardening club and introduces a hikikomori detective named Alice to him.    Alice hires Narumi as an assistant to solve mysterious cases.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Sugii Hikaru's mystery light novel series Kamisama no Memo-chou (God's Notebook).The story centers around a NEET (Not in Education, Employment, or Training) detective girl named Alice and her assistant, a high school freshman boy named Fujishima Narumi.",
+            "type": "anidb"
+        },
+        {
+            "content": "Narumi Fujishima is an ordinary high school boy who remains isolated from his fellow classmates. One afternoon fellow classmate Ayaka Shinozaki invites Narumi to join the gardening club and introduces him to a reclusive detective named Alice. Alice hires Narumi as an assistant and puts him to work solving the strange mysteries of Angel fix, an illegal drug. Little does he know it could put him and Ayaka in serious trouble.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 18068,
+            "date": "2012-09-29T13:39:35",
+            "score": 7.73,
+            "type": "mal"
+        },
+        {
+            "count": 1342,
+            "date": "2012-09-29T13:39:35",
+            "score": 7.38,
+            "type": "anidb"
+        },
+        {
+            "count": 862,
+            "date": "2012-09-29T13:39:35",
+            "score": 7.879,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Kamisama no Memochou"
+}

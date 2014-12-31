@@ -1,0 +1,3214 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30bd\u30fc\u30c9\u30a2\u30fc\u30c8\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3"
+        },
+        {
+            "language": "pl",
+            "title": "Nalinna Mieczsztuka"
+        }
+    ],
+    "aliases": [
+        "Sword Art Online"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1558668159",
+            "content": "Sword Art Online 13 - poranek po imprezie rzadko kiedy nie jest zab\u00f3jczy",
+            "episode": 13,
+            "filename": "641ba74ea6018b04eb22d8027d58d36a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/252517551693787136"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1580379785",
+            "content": "Sword Art Online 14 - niez\u0142e maj\u0105 te grzybki w wirtualnym \u015bwiecie",
+            "episode": 14,
+            "filename": "71f824d59c724d4c53563532e2e85d73.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/255063153627504640"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1589928551",
+            "content": "Sword Art Online 16 - teraz i ty mo\u017cesz zosta\u0107 pedalsk\u0105, lataj\u0105c\u0105 wr\u00f3\u017ck\u0105!",
+            "episode": 16,
+            "filename": "e94fe9a48e23168ee7b381f411311606.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/261105347203325952"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-07-07T17:00:00",
+            "episode": 1,
+            "score": 8.6345154837,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Sword Art Online - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329531",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Sword Art Online - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329532",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329534",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Sword Art Online - 01 [B3876555].mkv",
+                    "group": "Commie",
+                    "hash": "B3876555",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329636",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_01_[720p][E986EDE5].mkv",
+                    "group": "UTWoots",
+                    "hash": "E986EDE5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NyanTaku] Sword Art Online - 01 (1280x720 x264 AAC)[DD60A425].mkv",
+                    "group": "NyanTaku",
+                    "hash": "DD60A425",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329739",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 5,
+                    "filename": "[NyanTaku] Sword Art Online - 01 (1280x720 x264-Hi10P AAC)[6DDD46FD].mkv",
+                    "group": "NyanTaku",
+                    "hash": "6DDD46FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Derp]_Sword_Art_Online_-_01_[1280x720_x264_AAC][313C2878].mkv",
+                    "group": "Derp",
+                    "hash": "313C2878",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=329796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Cynic]_Sword Art Online_-_01_[720p][C478EC85].mkv",
+                    "group": "Cynic",
+                    "hash": "C478EC85",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329864",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_01v2_[720p][E22288BC].mkv",
+                    "group": "UTWoots",
+                    "hash": "E22288BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330436",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_01_[10bit][1280x720][948A7737].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "948A7737",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330794",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_01_[8bit][1280x720][0F6ED54C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0F6ED54C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[EC-Sigh]_Sword_Art_Online_-_01_[480p]_[37151E1D].mkv",
+                    "group": "EC-Sigh",
+                    "hash": "37151E1D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334443",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[EC-Sigh]_Sword_Art_Online_-_01_[720p]_[87C7D2F9].mkv",
+                    "group": "EC-Sigh",
+                    "hash": "87C7D2F9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD][720p]",
+                    "download_count": 1,
+                    "filename": "[YamiSora] Sword Art Online - 01 [HD][720p].mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371034",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-14T17:00:00",
+            "episode": 2,
+            "score": 8.6644113671,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sword Art Online - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331743",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Sword Art Online - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331749",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Sword Art Online - 02 [B64E2359].mkv",
+                    "group": "Commie",
+                    "hash": "B64E2359",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331823",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[PuyaSubs!] Sword Art Online - 02 [480p].mkv",
+                    "group": "PuyaSubs!",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331837",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Sword_Art_Online_-_02_[1280x720_x264_AAC][0AA5C659].mkv",
+                    "group": "Derp",
+                    "hash": "0AA5C659",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331841",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_02_[720p][120D9768].mkv",
+                    "group": "UTWoots",
+                    "hash": "120D9768",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AL-Andalus]_Sword_Art_Online_-_02_[720p][07910CD0].mkv",
+                    "group": "AL-Andalus",
+                    "hash": "07910CD0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331895",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[NyanTaku] Sword Art Online - 02 (1280x720 x264-Hi10P AAC)[32C560FA].mkv",
+                    "group": "NyanTaku",
+                    "hash": "32C560FA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331899",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 02 (1280x720 x264 AAC)[9713E4C9].mkv",
+                    "group": "NyanTaku",
+                    "hash": "9713E4C9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331900",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[BakeSubs] Sword Art Online - 02 [720p][C81E9D2C].mkv",
+                    "group": "BakeSubs",
+                    "hash": "C81E9D2C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332081",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Derp]_Sword_Art_Online_-_02v2_[1280x720_x264_AAC][8EA55FB9].mkv",
+                    "group": "Derp",
+                    "hash": "8EA55FB9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332127",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[PuyaSubs!] Sword Art Online - 02 [720p].mkv",
+                    "group": "PuyaSubs!",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332181",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sword Art Online - 02 [720p] [0B0C7F6A].mkv",
+                    "group": "Hadena",
+                    "hash": "0B0C7F6A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332301",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sword Art Online - 02 [10bit] [720p] [75A65A52].mkv",
+                    "group": "Hadena",
+                    "hash": "75A65A52",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332302",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[x264 1280x720 AAC Sub[CN,JP]]",
+                    "download_count": 1,
+                    "filename": "[Kamigami] Sword Art Online - 02 [x264 1280x720 AAC Sub(CN,JP)].mkv",
+                    "group": "Kamigami",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_02_[8bit][1280x720][B1258D04].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B1258D04",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332554",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_02_[10bit][1280x720][9040550D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9040550D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332555",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD][720p]",
+                    "download_count": 0,
+                    "filename": "[YamiSora] Sword Art Online - 02 [HD][720p].mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371094",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-21T17:00:00",
+            "episode": 3,
+            "score": 8.6300753358,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Sword Art Online - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334042",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Sword Art Online - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334045",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[PuyaSubs!] Sword Art Online - 03 [720p].mkv",
+                    "group": "PuyaSubs!",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334114",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Sword Art Online - 03 [372B45D7].mkv",
+                    "group": "Commie",
+                    "hash": "372B45D7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334115",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_03_[720p][1DCBB52C].mkv",
+                    "group": "UTWoots",
+                    "hash": "1DCBB52C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334136",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_03_[8bit][1280x720][03F2217B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "03F2217B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334137",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[BakeSubs] Sword Art Online - 03 [720p][AE014F41].mkv",
+                    "group": "BakeSubs",
+                    "hash": "AE014F41",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[iSiscon & iFACEPALM] Sword Art Online 03 (1280x720 x264 Hi10P AAC)[C06484BD].mkv",
+                    "group": "iSiscon & iFACEPALM",
+                    "hash": "C06484BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334345",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Derp]_Sword_Art_Online_-_03_[1280x720_x264_AAC][E2011EE4].mkv",
+                    "group": "Derp",
+                    "hash": "E2011EE4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC] Sub[CN+JP]",
+                    "download_count": 0,
+                    "filename": "[Kamigami] Sword Art Online - 03 (1280x720 x264 AAC) Sub(CN+JP).mkv",
+                    "group": "Kamigami",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334611",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_03_[10bit][1280x720][7776C659].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7776C659",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334684",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 03 (1280x720 x264 AAC)[4B5C334B].mkv",
+                    "group": "NyanTaku",
+                    "hash": "4B5C334B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334739",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 03 (1280x720 x264-Hi10P AAC)[36C97B5B].mkv",
+                    "group": "NyanTaku",
+                    "hash": "36C97B5B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD][720p]",
+                    "download_count": 0,
+                    "filename": "[YamiSora] Sword Art Online - 03 [HD][720p].mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371161",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-28T17:00:00",
+            "episode": 4,
+            "score": 8.645278282,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sword Art Online - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336139",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Sword Art Online - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Sword Art Online - 04 [EF0D41D8].mkv",
+                    "group": "Commie",
+                    "hash": "EF0D41D8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336264",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_04_[720p][C0EA8D4E].mkv",
+                    "group": "UTWoots",
+                    "hash": "C0EA8D4E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336301",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 04 [720p] [EC5E9AAA].mkv",
+                    "group": "Hadena",
+                    "hash": "EC5E9AAA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336336",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sword Art Online - 04 [720p][10bit] [580DDF6F].mkv",
+                    "group": "Hadena",
+                    "hash": "580DDF6F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_04_[8bit][1280x720][5F5A1B26].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5F5A1B26",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_04_[10bit][1280x720][40962829].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "40962829",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336672",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Derp]_Sword_Art_Online_-_04_[1280x720_x264_AAC][F246945F].mkv",
+                    "group": "Derp",
+                    "hash": "F246945F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Cynic]_Sword_Art_Online_-_04_[5E0EFBC7].mkv",
+                    "group": "Cynic",
+                    "hash": "5E0EFBC7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337125",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 04 (1280x720 x264 AAC)[7AA35134].mkv",
+                    "group": "NyanTaku",
+                    "hash": "7AA35134",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[NyanTaku] Sword Art Online - 04 (1280x720 x264-Hi10P AAC)[87ACEFCD].mkv",
+                    "group": "NyanTaku",
+                    "hash": "87ACEFCD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337162",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD][720p]",
+                    "download_count": 0,
+                    "filename": "[YamiSora] Sword Art Online - 04 [HD][720p].mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371162",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-04T17:00:00",
+            "episode": 5,
+            "score": 8.6207904352,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Sword Art Online - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] Sword Art Online - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Sword Art Online - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Sword Art Online - 05 [54B2317C].mkv",
+                    "group": "Commie",
+                    "hash": "54B2317C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_05_[720p][7801033E].mkv",
+                    "group": "UTWoots",
+                    "hash": "7801033E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338639",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 05 [720p] [429B52CB].mkv",
+                    "group": "Hadena",
+                    "hash": "429B52CB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2005%20%5B720p%5D%20%5B429B52CB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sword Art Online - 05 [10bit] [720p] [20428AC4].mkv",
+                    "group": "Hadena",
+                    "hash": "20428AC4",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2005%20%5B10bit%5D%20%5B720p%5D%20%5B20428AC4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 05 (1280x720 x264 AAC)[F05EEF7D].mkv",
+                    "group": "NyanTaku",
+                    "hash": "F05EEF7D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339316",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 05 (1280x720 x264-Hi10P AAC)[667580EA].mkv",
+                    "group": "NyanTaku",
+                    "hash": "667580EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339317",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Cynic]Sword_Art_Online_-_05_[91B84375].mkv",
+                    "group": "Cynic",
+                    "hash": "91B84375",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=339496",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_05_[8bit][1280x720][BD6E6515].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BD6E6515",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339752",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_05_[10bit][1280x720][F3DB83CF].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F3DB83CF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Derp]_Sword_Art_Online_-_05_[1280x720_x264_AAC][29278B12].mkv",
+                    "group": "Derp",
+                    "hash": "29278B12",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353925",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD][720p]",
+                    "download_count": 0,
+                    "filename": "[YamiSora] Sword Art Online - 05 [HD][720p].mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371163",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-11T17:00:00",
+            "episode": 6,
+            "score": 8.6005207609,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 21,
+                    "filename": "[HorribleSubs] Sword Art Online - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340912",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Sword Art Online - 06 [8C198787].mkv",
+                    "group": "Commie",
+                    "hash": "8C198787",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340920",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sword Art Online - 06 [720p] [4502B9D6].mkv",
+                    "group": "Hadena",
+                    "hash": "4502B9D6",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2006%20%5B720p%5D%20%5B4502B9D6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]  [720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 06 [10bit]  [720p] [750682B6].mkv",
+                    "group": "Hadena",
+                    "hash": "750682B6",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2006%20%5B10bit%5D%20%20%5B720p%5D%20%5B750682B6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_06_[720p][516C362A].mkv",
+                    "group": "UTWoots",
+                    "hash": "516C362A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340974",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[NyanTaku] Sword Art Online - 06 (1280x720 x264-Hi10P AAC)[BF156107].mkv",
+                    "group": "NyanTaku",
+                    "hash": "BF156107",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341370",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[NyanTaku] Sword Art Online - 06 (1280x720 x264 AAC)[6ACDC845].mkv",
+                    "group": "NyanTaku",
+                    "hash": "6ACDC845",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[E90A62A]",
+                    "download_count": 8,
+                    "filename": "[Cynic]_Sword_Art_Online_-_06_[E90A62A].mkv",
+                    "group": "Cynic",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_06_[8bit][1280x720][4E0AC125].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4E0AC125",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342271",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 6,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_06_[10bit][1280x720][E33F2392].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E33F2392",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343014",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343017",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Derp]_Sword_Art_Online_-_06_[1280x720_x264_AAC][D50814EC].mkv",
+                    "group": "Derp",
+                    "hash": "D50814EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353926",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-18T17:00:00",
+            "episode": 7,
+            "score": 8.5916791383,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 24,
+                    "filename": "[HorribleSubs] Sword Art Online - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343007",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Sword Art Online - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Sword Art Online - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343029",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 07 [720p] [739EDDDF].mkv",
+                    "group": "Hadena",
+                    "hash": "739EDDDF",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2007%20%5B720p%5D%20%5B739EDDDF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Sword Art Online - 07 [B0A4E5EB].mkv",
+                    "group": "Commie",
+                    "hash": "B0A4E5EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_07_[720p][784D2596].mkv",
+                    "group": "UTWoots",
+                    "hash": "784D2596",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343220",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_07_[8bit][1280x720][6BB1A74F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6BB1A74F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343651",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_07_[10bit][1280x720][C6B6EB96].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C6B6EB96",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343652",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[NyanTaku] Sword Art Online - 07 (1280x720 x264-Hi10P AAC)[D7429C22].mkv",
+                    "group": "NyanTaku",
+                    "hash": "D7429C22",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346602",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-25T17:00:00",
+            "episode": 8,
+            "score": 8.6002254111,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Sword Art Online - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 17,
+                    "filename": "[HorribleSubs] Sword Art Online - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345460",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Sword Art Online - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Sword Art Online - 08 [720p] [58FDD244].mkv",
+                    "group": "Hadena",
+                    "hash": "58FDD244",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2008%20%5B720p%5D%20%5B58FDD244%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Sword Art Online - 08 [877FA33D].mkv",
+                    "group": "Commie",
+                    "hash": "877FA33D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345525",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_08_[720p][7AC6CF0F].mkv",
+                    "group": "UTWoots",
+                    "hash": "7AC6CF0F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 6,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_08_[8bit][1280x720][3284C1A9].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "3284C1A9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 8,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_08_[10bit][1280x720][1D2E2A24].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1D2E2A24",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 7,
+                    "filename": "[CR] Sword Art Online - 08 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[CR] Sword Art Online - 08 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 4,
+                    "filename": "[CR] Sword Art Online - 08 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[NyanTaku] Sword Art Online - 08 (1280x720 x264-Hi10P AAC)[4DF8ED23].mkv",
+                    "group": "NyanTaku",
+                    "hash": "4DF8ED23",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346603",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-01T17:00:00",
+            "episode": 9,
+            "score": 8.6307362648,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 23,
+                    "filename": "[HorribleSubs] Sword Art Online - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347800",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Sword Art Online - 09 [5945EC0D].mkv",
+                    "group": "Commie",
+                    "hash": "5945EC0D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347821",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Sword Art Online - 09 [720p] [1CB82EBE].mkv",
+                    "group": "Hadena",
+                    "hash": "1CB82EBE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2009%20%5B720p%5D%20%5B1CB82EBE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_09_[720p][0B30EF7C].mkv",
+                    "group": "UTWoots",
+                    "hash": "0B30EF7C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347910",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 09 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] Sword Art Online - 09 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1741",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 2,
+                    "filename": "[CR] Sword Art Online - 09 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1742",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348314",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348316",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NyanTaku] Sword Art Online - 09 (1280x720 x264 AAC)[21800138].mkv",
+                    "group": "NyanTaku",
+                    "hash": "21800138",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 09 (1280x720 x264-Hi10P AAC)[846885AC].mkv",
+                    "group": "NyanTaku",
+                    "hash": "846885AC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348393",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_09_[8bit][1280x720][04752CAD].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "04752CAD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_09_[10bit][1280x720][C1E864DE].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C1E864DE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349086",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-08T17:00:00",
+            "episode": 10,
+            "score": 8.6635136569,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350290",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 10 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 10 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1938",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 19,
+                    "filename": "[HorribleSubs] Sword Art Online - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350298",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350299",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 3,
+                    "filename": "[CR] Sword Art Online - 10 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1939",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Sword Art Online - 10 [09D495FB].mkv",
+                    "group": "Commie",
+                    "hash": "09D495FB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350398",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_10_[720p][A995C019].mkv",
+                    "group": "UTWoots",
+                    "hash": "A995C019",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350415",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_10_[10bit][1280x720][9BE930A2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9BE930A2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_10_[8bit][1280x720][1A4EC762].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1A4EC762",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350946",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 10 (1280x720 x264 AAC)[70A8032D].mkv",
+                    "group": "NyanTaku",
+                    "hash": "70A8032D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351549",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 10 (1280x720 x264-Hi10P AAC)[D3BFB206].mkv",
+                    "group": "NyanTaku",
+                    "hash": "D3BFB206",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351550",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-15T17:00:00",
+            "episode": 11,
+            "score": 8.6615029887,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 11 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Sword Art Online - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352685",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 11 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2001",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352687",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 11 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2002",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Sword Art Online - 11 [27F216CD].mkv",
+                    "group": "Commie",
+                    "hash": "27F216CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352726",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 11 [720p] [270F12FD].mkv",
+                    "group": "Hadena",
+                    "hash": "270F12FD",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2011%20%5B720p%5D%20%5B270F12FD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_11_[720p][8EFD5202].mkv",
+                    "group": "UTWoots",
+                    "hash": "8EFD5202",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352773",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_11_[8bit][1280x720][4323EE3B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4323EE3B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_11_[10bit][1280x720][63A28992].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "63A28992",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353152",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 11 (1280x720 x264 AAC)[80BC6839].mkv",
+                    "group": "NyanTaku",
+                    "hash": "80BC6839",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353835",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 11 (1280x720 x264-Hi10P AAC)[765A1EE7].mkv",
+                    "group": "NyanTaku",
+                    "hash": "765A1EE7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353836",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-22T17:00:00",
+            "episode": 12,
+            "score": 8.6516814726,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Sword Art Online - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354879",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 12 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Sword Art Online - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354880",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 12 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2067",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354883",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 12 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2068",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sword Art Online - 12 [720p] [F9D5A3A0].mkv",
+                    "group": "Hadena",
+                    "hash": "F9D5A3A0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2012%20%5B720p%5D%20%5BF9D5A3A0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Sword Art Online - 12 [484CC42D].mkv",
+                    "group": "Commie",
+                    "hash": "484CC42D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354929",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_12_[720p][E392A148].mkv",
+                    "group": "UTWoots",
+                    "hash": "E392A148",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354966",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_12_[8bit][1280x720][7F60DAEB].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7F60DAEB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355634",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_12_[10bit][1280x720][F6A969B6].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F6A969B6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355635",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NyanTaku] Sword Art Online - 12 (1280x720 x264 AAC)[4EE77648].mkv",
+                    "group": "NyanTaku",
+                    "hash": "4EE77648",
+                    "url": "http://www.nyaa.eu/?page=download&tid=356954",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-29T17:00:00",
+            "episode": 13,
+            "score": 8.6497543421,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=356972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 13 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2124",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 13 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2125",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=356975",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=356976",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 13 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2126",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_13_[720p][8FDCC010].mkv",
+                    "group": "UTWoots",
+                    "hash": "8FDCC010",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357093",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Sword Art Online - 13 [9A94C060].mkv",
+                    "group": "Commie",
+                    "hash": "9A94C060",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357142",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 13 (1280x720 x264-Hi10P AAC)[AB36A111].mkv",
+                    "group": "EveTaku",
+                    "hash": "AB36A111",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357509",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 13 (1280x720 x264 AAC)[EA361656].mkv",
+                    "group": "EveTaku",
+                    "hash": "EA361656",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357512",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sword Art Online - 13 [720p] [24E7AC35].mkv",
+                    "group": "Hadena",
+                    "hash": "24E7AC35",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2013%20%5B720p%5D%20%5B24E7AC35%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_13_[8bit][1280x720][C4D93732].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C4D93732",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358415",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_13_[10bit][1280x720][387E3F8A].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "387E3F8A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358416",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-06T17:00:00",
+            "episode": 14,
+            "score": 8.6499140185,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359476",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Sword Art Online - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359489",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 14 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359490",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 14 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2166",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 14 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2167",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 14 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2168",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Sword Art Online - 14 [A377AAA6].mkv",
+                    "group": "Commie",
+                    "hash": "A377AAA6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359544",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Sword Art Online - 14 [36547BAF].mkv",
+                    "group": "Commie",
+                    "hash": "36547BAF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_14_[720p][488C2810].mkv",
+                    "group": "UTWoots",
+                    "hash": "488C2810",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 14 (1280x720 x264 AAC)[4833B234].mkv",
+                    "group": "EveTaku",
+                    "hash": "4833B234",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359884",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 14 (1280x720 x264-Hi10P AAC)[276D4420].mkv",
+                    "group": "EveTaku",
+                    "hash": "276D4420",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_14_[10bit][1280x720][ECF6AD95].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "ECF6AD95",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360287",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_14_[8bit][1280x720][42B4D506].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "42B4D506",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360286",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sword Art Online - 14 [720p] [724057A7].mkv",
+                    "group": "Hadena",
+                    "hash": "724057A7",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2014%20%5B720p%5D%20%5B724057A7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-13T17:00:00",
+            "episode": 15,
+            "score": 8.6333344454,
+            "torrents": [
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 15 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Sword Art Online - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362049",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 17,
+                    "filename": "[HorribleSubs] Sword Art Online - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362050",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Sword Art Online - 15 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362057",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 15 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2203",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 15 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2204",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Sword Art Online - 15 [F10471C8].mkv",
+                    "group": "Commie",
+                    "hash": "F10471C8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362140",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_15_[720p][0CACF127].mkv",
+                    "group": "UTWoots",
+                    "hash": "0CACF127",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 15 (1280x720 x264 AAC)[1CAB376C].mkv",
+                    "group": "EveTaku",
+                    "hash": "1CAB376C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 15 (1280x720 x264-Hi10P AAC)[A6EA549B].mkv",
+                    "group": "EveTaku",
+                    "hash": "A6EA549B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362684",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_15_[10bit][1280x720][DEC3B067].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DEC3B067",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363375",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_15_[8bit][1280x720][F065129F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F065129F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363374",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sword Art Online - 15 [720p] [B8977E41].mkv",
+                    "group": "Hadena",
+                    "hash": "B8977E41",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2015%20%5B720p%5D%20%5BB8977E41%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-20T17:00:00",
+            "episode": 16,
+            "score": 8.6238805677,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Sword Art Online - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364684",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 16 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2278",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364691",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 16 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2279",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 16 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sword Art Online - 16 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364714",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Sword Art Online - 16 [FF905C3E].mkv",
+                    "group": "Commie",
+                    "hash": "FF905C3E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364747",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_16_[720p][A19F566F].mkv",
+                    "group": "UTWoots",
+                    "hash": "A19F566F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364828",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_16_[10bit][1280x720][0DD97269].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0DD97269",
+                    "url": "http://www.nyaa.eu/?page=download&tid=365625",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_16_[8bit][1280x720][51D2EB27].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "51D2EB27",
+                    "url": "http://www.nyaa.eu/?page=download&tid=365624",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 16 (1280x720 x264 AAC)[A0E831CD].mkv",
+                    "group": "EveTaku",
+                    "hash": "A0E831CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368018",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 16 (1280x720 x264-Hi10P AAC)[ABEEA3A0].mkv",
+                    "group": "EveTaku",
+                    "hash": "ABEEA3A0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368019",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-27T17:00:00",
+            "episode": 17,
+            "score": 8.6045002447,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Sword Art Online - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367353",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Sword Art Online - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 17 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367357",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Sword Art Online - 17 [54344580].mkv",
+                    "group": "Commie",
+                    "hash": "54344580",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_17_[720p][702F7973].mkv",
+                    "group": "UTWoots",
+                    "hash": "702F7973",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367510",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Linkmstr] Sword Art Online - 17 [480p].mkv",
+                    "group": "Linkmstr",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367536",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_17_[10bit][1280x720][F44811EA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F44811EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_17_[8bit][1280x720][148EEB14].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "148EEB14",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367976",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 17 (1280x720 x264-Hi10P AAC)[399BB136].mkv",
+                    "group": "EveTaku",
+                    "hash": "399BB136",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372564",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 17 (1280x720 x264 AAC)[CECE485F].mkv",
+                    "group": "EveTaku",
+                    "hash": "CECE485F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374231",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-03T16:00:00",
+            "episode": 18,
+            "score": 8.5846513776,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sword Art Online - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] Sword Art Online - 18 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2460",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Sword Art Online - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370019",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 18 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370024",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Sword Art Online - 18 [F440EE69].mkv",
+                    "group": "Commie",
+                    "hash": "F440EE69",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370091",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_18_[720p][AAB7A295].mkv",
+                    "group": "UTWoots",
+                    "hash": "AAB7A295",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370178",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_18_[8bit][1280x720][44FC1196].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "44FC1196",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371599",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_18_[10bit][1280x720][CB1DA7E9].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CB1DA7E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 18 (1280x720 x264 AAC)[26E760E6].mkv",
+                    "group": "EveTaku",
+                    "hash": "26E760E6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376908",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 18 (1280x720 x264-Hi10P AAC)[AF8ECCA3].mkv",
+                    "group": "EveTaku",
+                    "hash": "AF8ECCA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sword Art Online - 18 [720] [2A4FF3EF].mkv",
+                    "group": "Hadena",
+                    "hash": "2A4FF3EF",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2018%20%5B720%5D%20%5B2A4FF3EF%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-10T16:00:00",
+            "episode": 19,
+            "score": 8.5739150711,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[CR] Sword Art Online - 19 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2488",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sword Art Online - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372515",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sword Art Online - 19 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372516",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Sword Art Online - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372519",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Sword Art Online - 19 [3D56E957].mkv",
+                    "group": "Commie",
+                    "hash": "3D56E957",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372622",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_19_[720p][318DDE7E].mkv",
+                    "group": "UTWoots",
+                    "hash": "318DDE7E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372658",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_19_[8bit][1280x720][FF14E477].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FF14E477",
+                    "url": "http://www.nyaa.eu/?page=download&tid=373957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_19_[10bit][1280x720][E0AEC9B7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E0AEC9B7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=373958",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 19 (1280x720 x264-Hi10P AAC)[B76087AD].mkv",
+                    "group": "EveTaku",
+                    "hash": "B76087AD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377509",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Sword Art Online - 19 (1280x720 x264 AAC)[0A1CEA4D].mkv",
+                    "group": "EveTaku",
+                    "hash": "0A1CEA4D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377508",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 19 [720] [E689C002].mkv",
+                    "group": "Hadena",
+                    "hash": "E689C002",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2019%20%5B720%5D%20%5BE689C002%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-17T16:00:00",
+            "episode": 20,
+            "score": 8.5654786995,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 20 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2521",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Sword Art Online - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 20 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375034",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Sword Art Online - 20 [572A41EC].mkv",
+                    "group": "Commie",
+                    "hash": "572A41EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375074",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_20_[720p][F4EF9B28].mkv",
+                    "group": "UTWoots",
+                    "hash": "F4EF9B28",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_20_[8bit][1280x720][202BAABE].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "202BAABE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_20_[10bit][1280x720][BD959146].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BD959146",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375865",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 20 [720p] [182F8F15].mkv",
+                    "group": "Hadena",
+                    "hash": "182F8F15",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2020%20%5B720p%5D%20%5B182F8F15%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Sword Art Online 20 (1280x720 x264-Hi10P AAC)[2289F47C].mkv",
+                    "group": "EveTaku",
+                    "hash": "2289F47C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Sword Art Online 20 (1280x720 x264 AAC)[022B742B].mkv",
+                    "group": "EveTaku",
+                    "hash": "022B742B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380549",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-24T16:00:00",
+            "episode": 21,
+            "score": 8.5536059309,
+            "torrents": [
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 6,
+                    "filename": "[CR] Sword Art Online - 21 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2565",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] Sword Art Online - 21 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2566",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Sword Art Online - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377309",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 21 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sword Art Online - 21 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377331",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377338",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Sword Art Online - 21 [F527F5B1].mkv",
+                    "group": "Commie",
+                    "hash": "F527F5B1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377373",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_21_[720p][B700EE70].mkv",
+                    "group": "UTWoots",
+                    "hash": "B700EE70",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_21_[8bit][1280x720][D4888203].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D4888203",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378230",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_21_[10bit][1280x720][52197245].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "52197245",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378231",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 21 [720p] [0F2B7671].mkv",
+                    "group": "Hadena",
+                    "hash": "0F2B7671",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2021%20%5B720p%5D%20%5B0F2B7671%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Sword Art Online - 21 (1280x720 x264 AAC)[888D32F8].mkv",
+                    "group": "EveTaku",
+                    "hash": "888D32F8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] Sword Art Online - 21 (1280x720 x264-Hi10P AAC)[F9F9B7D6].mkv",
+                    "group": "EveTaku",
+                    "hash": "F9F9B7D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386262",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-01T16:00:00",
+            "episode": 22,
+            "score": 8.5444840879,
+            "torrents": [
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 2,
+                    "filename": "[CR] Sword Art Online - 22 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2606",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Sword Art Online - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Sword Art Online - 22 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2607",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 22 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2608",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 22 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379521",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sword Art Online - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379555",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Sword Art Online - 22 [277DE381].mkv",
+                    "group": "Commie",
+                    "hash": "277DE381",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379569",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_22_[720p][903B7F36].mkv",
+                    "group": "UTWoots",
+                    "hash": "903B7F36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sword Art Online - 22 [720p] [2B063C63].mkv",
+                    "group": "Hadena",
+                    "hash": "2B063C63",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2022%20%5B720p%5D%20%5B2B063C63%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_22_[8bit][1280x720][BF6169EF].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BF6169EF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380660",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_22_[10bit][1280x720][99B8F724].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "99B8F724",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380661",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 22 (1280x720 x264 AAC)[75A274E6].mkv",
+                    "group": "EveTaku",
+                    "hash": "75A274E6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387169",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 22 (1280x720 x264-Hi10P AAC)[DDA6C43C].mkv",
+                    "group": "EveTaku",
+                    "hash": "DDA6C43C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387170",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-08T16:00:00",
+            "episode": 23,
+            "score": 8.5343693283,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Sword Art Online - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381626",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sword Art Online - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381627",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] Sword Art Online - 23 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 23 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Sword Art Online - 23 [136C70CC].mkv",
+                    "group": "Commie",
+                    "hash": "136C70CC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381733",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_23_[720p][45F8C851].mkv",
+                    "group": "UTWoots",
+                    "hash": "45F8C851",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Linkmstr] Sword Art Online - 23 [480p].mkv",
+                    "group": "Linkmstr",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381815",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_23_[10bit][1280x720][DDFD63DA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DDFD63DA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382836",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_23_[8bit][1280x720][358D3DC7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "358D3DC7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382835",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 23 [720p] [3ECBE396].mkv",
+                    "group": "Hadena",
+                    "hash": "3ECBE396",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2023%20%5B720p%5D%20%5B3ECBE396%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 23 (1280x720 x264 AAC)[32D385C5].mkv",
+                    "group": "EveTaku",
+                    "hash": "32D385C5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=388553",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 23 (1280x720 x264-Hi10P AAC)[771DA24E].mkv",
+                    "group": "EveTaku",
+                    "hash": "771DA24E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=388555",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-15T16:00:00",
+            "episode": 24,
+            "score": 8.5065880115,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[CR] Sword Art Online - 24 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 3,
+                    "filename": "[CR] Sword Art Online - 24 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2654",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 1,
+                    "filename": "[CR] Sword Art Online - 24 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2655",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 24 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383700",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sword Art Online - 24 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 17,
+                    "filename": "[HorribleSubs] Sword Art Online - 24 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Sword Art Online - 24 [78611571].mkv",
+                    "group": "Commie",
+                    "hash": "78611571",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_24_[720p][C879D6C2].mkv",
+                    "group": "UTWoots",
+                    "hash": "C879D6C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383799",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Linkmstr] Sword Art Online - 24 [480p].mkv",
+                    "group": "Linkmstr",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sword Art Online - 24 [720p] [469E898F].mkv",
+                    "group": "Hadena",
+                    "hash": "469E898F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2024%20%5B720p%5D%20%5B469E898F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_24_[8bit][1280x720][71150229].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "71150229",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_24_[10bit][1280x720][4C9D103E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4C9D103E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384817",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 24 (1280x720 x264 AAC)[F5D4A721].mkv",
+                    "group": "EveTaku",
+                    "hash": "F5D4A721",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389651",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Sword Art Online - 24 (1280x720 x264-Hi10P AAC)[B7CAFD7D].mkv",
+                    "group": "EveTaku",
+                    "hash": "B7CAFD7D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389652",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-22T16:00:00",
+            "episode": 25,
+            "score": 8.5060528793,
+            "torrents": [
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 3,
+                    "filename": "[CR] Sword Art Online - 25 END [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sword Art Online - 25 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Sword Art Online - 25 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] Sword Art Online - 25 END [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sword Art Online - 25 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 5,
+                    "filename": "[CR] Sword Art Online - 25 END [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2683",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[UTWoots]_Sword_Art_Online_-_25_[720p][4337E8EE].mkv",
+                    "group": "UTWoots",
+                    "hash": "4337E8EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Sword Art Online - 25 [A8569687].mkv",
+                    "group": "Commie",
+                    "hash": "A8569687",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Sword Art Online - 25 [720p] [3CE9E999].mkv",
+                    "group": "Hadena",
+                    "hash": "3CE9E999",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sword%20Art%20Online%20-%2025%20%5B720p%5D%20%5B3CE9E999%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_25_END_[10bit][1280x720][DEBF44E5].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DEBF44E5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386291",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Sword_Art_Online_-_25_END_[8bit][1280x720][BE2EE6F2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BE2EE6F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 25 (1280x720 x264 AAC)[F07DD3D0].mkv",
+                    "group": "EveTaku",
+                    "hash": "F07DD3D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390025",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Sword Art Online - 25 (1280x720 x264-Hi10P AAC)[2DF90BAE].mkv",
+                    "group": "EveTaku",
+                    "hash": "2DF90BAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390026",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8692,
+        "ann": 13858,
+        "mal": 11757,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "W przerwie mi\u0119dzy zabijaniem si\u0119 mo\u017cna wyskoczy\u0107 na ryby",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b4b3b93f8517c9c1b96972a688d92f5b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75678c8c56af7c759b9384da30bd1a0b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tyyyyle mam n\u00f3g",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0af440808ac5a812d9235b5fea9cf608.jpg",
+            "hd": false
+        },
+        {
+            "description": "poranek po imprezie rzadko kiedy nie jest zab\u00f3jczy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/641ba74ea6018b04eb22d8027d58d36a.jpg",
+            "hd": false
+        },
+        {
+            "description": "KFC zamkn\u0119li",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1cc80ec9f6b78078b80adbff3a2693e4.jpg",
+            "hd": false
+        },
+        {
+            "description": "HAHA SPOILER",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8c4a6a277630d2e82c4ea973bec34ba2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Po czym pozna\u0107 g\u0142\u00f3wnego bohatera? W Kluczowym Dla Fabu\u0142y Momencie\u2122 zmienia kolor oczu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bf25d4d3a6d723dea4c46b33bcbc23f6.jpg",
+            "hd": false
+        },
+        {
+            "description": "niez\u0142e maj\u0105 te grzybki w wirtualnym \u015bwiecie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/71f824d59c724d4c53563532e2e85d73.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kirito ogl\u0105da\u0142 sobie go\u0142e dziewczyny w internetach, a\u017c nagle znalaz\u0142 w\u015br\u00f3d nich Asun\u0119",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f047e54dfb195cdacff0cf4e6c34297.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c85fd54ce0ad2950b8b2adc200384936.jpg",
+            "hd": false
+        },
+        {
+            "description": "teraz i ty mo\u017cesz zosta\u0107 pedalsk\u0105, lataj\u0105c\u0105 wr\u00f3\u017ck\u0105!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e94fe9a48e23168ee7b381f411311606.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Kazuto \"Kirito\" Kirigaya enters a virtual-reality, massively multiplayer online role playing game called Sword Art Online. There is no escape from this world unless the player clears the game; however getting a \"game over\" results in the death of the player.",
+            "type": "anidb"
+        },
+        {
+            "content": "The players of a virtual reality MMORPG, Aincrad Online, are trapped and fighting for their very lives. After it is announced that the only way to leave the game is by beating it, Kirito\u2014a very powerful swordsman\u2014and his friends take on a quest to free all the minds trapped in Aincrad.",
+            "type": "ann"
+        },
+        {
+            "content": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...",
+            "type": "mal"
+        },
+        {
+            "content": "In the year 2022, the Virtual reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) Sword Art Online (SAO) is released. With the Nerve Gear, a VR Helmet that stimulates the user's five senses via their brain, players can experience and control their in-game characters with their minds. But an unexpected event occurs on November 6, 2022 when Akihiko Kayaba, the creator of SAO, prevents the players from logging out. Akihiko issues them a challenge; if they wish to be free and log out of the game, they must reach the 100th floor of the game's tower and defeat the final boss. However, if their avatars die in the game, so will their bodies in the real world. As the game's 10,000 players try to accept their new deadly predicament, Kirito, a skilled player who tested the beta version of the game, is determined to reach the 100th floor and attain freedom. As he befriends other players along the way, including Asuna, who becomes his partner and love interest, Kirito faces many obstacles and eventually discovers the true purpose of SAO.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 42353,
+            "date": "2012-12-23T07:39:53",
+            "score": 8.51,
+            "type": "mal"
+        },
+        {
+            "count": 1299,
+            "date": "2012-12-23T07:39:53",
+            "score": 8.43,
+            "type": "anidb"
+        },
+        {
+            "count": 1394,
+            "date": "2012-12-23T07:39:53",
+            "score": 8.457,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Sword Art Online"
+}

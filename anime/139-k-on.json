@@ -1,0 +1,797 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3051\u3044\u304a\u3093!!"
+        },
+        {
+            "language": "pl",
+            "title": "Kejon!!"
+        }
+    ],
+    "aliases": [],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/63506564",
+            "content": "#anime #Wiosna2010 K-ON!! (\u3051\u3044\u304a\u3093!!) - nieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (wi\u0119cej: http://rdir.pl/8pemb)",
+            "episode": 1,
+            "filename": "70a556cd9d04eb112450131365997c30.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/11787284602"
+        },
+        {
+            "blip_url": "http://blip.pl/s/65729884",
+            "content": "K-ON!! 02 - patrzcie, Yui te\u017c ma w tym roku matur\u0119! Bierzcie z niej przyk\u0142ad!",
+            "episode": 2,
+            "filename": "39a5016cd2761a8cbb4e9b75f398947f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12192384793"
+        },
+        {
+            "blip_url": "http://blip.pl/s/69090026",
+            "content": "K-ON!! 03 - WIDELCEM?! W MOJEJ CHI\u0143SKIEJ BAJCE?!",
+            "episode": 3,
+            "filename": "0d925fff6fe774d4330207df2abc8346.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12706010598"
+        },
+        {
+            "blip_url": "http://blip.pl/s/71192330",
+            "content": "K-ON!! 04 - problem, Yui?",
+            "episode": 4,
+            "filename": "e269ce56e9570af439f2d3075ac2741d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13007771497"
+        },
+        {
+            "blip_url": "http://blip.pl/s/74112198",
+            "content": "K-ON!! 05 - PI\u0118\u0106 PIW PROSIMY",
+            "episode": 5,
+            "filename": "2d754ade083f25c689cbb90ee1dcff63.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13447674921"
+        },
+        {
+            "blip_url": "http://blip.pl/s/76908850",
+            "content": "K-ON!! 06 - w g\u0142\u0119bi duszy ka\u017cdy z nas chcia\u0142by by\u0107 Gitahem",
+            "episode": 6,
+            "filename": "64af61353047536f7a709522931f1e51.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13845201436"
+        },
+        {
+            "blip_url": "http://blip.pl/s/82422418",
+            "content": "K-ON!! 07 - muzyka? W MOIM KEJONIE?!",
+            "episode": 7,
+            "filename": "c8553718acd3097f459d04c5681beb50.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14465456606"
+        },
+        {
+            "blip_url": "http://blip.pl/s/85265172",
+            "content": "K-ON!! 08 - Pedoyui: Narodziny Z\u0142a",
+            "episode": 8,
+            "filename": "e8d672bf184ade7e06bcdf0d675c5085.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14785047911"
+        },
+        {
+            "blip_url": "http://blip.pl/s/87530082",
+            "content": "K-ON!! 09 - powinni ten wachlarz zast\u0105pi\u0107 kijem bejsbolowym i da\u0107 Azusie na sta\u0142ym wyposa\u017ceniu",
+            "episode": 9,
+            "filename": "7519b0f3104cb21873bc71e8fdfe16a5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15233172371"
+        },
+        {
+            "blip_url": "http://blip.pl/s/100149045",
+            "content": "K-ON!! 12 - prawdziwy festiwal z prawdziw\u0105 muzyk\u0105 gran\u0105 przez facet\u00f3w w kejonie? \u015awiat si\u0119 ko\u0144czy, jak s\u0142owo daj\u0119.",
+            "episode": 12,
+            "filename": "e2e4421a5f8dd46ba66063934b68cb09.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/16897324924"
+        },
+        {
+            "blip_url": "http://blip.pl/s/104384544",
+            "content": "K-ON!! 13 - a teraz co\u015b zupe\u0142nie z innej beczki: odcinek o niczym!",
+            "episode": 13,
+            "filename": "ddf4fb403c3ee929265ff4c45b6e2770.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/17424851437"
+        },
+        {
+            "blip_url": "http://blip.pl/s/109077222",
+            "content": "K-ON!! 14 - Mugi po zobaczeniu nowego openingu",
+            "episode": 14,
+            "filename": "88e1cec91c162f2ed22cd0587be6eb2f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/17995362918"
+        },
+        {
+            "blip_url": "http://blip.pl/s/114140694",
+            "content": "K-ON!! 15 - kolejny nudny odciALL GLORY TO THE HYPNOYUI",
+            "episode": 15,
+            "filename": "4d4650ce9b4884c6f64f9fbd283ae82f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18562919948"
+        },
+        {
+            "blip_url": "http://blip.pl/s/119138477",
+            "content": "K-ON!! 16 - wychodzisz z kibla, a tu Kejon; co robisz?",
+            "episode": 16,
+            "filename": "e9c6ce13a754f58b5110293a885cefe0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/19101884947"
+        },
+        {
+            "blip_url": "http://blip.pl/s/125867809",
+            "content": "K-ON!! 17 - Klub Muzyki Lekkiej te\u017c jest zbulwersowany nag\u0142ym brakiem sub\u00f3w do swojego #anime",
+            "episode": 17,
+            "filename": "a4dcdaa380f6c86e0b9aab7b4b092bc8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/19930653336"
+        },
+        {
+            "blip_url": "http://blip.pl/s/136244024",
+            "content": "K-ON!! 19 - \u017cadne s\u0142owa nie wyra\u017c\u0105 epicko\u015bci bij\u0105cej z tego obrazka",
+            "episode": 19,
+            "filename": "bb90c64dd92287736df19409a444cc31.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21030115071"
+        },
+        {
+            "blip_url": "http://blip.pl/s/140960186",
+            "content": "K-ON!! 20 - dobry odcinek... nieeee, to nie mo\u017ce by\u0107 Kejon, to na pewno jaka\u015b tania podr\u00f3ba stworzona przez fan\u00f3w",
+            "episode": 20,
+            "filename": "70f5d320171dd783970625735ca00c8d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21529286788"
+        },
+        {
+            "blip_url": "http://blip.pl/s/145627318",
+            "content": "K-ON!! 21 - \"Zosta\u0144 fryzjerem razem z Yui\" - w dzisiejszym odcinku: fryzura \"na dyktatora\"",
+            "episode": 21,
+            "filename": "7d4c0e3d46d9e0c1665d890758289d0d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/22041768158"
+        },
+        {
+            "blip_url": "http://blip.pl/s/151964589",
+            "content": "K-ON!! 22 - zwyczajny dzie\u0144 w Klubie Muzyki Lekkiej",
+            "episode": 22,
+            "filename": "5fbe4500fbc8e703a02ac0d228ddf33a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/157277215",
+            "content": "K-ON!! 23 - kwintesencja Kejona w jednym obrazku",
+            "episode": 23,
+            "filename": "010eb17dc94cfebb786fc4cc5a0ebeba.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/161386807",
+            "content": "K-ON!! 24 - niby koniec, cho\u0107 do ko\u0144ca jeszcze dwa odcinki. Czyli co? K-ON! ~After Story~ i umieraj\u0105ca Yui?",
+            "episode": 24,
+            "filename": "0ac3c7ca67f5af3d86b57f6c53cd8822.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/24512878736"
+        },
+        {
+            "blip_url": "http://blip.pl/s/167665977",
+            "content": "K-ON!! 25 - \"Dzie\u0144 S\u0105du w Klubie Muzyki Lekkiej\"",
+            "episode": 25,
+            "filename": "9d350a1503305ef301837efde1189869.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/25256721955"
+        },
+        {
+            "blip_url": "http://blip.pl/s/172460820",
+            "content": "#anime #Wiosna2010 K-ON!! (\u3051\u3044\u304a\u3093!!) - nasza ocena: nie tykaj nawet kijem od szczotki (wi\u0119cej: http://rdir.pl/8pemb)",
+            "episode": 26,
+            "filename": "dbd2a8ac1e42ca6746639d862dd31920.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/25816900491"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-04-06T18:25:00",
+            "episode": 1,
+            "score": 8.2093180328,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-13T18:25:00",
+            "episode": 2,
+            "score": 8.2221814703,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-20T18:25:00",
+            "episode": 3,
+            "score": 8.2066434704,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-27T18:25:00",
+            "episode": 4,
+            "score": 8.2201657165,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-04T18:25:00",
+            "episode": 5,
+            "score": 8.227020885,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-11T18:25:00",
+            "episode": 6,
+            "score": 8.2056411928,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-18T18:25:00",
+            "episode": 7,
+            "score": 8.204593921,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-25T18:25:00",
+            "episode": 8,
+            "score": 8.1944411848,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-01T18:25:00",
+            "episode": 9,
+            "score": 8.1813182611,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-08T18:25:00",
+            "episode": 10,
+            "score": 8.1801066498,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-15T18:25:00",
+            "episode": 11,
+            "score": 8.1827650194,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-22T18:25:00",
+            "episode": 12,
+            "score": 8.1675093862,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-29T18:25:00",
+            "episode": 13,
+            "score": 8.1658193893,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-06T18:25:00",
+            "episode": 14,
+            "score": 8.1713698371,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-13T18:25:00",
+            "episode": 15,
+            "score": 8.1741969542,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-20T18:25:00",
+            "episode": 16,
+            "score": 8.1816790811,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-27T18:25:00",
+            "episode": 17,
+            "score": 8.1812201282,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-03T18:25:00",
+            "episode": 18,
+            "score": 8.1757888052,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-10T18:25:00",
+            "episode": 19,
+            "score": 8.1743031024,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-17T18:25:00",
+            "episode": 20,
+            "score": 8.192150974,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-24T18:25:00",
+            "episode": 21,
+            "score": 8.1891905039,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-31T18:25:00",
+            "episode": 22,
+            "score": 8.1978646253,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-07T18:25:00",
+            "episode": 23,
+            "score": 8.2088169169,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-14T18:25:00",
+            "episode": 24,
+            "score": 8.2243049185,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-21T18:25:00",
+            "episode": 25,
+            "score": 8.2260754165,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-28T18:35:00",
+            "episode": 26,
+            "score": 8.239829116,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7307,
+        "ann": 11262,
+        "mal": 7791,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Yui jak tak siedzi, to nawet wcale taka brzydka nie jest...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4fdc0d98702306a3861d075cb4bf30ba.jpg",
+            "hd": false
+        },
+        {
+            "description": "...niewa\u017cne.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/633216311cfa844bfeb38ad406284d19.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mamooooo, zdeformowali mnieeeeeee",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6e1799565a824dd9970f3c49dfa485b2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Beztwarzowa Ritsu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f6cc1b21b1880df13b5d9bdc59852b9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d971f084aedcbb5869d7c9cb81ccc3d4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e5297b1bcbbd5ca6faf4e1a826b54647.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e4a9eadb313786466f0002cc41f2967.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2010 K-ON!! (\u3051\u3044\u304a\u3093!!) - nieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (wi\u0119cej: http://rdir.pl/8pemb)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/70a556cd9d04eb112450131365997c30.jpg",
+            "hd": false
+        },
+        {
+            "description": "patrzcie, Yui te\u017c ma w tym roku matur\u0119! Bierzcie z niej przyk\u0142ad!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/39a5016cd2761a8cbb4e9b75f398947f.jpg",
+            "hd": false
+        },
+        {
+            "description": "MOEEEEEEEEEE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7bf80861b6940e7c38679e905568c4b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Co wy chcecie od tych dziewczyn, normalne s\u0105.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9974b9883db15aa06aa61371a2c8780d.jpg",
+            "hd": false
+        },
+        {
+            "description": "ANIME MUZYCZNE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9a321394f687fd081be6cf5d69e2ff58.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/35e4dafb805d6e2389e297c067e2821e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Azusa po obejrzeniu tego odcinka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7bdea2de9dd4d4becca6de40afe33263.jpg",
+            "hd": false
+        },
+        {
+            "description": "Klub Muzyki Lekkiej zobaczy\u0142 twojego penisa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f552c76e84dab6e7e56524d16e110a8d.jpg",
+            "hd": true
+        },
+        {
+            "description": "OMNOMNOMNOM",
+            "filename": "http://s.modriv.net/abp/images/screencaps/baf8ec8bf57cac4d69dff03cf8cc7f75.jpg",
+            "hd": false
+        },
+        {
+            "description": "Azusa to kurwa.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/95b70e12a423f6ff1a516798e5f082c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "...Mio te\u017c.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c7fc65ec01fced6762ad1dca1607d15a.jpg",
+            "hd": false
+        },
+        {
+            "description": "NOMNOMNOMNOMNOM",
+            "filename": "http://s.modriv.net/abp/images/screencaps/acbb4114e12d8a2ea76aec4afbada6e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Klub Muzyki Lekkiej 5 sekund po zobaczeniu twojego penisa.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c5d210f92baf2f705b421ab9b80a1744.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/07e086d859a85f98f9477e93eba39835.jpg",
+            "hd": false
+        },
+        {
+            "description": "WIDELCEM?! W MOJEJ CHI\u0143SKIEJ BAJCE?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0d925fff6fe774d4330207df2abc8346.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fa34f4c494940853670450eaa0d80013.jpg",
+            "hd": false
+        },
+        {
+            "description": "FACET? W MOIM KEJONIE?! I do tego jeszcze jak GARowaty...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fc88061a26128b6805a690fd677a5d7b.jpg",
+            "hd": false
+        },
+        {
+            "description": "problem, Yui?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e269ce56e9570af439f2d3075ac2741d.jpg",
+            "hd": false
+        },
+        {
+            "description": "PI\u0118\u0106 PIW PROSIMY",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2d754ade083f25c689cbb90ee1dcff63.jpg",
+            "hd": false
+        },
+        {
+            "description": "w g\u0142\u0119bi duszy ka\u017cdy z nas chcia\u0142by by\u0107 Gitahem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/64af61353047536f7a709522931f1e51.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ecd75d405d8f65c4e73d0a7719c6338a.jpg",
+            "hd": false
+        },
+        {
+            "description": "K-ON is watching you masturbate",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad7b09b723c0b5eb7ddc724d2680431a.jpg",
+            "hd": false
+        },
+        {
+            "description": "muzyka? W MOIM KEJONIE?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c8553718acd3097f459d04c5681beb50.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/52c49ed84262259af6a37cce890cf3cd.jpg",
+            "hd": false
+        },
+        {
+            "description": "Na\u0107pana Mio",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2ddd23a0c1e4d7f689cbecc706766d0e.jpg",
+            "hd": false
+        },
+        {
+            "description": "M\u0118\u017bCZY\u0179NI?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4abeef495b65ae57f69ea40571ebce17.jpg",
+            "hd": false
+        },
+        {
+            "description": "W MOIM KEJONIE?!?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7894fc95436567f211d9cc0ae9d2aeb.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pedoyui: Narodziny Z\u0142a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e8d672bf184ade7e06bcdf0d675c5085.jpg",
+            "hd": false
+        },
+        {
+            "description": "powinni ten wachlarz zast\u0105pi\u0107 kijem bejsbolowym i da\u0107 Azusie na sta\u0142ym wyposa\u017ceniu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7519b0f3104cb21873bc71e8fdfe16a5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kt\u00f3r\u0105 Azu-nyan wolicie?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d9e9ec4b3f72b5f9f229a3b6c7ad9e83.jpg",
+            "hd": false
+        },
+        {
+            "description": "COCK GOES HERE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d241309df84cbaffd6c3feb6a2ad8b4f.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawdziwy festiwal z prawdziw\u0105 muzyk\u0105 gran\u0105 przez facet\u00f3w w kejonie? \u015awiat si\u0119 ko\u0144czy, jak s\u0142owo daj\u0119.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e2e4421a5f8dd46ba66063934b68cb09.jpg",
+            "hd": false
+        },
+        {
+            "description": "Niggerzusa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ab4168d836d75173bbb320014a8c1bb.jpg",
+            "hd": false
+        },
+        {
+            "description": "Moe~",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2d1b1626476545bdd3d363e0e9ac4a02.jpg",
+            "hd": false
+        },
+        {
+            "description": "a teraz co\u015b zupe\u0142nie z innej beczki: odcinek o niczym!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ddf4fb403c3ee929265ff4c45b6e2770.jpg",
+            "hd": false
+        },
+        {
+            "description": "Okulary nerda +10 do IQ, ale nadal jest ujemne",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e0fa61f6295919c1243d53a457a0583c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/31cf79f5b0f16dc14b6fc66b0b87877d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ca7a2d634bf9f8e51264a0e0443b3d77.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mugi po zobaczeniu nowego openingu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/88e1cec91c162f2ed22cd0587be6eb2f.jpg",
+            "hd": false
+        },
+        {
+            "description": "kolejny nudny odciALL GLORY TO THE HYPNOYUI",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4d4650ce9b4884c6f64f9fbd283ae82f.jpg",
+            "hd": false
+        },
+        {
+            "description": "wychodzisz z kibla, a tu Kejon; co robisz?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e9c6ce13a754f58b5110293a885cefe0.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"\u015awiat Wed\u0142ug Yui\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fe69bed7c590edeec2f90fbeee37ebe0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Klub Muzyki Lekkiej te\u017c jest zbulwersowany nag\u0142ym brakiem sub\u00f3w do swojego #anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4dcdaa380f6c86e0b9aab7b4b092bc8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Bo wsparcie rodziny jest najwa\u017cniejsze",
+            "filename": "http://s.modriv.net/abp/images/screencaps/70f9d1e66c83538b70878eb77a15cc06.jpg",
+            "hd": false
+        },
+        {
+            "description": "Przychodzisz do kawiarni, a tam Kejon udaj\u0105cy obs\u0142ug\u0119; co robisz?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f6eebe27700518e4bc813d90fd8b82ac.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2a5f2a70e35391c4587816a3137abecb.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u017cadne s\u0142owa nie wyra\u017c\u0105 epicko\u015bci bij\u0105cej z tego obrazka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bb90c64dd92287736df19409a444cc31.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d322949c83ad0d0718458920825d5569.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8965616bfc1cb1ca01749e77df705560.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5e083e0174844735e3cbf4ff2f6fa20.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/369962550ce38c219a5f51b3675572e8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Za du\u017co taniego wina.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6ad997daa34107fa0ae43512df7801f3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0e31d8f3b7a6024e835d6cf771a9e1cb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bcd2960939a1c37b942ee5bfa14532d8.jpg",
+            "hd": false
+        },
+        {
+            "description": "dobry odcinek... nieeee, to nie mo\u017ce by\u0107 Kejon, to na pewno jaka\u015b tania podr\u00f3ba stworzona przez fan\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/70f5d320171dd783970625735ca00c8d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Bo \u015bpiewa\u0107 o jedzeniu to tylko Kejon potrafi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f20aab723d2aac713703ec93b808cf08.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a8ef421ce7fc24104fd5822882a3d959.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Zosta\u0144 fryzjerem razem z Yui\" - w dzisiejszym odcinku: fryzura \"na dyktatora\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d4c0e3d46d9e0c1665d890758289d0d.jpg",
+            "hd": false
+        },
+        {
+            "description": "zwyczajny dzie\u0144 w Klubie Muzyki Lekkiej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5fbe4500fbc8e703a02ac0d228ddf33a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/351369131b8ccb13aa304fbb7fddce29.jpg",
+            "hd": false
+        },
+        {
+            "description": "kwintesencja Kejona w jednym obrazku",
+            "filename": "http://s.modriv.net/abp/images/screencaps/010eb17dc94cfebb786fc4cc5a0ebeba.jpg",
+            "hd": false
+        },
+        {
+            "description": "niby koniec, cho\u0107 do ko\u0144ca jeszcze dwa odcinki. Czyli co? K-ON! ~After Story~ i umieraj\u0105ca Yui?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ac3c7ca67f5af3d86b57f6c53cd8822.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/50b615b98fcfff1951a7c2182941bc86.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1d69ca98301354f1fd77a9611aa8282c.jpg",
+            "hd": false
+        },
+        {
+            "description": "To si\u0119 cholera jasna nigdy nie sko\u0144czy.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d4a7d0f7c5a4af9c192aac7b6940b9bd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9c6f3653d3a9686615b39f6b0e1d5f95.jpg",
+            "hd": false
+        },
+        {
+            "description": "Prawid\u0142owy spos\u00f3b s\u0142uchania Kejona",
+            "filename": "http://s.modriv.net/abp/images/screencaps/858eb839c89f957d4fe176b8c6f9e368.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/047861c86ab916425d284f307e6b2d4e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Styl walki \"W\u015bciek\u0142a Yui\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/59d11b694681767ef315182ae3ae9198.jpg",
+            "hd": false
+        },
+        {
+            "description": "ZA KEJON",
+            "filename": "http://s.modriv.net/abp/images/screencaps/36db9bd4692bce7de36b852d5a12cc0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Twierdzenie Kejona",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3c04154779609815cc231b155462ad7a.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Dzie\u0144 S\u0105du w Klubie Muzyki Lekkiej\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9d350a1503305ef301837efde1189869.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Jak trollowa\u0107 Azus\u0119\", obrazek pomocniczy nr 28",
+            "filename": "http://s.modriv.net/abp/images/screencaps/09590ddb3cd4c8ef3ccb9d063b03adc1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Hassaku~ Hassaku~",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7413c09ee7bb01c184855ba1fdddbbcd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f19af34c1d2b4fbc9aba3b5e5e886de1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/12e76ebebbbbac4db1481adba56b5c5d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2010 K-ON!! (\u3051\u3044\u304a\u3093!!) - nasza ocena: nie tykaj nawet kijem od szczotki (wi\u0119cej: http://rdir.pl/8pemb)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dbd2a8ac1e42ca6746639d862dd31920.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "JEZUSIE NAJS\u0141ODSZY MATKO WSZECHMOG\u0104CA KONTYNUACJA NAJGORSZEGO ANIME WSZECH CZAS\u00d3W",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 44257,
+            "date": "2012-09-29T02:49:00",
+            "score": 8.25,
+            "type": "mal"
+        },
+        {
+            "count": 2302,
+            "date": "2012-09-29T02:49:00",
+            "score": 7.96,
+            "type": "anidb"
+        },
+        {
+            "count": 2159,
+            "date": "2012-09-29T02:49:00",
+            "score": 7.518,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "13",
+    "title": "K-ON!!"
+}

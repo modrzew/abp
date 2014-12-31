@@ -1,0 +1,746 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6226\u52c7."
+        }
+    ],
+    "aliases": [
+        "Senyu",
+        "Senyuu"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-01-08T17:35:00",
+            "episode": 1,
+            "score": 7.0570257967,
+            "torrents": [
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Senyu - 01 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[CR] Senyu - 01 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2777",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Senyu - 01 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Senyuu - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391047",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Senyuu - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391048",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Senyuu - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391050",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 01 (1280x720 10-bit x264 AAC) [263B5823].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "263B5823",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391155",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Senyuu. - 01 [9C84D3D7].mkv",
+                    "group": "Commie",
+                    "hash": "9C84D3D7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394462",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-15T17:35:00",
+            "episode": 2,
+            "score": 6.4385714286,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393326",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Senyuu - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393327",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Senyuu - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[960x540 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 02 (960x540 10-bit x264 AAC) [8C5A9CBD].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "8C5A9CBD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393368",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 02 (1280x720 10-bit x264 AAC) [C68732BD].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "C68732BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Senyuu. - 02 [C47836C7].mkv",
+                    "group": "Commie",
+                    "hash": "C47836C7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396820",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-22T17:35:00",
+            "episode": 3,
+            "score": 7.2376658163,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395934",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Senyuu - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Senyuu - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395939",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 03 (1280x720 10-bit x264 AAC) [FA21418C].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "FA21418C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Senyuu. - 03 [76B6544B].mkv",
+                    "group": "Commie",
+                    "hash": "76B6544B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396821",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-29T17:35:00",
+            "episode": 4,
+            "score": 7.2126195594,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[AnimeNOW] Senyuu - 04 (1280x720 10-bit x264 AAC) [9FD94F7D].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "9FD94F7D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399073",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Senyuu. - 04 [48664BB3].mkv",
+                    "group": "Commie",
+                    "hash": "48664BB3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403246",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-05T17:35:00",
+            "episode": 5,
+            "score": 7.212758259,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Senyuu - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Senyuu - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401132",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Senyuu - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 05 (1280x720 10-bit x264 AAC) [3AD38479].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "3AD38479",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401967",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Senyuu. - 05 [BDCF0B53].mkv",
+                    "group": "Commie",
+                    "hash": "BDCF0B53",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403825",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-12T17:35:00",
+            "episode": 6,
+            "score": 7.2492763281,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Senyuu - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403462",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403463",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 06 (1280x720 10-bit x264 AAC) [C8A96F58].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "C8A96F58",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Senyuu. - 06 [622FBFFD].mkv",
+                    "group": "Commie",
+                    "hash": "622FBFFD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403826",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-19T17:35:00",
+            "episode": 7,
+            "score": 7.2760440991,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405748",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Senyuu - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405749",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Senyuu. - 07 [4B8414A9].mkv",
+                    "group": "Commie",
+                    "hash": "4B8414A9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 07 (1280x720 10-bit x264 AAC) [6A7A9A64].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "6A7A9A64",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407369",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-26T17:35:00",
+            "episode": 8,
+            "score": 7.3014709348,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Senyuu - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408049",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408050",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408051",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Senyuu. - 08 [115B7F5C].mkv",
+                    "group": "Commie",
+                    "hash": "115B7F5C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408132",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 08 (1280x720 10-bit x264 AAC) [AF672A57].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "AF672A57",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408150",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-05T17:35:00",
+            "episode": 9,
+            "score": 7.3201823595,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410368",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Senyuu - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410370",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410371",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Senyuu. - 09 [728DDDED].mkv",
+                    "group": "Commie",
+                    "hash": "728DDDED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 09 (1280x720 10-bit x264 AAC) [8C934485].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "8C934485",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411636",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-12T17:35:00",
+            "episode": 10,
+            "score": 7.3295315002,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412665",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Senyuu - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412668",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 10 (1280x720 10-bit x264 AAC) [0939B6D1].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "0939B6D1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Senyuu. - 10 [8EFFE84F].mkv",
+                    "group": "Commie",
+                    "hash": "8EFFE84F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413659",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-19T17:35:00",
+            "episode": 11,
+            "score": 7.3407721436,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Senyuu - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414886",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Senyuu. - 11 [D7C5EAA3].mkv",
+                    "group": "Commie",
+                    "hash": "D7C5EAA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415259",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 11 (1280x720 10-bit x264 AAC) [B6887672].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "B6887672",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415883",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-26T17:35:00",
+            "episode": 12,
+            "score": 7.3511656932,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Senyuu - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417010",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Senyuu - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417012",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 12 (1280x720 10-bit x264 AAC) [CD7F3999].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "CD7F3999",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417647",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Senyuu. - 12 [1D02001E].mkv",
+                    "group": "Commie",
+                    "hash": "1D02001E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417747",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-02T17:35:00",
+            "episode": 13,
+            "score": 7.3922068651,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419324",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Senyuu - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419325",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Senyuu - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419326",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Senyuu - 13 END (1280x720 10-bit x264 AAC) [DD74DC8E].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "DD74DC8E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419450",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Senyuu. - 13 [5F2B0BC6].mkv",
+                    "group": "Commie",
+                    "hash": "5F2B0BC6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419887",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 5,
+    "external_sites": {
+        "anidb": 9393,
+        "ann": 14841,
+        "mal": 15751,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Satan Rchimedes returns to the earth after being sealed for one thousand years by a hero. The King tries to seal Satan once again by dispatching descendants of the hero. However, it's troublesome to find the genuine descendants, the king chooses 75 hero-like people. This is an adventure of Alba, the hero No.45, and an his monitoring fighter Ross.",
+            "type": "mal"
+        },
+        {
+            "content": "In the story, a gigantic hole suddenly opened up in the world one day, and demons appeared. The king thinks that this portends the return of the demon king Rukimedesu, who was sealed away by the hero Kureashion a millenium ago. The king decreed that the descendants of the hero must take on the threat, and 75 people showed up. Hero No. 45 (Aruba) and a sadistic palace warrior (Ross) team up, and their adventure begins.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3106,
+            "date": "2013-04-03T04:14:05",
+            "score": 7.47,
+            "type": "mal"
+        },
+        {
+            "count": 81,
+            "date": "2013-04-03T04:14:05",
+            "score": 6.56,
+            "type": "anidb"
+        },
+        {
+            "count": 105,
+            "date": "2013-04-03T04:14:05",
+            "score": 5.733,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Senyuu"
+}

@@ -1,0 +1,52 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u771f\u604b\u59eb\u2020\u7121\u53cc \uff5e\u4e59\u5973\u7e5a\u4e71\u2606\u4e09\u56fd\u5fd7\u6f14\u7fa9\uff5e"
+        },
+        {
+            "language": "pl",
+            "title": "Nowe Niepokonane Ksi\u0119\u017cniczki Mi\u0142o\u015bci"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6400,
+        "ann": 10655,
+        "mal": 6112,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 4269,
+            "date": "2012-09-29T02:15:05",
+            "score": 7.13,
+            "type": "mal"
+        },
+        {
+            "count": 443,
+            "date": "2012-09-29T02:15:05",
+            "score": 6.55,
+            "type": "anidb"
+        },
+        {
+            "count": 412,
+            "date": "2012-09-29T02:15:05",
+            "score": 7.432,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Koihime\u2020Musou",
+    "title": "Shin Koihime\u2020Musou"
+}

@@ -1,0 +1,76 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u307f\u306e\u308a\u30b9\u30af\u30e9\u30f3\u30d6\u30eb!"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-02-15T00:00:00",
+            "episode": 1,
+            "score": 6.0,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 1,
+    "episodes_length": 40,
+    "external_sites": {
+        "anidb": 7960,
+        "ann": 13362,
+        "mal": 9523,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Przygody Tamaki, kt\u00f3ra nienawidzi pingwin\u00f3w oraz Pingwina-Robota skonstruowanego przez jej ojca.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on Chihaya Mikage's Minori Scramble! comedy mangaTamaki's father is a researcher who studies penguins. However, she herself, can't stand them. In order to help her overcome this, Minori, a penuinoid (penguin-android) is created. However, the two are continuously getting into trouble.~ translated and adapted from official site by Cranston",
+            "type": "anidb"
+        },
+        {
+            "content": "Tamaki is an elementary school girl. Her father Dr. Yagiyama loves penguins and his excessive lectures about penguins makes Tamaki hate them. In order to get rid of her hatred of penguins, he engineers the penguin-roid \"Minori\". Tamaki and Minori run about the neighborhood to solve troubles caused by her father.",
+            "type": "mal"
+        },
+        {
+            "content": "The story revolves around Tamaki Kakegawa, a fifth grade girl whose father is a penguin researcher. As such, Tamaki is constantly surrounded by penguins and has grown to hate them. In order to cure Tamaki's hatred of penguins, a 'penguinoid' named Minori is built to befriend her.",
+            "type": "ann"
+        },
+        {
+            "content": "The story revolves around Tamaki Kakegawa, a fifth grade girl whose father is a penguin researcher. As such, Tamaki is constantly surrounded by penguins and has grown to hate them. In order to cure Tamaki's hatred of penguins, a 'penguinoid' named Minori is built to befriend her.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 609,
+            "date": "2012-09-29T14:07:14",
+            "score": 6.57,
+            "type": "mal"
+        },
+        {
+            "count": 85,
+            "date": "2012-09-29T14:07:14",
+            "score": 5.92,
+            "type": "anidb"
+        },
+        {
+            "count": 27,
+            "date": "2012-09-29T14:07:14",
+            "score": 6.368,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Minori Scramble!"
+}

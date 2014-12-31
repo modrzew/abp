@@ -1,0 +1,755 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ac\u30c3\u30c1\u30e3\u30de\u30f3 \u30af\u30e9\u30a6\u30ba"
+        },
+        {
+            "language": "pl",
+            "title": "T\u0142umy Zgadzaj\u0105cych si\u0119 Ludzi"
+        }
+    ],
+    "aliases": [
+        "Gatchaman Crowds"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-07-12T18:58:00",
+            "episode": 1,
+            "score": 7.106351706,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Gatchaman Crowds - 01 [2F85EBA6].mkv",
+                    "group": "Commie",
+                    "hash": "2F85EBA6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451894",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 01 [Hi10P 1280x720 H264][169545FB].mkv",
+                    "group": "Cthuko",
+                    "hash": "169545FB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=452336",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 01v2 [Hi10P 1280x720 H264][939f2446].mkv",
+                    "group": "Cthuko",
+                    "hash": "939f2446",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454194",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Gatchaman Crowds 01 [7A842985].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "7A842985",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455707",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-19T18:58:00",
+            "episode": 2,
+            "score": 7.1566641623,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454250",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454253",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Gatchaman Crowds - 02 [45FE1681].mkv",
+                    "group": "Commie",
+                    "hash": "45FE1681",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454297",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 02 [Hi10P 1280x720 H264][9CAE7658].mkv",
+                    "group": "Cthuko",
+                    "hash": "9CAE7658",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454473",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Gatchaman Crowds 02 [D5836656].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "D5836656",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456305",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-26T18:58:00",
+            "episode": 3,
+            "score": 7.1503537613,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456576",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456577",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Gatchaman Crowds - 03 [CFBDF788].mkv",
+                    "group": "Commie",
+                    "hash": "CFBDF788",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 03 [Hi10P 1280x720 H264][A5235DF1].mkv",
+                    "group": "Cthuko",
+                    "hash": "A5235DF1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=458173",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 03v2 [Hi10P 1280x720 H264][C90CA733].mkv",
+                    "group": "Cthuko",
+                    "hash": "C90CA733",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459652",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Gatchaman Crowds 03 [AC763ECC].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "AC763ECC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460192",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-02T18:58:00",
+            "episode": 4,
+            "score": 7.1606418511,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459023",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459025",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Gatchaman Crowds - 04 [5098A50C].mkv",
+                    "group": "Commie",
+                    "hash": "5098A50C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 04 [Hi10P 1280x720 H264][4382A812].mkv",
+                    "group": "Cthuko",
+                    "hash": "4382A812",
+                    "url": "http://www.nyaa.se/?page=download&tid=463862",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Gatchaman Crowds 04 [27793291].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "27793291",
+                    "url": "http://www.nyaa.se/?page=download&tid=465919",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-09T18:58:00",
+            "episode": 5,
+            "score": 7.2061132162,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[AnimeBurst.Com] Gatchaman Crowds - 05 [720p].mkv",
+                    "group": "AnimeBurst.Com",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=461445",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=461452",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=461453",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=461454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Gatchaman Crowds - 05 [6437AC8C].mkv",
+                    "group": "Commie",
+                    "hash": "6437AC8C",
+                    "url": "http://www.nyaa.se/?page=download&tid=461517",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 05 [Hi10P 1280x720 H264][142D9BA6].mkv",
+                    "group": "Cthuko",
+                    "hash": "142D9BA6",
+                    "url": "http://www.nyaa.se/?page=download&tid=467238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Gatchaman Crowds 05 [37915F38].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "37915F38",
+                    "url": "http://www.nyaa.se/?page=download&tid=469195",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-16T18:58:00",
+            "episode": 6,
+            "score": 7.2475904167,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463747",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Gatchaman Crowds - 06 [E819E819].mkv",
+                    "group": "Commie",
+                    "hash": "E819E819",
+                    "url": "http://www.nyaa.se/?page=download&tid=463768",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 06 [Hi10P 1280x720 H264][ADB75086].mkv",
+                    "group": "Cthuko",
+                    "hash": "ADB75086",
+                    "url": "http://www.nyaa.se/?page=download&tid=471394",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-23T18:58:00",
+            "episode": 7,
+            "score": 7.2840666795,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=466062",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=466063",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=466064",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Gatchaman Crowds - 07 [BFE8C10B].mkv",
+                    "group": "Commie",
+                    "hash": "BFE8C10B",
+                    "url": "http://www.nyaa.se/?page=download&tid=466079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 07 [Hi10P 1280x720 H264][244EB415].mkv",
+                    "group": "Cthuko",
+                    "hash": "244EB415",
+                    "url": "http://www.nyaa.se/?page=download&tid=471395",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-30T18:58:00",
+            "episode": 8,
+            "score": 7.3040833333,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=468184",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=468186",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=468187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Gatchaman Crowds - 08 [499AE672].mkv",
+                    "group": "Commie",
+                    "hash": "499AE672",
+                    "url": "http://www.nyaa.se/?page=download&tid=468202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 08 [Hi10P 1280x720 H264][255A1E80].mkv",
+                    "group": "Cthuko",
+                    "hash": "255A1E80",
+                    "url": "http://www.nyaa.se/?page=download&tid=472929",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-06T18:58:00",
+            "episode": 9,
+            "score": 7.3286665543,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=470409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=470410",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=470413",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Gatchaman Crowds - 09 [3918191F].mkv",
+                    "group": "Commie",
+                    "hash": "3918191F",
+                    "url": "http://www.nyaa.se/?page=download&tid=470491",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 09 [Hi10P 1280x720 H264][42FD0293].mkv",
+                    "group": "Cthuko",
+                    "hash": "42FD0293",
+                    "url": "http://www.nyaa.se/?page=download&tid=477208",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 09v2 [Hi10P 1280x720 H264][D89A1166].mkv",
+                    "group": "Cthuko",
+                    "hash": "D89A1166",
+                    "url": "http://www.nyaa.se/?page=download&tid=477408",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-09-13T18:58:00",
+            "episode": 10,
+            "score": 7.3687492823,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472714",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472716",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Gatchaman Crowds - 10 [5B1F1CBA].mkv",
+                    "group": "Commie",
+                    "hash": "5B1F1CBA",
+                    "url": "http://www.nyaa.se/?page=download&tid=472797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Cthuko] Gatchaman Crowds - 10 [Hi10P 1280x720 H264][BA601CE9].mkv",
+                    "group": "Cthuko",
+                    "hash": "BA601CE9",
+                    "url": "http://www.nyaa.se/?page=download&tid=479110",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-20T18:58:00",
+            "episode": 11,
+            "score": 7.4027979351,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=474993",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475001",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Gatchaman Crowds - 11 [23747E06].mkv",
+                    "group": "Commie",
+                    "hash": "23747E06",
+                    "url": "http://www.nyaa.se/?page=download&tid=475101",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-27T18:58:00",
+            "episode": 12,
+            "score": 7.5860059593,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477330",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477332",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gatchaman Crowds - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Gatchaman Crowds - 12 [913022DD].mkv",
+                    "group": "Commie",
+                    "hash": "913022DD",
+                    "url": "http://www.nyaa.se/?page=download&tid=477378",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9820,
+        "ann": 15280,
+        "mal": 18229,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The story is set in Japan in the early summer of 2015. 180,000 people live in Tachikawa City, the \"second metropolis\" of the Tokyo area. Among them are \"Gatchaman\"\u2014warriors who fight in special reinforced suits powered by \"NOTE,\" the manifestation of special spiritual powers in living beings. A council has scouted a group of individuals with latent powers to protect Earth from alien criminals. In recent years, the council has assigned Gatchaman warriors to deal with the mysterious entity known as \"MESS.\"  (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "Simple minded high school girl meets strange tall black alien vampire on roof, from whom she receives an even stranger mechanical note book which turns her into Gatchaman. a Gatchaman is a sort of human sized mecha that fights aliens space invaders in the shape of rubix cubes.",
+            "type": "ann"
+        },
+        {
+            "content": "In the early summer of 2015 Tachikawa, a second metropolis of Tokyo, is populated by people known as Gatchaman, who are warriors that fight in special reinforced suits that are powered by the manifestation of spiritual powers of living beings called NOTE. A council has recruited individuals that have latent powers to help fight alien criminals. In recent years, the council has appointed the Gatchaman Crew (G-Crew) to fight the mysterious entity known as MESS.Source: Wikipedia",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7355,
+            "date": "2013-09-29T03:20:53",
+            "score": 7.62,
+            "type": "mal"
+        },
+        {
+            "count": 164,
+            "date": "2013-09-29T03:20:53",
+            "score": 6.57,
+            "type": "anidb"
+        },
+        {
+            "count": 200,
+            "date": "2013-09-29T03:20:53",
+            "score": 7.169,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Gatchaman Crowds"
+}

@@ -1,0 +1,826 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5742\u9053\u306e\u30a2\u30dd\u30ed\u30f3"
+        },
+        {
+            "language": "en",
+            "title": "Kids on the Slope"
+        },
+        {
+            "language": "pl",
+            "title": "Apollon Zbocza"
+        }
+    ],
+    "aliases": [
+        "Sakamichi no Apollon"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1105212513",
+            "content": "#anime #Wiosna2012 Sakamichi no Apollon (\u5742\u9053\u306e\u30a2\u30dd\u30ed\u30f3) http://rdir.pl/1nbmw9",
+            "episode": 1,
+            "filename": "d8572527427e5ffd6b838b7573fe0eea.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190889926852747264"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1222067993",
+            "content": "Sakamichi no Apollon 07 - I was waiting for you my boy",
+            "episode": 7,
+            "filename": "ddb0dd8ba09c3542203ce840a1e33168.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/207047511549018112"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1286305511",
+            "content": "Sakamichi no Apollon 11 - Sentaro nie mo\u017ce ju\u017c d\u0142u\u017cej panowa\u0107 nad swoj\u0105 pa\u0142eczk\u0105.",
+            "episode": 11,
+            "filename": "883e72d4e01155ef36f5c48c80097477.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/217367471294910465"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-12T17:45:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 01v2 [DC3B17B5].mkv",
+                    "group": "WhyNot",
+                    "hash": "DC3B17B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304475",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 01 [C251B0F1].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "C251B0F1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304557",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[CMS] Sakamichi no Apollon 01 [720p][758EFE60].mkv",
+                    "group": "CMS",
+                    "hash": "758EFE60",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305269",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HDTV]",
+                    "download_count": 1,
+                    "filename": "[UnAnime Corp.] Sakamichi no Apollon - 01 [HDTV][3C5E0090].mkv",
+                    "group": "UnAnime Corp.",
+                    "hash": "3C5E0090",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309350",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-19T17:45:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306447",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306448",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306449",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 02 [A5422D71].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "A5422D71",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306544",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 02 [D7E73505].mkv",
+                    "group": "WhyNot",
+                    "hash": "D7E73505",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306559",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[CMS] Sakamichi no Apollon 02 [720p][6721FA1C].mkv",
+                    "group": "CMS",
+                    "hash": "6721FA1C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307295",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-26T17:45:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308721",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308724",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308727",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 03 [ED12728C].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "ED12728C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 03 [44EB5094].mkv",
+                    "group": "WhyNot",
+                    "hash": "44EB5094",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Sakamichi no Apollon 03 [720p][6EEE8E22].mkv",
+                    "group": "CMS",
+                    "hash": "6EEE8E22",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309655",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-03T17:45:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311072",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311076",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311077",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 04 [C88B2AB6].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "C88B2AB6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 04 [EDD51D8E].mkv",
+                    "group": "WhyNot",
+                    "hash": "EDD51D8E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311214",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Sakamichi no Apollon 04 [720p][AA59E2DC].mkv",
+                    "group": "CMS",
+                    "hash": "AA59E2DC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312063",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-10T17:45:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313112",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313114",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 05 [ED925094].mkv",
+                    "group": "WhyNot",
+                    "hash": "ED925094",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 05 [CDEA649F].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "CDEA649F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313266",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Sakamichi no Apollon 05 [720p][87DBF8D9].mkv",
+                    "group": "CMS",
+                    "hash": "87DBF8D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313932",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-17T17:45:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314945",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314947",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 06 [C9A26135].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "C9A26135",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315132",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 06 [3512BBF8].mkv",
+                    "group": "WhyNot",
+                    "hash": "3512BBF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315136",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[CMS] Sakamichi no Apollon 06 [720p][2374F727].mkv",
+                    "group": "CMS",
+                    "hash": "2374F727",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315926",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-24T17:45:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316924",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316927",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316931",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 07 [66C79557].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "66C79557",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317021",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 07 [5421F89D].mkv",
+                    "group": "WhyNot",
+                    "hash": "5421F89D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317054",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[CMS] Sakamichi no Apollon 07 [720p][FF68D3E7].mkv",
+                    "group": "CMS",
+                    "hash": "FF68D3E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317529",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-31T17:45:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319027",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319029",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 08 [683B67BF].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "683B67BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319153",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 08 [BFBD6DD7].mkv",
+                    "group": "WhyNot",
+                    "hash": "BFBD6DD7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319167",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Sakamichi no Apollon 08 [720p][1A55900D].mkv",
+                    "group": "CMS",
+                    "hash": "1A55900D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319852",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-07T17:45:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321070",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321072",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321073",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 09 [CD4879D6].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "CD4879D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321166",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 09 [EB48398F].mkv",
+                    "group": "WhyNot",
+                    "hash": "EB48398F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321186",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[CMS] Sakamichi no Apollon 09 [720p][0148C853].mkv",
+                    "group": "CMS",
+                    "hash": "0148C853",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321822",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-14T17:45:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322950",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322951",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 10 [84D2A2C7].mkv",
+                    "group": "WhyNot",
+                    "hash": "84D2A2C7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323057",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 10 [51E187E9].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "51E187E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Sakamichi no Apollon 10 [720p][8C9774ED].mkv",
+                    "group": "CMS",
+                    "hash": "8C9774ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323713",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-21T17:45:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324744",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sakamichi no Apollon - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324754",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 11 [B0ACB08F].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "B0ACB08F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324836",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Sakamichi no Apollon - 11 [80148B2A].mkv",
+                    "group": "WhyNot",
+                    "hash": "80148B2A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324848",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Sakamichi no Apollon 11 [720p][67A311EF].mkv",
+                    "group": "CMS",
+                    "hash": "67A311EF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325420",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-28T17:45:00",
+            "episode": 12,
+            "score": 8.6243769554,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie-Commie] Sakamichi no Apollon - 12 [DEF1C795].mkv",
+                    "group": "Commie-Commie",
+                    "hash": "DEF1C795",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326940",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[CMS] Sakamichi no Apollon 12 [720p][376A9D40].mkv",
+                    "group": "CMS",
+                    "hash": "376A9D40",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327558",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P-720p][Sub Ita][v2]",
+                    "download_count": 2,
+                    "filename": "[Pluschan_Fansub]Sakamichi_no_Apollon_-_12_[Hi10P-720p][Sub_Ita][v2][5FDD84F7].mkv",
+                    "group": "Pluschan Fansub",
+                    "hash": "5FDD84F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332952",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8870,
+        "ann": 13944,
+        "mal": 12531,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Zupe\u0142nie nietypowy pocz\u0105tek",
+            "filename": "http://s.modriv.net/abp/images/screencaps/05ad5148afe034feb4383d096a393b13.jpg",
+            "hd": false
+        },
+        {
+            "description": "Just fuck already!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8d6b78a96ded61aef60f69595874926a.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Oto klucz do mojego... samochodu\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4c3a57acedf161cce99149e126586782.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Sakamichi no Apollon (\u5742\u9053\u306e\u30a2\u30dd\u30ed\u30f3) http://rdir.pl/1nbmw9",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d8572527427e5ffd6b838b7573fe0eea.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/acc8b98acc70664f3fd0461630c2490b.jpg",
+            "hd": false
+        },
+        {
+            "description": "*ba dum tsss*",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6861bf07c75a7c9f779a85599f6d9be9.jpg",
+            "hd": false
+        },
+        {
+            "description": "I was waiting for you my boy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ddb0dd8ba09c3542203ce840a1e33168.jpg",
+            "hd": false
+        },
+        {
+            "description": "Sentaro nie mo\u017ce ju\u017c d\u0142u\u017cej panowa\u0107 nad swoj\u0105 pa\u0142eczk\u0105.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/883e72d4e01155ef36f5c48c80097477.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on a josei manga by Kodama Yuki, serialised in Monthly Flowers.The coming-of-age story of love, friendship, and music follows a naive boy and a scruffy boy in a provincial town in Nagasaki Prefecture in the late 1960s. In the early summer of 1966, Kaoru transfers to the local high school from Yokosuka. Thanks to his family's nearly constant cycle of moving from town to town, Kaoru has only known school as a difficult place for readjusting every time. However, on his first day at this new school, he meets Sentarou and takes a new direction in life.Source: ANNNote: The first episode received an early screening together with the first episode of Tsuritama at a special event held at Noitamina Shop & Cafe Theatre on 07.04.2012. 110 lucky participants were chosen through a lottery to take part in. Regular TV broadcast was held on 13.04.2012.",
+            "type": "anidb"
+        },
+        {
+            "content": "Summer 1966: Kaoru Nishimi has moved to live with relatives in Ky\u016bsh\u016b. He's been an aloof honor student his whole life, but that starts changing when he meets Sentar\u014d Kawabuchi, the school's notorious bad boy. Through him, he learns the appeal of jazz and forms his first real friendships.",
+            "type": "ann"
+        },
+        {
+            "content": "The beginning of summer, 1966.   Because of his father's job situation, freshman high school student Kaoru Nishimi moves by himself from Yokosuka to Kyushu to live with relatives. Until then, Kaoru was an honor roll student who tended to keep to himself, but meeting notorious bad boy Sentaro Kawabuchi starts to change him. Through his devil-may-care classmate, Kaoru learns the attractions of jazz and finds the first person he can call a \"friend\". He also discovers how much fun it is to play music with a pal.   Other characters include Sentaro's kind childhood chum, Ritsuko, who is the daughter of a record shop owner; the mysterious upperclassman, Yurika; and Brother Jun, the much-admired leader among their peers. Set against the backdrop of a seaside town with a scent of American culture, this series is a drama about young people coming into their own, crossing each other's paths, and finding friendship, love, and music!   (Source: Official Website)",
+            "type": "mal"
+        },
+        {
+            "content": "The beginning of summer, 1966.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 16304,
+            "date": "2012-09-29T14:15:51",
+            "score": 8.57,
+            "type": "mal"
+        },
+        {
+            "count": 799,
+            "date": "2012-09-29T14:15:51",
+            "score": 8.32,
+            "type": "anidb"
+        },
+        {
+            "count": 751,
+            "date": "2012-09-29T14:15:51",
+            "score": 8.761,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Sakamichi no Apollon"
+}

@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "GA \u82b8\u8853\u79d1\u30a2\u30fc\u30c8\u30c7\u30b6\u30a4\u30f3\u30af\u30e9\u30b9"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6574,
+        "ann": 10895,
+        "mal": 5670,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on Kiyuzuki Satoko's slice-of-life manga series serialised in Comic Gyutto! and later Manga Time Kirara Carat.The ongoing GA: Geijutsuka Art Design Class manga series premiered in 2004, illustrating the daily lives of five freshman girls in a high school art class.",
+            "type": "anidb"
+        },
+        {
+            "content": "A slice-of-life anime that revolves around five freshman girls in a high school art class.",
+            "type": "mal"
+        },
+        {
+            "content": "GA is a class that specializes in the arts at Ayanoi High School. Kisaragi, Nodamiki, Kyoju, Tomokane and Namiko are a group of five friends who have colorful adventures and learn about art techniques.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2775,
+            "date": "2012-09-29T02:36:53",
+            "score": 7.4,
+            "type": "mal"
+        },
+        {
+            "count": 457,
+            "date": "2012-09-29T02:36:53",
+            "score": 7.06,
+            "type": "anidb"
+        },
+        {
+            "count": 259,
+            "date": "2012-09-29T02:36:53",
+            "score": 7.044,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "GA: Geijutsuka Art Design Class"
+}

@@ -1,0 +1,678 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u8d85\u8a33\u767e\u4eba\u4e00\u9996 \u3046\u305f\u604b\u3044\u3002"
+        },
+        {
+            "language": "pl",
+            "title": "Frywolna Interpretacja 100 Poemat\u00f3w: Mi\u0142o\u015b\u0107pie\u015b\u0144."
+        }
+    ],
+    "aliases": [
+        "Utakoi"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1310589709",
+            "content": "#anime #Lato2012 Chouyaku Hyakunin Isshu: Uta Koi. (\u8d85\u8a33\u767e\u4eba\u4e00\u9996 \u3046\u305f\u604b\u3044\u3002) http://rdir.pl/1oa9z7",
+            "episode": 1,
+            "filename": "0e7e5092eb2cb16ccb96311627a07300.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/220827390186766338"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-07-02T18:30:00",
+            "episode": 1,
+            "score": 7.106012931,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Utakoi - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328451",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Utakoi - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328452",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Utakoi - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Utakoi - 01 [3BC0434C].mkv",
+                    "group": "WhyNot",
+                    "hash": "3BC0434C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331543",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-09T18:30:00",
+            "episode": 2,
+            "score": 7.2565805658,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Utakoi - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330347",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Utakoi - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330349",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Utakoi - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Utakoi - 02 [B8981C8C].mkv",
+                    "group": "WhyNot",
+                    "hash": "B8981C8C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336936",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-16T18:30:00",
+            "episode": 3,
+            "score": 7.3032617187,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Utakoi - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332462",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Utakoi - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332463",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Utakoi - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332465",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Utakoi - 03 [324B1BBC].mkv",
+                    "group": "WhyNot",
+                    "hash": "324B1BBC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338684",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-23T18:30:00",
+            "episode": 4,
+            "score": 7.2707321275,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Utakoi - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334677",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Utakoi - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Utakoi - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Utakoi - 04 [8D37C0FC].mkv",
+                    "group": "WhyNot",
+                    "hash": "8D37C0FC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345562",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-30T18:30:00",
+            "episode": 5,
+            "score": 7.2931537242,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336848",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Utakoi - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336851",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Utakoi - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Utakoi - 05 [8B063D1E].mkv",
+                    "group": "WhyNot",
+                    "hash": "8B063D1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345563",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-06T18:30:00",
+            "episode": 6,
+            "score": 7.2853608247,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339185",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Utakoi - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Utakoi - 06 [0DF55681].mkv",
+                    "group": "WhyNot",
+                    "hash": "0DF55681",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358383",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-13T18:30:00",
+            "episode": 7,
+            "score": 7.1872992701,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341579",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Utakoi - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Utakoi - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341585",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Utakoi - 07 [5BEAF770].mkv",
+                    "group": "WhyNot",
+                    "hash": "5BEAF770",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393453",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-20T18:30:00",
+            "episode": 8,
+            "score": 7.1828094629,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343979",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Utakoi - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Utakoi - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Utakoi - 08 [222F09DD].mkv",
+                    "group": "WhyNot",
+                    "hash": "222F09DD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393455",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-27T18:30:00",
+            "episode": 9,
+            "score": 7.2065469512,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Utakoi - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346230",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Utakoi - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346232",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Utakoi - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346236",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-03T18:30:00",
+            "episode": 10,
+            "score": 7.1874466077,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348525",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348528",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348531",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Utakoi - 10 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Utakoi - 10 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Utakoi - 10 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1747",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-10T18:30:00",
+            "episode": 11,
+            "score": 7.1975630348,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351148",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Utakoi - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351152",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-17T18:30:00",
+            "episode": 12,
+            "score": 7.1867619571,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353424",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353426",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353428",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-24T18:30:00",
+            "episode": 13,
+            "score": 7.4008145766,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355535",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355536",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Utakoi - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355537",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9078,
+        "ann": 14168,
+        "mal": 13349,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "bo w antycznej Japonii byli ju\u017c blondyni",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b084ea524b48485b48b2d84e2e83cfc2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a2e0f890b58bf2dd6055dea46ad286c9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9f50e233ac230494efc08b258f6f6583.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/946e06feaa5cd0dcce0605360ab5ae91.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3d44debd50905f91636593f1619e548a.jpg",
+            "hd": false
+        },
+        {
+            "description": "draw me like one of your french girls",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f89bc0d757e6c43e80f70c4831748ed0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/776ea7c209e209ce340f6f715f37667b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5885088f4a796f3cc522cce247fc1fc6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/728fb3bd3fd0e41f36ebfe83b4c117f3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bf84978e01484cdf65fa32b78e5b8e3a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/79aae973e53fe87147156836b28d464d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2012 Chouyaku Hyakunin Isshu: Uta Koi. (\u8d85\u8a33\u767e\u4eba\u4e00\u9996 \u3046\u305f\u604b\u3044\u3002) http://rdir.pl/1oa9z7",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0e7e5092eb2cb16ccb96311627a07300.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "The Hyakunin Isshu are an anthology of one hundred poems found in a trational Japanese card game called Karuta. Presented by the person who selected the writings, Fujiwara no Teika, this is a glimpse into the origin of some of them. Since the majority of them are love compositions, the focus remains on romance in ancient Japan.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "The \"Hyakunin Isshu\" are an anthology of one hundred poems found in a trational Japanese card game called Karuta. The show is introduced by the person who selected the writings, Fujiwara no Teika. This is a glimpse into the origin of some of them. Since the majority of them are love compositions, the focus remains on romance in ancient Japan.",
+            "type": "ann"
+        },
+        {
+            "content": "Uta Koi tells the \"super-liberal interpretation\" of the Hyakuninisshu anthology compiled during Japan's Heian period of 100 romantic poems from 100 different poets such as The Tale of Genji's Murasaki Shikibu.",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 1646,
+            "date": "2012-09-29T14:29:10",
+            "score": 7.52,
+            "type": "mal"
+        },
+        {
+            "count": 100,
+            "date": "2012-09-29T14:29:10",
+            "score": 6.76,
+            "type": "anidb"
+        },
+        {
+            "count": 120,
+            "date": "2012-09-29T14:29:10",
+            "score": 6.3,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Chouyaku Hyakunin Isshu: Uta Koi."
+}

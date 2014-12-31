@@ -1,0 +1,52 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30af\u30a4\u30fc\u30f3\u30ba\u30d6\u30ec\u30a4\u30c9 \u7389\u5ea7\u3092\u7d99\u3050\u8005"
+        },
+        {
+            "language": "pl",
+            "title": "Ostrze Kr\u00f3lowej: Dziedzic Tronu"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6653,
+        "ann": 10920,
+        "mal": 6633,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 6132,
+            "date": "2012-09-29T02:37:16",
+            "score": 6.9,
+            "type": "mal"
+        },
+        {
+            "count": 720,
+            "date": "2012-09-29T02:37:16",
+            "score": 6.55,
+            "type": "anidb"
+        },
+        {
+            "count": 523,
+            "date": "2012-09-29T02:37:16",
+            "score": 6.546,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "71",
+    "title": "Queen's Blade: Gyokuza wo Tsugu Mono"
+}

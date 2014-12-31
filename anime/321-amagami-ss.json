@@ -1,0 +1,473 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30de\u30ac\u30dfSS+"
+        },
+        {
+            "language": "pl",
+            "title": "Delikatny K\u0119s SS+"
+        }
+    ],
+    "aliases": [
+        "Amagami SS Plus"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/883071953",
+            "content": "#anime #Zima2012 Amagami SS+ (\u30a2\u30de\u30ac\u30dfSS+) http://rdir.pl/1mekom",
+            "episode": 1,
+            "filename": "8142278f02be5309f0885699269c114a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/156164938031837184"
+        },
+        {
+            "blip_url": "http://blip.pl/s/890050829",
+            "content": "Amagami SS+ 02 - wzrok Ayatsuji, kt\u00f3ry zabija, wersja 48721",
+            "episode": 2,
+            "filename": "12280b9b261fce14b643952dc68c654b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/157836497742086145"
+        },
+        {
+            "blip_url": "http://blip.pl/s/902893291",
+            "content": "Amagami SS+ 03 - zr\u00f3\u017cnicowana dieta przede wszystkim",
+            "episode": 3,
+            "filename": "2770a2aab51964ebf9ab93454f9b9572.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161075998669012992"
+        },
+        {
+            "blip_url": "http://blip.pl/s/952741389",
+            "content": "Amagami SS+ 06 - Junichi ju\u017c sobie z torrent\u00f3w nie skorzysta",
+            "episode": 6,
+            "filename": "02eb5ba92ba0289740c812a2aa7a3410.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/169251205296558080"
+        },
+        {
+            "blip_url": "http://blip.pl/s/963802283",
+            "content": "Amagami SS+ 07 - za ka\u017cdym razem gdy wyjmujesz jedzenie",
+            "episode": 7,
+            "filename": "7e0ec962f4b476dcf666c423dbe8361c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/170614957015187456"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1089323291",
+            "content": "#anime #Zima2012 Amagami SS+ (\u30a2\u30de\u30ac\u30dfSS+) - nasza ocena: s\u0142absze ni\u017c poprzednik (wi\u0119cej: http://rdir.pl/1mekom)",
+            "episode": 13,
+            "filename": "6e45f722f433186e890d88d68de187a0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/188432948268244992"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-05T17:55:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 14,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_01_[h264-720p][333C09E0].mkv",
+                    "group": "UTW",
+                    "hash": "333C09E0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Amagami_SS_Plus_-_01_[10bit][1280x720][DD0C3875].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DD0C3875",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277103",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amagami_SS_Plus_-_01_[8bit][1280x720][2CDDBBF3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "2CDDBBF3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277111",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-12T17:55:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2012-01-19T17:55:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 14,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_03_[h264-720p][8F1647EC].mkv",
+                    "group": "UTW",
+                    "hash": "8F1647EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278029",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-26T17:55:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 11,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_04_[h264-720p][55BB0441].mkv",
+                    "group": "UTW",
+                    "hash": "55BB0441",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280426",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-02T17:55:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 10,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_05_[h264-720p][1C5928F2].mkv",
+                    "group": "UTW",
+                    "hash": "1C5928F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283199",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-09T17:55:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_06_[h264-720p][2C3FE952].mkv",
+                    "group": "UTW",
+                    "hash": "2C3FE952",
+                    "url": "http://tracker.minglong.org/torrents/%5BUTW%5D_Amagami_SS_Plus_-_06_%5Bh264-720p%5D%5B2C3FE952%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[8bit]_Amagami_SS_Plus_-_06_[h264-720p].mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://db.tt/0o3PoPvj",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-16T17:55:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 12,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_07_[h264-720p][A691C671].mkv",
+                    "group": "UTW",
+                    "hash": "A691C671",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287878",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 0,
+                    "filename": "[8bit]_Amagami_SS_Plus_-_07_[h264-720p][A691C671].mkv",
+                    "group": "8bit",
+                    "hash": "A691C671",
+                    "url": "http://db.tt/62Kzm75o",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-23T17:55:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 12,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_08_[h264-720p][D2782D93].mkv",
+                    "group": "UTW",
+                    "hash": "D2782D93",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290112",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-01T17:55:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_09_[h264-720p][C9990DF9].mkv",
+                    "group": "UTW",
+                    "hash": "C9990DF9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292556",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-08T17:55:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 10,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_10_[h264-720p][CCD2E833].mkv",
+                    "group": "UTW",
+                    "hash": "CCD2E833",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294501",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-15T17:55:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 10,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_11_[h264-720p][53CAFE21].mkv",
+                    "group": "UTW",
+                    "hash": "53CAFE21",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296464",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-22T17:55:00",
+            "episode": 12,
+            "score": 7.813392832,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_12_[h264-720p][43B587C3].mkv",
+                    "group": "UTW",
+                    "hash": "43B587C3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298361",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-29T18:55:00",
+            "episode": 13,
+            "score": 7.6363011725,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 11,
+                    "filename": "[UTW]_Amagami_SS_Plus_-_13_[h264-720p][BA386338].mkv",
+                    "group": "UTW",
+                    "hash": "BA386338",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300290",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 25,
+    "external_sites": {
+        "anidb": 8573,
+        "ann": 13328,
+        "mal": 11235,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Nosebleed commencing in 3... 2... 1...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d80b5df52218542d07006c167fc580af.jpg",
+            "hd": false
+        },
+        {
+            "description": "FABU\u0141A",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c186c7c45dec0e09e9816246ba2aa541.jpg",
+            "hd": false
+        },
+        {
+            "description": "Miya zawsze musi co\u015b spieprzy\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d178babd14ca6ed30dd2287feb5303ef.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/af1557ec3914d40038b4122dd249f822.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5570a95850d590c9762d5f2425b13c53.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kurosawa spiskuje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e2316c1ce971684ec6fc7e3631eb7c34.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ed0f91fc92fae228238f0bddb2e7be9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4f53f5890ad53bf390cff9e67304a0a7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kurosawa nadal spiskuje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/443646dac399b1915010d3f1a12f72e7.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Amagami SS+ (\u30a2\u30de\u30ac\u30dfSS+) http://rdir.pl/1mekom",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8142278f02be5309f0885699269c114a.jpg",
+            "hd": false
+        },
+        {
+            "description": "wybory do samorz\u0105du powa\u017cna sprawa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba6203277705f5b25b4a55f4686be44d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4613ed706d5e728d7955540d3b36ed6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kurosawa... no, wiadomo",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e2302022cf81aa1e4961644f2d231168.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b5100475d7cebe2768f3ad50caaecd43.jpg",
+            "hd": false
+        },
+        {
+            "description": "wzrok Ayatsuji, kt\u00f3ry zabija, wersja 48721",
+            "filename": "http://s.modriv.net/abp/images/screencaps/12280b9b261fce14b643952dc68c654b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2c5e4fab41737d840ce62a838c1aacd7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kurosawa...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/254e98d710b2d49d974a0d5a5cc400a3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b238c89b5cacb3a2ebd5141423a01df1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7a1d3e62fdfb10a2aa458db7b13aed18.jpg",
+            "hd": false
+        },
+        {
+            "description": "ekshibicjoni\u015bci atakuj\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/320b3a2a5cb56289a32bf07c6e0a2e6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "zr\u00f3\u017cnicowana dieta przede wszystkim",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2770a2aab51964ebf9ab93454f9b9572.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a411e68c8218f70f34a0e290a0836c21.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b95130a473ab3f4a0e465f3c80af712e.jpg",
+            "hd": false
+        },
+        {
+            "description": "RAEP TIEM NAO",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0d28b0c8e17e01864a12329d18f484ae.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a2d13b1f7ce8021f0473c9dace154f65.jpg",
+            "hd": false
+        },
+        {
+            "description": "Junichi ju\u017c sobie z torrent\u00f3w nie skorzysta",
+            "filename": "http://s.modriv.net/abp/images/screencaps/02eb5ba92ba0289740c812a2aa7a3410.jpg",
+            "hd": false
+        },
+        {
+            "description": "za ka\u017cdym razem gdy wyjmujesz jedzenie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7e0ec962f4b476dcf666c423dbe8361c.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Amagami SS+ (\u30a2\u30de\u30ac\u30dfSS+) - nasza ocena: s\u0142absze ni\u017c poprzednik (wi\u0119cej: http://rdir.pl/1mekom)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6e45f722f433186e890d88d68de187a0.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 11141,
+            "date": "2012-09-29T14:02:07",
+            "score": 7.66,
+            "type": "mal"
+        },
+        {
+            "count": 643,
+            "date": "2012-09-29T14:02:07",
+            "score": 7.22,
+            "type": "anidb"
+        },
+        {
+            "count": 415,
+            "date": "2012-09-29T14:02:07",
+            "score": 7.714,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "158",
+    "title": "Amagami SS+"
+}

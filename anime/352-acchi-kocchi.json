@@ -1,0 +1,894 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3042\u3063\u3061\u3053\u3063\u3061"
+        },
+        {
+            "language": "en",
+            "title": "Place to Place"
+        },
+        {
+            "language": "pl",
+            "title": "Z Miejsca na Miejsce"
+        }
+    ],
+    "aliases": [
+        "Acchi Kocchi"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1105301777",
+            "content": "#anime #Wiosna2012 Acchi Kocchi (\u3042\u3063\u3061\u3053\u3063\u3061) http://rdir.pl/1nb9dz",
+            "episode": 1,
+            "filename": "c28c36bbadc49667e3b97aa093fa2f13.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-05T18:25:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_01_[8bit][1280x720][7498FA1F].mkv",
+                    "group": "Tsumiki",
+                    "hash": "7498FA1F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_01v2 [10bit][1280x720][730A425B].mkv",
+                    "group": "Tsumiki",
+                    "hash": "730A425B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302387",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Acchi Kocchi - 01 [E4F3D287].mkv",
+                    "group": "Commie",
+                    "hash": "E4F3D287",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 01 [10bit][720p][ACE2D99A].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "ACE2D99A",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2001%20%5B10bit%5D%5B720p%5D%5BACE2D99A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 01 [480p][18540C20].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "18540C20",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2001%20%5B480p%5D%5B18540C20%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 01 [720p][8E445729].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "8E445729",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2001%20%5B720p%5D%5B8E445729%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Acchi_Kocchi_01_[10bit][1280x720][88566322].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "88566322",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308008",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Acchi_Kocchi_01_[8bit][1280x720][DCB2048D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DCB2048D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308006",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-12T18:25:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_02_[8bit][1280x720][E5DA8436].mkv",
+                    "group": "Tsumiki",
+                    "hash": "E5DA8436",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304792",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_02_[10bit][1280x720][529E1BBB].mkv",
+                    "group": "Tsumiki",
+                    "hash": "529E1BBB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 02 [720p][C5071F3F].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "C5071F3F",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2002%20%5B720p%5D%5BC5071F3F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 02 [480p][3D10CA38].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "3D10CA38",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2002%20%5B480p%5D%5B3D10CA38%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 02 [10bit][720p][994B5E4C].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "994B5E4C",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2002%20%5B10bit%5D%5B720p%5D%5B994B5E4C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Acchi Kocchi - 02 [AEA3ECF7].mkv",
+                    "group": "Commie",
+                    "hash": "AEA3ECF7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304924",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Acchi_Kocchi_02_[8bit][1280x720][9271EDA2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9271EDA2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308009",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Acchi_Kocchi_02_[10bit][1280x720][10FD92F8].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "10FD92F8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308010",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-19T18:25:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Acchi Kocchi - 03 [A2BD6284].mkv",
+                    "group": "Commie",
+                    "hash": "A2BD6284",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 03 [720p][C22378F9].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "C22378F9",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2003%20%5B720p%5D%5BC22378F9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 03 [480p][4546D0DF].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "4546D0DF",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2003%20%5B480p%5D%5B4546D0DF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_03_[8bit][1280x720][747C48C1].mkv",
+                    "group": "Tsumiki",
+                    "hash": "747C48C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307471",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_03_[10bit][1280x720][243B3F1D].mkv",
+                    "group": "Tsumiki",
+                    "hash": "243B3F1D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307470",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 03v2 [10bit][720p][E749101C].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "E749101C",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2003v2%20%5B10bit%5D%5B720p%5D%5BE749101C%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Acchi_Kocchi_03_[10bit][1280x720][9528EB15].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9528EB15",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Acchi_Kocchi_03_[8bit][1280x720][A06EB35D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A06EB35D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311750",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-26T18:25:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Commie] Acchi Kocchi - 04 [F4532C9A].mkv",
+                    "group": "Commie",
+                    "hash": "F4532C9A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309124",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_04_[8bit][1280x720][EA91A6E2].mkv",
+                    "group": "Tsumiki",
+                    "hash": "EA91A6E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309542",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 7,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_04_[10bit][1280x720][09688DA3].mkv",
+                    "group": "Tsumiki",
+                    "hash": "09688DA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309543",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 04 [720p][8026AA39].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "8026AA39",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2004%20%5B720p%5D%5B8026AA39%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 04 [480p][8C106FDE].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "8C106FDE",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2004%20%5B480p%5D%5B8C106FDE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 04 [10bit][720p][242BDB8E].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "242BDB8E",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2004%20%5B10bit%5D%5B720p%5D%5B242BDB8E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-03T18:25:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Acchi Kocchi - 05 [A00F6E51].mkv",
+                    "group": "Commie",
+                    "hash": "A00F6E51",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311724",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 05 [720p][43CE9175].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "43CE9175",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2005%20%5B720p%5D%5B43CE9175%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 05 [480p][ECB9C5DE].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "ECB9C5DE",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2005%20%5B480p%5D%5BECB9C5DE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 05 [10bit][720p][D6186356].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "D6186356",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2005%20%5B10bit%5D%5B720p%5D%5BD6186356%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_05_[8bit][1280x720][F2FFD3A7].mkv",
+                    "group": "Tsumiki",
+                    "hash": "F2FFD3A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314035",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_05_[10bit][1280x720][C814AA31].mkv",
+                    "group": "Tsumiki",
+                    "hash": "C814AA31",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314040",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-10T18:25:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 06v2 [720p][1DDF54AE].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "1DDF54AE",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2006v2%20%5B720p%5D%5B1DDF54AE%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 06v2 [480p][1B85D2D7].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "1B85D2D7",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2006v2%20%5B480p%5D%5B1B85D2D7%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 06 [10bit][720p][CC45A8A9].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "CC45A8A9",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2006%20%5B10bit%5D%5B720p%5D%5BCC45A8A9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Acchi Kocchi - 06 [64B0919A].mkv",
+                    "group": "Commie",
+                    "hash": "64B0919A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_06_[10bit][1280x720][6325885D].mkv",
+                    "group": "Tsumiki",
+                    "hash": "6325885D",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=315399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_06_[8bit][1280x720][94E2B0F6].mkv",
+                    "group": "Tsumiki",
+                    "hash": "94E2B0F6",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=315396",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-17T18:25:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[Kimitsu] Acchi Kocchi - 07 [720p].mkv",
+                    "group": "Kimitsu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315106",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Acchi Kocchi - 07 [018F728C].mkv",
+                    "group": "Commie",
+                    "hash": "018F728C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315602",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 07 [720p][BD476894].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "BD476894",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2007%20%5B720p%5D%5BBD476894%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 07 [480p][C9023BB4].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "C9023BB4",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2007%20%5B480p%5D%5BC9023BB4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_07_[10bit][1280x720][1466EB9B].mkv",
+                    "group": "Tsumiki",
+                    "hash": "1466EB9B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_07_[8bit][1280x720][5DE3F128].mkv",
+                    "group": "Tsumiki",
+                    "hash": "5DE3F128",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316777",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 07 [10bit][720p][D9E931F7].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "D9E931F7",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2007%20%5B10bit%5D%5B720p%5D%5BD9E931F7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-24T18:25:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Kimitsu] Acchi Kocchi - 08 [720p].mkv",
+                    "group": "Kimitsu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=317060",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Acchi Kocchi - 08 [D5C296E1].mkv",
+                    "group": "Commie",
+                    "hash": "D5C296E1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 08 [720p][AD1F9475].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "AD1F9475",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2008%20%5B720p%5D%5BAD1F9475%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_08_[8bit][1280x720][412EA3EE].mkv",
+                    "group": "Tsumiki",
+                    "hash": "412EA3EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_08_[10bit][1280x720][BC532625].mkv",
+                    "group": "Tsumiki",
+                    "hash": "BC532625",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 08 [10bit][720p][6ABED50D].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "6ABED50D",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2008%20%5B10bit%5D%5B720p%5D%5B6ABED50D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-31T18:25:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Kimitsu] Acchi Kocchi - 09 [720p].mkv",
+                    "group": "Kimitsu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=319174",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Acchi Kocchi - 09 [9EB1B09A].mkv",
+                    "group": "Commie",
+                    "hash": "9EB1B09A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319669",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 09 [720p][7CAC6918].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "7CAC6918",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2009%20%5B720p%5D%5B7CAC6918%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 09 [10bit][720p][E5AFBA02].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "E5AFBA02",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2009%20%5B10bit%5D%5B720p%5D%5BE5AFBA02%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_09_[10bit][1280x720][F45D0BCF].mkv",
+                    "group": "Tsumiki",
+                    "hash": "F45D0BCF",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=325932&showfiles=1",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_09_[8bit][1280x720][CD953A2B].mkv",
+                    "group": "Tsumiki",
+                    "hash": "CD953A2B",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=325931&showfiles=1",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-07T18:25:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Acchi Kocchi - 10 [6377213E].mkv",
+                    "group": "Commie",
+                    "hash": "6377213E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321707",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 10 [720p][B1C0AFBC].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "B1C0AFBC",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2010%20%5B720p%5D%5BB1C0AFBC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_10_[8bit][1280x720][15574311].mkv",
+                    "group": "Tsumiki",
+                    "hash": "15574311",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331815",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_10_[10bit][1280x720][45477C35].mkv",
+                    "group": "Tsumiki",
+                    "hash": "45477C35",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331816",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-21T18:25:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 11 [720p][4BBF6A5D].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "4BBF6A5D",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2011%20%5B720p%5D%5B4BBF6A5D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 11 [10bit][720p][E3AE58D2].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "E3AE58D2",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2011%20%5B10bit%5D%5B720p%5D%5BE3AE58D2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Acchi Kocchi - 11 [7D56E778].mkv",
+                    "group": "Commie",
+                    "hash": "7D56E778",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325453",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_11_[8bit][1280x720][4728963F].mkv",
+                    "group": "Tsumiki",
+                    "hash": "4728963F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331817",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_11_[10bit][1280x720][66A943C4].mkv",
+                    "group": "Tsumiki",
+                    "hash": "66A943C4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331818",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-28T18:25:00",
+            "episode": 12,
+            "score": 7.8589294236,
+            "torrents": [
+                {
+                    "additional_info": "[END][720p]",
+                    "download_count": 5,
+                    "filename": "[Kimitsu] Acchi Kocchi - 12 [END][720p].mkv",
+                    "group": "Kimitsu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=326910",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[ShinBunBu-Hadena] Acchi Kocchi - 12 END [720p][373A4E26].mkv",
+                    "group": "ShinBunBu-Hadena",
+                    "hash": "373A4E26",
+                    "url": "http://tracker.minglong.org/torrents/%5BShinBunBu-Hadena%5D%20Acchi%20Kocchi%20-%2012%20END%20%5B720p%5D%5B373A4E26%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Acchi Kocchi - 12 [28520597].mkv",
+                    "group": "Commie",
+                    "hash": "28520597",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_12_[8bit][1280x720][1D5750F4].mkv",
+                    "group": "Tsumiki",
+                    "hash": "1D5750F4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335471",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsumiki]_Acchi_Kocchi_-_12_[10bit][1280x720][AEA23AA7].mkv",
+                    "group": "Tsumiki",
+                    "hash": "AEA23AA7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335472",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8890,
+        "ann": 13844,
+        "mal": 12291,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/983244a8ea374900c48e90c10e45087a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/000c570733ff6b2d15c6aa5b51392433.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a3edc26ade421a2b7a9c4a53f20759a3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4aa8c08c6f79f4f41328fbe0e1162d4d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/337d82fe7e69d36ff6279b662668693c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/03bb9dff1350e881403a28751d256f00.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/daddb582c3db9219db86ae067a36bd2a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cf595de4e6c3969ea66c41846a30db76.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/74893576960aa798f408c2906fef280f.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Acchi Kocchi (\u3042\u3063\u3061\u3053\u3063\u3061) http://rdir.pl/1nb9dz",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c28c36bbadc49667e3b97aa093fa2f13.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on the 4-koma manga by Ishiki.Wouldn't you just love to poke in a relationship between two young high schoolers who have a subtle distance between each other? Of course you would. Tsumiki and Io have this subtle distance that anyone would want to jump in between just to bug them. That's what the other characters are there for. Tsumiki, being a tsundere and all, won't be honest about her feelings toward Io. Io on the other hand is unaware of Tsumiki's feelings, hence the subtle distance between the two. Now, let's watch these two and see what events await them...Source: Mangahelpers",
+            "type": "anidb"
+        },
+        {
+            "content": "The serious-minded Tsumiki and the pure-hearted Io feel they never want to be parted, and yet they haven't fallen in love yet. More than friends but not lovers, they develop an awkward quasi-romance.",
+            "type": "ann"
+        },
+        {
+            "content": "Wouldn't you just love to poke in a relationship between two young high schoolers who have a subtle distance between each other? Of course you would. Tsumiki and Io have this subtle distance that anyone would want to jump in between just to bug them. That's what the other characters are there for. Tsumiki, being a tsundere and all, won't be honest about her feelings toward Io. Io on the other hand is unaware of Tsumiki's feelings, hence the subtle distance between the two. Now, let's watch these two and see what events await them...   (Sources: Mamo, Mangahelpers)",
+            "type": "mal"
+        },
+        {
+            "content": "The serious-minded Tsumiki and the pure-hearted Io feel they never want to be parted, but haven't become a couple yet. More than friends but less than lovers, they develop an awkward quasi-romance.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 11691,
+            "date": "2012-09-29T14:11:51",
+            "score": 7.81,
+            "type": "mal"
+        },
+        {
+            "count": 561,
+            "date": "2012-09-29T14:11:51",
+            "score": 7.24,
+            "type": "anidb"
+        },
+        {
+            "count": 381,
+            "date": "2012-09-29T14:11:51",
+            "score": 7.773,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Acchi Kocchi"
+}

@@ -1,0 +1,4422 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5b87\u5b99\u5144\u5f1f"
+        },
+        {
+            "language": "pl",
+            "title": "Gwiezdni Bracia"
+        }
+    ],
+    "aliases": [
+        "Space Brothers"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1092468841",
+            "content": "Space Brothers 02 - \"Patrz na d\u00f3\u0142 - k\u0119dy wieczna mg\u0142a zaciemia obszar gnu\u015bno\u015bci zalany odm\u0119tem; To Ziemia!\"",
+            "episode": 2,
+            "filename": "1a849a2d99a4275dffc3b63d76771cf4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/189045647280836608"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1150294791",
+            "content": "Space Brothers 05 - prawdziwa mi\u0142o\u015b\u0107 nie zna granic",
+            "episode": 5,
+            "filename": "e021ff610c8d2a7510fbee7abb4fc6f9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/196718010495541249"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-01T00:00:00",
+            "episode": 1,
+            "score": 7.8133839479,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] Space Brothers - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300918",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Space Brothers - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300920",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Space Brothers - 01v2 [710D9F8C].mkv",
+                    "group": "Commie",
+                    "hash": "710D9F8C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301504",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-04-08T00:00:00",
+            "episode": 2,
+            "score": 7.7901474926,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Space Brothers - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302821",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302823",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302825",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Space Brothers - 02 [0755C430].mkv",
+                    "group": "Commie",
+                    "hash": "0755C430",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303056",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-15T00:00:00",
+            "episode": 3,
+            "score": 7.8685389335,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Space Brothers - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305015",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Space Brothers - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305019",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Space Brothers - 03 [A5FC3964].mkv",
+                    "group": "Commie",
+                    "hash": "A5FC3964",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305059",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-22T00:00:00",
+            "episode": 4,
+            "score": 7.9253478798,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307299",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307301",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307302",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Space Brothers - 04 [0429C3EA].mkv",
+                    "group": "Commie",
+                    "hash": "0429C3EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307631",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-29T00:00:00",
+            "episode": 5,
+            "score": 7.9411243561,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Space Brothers - 05 [ED918598].mkv",
+                    "group": "Commie",
+                    "hash": "ED918598",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309576",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309749",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309753",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-06T00:00:00",
+            "episode": 6,
+            "score": 7.9641573499,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Space Brothers - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311834",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Space Brothers - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311835",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 18,
+                    "filename": "[Commie] Space Brothers - 06 [3D2AE705].mkv",
+                    "group": "Commie",
+                    "hash": "3D2AE705",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311900",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-13T00:00:00",
+            "episode": 7,
+            "score": 7.9686051769,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313783",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Space Brothers - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313785",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Space Brothers - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313786",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Space Brothers - 07 [C73A7B60].mkv",
+                    "group": "Commie",
+                    "hash": "C73A7B60",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314312",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-20T00:00:00",
+            "episode": 8,
+            "score": 7.9556306447,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315672",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315675",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 08 [54AAA3C5].mkv",
+                    "group": "Commie",
+                    "hash": "54AAA3C5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316326",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-27T00:00:00",
+            "episode": 9,
+            "score": 7.9572105893,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Space Brothers - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317635",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Space Brothers - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317636",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317637",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Space Brothers - 09 [B8D2D07E].mkv",
+                    "group": "Commie",
+                    "hash": "B8D2D07E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318618",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-03T00:00:00",
+            "episode": 10,
+            "score": 7.9687049986,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319747",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Space Brothers - 10 [EBD5BF1E].mkv",
+                    "group": "Commie",
+                    "hash": "EBD5BF1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320728",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-10T00:00:00",
+            "episode": 11,
+            "score": 7.993799557,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321739",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321741",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 11 [D9AD6727].mkv",
+                    "group": "Commie",
+                    "hash": "D9AD6727",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322644",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-17T00:00:00",
+            "episode": 12,
+            "score": 8.0227500667,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Space Brothers - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323608",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323609",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323610",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Space Brothers - 12 [B5A608E0].mkv",
+                    "group": "Commie",
+                    "hash": "B5A608E0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324354",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-24T00:00:00",
+            "episode": 13,
+            "score": 8.0339974522,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325344",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325348",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325351",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 13 [0D04ECF3].mkv",
+                    "group": "Commie",
+                    "hash": "0D04ECF3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325902",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-01T00:00:00",
+            "episode": 14,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327460",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Space Brothers - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327462",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Space Brothers - 14 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327464",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Space Brothers - 14 [6924091F].mkv",
+                    "group": "Commie",
+                    "hash": "6924091F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328539",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-08T00:00:00",
+            "episode": 15,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329700",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 15 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 15 [AE565187].mkv",
+                    "group": "Commie",
+                    "hash": "AE565187",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329986",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-15T00:00:00",
+            "episode": 16,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331868",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 16 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Space Brothers - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[PuyaSubs!] Space Brothers - 16 [720p].mkv",
+                    "group": "PuyaSubs!",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Commie] Space Brothers - 16 [8F283047].mkv",
+                    "group": "Commie",
+                    "hash": "8F283047",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332171",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-22T00:00:00",
+            "episode": 17,
+            "score": 8.0806773315,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Space Brothers - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334122",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Space Brothers - 17 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334127",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Space Brothers - 17 [DAB64623].mkv",
+                    "group": "Commie",
+                    "hash": "DAB64623",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334176",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[PuyaSubs!] Space Brothers - 17 [720p].mkv",
+                    "group": "PuyaSubs!",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334743",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-29T00:00:00",
+            "episode": 18,
+            "score": 8.1011288466,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 18 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336295",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336297",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 18 [672C42BC].mkv",
+                    "group": "Commie",
+                    "hash": "672C42BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336571",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-05T00:00:00",
+            "episode": 19,
+            "score": 8.1252047227,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338646",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Space Brothers - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338647",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 19 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Space Brothers - 19 [655E43A8].mkv",
+                    "group": "Commie",
+                    "hash": "655E43A8",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=338959",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-12T00:00:00",
+            "episode": 20,
+            "score": 8.1440244365,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 17,
+                    "filename": "[HorribleSubs] Space Brothers - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340970",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 20 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Space Brothers - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340984",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Space Brothers - 20 [12C5807A].mkv",
+                    "group": "Commie",
+                    "hash": "12C5807A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341350",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-19T00:00:00",
+            "episode": 21,
+            "score": 8.153213081,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343245",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343246",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 21 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 21 [377696CA].mkv",
+                    "group": "Commie",
+                    "hash": "377696CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343319",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-02T00:00:00",
+            "episode": 22,
+            "score": 8.1655763805,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347911",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 22 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=347913",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 22 [998067F2].mkv",
+                    "group": "Commie",
+                    "hash": "998067F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349061",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-09T00:00:00",
+            "episode": 23,
+            "score": 8.1763949397,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Space Brothers - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350459",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 23 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350460",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 23 [35C34557].mkv",
+                    "group": "Commie",
+                    "hash": "35C34557",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350768",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-16T00:00:00",
+            "episode": 24,
+            "score": 8.1879234635,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 24 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352813",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 24 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 24 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=352816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Space Brothers - 24 [7FDC875B].mkv",
+                    "group": "Commie",
+                    "hash": "7FDC875B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353222",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-23T00:00:00",
+            "episode": 25,
+            "score": 8.1960719424,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Space Brothers - 25 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354992",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 25 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Space Brothers - 25 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 25 [6E641559].mkv",
+                    "group": "Commie",
+                    "hash": "6E641559",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355387",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Space Brothers - 25v2 [CF41E659].mkv",
+                    "group": "Commie",
+                    "hash": "CF41E659",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355921",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-09-30T00:00:00",
+            "episode": 26,
+            "score": 8.2134586045,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 26 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 26 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 26 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357111",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 26 [90A6C564].mkv",
+                    "group": "Commie",
+                    "hash": "90A6C564",
+                    "url": "http://www.nyaa.eu/?page=download&tid=357812",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-07T00:00:00",
+            "episode": 27,
+            "score": 8.2263088054,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 27 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 27 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 27 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359616",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 27 [BAC9372A].mkv",
+                    "group": "Commie",
+                    "hash": "BAC9372A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360603",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-14T00:00:00",
+            "episode": 28,
+            "score": 8.2187046362,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 28 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 28 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 28 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 28 [82173281].mkv",
+                    "group": "Commie",
+                    "hash": "82173281",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363347",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-21T00:00:00",
+            "episode": 29,
+            "score": 8.2180755814,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 29 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Space Brothers - 29 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364829",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 29 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364838",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 29 [AA6AEF59].mkv",
+                    "group": "Commie",
+                    "hash": "AA6AEF59",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366467",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-27T23:00:00",
+            "episode": 30,
+            "score": 8.2181087251,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 30 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367496",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 30 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367497",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 30 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=367498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 30 [0BFD75F5].mkv",
+                    "group": "Commie",
+                    "hash": "0BFD75F5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368478",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-03T23:00:00",
+            "episode": 31,
+            "score": 8.2171539743,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 31 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370184",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 31 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 31 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370220",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 31 [9AD03D7D].mkv",
+                    "group": "Commie",
+                    "hash": "9AD03D7D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=370535",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-10T23:00:00",
+            "episode": 32,
+            "score": 8.2182589904,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 32 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372662",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 32 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372665",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 32 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372677",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 32 [864A8A9B].mkv",
+                    "group": "Commie",
+                    "hash": "864A8A9B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372729",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-17T23:00:00",
+            "episode": 33,
+            "score": 8.2105253134,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 33 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 33 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375251",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 33 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 33 [66DBDBE4].mkv",
+                    "group": "Commie",
+                    "hash": "66DBDBE4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375449",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-24T23:00:00",
+            "episode": 34,
+            "score": 8.2111007902,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Space Brothers - 34 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2572",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 34 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377459",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 34 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 34 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377486",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 34 [847CC438].mkv",
+                    "group": "Commie",
+                    "hash": "847CC438",
+                    "url": "http://www.nyaa.eu/?page=download&tid=377645",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-01T23:00:00",
+            "episode": 35,
+            "score": 8.2106840261,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 35 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379644",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 35 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 35 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379666",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 35 [85C35F5E].mkv",
+                    "group": "Commie",
+                    "hash": "85C35F5E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379890",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-08T23:00:00",
+            "episode": 36,
+            "score": 8.2011546587,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 36 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381779",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 36 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381784",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 36 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 36 [409E42D8].mkv",
+                    "group": "Commie",
+                    "hash": "409E42D8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381866",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-15T23:00:00",
+            "episode": 37,
+            "score": 8.2102301242,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Space Brothers - 37 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 37 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383815",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Space Brothers - 37 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 37 [6359BC35].mkv",
+                    "group": "Commie",
+                    "hash": "6359BC35",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384104",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-22T23:00:00",
+            "episode": 38,
+            "score": 8.21983813,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 38 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385922",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 38 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385962",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 38 [63D72E67].mkv",
+                    "group": "Commie",
+                    "hash": "63D72E67",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386500",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-05T23:00:00",
+            "episode": 39,
+            "score": 8.2210377498,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 39 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389989",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 39 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 39 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389993",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Space Brothers - 39 [50AC7F2E].mkv",
+                    "group": "Commie",
+                    "hash": "50AC7F2E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390484",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-12T23:00:00",
+            "episode": 40,
+            "score": 8.2310515584,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 40 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392432",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 40 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392434",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 40 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 40 [B77E6722].mkv",
+                    "group": "Commie",
+                    "hash": "B77E6722",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392717",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-19T23:00:00",
+            "episode": 41,
+            "score": 8.231012931,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 41 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394886",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 41 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 41 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394918",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Space Brothers - 41 [56CF5B22].mkv",
+                    "group": "Commie",
+                    "hash": "56CF5B22",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395278",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-26T23:00:00",
+            "episode": 42,
+            "score": 8.2397275436,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 42 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397557",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 42 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397565",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 42 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 42 [2F854BA1].mkv",
+                    "group": "Commie",
+                    "hash": "2F854BA1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398189",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-02T23:00:00",
+            "episode": 43,
+            "score": 8.2472172632,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 43 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400069",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 43 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400092",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 43 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400167",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 43 [1A54DC5F].mkv",
+                    "group": "Commie",
+                    "hash": "1A54DC5F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400449",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-09T23:00:00",
+            "episode": 44,
+            "score": 8.2479062803,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 44 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402500",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Space Brothers - 44 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402508",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 44 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402552",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Space Brothers - 44 [CF1B54FB].mkv",
+                    "group": "Commie",
+                    "hash": "CF1B54FB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402964",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-16T23:00:00",
+            "episode": 45,
+            "score": 8.2556746988,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 45 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404901",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 45 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 45 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404904",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 45 [4FAFD346].mkv",
+                    "group": "Commie",
+                    "hash": "4FAFD346",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405287",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-23T23:00:00",
+            "episode": 46,
+            "score": 8.2557792542,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Space Brothers - 46 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Space Brothers - 46 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407152",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Space Brothers - 46 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Space Brothers - 46 [72B20B0E].mkv",
+                    "group": "Commie",
+                    "hash": "72B20B0E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407530",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-02T23:00:00",
+            "episode": 47,
+            "score": 8.2561907328,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 47 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409455",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 47 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409456",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Space Brothers - 47 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409459",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Space Brothers - 47 [3FAA2F12].mkv",
+                    "group": "Commie",
+                    "hash": "3FAA2F12",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410157",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-09T23:00:00",
+            "episode": 48,
+            "score": 8.2650358523,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 48 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411880",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 48 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411884",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 48 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411906",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Space Brothers - 48 [9BF00FF6].mkv",
+                    "group": "Commie",
+                    "hash": "9BF00FF6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412113",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-16T23:00:00",
+            "episode": 49,
+            "score": 8.2555899195,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 49 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414061",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Space Brothers - 49 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414063",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 49 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414096",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Space Brothers - 49 [3BFD1A11].mkv",
+                    "group": "Commie",
+                    "hash": "3BFD1A11",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414711",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-23T23:00:00",
+            "episode": 50,
+            "score": 8.2572044415,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 50 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 50 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416233",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 50 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416252",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 50 [747FF14C].mkv",
+                    "group": "Commie",
+                    "hash": "747FF14C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416568",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-31T00:00:00",
+            "episode": 51,
+            "score": 8.2578653277,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 51 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418493",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 51 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 51 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 51 [397BC251].mkv",
+                    "group": "Commie",
+                    "hash": "397BC251",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418550",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-06T10:30:00",
+            "episode": 52,
+            "score": 8.2578979695,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 52 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420821",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 52 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 52 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420824",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 52 [077D1A27].mkv",
+                    "group": "Commie",
+                    "hash": "077D1A27",
+                    "url": "http://www.nyaa.eu/?page=download&tid=420946",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-13T10:30:00",
+            "episode": 53,
+            "score": 8.2493616593,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 53 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=423199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 53 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=423200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 53 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=423201",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 53 [51E89BAD].mkv",
+                    "group": "Commie",
+                    "hash": "51E89BAD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=423307",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-20T10:30:00",
+            "episode": 54,
+            "score": 8.2506010725,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 54 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=425474",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 54 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=425475",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 54 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=425477",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 54 [DD8F83CB].mkv",
+                    "group": "Commie",
+                    "hash": "DD8F83CB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=425576",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-27T10:30:00",
+            "episode": 55,
+            "score": 8.2510316776,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 55 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=427856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Space Brothers - 55 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=427859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 55 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=427860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 55 [33FBFD21].mkv",
+                    "group": "Commie",
+                    "hash": "33FBFD21",
+                    "url": "http://www.nyaa.eu/?page=download&tid=428065",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-04T10:30:00",
+            "episode": 56,
+            "score": 8.2508377884,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 56 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=430230",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Space Brothers - 56 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=430231",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 56 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=430232",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 56 [58936897].mkv",
+                    "group": "Commie",
+                    "hash": "58936897",
+                    "url": "http://www.nyaa.eu/?page=download&tid=430395",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-11T10:30:00",
+            "episode": 57,
+            "score": 8.2511551015,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 57 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=432494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 57 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=432495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 57 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=432499",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 57 [E6461FF0].mkv",
+                    "group": "Commie",
+                    "hash": "E6461FF0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=432736",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-18T10:30:00",
+            "episode": 58,
+            "score": 8.2526717813,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 58 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=434659",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 58 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=434662",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 58 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=434666",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 58 [1A60AC06].mkv",
+                    "group": "Commie",
+                    "hash": "1A60AC06",
+                    "url": "http://www.nyaa.eu/?page=download&tid=434841",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-25T10:30:00",
+            "episode": 59,
+            "score": 8.2531711389,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 59 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 59 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 59 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436799",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 59 [9C6D7FBA].mkv",
+                    "group": "Commie",
+                    "hash": "9C6D7FBA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436914",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-01T10:30:00",
+            "episode": 60,
+            "score": 8.2606315789,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 60 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438951",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 60 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438955",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 60 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 60 [A3C4006B].mkv",
+                    "group": "Commie",
+                    "hash": "A3C4006B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=439030",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-08T10:30:00",
+            "episode": 61,
+            "score": 8.2591502809,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 61 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=441105",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 61 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=441108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 61 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=441109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 61 [5AFE25FD].mkv",
+                    "group": "Commie",
+                    "hash": "5AFE25FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=441197",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-15T10:30:00",
+            "episode": 62,
+            "score": 8.2592024169,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 62 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=443166",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 62 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=443173",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 62 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=443175",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 62 [86634CE9].mkv",
+                    "group": "Commie",
+                    "hash": "86634CE9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=443381",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-22T10:30:00",
+            "episode": 63,
+            "score": 8.2598467565,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 63 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=445158",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 63 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=445159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 63 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=445160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 63 [E741FA14].mkv",
+                    "group": "Commie",
+                    "hash": "E741FA14",
+                    "url": "http://www.nyaa.eu/?page=download&tid=445287",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-29T10:30:00",
+            "episode": 64,
+            "score": 8.2614274705,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 64 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=447464",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 64 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=447465",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 64 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=447466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 64 [2F467F1C].mkv",
+                    "group": "Commie",
+                    "hash": "2F467F1C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=447518",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-13T10:30:00",
+            "episode": 65,
+            "score": 8.2632191704,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 65 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=452125",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 65 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=452126",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 65 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=452134",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 65 [5AD219A4].mkv",
+                    "group": "Commie",
+                    "hash": "5AD219A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=452191",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-20T10:30:00",
+            "episode": 66,
+            "score": 8.2707884466,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 66 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454489",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 66 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454490",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Space Brothers - 66 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 66 [E84FC636].mkv",
+                    "group": "Commie",
+                    "hash": "E84FC636",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454651",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-27T10:30:00",
+            "episode": 67,
+            "score": 8.2708253376,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 67 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 67 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 67 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 67 [F27947AE].mkv",
+                    "group": "Commie",
+                    "hash": "F27947AE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=457122",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-03T10:30:00",
+            "episode": 68,
+            "score": 8.2714673937,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 68 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459378",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 68 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459381",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 68 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=459382",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 68 [3F2CCE2F].mkv",
+                    "group": "Commie",
+                    "hash": "3F2CCE2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460018",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-10T10:30:00",
+            "episode": 69,
+            "score": 8.2807675676,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 69 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=461688",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 69 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=461689",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 69 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=461690",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 69 [69768EE6].mkv",
+                    "group": "Commie",
+                    "hash": "69768EE6",
+                    "url": "http://www.nyaa.se/?page=download&tid=461826",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-17T10:30:00",
+            "episode": 70,
+            "score": 8.280491034,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 70 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 70 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463953",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 70 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463954",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 70 [0997E3FD].mkv",
+                    "group": "Commie",
+                    "hash": "0997E3FD",
+                    "url": "http://www.nyaa.se/?page=download&tid=464044",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-31T10:30:00",
+            "episode": 71,
+            "score": 8.2795948403,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 71 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=468393",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Space Brothers - 71 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=468394",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 71 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=468395",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 71 [885FDF49].mkv",
+                    "group": "Commie",
+                    "hash": "885FDF49",
+                    "url": "http://www.nyaa.se/?page=download&tid=468590",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-07T10:30:00",
+            "episode": 72,
+            "score": 8.2795737877,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 72 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=470676",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 72 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=470677",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 72 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=470678",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 72 [46D2D9E4].mkv",
+                    "group": "Commie",
+                    "hash": "46D2D9E4",
+                    "url": "http://www.nyaa.se/?page=download&tid=470817",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-14T10:30:00",
+            "episode": 73,
+            "score": 8.2801656224,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 73 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472979",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 73 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 73 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472988",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 73 [CCF4990F].mkv",
+                    "group": "Commie",
+                    "hash": "CCF4990F",
+                    "url": "http://www.nyaa.se/?page=download&tid=473129",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-21T10:30:00",
+            "episode": 74,
+            "score": 8.2891961335,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 74 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475269",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 74 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475271",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 74 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=475272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 74 [06E11744].mkv",
+                    "group": "Commie",
+                    "hash": "06E11744",
+                    "url": "http://www.nyaa.se/?page=download&tid=475442",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-28T10:30:00",
+            "episode": 75,
+            "score": 8.2898270994,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 75 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 75 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477551",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 75 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=477552",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 75 [B1BFABCA].mkv",
+                    "group": "Commie",
+                    "hash": "B1BFABCA",
+                    "url": "http://www.nyaa.se/?page=download&tid=477648",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-05T10:30:00",
+            "episode": 76,
+            "score": 8.2808943756,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 76 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=479831",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 76 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=479832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 76 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=479834",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 76 [E08B4E12].mkv",
+                    "group": "Commie",
+                    "hash": "E08B4E12",
+                    "url": "http://www.nyaa.se/?page=download&tid=480010",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-12T10:30:00",
+            "episode": 77,
+            "score": 8.2812339086,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 77 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482264",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 77 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482268",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 77 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482275",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 77 [FCB535BC].mkv",
+                    "group": "Commie",
+                    "hash": "FCB535BC",
+                    "url": "http://www.nyaa.se/?page=download&tid=482324",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-19T10:30:00",
+            "episode": 78,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 78 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=484462",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 78 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=484465",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 78 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=484468",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 78 [1C3436AF].mkv",
+                    "group": "Commie",
+                    "hash": "1C3436AF",
+                    "url": "http://www.nyaa.se/?page=download&tid=484579",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-26T10:30:00",
+            "episode": 79,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 79 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 79 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 79 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486893",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 79 [B6C791DD].mkv",
+                    "group": "Commie",
+                    "hash": "B6C791DD",
+                    "url": "http://www.nyaa.se/?page=download&tid=487027",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-02T09:30:00",
+            "episode": 80,
+            "score": 8.2813182735,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 80 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489177",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 80 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489178",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 80 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489179",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 80 [51614FC9].mkv",
+                    "group": "Commie",
+                    "hash": "51614FC9",
+                    "url": "http://www.nyaa.se/?page=download&tid=489272",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-09T09:30:00",
+            "episode": 81,
+            "score": 8.118686747,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 81 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 81 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 81 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491341",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 81 [29548A39].mkv",
+                    "group": "Commie",
+                    "hash": "29548A39",
+                    "url": "http://www.nyaa.se/?page=download&tid=491480",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-16T09:30:00",
+            "episode": 82,
+            "score": 8.1131,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 82 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 82 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493606",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 82 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493607",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 82 [4DFD8FA3].mkv",
+                    "group": "Commie",
+                    "hash": "4DFD8FA3",
+                    "url": "http://www.nyaa.se/?page=download&tid=493691",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-23T09:30:00",
+            "episode": 83,
+            "score": 8.1131,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 83 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495791",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 83 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495790",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 83 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 83 [F3F76D30].mkv",
+                    "group": "Commie",
+                    "hash": "F3F76D30",
+                    "url": "http://www.nyaa.se/?page=download&tid=495911",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-30T09:30:00",
+            "episode": 84,
+            "score": 8.1178804781,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 84 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498129",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 84 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498131",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 84 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498132",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 84 [31CDA876].mkv",
+                    "group": "Commie",
+                    "hash": "31CDA876",
+                    "url": "http://www.nyaa.se/?page=download&tid=498250",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-07T09:30:00",
+            "episode": 85,
+            "score": 8.1201539225,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 85 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 85 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 85 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500162",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Space Brothers - 85 [43B5358F].mkv",
+                    "group": "Commie",
+                    "hash": "43B5358F",
+                    "url": "http://www.nyaa.se/?page=download&tid=500348",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-14T09:30:00",
+            "episode": 86,
+            "score": 8.1146413043,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 86 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502366",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 86 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502370",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 86 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502373",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 86 [9E6A6110].mkv",
+                    "group": "Commie",
+                    "hash": "9E6A6110",
+                    "url": "http://www.nyaa.se/?page=download&tid=502531",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-21T09:30:00",
+            "episode": 87,
+            "score": 8.1200374016,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 87 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=504535",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 87 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=504536",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 87 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=504540",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 87 [DC6941E6].mkv",
+                    "group": "Commie",
+                    "hash": "DC6941E6",
+                    "url": "http://www.nyaa.se/?page=download&tid=504789",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-28T09:30:00",
+            "episode": 88,
+            "score": 8.1290242483,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 88 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=508408",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 88 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=508410",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 88 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=508411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 88 [0757AB81].mkv",
+                    "group": "Commie",
+                    "hash": "0757AB81",
+                    "url": "http://www.nyaa.se/?page=download&tid=508551",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-11T09:30:00",
+            "episode": 89,
+            "score": 8.1240066858,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 89 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510932",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 89 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510933",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 89 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510935",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 89 [090C5C58].mkv",
+                    "group": "Commie",
+                    "hash": "090C5C58",
+                    "url": "http://www.nyaa.se/?page=download&tid=511012",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-18T09:30:00",
+            "episode": 90,
+            "score": 8.1239314938,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 90 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=513545",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 90 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=513550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 90 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=513554",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 90 [1CFAA6E4].mkv",
+                    "group": "Commie",
+                    "hash": "1CFAA6E4",
+                    "url": "http://www.nyaa.se/?page=download&tid=513619",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-25T09:30:00",
+            "episode": 91,
+            "score": 8.1316439394,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 91 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=516114",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 91 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=516118",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 91 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=516297",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 91 [BF1DA7C8].mkv",
+                    "group": "Commie",
+                    "hash": "BF1DA7C8",
+                    "url": "http://www.nyaa.se/?page=download&tid=516310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 91v2 [A55004A2].mkv",
+                    "group": "Commie",
+                    "hash": "A55004A2",
+                    "url": "http://www.nyaa.se/?page=download&tid=516568",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-02-01T09:30:00",
+            "episode": 92,
+            "score": 8.1316128423,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 92 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518628",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 92 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518629",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 92 [33352260].mkv",
+                    "group": "Commie",
+                    "hash": "33352260",
+                    "url": "http://www.nyaa.se/?page=download&tid=518799",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 92 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518835",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-08T09:30:00",
+            "episode": 93,
+            "score": 8.1285344015,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 93 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520951",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 93 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 93 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520953",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 93 [1EE7095D].mkv",
+                    "group": "Commie",
+                    "hash": "1EE7095D",
+                    "url": "http://www.nyaa.se/?page=download&tid=521102",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-15T09:30:00",
+            "episode": 94,
+            "score": 8.1333984962,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 94 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=523380",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 94 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=523383",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 94 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=523498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Space Brothers - 94 [3A4222EA].mkv",
+                    "group": "Commie",
+                    "hash": "3A4222EA",
+                    "url": "http://www.nyaa.se/?page=download&tid=523512",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-22T09:30:00",
+            "episode": 95,
+            "score": 8.1248299065,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 95 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 95 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Space Brothers - 95 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 95 [00E631CC].mkv",
+                    "group": "Commie",
+                    "hash": "00E631CC",
+                    "url": "http://www.nyaa.se/?page=download&tid=525735",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-01T09:30:00",
+            "episode": 96,
+            "score": 8.1266536313,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 96 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 96 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 96 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 96 [242AA874].mkv",
+                    "group": "Commie",
+                    "hash": "242AA874",
+                    "url": "http://www.nyaa.se/?page=download&tid=528139",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-08T09:30:00",
+            "episode": 97,
+            "score": 8.128427907,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 97 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=530540",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 97 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=530542",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 97 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=530543",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 97 [6F255AE4].mkv",
+                    "group": "Commie",
+                    "hash": "6F255AE4",
+                    "url": "http://www.nyaa.se/?page=download&tid=530646",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-15T09:30:00",
+            "episode": 98,
+            "score": 8.1338754647,
+            "torrents": [
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 98 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532772",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 98 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532777",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 98 [C8F790A5].mkv",
+                    "group": "Commie",
+                    "hash": "C8F790A5",
+                    "url": "http://www.nyaa.se/?page=download&tid=532832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 98 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532867",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-22T09:30:00",
+            "episode": 99,
+            "score": 8.1380690846,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 99 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534901",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Space Brothers - 99 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Space Brothers - 99 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534904",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Space Brothers - 99 [DFCFA31D].mkv",
+                    "group": "Commie",
+                    "hash": "DFCFA31D",
+                    "url": "http://www.nyaa.se/?page=download&tid=535044",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 99,
+    "episodes_length": 25,
+    "external_sites": {
+        "anidb": 8865,
+        "ann": 13890,
+        "mal": 12431,
+        "schedule": 2478
+    },
+    "images": [
+        {
+            "description": "Wszyscy wiemy dok\u0105d to zmierza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/11744f0f684e84ae3479f225a4f8ce07.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cbb5bf522804288144a7d78e517fae6b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Matura z fizyki tu\u017c tu\u017c...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3302dfe02e4c93c8619deed6d8a4caa9.jpg",
+            "hd": false
+        },
+        {
+            "description": ",,,ustny polski tak\u017ce",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e1c94d45b93a5244f17b31fc5d3dde5a.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Patrz na d\u00f3\u0142 - k\u0119dy wieczna mg\u0142a zaciemia obszar gnu\u015bno\u015bci zalany odm\u0119tem; To Ziemia!\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1a849a2d99a4275dffc3b63d76771cf4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Przysz\u0142y wyniki testu gimnazjalnego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f5d53468cec3efdff4beaaf3b3ee9cca.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawdziwa mi\u0142o\u015b\u0107 nie zna granic",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e021ff610c8d2a7510fbee7abb4fc6f9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Cze\u015b\u0107...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6575024267ca33fb72d2950851c5e869.jpg",
+            "hd": false
+        },
+        {
+            "description": "...Quintasan",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b7fd77bdcb44a2d7fa18bd6d51521250.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "In the year 2006 the kid brothers Mutta and Hibito, on a nightly hunt for animal sounds in the local woods, unexpectedly see a blazingly bright rotating flying object in the sky, right above their home town. After a short moment the UFO accelerates towards the surface of the Moon. Witnessing this, the two youngsters vow to become astronauts and some day travel into space.Now in 2025 younger brother Hibito, as the first Japanese, made it into the NASA team that will set foot on the Moon again. Mutta, on the other hand, defending his brothers honour, gets fired from his car designer job. The older of the two brothers has not forgotten about their dream from back then though... and on a fateful day his life changes.",
+            "type": "anidb"
+        },
+        {
+            "content": "When they were young, the brothers Mutta and Hibito promised each other they would become astronauts. Now, in 2025, Hibito has followed his dream to become the first Japanese on the moon, but Mutta has just been fired from his job. His brother reminds him of their childhood promise, and Mutta decides once again to aim for space.",
+            "type": "ann"
+        },
+        {
+            "content": "Mutta's life has hit rock bottom. He's been fired, blackballed from his profession and now he's had to move back in with his parents. Meanwhile, his kid brother Hibito has been literally riding a rocket and training to be an astronaut. The same career Mutta once dreamed of. So, is it ever too late to go after your dreams? Through a little coercing and a bit of covert activity, Mutta's family and friends can get his resume on the right desk, but from that point on it will be up to Mutta himself. Does he have what it takes to turn his life around and put his footprint on the moon? The first step on the highway to the stars is always the hardest, and in a job where crash and burn isn't just a euphemism, it will be the biggest risk Mutta's ever taken. But with the best support team ever, maybe he'll find what he needs to rekindle the spark inside him and light the biggest candle of them all!",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 8942,
+            "date": "2013-10-27T08:45:59",
+            "score": 8.3,
+            "type": "mal"
+        },
+        {
+            "count": 661,
+            "date": "2014-03-25T08:22:22",
+            "score": 8.09,
+            "type": "anidb"
+        },
+        {
+            "count": 497,
+            "date": "2014-03-25T08:22:22",
+            "score": 8.202,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Space Brothers"
+}

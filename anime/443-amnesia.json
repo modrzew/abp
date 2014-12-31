@@ -1,0 +1,831 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30e0\u30cd\u30b7\u30a2"
+        },
+        {
+            "language": "pl",
+            "title": "Amnezja"
+        }
+    ],
+    "aliases": [
+        "Amnesia"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-01-07T15:30:00",
+            "episode": 1,
+            "score": 5.9569444444,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Amnesia - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Amnesia - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Amnesia - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390878",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] AMNESIA - 01 [E483C05C].mkv",
+                    "group": "Commie",
+                    "hash": "E483C05C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=390995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 01 [720p][1772B123].mkv",
+                    "group": "Hybrid",
+                    "hash": "1772B123",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391713",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 01v2 [720p][9C739E8A].mkv",
+                    "group": "Hybrid",
+                    "hash": "9C739E8A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392397",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_01_[8bit][1280x720][B45B2341].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B45B2341",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394168",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Amnesia_-_01_[10bit][1280x720][893F02F7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "893F02F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394169",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-14T15:30:00",
+            "episode": 2,
+            "score": 6.0016222222,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Amnesia - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393266",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Amnesia - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393268",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393269",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 02 [550B465C].mkv",
+                    "group": "Commie",
+                    "hash": "550B465C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393463",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 02 [720p][1456BF63].mkv",
+                    "group": "Hybrid",
+                    "hash": "1456BF63",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394174",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_02_[8bit][1280x720][283C73C0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "283C73C0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397157",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_02_[10bit][1280x720][6A1181D2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6A1181D2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397158",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-21T15:30:00",
+            "episode": 3,
+            "score": 7.0345068147,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Amnesia - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395911",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Amnesia - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395912",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=395913",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 03 [021D0791].mkv",
+                    "group": "Commie",
+                    "hash": "021D0791",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396040",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 03 [720p][FE08DD7F].mkv",
+                    "group": "Hybrid",
+                    "hash": "FE08DD7F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_03_[8bit][1280x720][7B107DE1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7B107DE1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399153",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_03_[10bit][1280x720][194AE2E5].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "194AE2E5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399154",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-28T15:30:00",
+            "episode": 4,
+            "score": 7.0253760277,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 04 [58BF9E01].mkv",
+                    "group": "Commie",
+                    "hash": "58BF9E01",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398543",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hybrid] Amnesia - 04 [720p][C5063654].mkv",
+                    "group": "Hybrid",
+                    "hash": "C5063654",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Amnesia - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398395",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_04_[8bit][1280x720][8888265D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "8888265D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401834",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_04_[10bit][1280x720][09170FA1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "09170FA1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401835",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-04T15:30:00",
+            "episode": 5,
+            "score": 7.0175022044,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400911",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Amnesia - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400915",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Amnesia - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=400917",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 05 [1505A37B].mkv",
+                    "group": "Commie",
+                    "hash": "1505A37B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 05 [720p][774361CC].mkv",
+                    "group": "Hybrid",
+                    "hash": "774361CC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Amnesia_-_05_[10bit][1280x720][7E7DFE5E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7E7DFE5E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405209",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_05_[8bit][1280x720][5745669C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5745669C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405208",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-11T15:30:00",
+            "episode": 6,
+            "score": 6.9442835188,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403419",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Amnesia - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403423",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403428",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 06 [F79FAA80].mkv",
+                    "group": "Commie",
+                    "hash": "F79FAA80",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403522",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 06 [720p][75AB0C99].mkv",
+                    "group": "Hybrid",
+                    "hash": "75AB0C99",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405072",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_06_[8bit][1280x720][261D2E37].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "261D2E37",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408068",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_06_[10bit][1280x720][16DB9716].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "16DB9716",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408069",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-18T15:30:00",
+            "episode": 7,
+            "score": 6.8820169518,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405715",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Amnesia - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Amnesia - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405719",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 07 [30DBE685].mkv",
+                    "group": "Commie",
+                    "hash": "30DBE685",
+                    "url": "http://www.nyaa.eu/?page=download&tid=405857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 07 [720p][7FE8DCB2].mkv",
+                    "group": "Hybrid",
+                    "hash": "7FE8DCB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408154",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_07_[8bit][1280x720][CEEFEED0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CEEFEED0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411763",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_07_[10bit][1280x720][C6D93BD8].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C6D93BD8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411764",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-25T15:30:00",
+            "episode": 8,
+            "score": 6.8770748832,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408007",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Amnesia - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408010",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 08 [3C136FD8].mkv",
+                    "group": "Commie",
+                    "hash": "3C136FD8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 08 [720p][EACFF59B].mkv",
+                    "group": "Hybrid",
+                    "hash": "EACFF59B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409087",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_08_[8bit][1280x720][4670F0D0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4670F0D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416027",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Amnesia_-_08_[10bit][1280x720][DD16885B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DD16885B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416028",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-04T15:30:00",
+            "episode": 9,
+            "score": 6.8372088288,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410317",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Amnesia - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410338",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 09 [818671C3].mkv",
+                    "group": "Commie",
+                    "hash": "818671C3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410509",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 09 [720p][BF87A3EE].mkv",
+                    "group": "Hybrid",
+                    "hash": "BF87A3EE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHybrid%5D%20Amnesia%20-%2009%20%5B720p%5D%5BBF87A3EE%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-11T15:30:00",
+            "episode": 10,
+            "score": 6.8248343941,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Amnesia - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412697",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 10 [F7D6CFBA].mkv",
+                    "group": "Commie",
+                    "hash": "F7D6CFBA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412768",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 10 [720p][6CB362C0].mkv",
+                    "group": "Hybrid",
+                    "hash": "6CB362C0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHybrid%5D%20Amnesia%20-%2010%20%5B720p%5D%5B6CB362C0%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-18T15:30:00",
+            "episode": 11,
+            "score": 6.7953391262,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Amnesia - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414867",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] AMNESIA - 11 [5FFDEA10].mkv",
+                    "group": "Commie",
+                    "hash": "5FFDEA10",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415029",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 11 [720p][68C7C082].mkv",
+                    "group": "Hybrid",
+                    "hash": "68C7C082",
+                    "url": "http://tracker.minglong.org/torrents/%5BHybrid%5D%20Amnesia%20-%2011%20%5B720p%5D%5B68C7C082%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-25T15:30:00",
+            "episode": 12,
+            "score": 6.8287227008,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Amnesia - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416987",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Amnesia - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=416988",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] AMNESIA - 12 [3EDB2C3A].mkv",
+                    "group": "Commie",
+                    "hash": "3EDB2C3A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417098",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Hybrid] Amnesia - 12 [720p][015C25C8].mkv",
+                    "group": "Hybrid",
+                    "hash": "015C25C8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHybrid%5D%20Amnesia%20-%2012%20%5B720p%5D%5B015C25C8%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9358,
+        "ann": 14811,
+        "mal": 15085,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "On the morning of August 1, the heroine wakes up and discovers she has absolutely no memories of the past. A boy appears before her, and introduces himself as a \"spirit\" named Orion. The heroine struggles to regain her memories under the guidance of Orion. She then gets a phone call, but she does not recognize the name on her mobile phone screen. She meets her apparent \"boyfriend,\" despite not knowing his face.",
+            "type": "mal"
+        },
+        {
+            "content": "August 1st. The protagonist regains consciousness in an unfamiliar cafe, with no memories of the past. Where is this place? What was the protagonist doing here? Who and what kind of life did the protagonist live? A boy appears before the protagonist. The boy's name is Orion, and calls himself a fairy. Under Orion's direction, the protagonist gropingly searches for clues about himself. He eventually meets people who know him, a childhood friend, a senior, and a lover.",
+            "type": "anidb"
+        },
+        {
+            "content": "On one fateful day, August 1, the heroine lost all her memories. In order to gain them back and to ease her pain in remembering, she tries to interact with 'him' hoping to live each day as happily as she can, and to make a bright future with him...",
+            "type": "wiki"
+        },
+        {
+            "content": "When the heroine regains consciousness in an unfamiliar place, she has suddenly lost all memories of everything that happened before August 1. What is this place, and what was she doing there, Who is she, and what sort of life had she lived.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 6863,
+            "date": "2013-03-27T03:21:24",
+            "score": 6.91,
+            "type": "mal"
+        },
+        {
+            "count": 109,
+            "date": "2013-03-27T03:21:24",
+            "score": 4.63,
+            "type": "anidb"
+        },
+        {
+            "count": 226,
+            "date": "2013-03-27T03:21:24",
+            "score": 5.421,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Amnesia"
+}

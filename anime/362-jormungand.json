@@ -1,0 +1,495 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30e8\u30eb\u30e0\u30f3\u30ac\u30f3\u30c9"
+        }
+    ],
+    "aliases": [],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1105181585",
+            "content": "#anime #Wiosna2012 Jormungand (\u30e8\u30eb\u30e0\u30f3\u30ac\u30f3\u30c9) http://rdir.pl/1nbmr2",
+            "episode": 1,
+            "filename": "8323185082c42fe34cfda5d0a4385d90.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190887748452888576"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-10T17:30:00",
+            "episode": 1,
+            "score": 7.7749095446,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 21,
+                    "filename": "[gg]_Jormungand_-_01_[382A285D].mkv",
+                    "group": "gg",
+                    "hash": "382A285D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303848",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[st0ned] Jormungand - 01 [720p][12BB58F6].mkv",
+                    "group": "st0ned",
+                    "hash": "12BB58F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304077",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Anxious-Domo]_Jormungand_-_01_[720p][DD5AB64A].mkv",
+                    "group": "Anxious-Domo",
+                    "hash": "DD5AB64A",
+                    "url": "http://tracker.minglong.org/torrents/%5BAnxious-Domo%5D_Jormungand_-_01_%5B720p%5D%5BDD5AB64A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[gg-modified]",
+                    "download_count": 2,
+                    "filename": "[ReinWeiss] Jormungand - 01 [gg-modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306998",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Asenshi] Jormungand - 01 [D0C848A6].mkv",
+                    "group": "Asenshi",
+                    "hash": "D0C848A6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307555",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-17T17:30:00",
+            "episode": 2,
+            "score": 7.7568368298,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[gg]_Jormungand_-_02_[D48EDE54].mkv",
+                    "group": "gg",
+                    "hash": "D48EDE54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305944",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[gg-modified]",
+                    "download_count": 2,
+                    "filename": "[ReinWeiss] Jormungand - 02 [gg-modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307032",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Asenshi] Jormungand - 02 [C8372AE0].mkv",
+                    "group": "Asenshi",
+                    "hash": "C8372AE0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308015",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Anxious-Domo]_Jormungand_-_02_[720p][40DA64DA].mkv",
+                    "group": "Anxious-Domo",
+                    "hash": "40DA64DA",
+                    "url": "http://tracker.minglong.org/torrents/%5BAnxious-Domo%5D_Jormungand_-_02_%5B720p%5D%5B40DA64DA%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-24T17:30:00",
+            "episode": 3,
+            "score": 7.7174338167,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[gg]_Jormungand_-_03_[570F1468].mkv",
+                    "group": "gg",
+                    "hash": "570F1468",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308327",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg_remuxed]_Jormungand_-_03.mkv",
+                    "group": "gg remuxed",
+                    "hash": "",
+                    "url": "http://goo.gl/X3CGP",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Asenshi] Jormungand - 03 [4D75D9BD].mkv",
+                    "group": "Asenshi",
+                    "hash": "4D75D9BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310096",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Jormungand_-_03v2_[9AAE8987].mkv",
+                    "group": "gg",
+                    "hash": "9AAE8987",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310222",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Anxious-Domo]_Jormungand_-_03_[720p][2B0CF124].mkv",
+                    "group": "Anxious-Domo",
+                    "hash": "2B0CF124",
+                    "url": "http://tracker.minglong.org/torrents/%5BAnxious-Domo%5D_Jormungand_-_03_%5B720p%5D%5B2B0CF124%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-01T17:30:00",
+            "episode": 4,
+            "score": 7.7125253383,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[gg]_Jormungand_-_04_[7A0F8945].mkv",
+                    "group": "gg",
+                    "hash": "7A0F8945",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310523",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Asenshi] Jormungand - 04 [B0D2FFA9].mkv",
+                    "group": "Asenshi",
+                    "hash": "B0D2FFA9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312147",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-08T17:30:00",
+            "episode": 5,
+            "score": 7.7217044855,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[gg]_Jormungand_-_05_[955CBA04].mkv",
+                    "group": "gg",
+                    "hash": "955CBA04",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312711",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[gg]_Jormungand_-_05v2_[105A7A12].mkv",
+                    "group": "gg",
+                    "hash": "105A7A12",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313252",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Asenshi] Jormungand - 05 [7E7EFF64].mkv",
+                    "group": "Asenshi",
+                    "hash": "7E7EFF64",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317144",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-15T17:30:00",
+            "episode": 6,
+            "score": 7.7408927543,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 20,
+                    "filename": "[gg]_Jormungand_-_06_[3BC4F498].mkv",
+                    "group": "gg",
+                    "hash": "3BC4F498",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314543",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[inshuheki] Jormungand - 06 [5E0360C6].mkv",
+                    "group": "inshuheki",
+                    "hash": "5E0360C6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Asenshi] Jormungand - 06 [700062F7].mkv",
+                    "group": "Asenshi",
+                    "hash": "700062F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317247",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-22T17:30:00",
+            "episode": 7,
+            "score": 7.7383399127,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 18,
+                    "filename": "[gg]_Jormungand_-_07_[929816ED].mkv",
+                    "group": "gg",
+                    "hash": "929816ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Jormungand - 07 [DDD85DAC].mkv",
+                    "group": "Asenshi",
+                    "hash": "DDD85DAC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319663",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-29T17:30:00",
+            "episode": 8,
+            "score": 7.740153178,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 22,
+                    "filename": "[gg]_Jormungand_-_08_[B8117C3F].mkv",
+                    "group": "gg",
+                    "hash": "B8117C3F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318636",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Asenshi] Jormungand - 08 [B323EBE8].mkv",
+                    "group": "Asenshi",
+                    "hash": "B323EBE8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321147",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-05T17:30:00",
+            "episode": 9,
+            "score": 7.7388185552,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[gg]_Jormungand_-_09_[00362F12].mkv",
+                    "group": "gg",
+                    "hash": "00362F12",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Asenshi] Jormungand - 09v2 [C0FE2E93].mkv",
+                    "group": "Asenshi",
+                    "hash": "C0FE2E93",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322871",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-06-12T17:30:00",
+            "episode": 10,
+            "score": 7.7583495661,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[gg]_Jormungand_-_10_[939FF9C9].mkv",
+                    "group": "gg",
+                    "hash": "939FF9C9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322602",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Jormungand - 10 [62840844].mkv",
+                    "group": "Asenshi",
+                    "hash": "62840844",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323370",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-19T17:30:00",
+            "episode": 11,
+            "score": 7.7792778523,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[gg]_Jormungand_-_11_[1E83941F].mkv",
+                    "group": "gg",
+                    "hash": "1E83941F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Asenshi] Jormungand - 11 [491F24B9].mkv",
+                    "group": "Asenshi",
+                    "hash": "491F24B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325058",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-26T17:30:00",
+            "episode": 12,
+            "score": 7.9275777023,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[gg]_Jormungand_-_12_[3DF82AFC].mkv",
+                    "group": "gg",
+                    "hash": "3DF82AFC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Jormungand - 12 [2093DC8D].mkv",
+                    "group": "Asenshi",
+                    "hash": "2093DC8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327425",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8842,
+        "ann": 13888,
+        "mal": 12413,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/92d9282646e1ed364155e7a51ceff6c8.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Jormungand (\u30e8\u30eb\u30e0\u30f3\u30ac\u30f3\u30c9) http://rdir.pl/1nbmr2",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8323185082c42fe34cfda5d0a4385d90.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/237dfaaba5e7fa3f5fc9d689f0dfd3ca.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0b456fcd0b5bab82bbe0aef43a4886b6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Patrz w me oko!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9f76a7695b918b9b3568714d7b12ca6e.jpg",
+            "hd": false
+        },
+        {
+            "description": "A teraz na m\u00f3j krzywy ryj!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dc93dfd9a08e8c1c6b01d853c475de66.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on a manga by Takahashi Keitarou, serialised in Monthly Sunday Gene-X.Koko Hekmatyar, a young arms dealer sells weapons under HCLI, a shipping corporation. As one of the company's unofficial weapon sellers, she secretly sells weapons in many countries while avoiding the local authorities and law enforcements as most of her work is actually illegal under international law. Travelling with her is her team of bodyguards who are mostly composed of ex-military veterans. Her latest addition to the crew is Jonah, a seemingly emotionless child soldier who is skilled in combat yet ironically hates arms dealers. Jonah joins Koko as he wishes to find the arms dealer responsible for his family's death. What follows is Koko and her crews escapades around the world.Source: Wiki",
+            "type": "anidb"
+        },
+        {
+            "content": "The series follows Koko Hekmatyar, a young arms dealer who sells weapons under HCLI, an international shipping corporation that secretly deals in the arms trade. As one of the company's unofficial weapon dealers, she secretly sells weapons in many countries while avoiding the local authorities and law enforcement as most of her work is actually illegal under international law. Traveling with her is her team of bodyguards who are mostly composed of ex-military veterans. Her latest addition to her crew is Jonah, a seemingly emotionless child soldier who is skilled in combat yet ironically hates arms dealers. Jonah joins Koko as he wishes to find the arms dealer responsible for his family's death. What follows is Koko and her crew's escapades around the world.",
+            "type": "ann"
+        },
+        {
+            "content": "A ruthless arms dealer on a quixotic quest for world peace. A child soldier born into chaotic conflict. Their lives will intertwine as they journey together through the seedy underbelly of the world's arms market.   (Source: FUNimation)",
+            "type": "mal"
+        },
+        {
+            "content": "The series follows Koko Hekmatyar, a young arms dealer who sells weapons under HCLI, an international shipping corporation that secretly deals in the arms trade. As one of the company's unofficial weapon dealers, she secretly sells weapons in many countries while avoiding the local authorities and law enforcement agencies as most of her work is actually illegal under international law. Traveling with her is her team of bodyguards who are mostly composed of ex-military veterans. Her latest addition to her crew is Jonah, a seemingly emotionless child soldier who is skilled in combat yet ironically hates arms dealers. Jonah joins Koko as he wishes to find the arms dealer responsible for his family's death. What follows is Koko and her crew's escapades around the world.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 13115,
+            "date": "2012-09-29T14:15:14",
+            "score": 7.97,
+            "type": "mal"
+        },
+        {
+            "count": 773,
+            "date": "2012-09-29T14:15:14",
+            "score": 7.65,
+            "type": "anidb"
+        },
+        {
+            "count": 417,
+            "date": "2012-09-29T14:15:14",
+            "score": 7.483,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Jormungand"
+}

@@ -1,0 +1,92 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u96fb\u6ce2\u7684\u306a\u5f7c\u5973"
+        },
+        {
+            "language": "pl",
+            "title": "Elektromagnetyczna Dziewczyna"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2009-02-04T00:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2009-12-04T00:00:00",
+            "episode": 2,
+            "score": 8.2785413759,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 2,
+    "episodes_length": 42,
+    "external_sites": {
+        "anidb": 6322,
+        "ann": 10519,
+        "mal": 5177,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Przygody m\u0142odzie\u0144ca i jego samozwa\u0144czej s\u0142u\u017c\u0105cej robi\u0105c\u0105 za rycerza, kt\u00f3ra twierdzi \u017ce zna go z poprzedniego \u017cycia.",
+            "type": "abp"
+        },
+        {
+            "content": "The 40 minute long OVA has been released with limited edition copies of Kurenai manga volume 3 on May 1st. Author Kentaro Katayama's Denpa Teki na Kanojo novels share continuity and characters with his Kurenai novel series.While the DVD release date for the first volume was 01.05.2009, it was streamed on Bandai Channel on 04.02.2009.Juuzawa Juu is a delinquent high school boy who just wants to be left alone. One day Ochibana Ame, who claims that she knew him from a previous life, approaches him, wanting to serve as his \"knight\". At first Juu wants to have nothing to do with Ame, but after a classmate is murdered, these two join forces in hunting down the killer.",
+            "type": "anidb"
+        },
+        {
+            "content": "Juuzawa Juu is a delinquent high school boy who just wants to be left alone. One day, he is approached by Ochibana Ame, who claims that she knew him in a previous life, and now wants to serve him as his &quot;knight&quot;. At first Juu wants nothing to do with Ame, but after a classmate is murdered, he accepts her help as he looks for the killer.     (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "J\u016bzawa J\u016b is a delinquent high school boy who just wants to be left alone. One day, he is approached by Ochibana Ame, who claims that she knew him in a previous life, and now wants to serve him as his \"knight.\" At first J\u016b wants nothing to do with Ame, but after a classmate is murdered, he accepts her help as he looks for the killer.",
+            "type": "wiki"
+        },
+        {
+            "content": "Juuzawa Juu is a delinquent high school boy who just wants to be left alone. One day, he is approached by Ochibana Ame, who claims that she knew him in a previous life, and now wants to serve him as his \"knight\". At first Juu wants nothing to do with Ame, but after a classmate is murdered, he accepts her help as he looks for the killer.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 15318,
+            "date": "2012-09-29T01:59:30",
+            "score": 8.09,
+            "type": "mal"
+        },
+        {
+            "count": 1833,
+            "date": "2012-09-29T01:59:30",
+            "score": 8.23,
+            "type": "anidb"
+        },
+        {
+            "count": 1146,
+            "date": "2012-09-29T01:59:30",
+            "score": 8.389,
+            "type": "ann"
+        },
+        {
+            "count": 9970,
+            "date": "2011-11-13T16:18:36",
+            "score": 8.15,
+            "type": "wiki"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Denpa teki na Kanojo"
+}

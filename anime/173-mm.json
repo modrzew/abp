@@ -1,0 +1,934 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3048\u3080\u3048\u3080\u3063!"
+        }
+    ],
+    "aliases": [
+        "MM!"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/175588527",
+            "content": "#anime #Jesie\u01442010 MM! (\u3048\u3080\u3048\u3080\u3063!) http://rdir.pl/st3xz",
+            "episode": 1,
+            "filename": "56c55ca910b3669a2d9b20a06796307c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26176375330"
+        },
+        {
+            "blip_url": "http://blip.pl/s/183086305",
+            "content": "MM! 02 - w #anime o zaburzeniach oczywi\u015bcie nie mog\u0142o zabrakn\u0105\u0107 kazirodztwa",
+            "episode": 2,
+            "filename": "c2fd20ecef9a7bb0cc21b0ce7f45deea.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26863898874"
+        },
+        {
+            "blip_url": "http://blip.pl/s/189635789",
+            "content": "MM! 03 - wraz z tym odcinkiem sko\u0144czy\u0142a si\u0119 fabu\u0142a tego #anime; strach pomy\u015ble\u0107, co b\u0119dzie dalej...",
+            "episode": 3,
+            "filename": "bb8b4b2154367f567d46a34175c1e5c3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27664913144"
+        },
+        {
+            "blip_url": "http://blip.pl/s/195189643",
+            "content": "MM! 04 - dla Tarou to raczej najlepsze mo\u017cliwe zako\u0144czenie",
+            "episode": 4,
+            "filename": "784f2ca4dcb5a03d9cf67ba07a4740ef.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/28815674483"
+        },
+        {
+            "blip_url": "http://blip.pl/s/200602969",
+            "content": "MM! 05 - nowy nabytek do Kolekcji Zbocze\u0144 i Dziwactw: szalony naukowiec pod postaci\u0105 loli",
+            "episode": 5,
+            "filename": "cb81d8aff8d36abd031dacda65973fb9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/29601253530"
+        },
+        {
+            "blip_url": "http://blip.pl/s/204307147",
+            "content": "MM! 06 - r\u00f3\u017cne oblicza tej samej, kochaj\u0105cej rodziny",
+            "episode": 6,
+            "filename": "0125094b51f88a8c7c2c26ea757dd3fb.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/1640715050295296"
+        },
+        {
+            "blip_url": "http://blip.pl/s/211797245",
+            "content": "MM! 07 - p\u00f3ki co nawi\u0105zania do Smoczych J\u0105der s\u0105 najlepsz\u0105 rzecz\u0105, jakie to #anime ma do zaoferowania",
+            "episode": 7,
+            "filename": "991e66c488e450f06555280fc88e3381.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/3863999527518208"
+        },
+        {
+            "blip_url": "http://blip.pl/s/231734929",
+            "content": "MM! 08 - s\u0142yszeli\u015bcie? Maj\u0105 zrobi\u0107 remake Czarodziejki z Ksi\u0119\u017cyca!",
+            "episode": 8,
+            "filename": "b83f83a073c1f2f18a6a85c2c4aff164.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/9295725976358912"
+        },
+        {
+            "blip_url": "http://blip.pl/s/238284549",
+            "content": "MM! 09 - je\u015bli w twojej szkole nie by\u0142o Inkwizycji, mo\u017cesz sobie pogratulowa\u0107 zmarnowanego dzieci\u0144stwa",
+            "episode": 9,
+            "filename": "a97871a11e3f26ddcd1436b7ec4c789e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/10883074157973504"
+        },
+        {
+            "blip_url": "http://blip.pl/s/241142197",
+            "content": "MM! 10 - Mio bez problemu zrobi\u0142aby karier\u0119 w polityce, nawet bez tych modnych ostatnio parytet\u00f3w",
+            "episode": 10,
+            "filename": "7871dae46772ad6888af430fe9f0abc5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/11924603425259520"
+        },
+        {
+            "blip_url": "http://blip.pl/s/248834629",
+            "content": "MM! 11 - wsp\u00f3\u0142praca w grupie i dobre wyczucie czasu kluczem do sukcesu",
+            "episode": 11,
+            "filename": "593f0fe808c87907f9971f00401c20a0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13973458840985600"
+        },
+        {
+            "blip_url": "http://blip.pl/s/261043951",
+            "content": "#anime #Jesie\u01442010 MM! (\u3048\u3080\u3048\u3080\u3063!) - nasza ocena: ogl\u0105daj tylko je\u015bli si\u0119 nudzisz (wi\u0119cej: http://rdir.pl/st3xz)",
+            "episode": 12,
+            "filename": "808972091aeb3446c37d6a768faeee7f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/17321309906141184"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-10-02T02:30:00",
+            "episode": 1,
+            "score": 7.2701466886,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 01v2 [7FEBDF8F].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "7FEBDF8F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=163311",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p] ",
+                    "download_count": 1,
+                    "filename": "[Ayako-Delight]_MM!_-_01_[720p]_[83055D5B].mkv",
+                    "group": "Ayako-Delight",
+                    "hash": "83055D5B",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164934",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][FF568E59]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_MM!_-_01_[1280x720][FF568E59].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p] ",
+                    "download_count": 1,
+                    "filename": "[Ayako-Delight]_MM!_-_01v2_[720p]_[C3428510].mkv",
+                    "group": "Ayako-Delight",
+                    "hash": "C3428510",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168695",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-10-09T02:30:00",
+            "episode": 2,
+            "score": 7.3559235955,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 02 [1D61570B].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "1D61570B",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=163930",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru] MM! - 02v2 [E903DACD].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "E903DACD",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164018",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[H.264] ",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_MM!_-_02_(H.264)_[E5294C44].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "E5294C44",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164429",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 1,
+                    "filename": "[PHT]_MM!_02_[h264][BBF93D40].mkv",
+                    "group": "PHT",
+                    "hash": "BBF93D40",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165425",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][58388572]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_MM!_-_02_[1280x720][58388572].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p] ",
+                    "download_count": 1,
+                    "filename": "[Ayako-Delight]_MM!_-_02_[720p]_[1A0EB372].mkv",
+                    "group": "Ayako-Delight",
+                    "hash": "1A0EB372",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168696",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-16T02:30:00",
+            "episode": 3,
+            "score": 7.3997647059,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 03 [A93914E9].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "A93914E9",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165729",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][4922BB56]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_MM!_-_03_[1280x720][4922BB56].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166268",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264] ",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_MM!_-_03_(H.264)_[3CDDBE7D].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "3CDDBE7D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166462",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 1,
+                    "filename": "[PHT]_MM!_03_[h264][98BA3B80].mkv",
+                    "group": "PHT",
+                    "hash": "98BA3B80",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166501",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-23T02:30:00",
+            "episode": 4,
+            "score": 7.4117842335,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 04 [EC69764A].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "EC69764A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167470",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 1,
+                    "filename": "[PHT]_MM!_04_[h264][FE822725].mkv",
+                    "group": "PHT",
+                    "hash": "FE822725",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168140",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264] ",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_MM!_-_04_(H.264)_[AB8DC716].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "AB8DC716",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169476",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][E22244CB]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_MM!_-_04_[1280x720][E22244CB].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170029",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-30T02:30:00",
+            "episode": 5,
+            "score": 7.4560235577,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 05 [D8CD4B38].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "D8CD4B38",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264] ",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_MM!_-_05_(H.264)_[9F5BCA7D].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "9F5BCA7D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170123",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 1,
+                    "filename": "[PHT]_MM!_05_[h264][E4C87646].mkv",
+                    "group": "PHT",
+                    "hash": "E4C87646",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170818",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-06T01:30:00",
+            "episode": 6,
+            "score": 7.4715546649,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 06 [3EF5B2FD].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "3EF5B2FD",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171192",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-13T01:30:00",
+            "episode": 7,
+            "score": 7.4668427595,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_MM!_-_07_[1280x720][70D9242A].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "70D9242A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178175",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-20T01:30:00",
+            "episode": 8,
+            "score": 7.4688681747,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_MM!_-_08_[1280x720][B0E78CAA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B0E78CAA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181015",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-27T01:30:00",
+            "episode": 9,
+            "score": 7.4944622659,
+            "torrents": [
+                {
+                    "additional_info": "[H.264]",
+                    "download_count": 2,
+                    "filename": "[m.3.3.w]_MM!_-_09_(H.264)_[10096ADD].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "10096ADD",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_MM!_-_09_[1280x720][F9F9FFCA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F9F9FFCA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182592",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-04T01:30:00",
+            "episode": 10,
+            "score": 7.4901205183,
+            "torrents": [
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 1,
+                    "filename": "[PHT]_MM!_10_[h264][AA48CDDB].mkv",
+                    "group": "PHT",
+                    "hash": "AA48CDDB",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178245",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[love-subs] MM! - 10v2 [720p].mkv",
+                    "group": "love-subs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178297",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 10 [2ADF5758].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "2ADF5758",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_MM!_-_10_[1280x720][BF7CFFD6].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BF7CFFD6",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182597",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-11T01:30:00",
+            "episode": 11,
+            "score": 7.4978879165,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 11v0 [3EE795D8].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "3EE795D8",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179320",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Ryuumaru] MM! - 11 [71662CE1].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "71662CE1",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179522",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 3,
+                    "filename": "[PHT]_MM!_11_[h264][F7A0B7DB].mkv",
+                    "group": "PHT",
+                    "hash": "F7A0B7DB",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=180129",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 2,
+                    "filename": "[PHT]_MM!_11_v2_[h264][BBF899CC].mkv",
+                    "group": "PHT",
+                    "hash": "BBF899CC",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=181026",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_MM!_-_11_[1280x720][939DBA3B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "939DBA3B",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183013",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-18T01:30:00",
+            "episode": 12,
+            "score": 7.6266172742,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] MM! - 12 [603F489D].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "603F489D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181150",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264]",
+                    "download_count": 1,
+                    "filename": "[PHT]_MM!_12_[h264][F54BE40A].mkv",
+                    "group": "PHT",
+                    "hash": "F54BE40A",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=182096",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_MM!_-_12_-_END_[1280x720][4A2F16EF].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4A2F16EF",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183015",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7622,
+        "ann": 11368,
+        "mal": 8424,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5ef568ce290c3e715ec5cc6432527de8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c95387a55ae3bc597fca3983dc888732.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c13d65a181937cc3ea95ac643a845b5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tsun tsun",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0cc0889cb00284adb527c5701b0975e4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f2e34f64d7da089420e30b8828b8e3bc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4c5cfa144f5af4d0a3f13b2720441f4a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4a2009b562fd666c5df2affc86d88eb5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9370f1e55832cb2e1d1c4c11e0384a95.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1284fc37fb9380cb56d4bd5a2f3522bf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/be1ec8c07fd6f9d0cb95768f83e39d99.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5fd71d0a466488fc204858393ffe3a83.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9d4254583a22e8f44d6c663af1765473.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e3e9dc7dd1e71eb408ab4cfd419884d4.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 MM! (\u3048\u3080\u3048\u3080\u3063!) http://rdir.pl/st3xz",
+            "filename": "http://s.modriv.net/abp/images/screencaps/56c55ca910b3669a2d9b20a06796307c.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b483b2c7ab9a1bc291f1ccd18def006f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/746db4933076c522fd4cfdd872be1857.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/961a26fe3b61b7964e56d367261bd07d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/05dd51c3de97fb924b6b3e2ab063c0af.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2f668711071517c035b051661b5b4a37.jpg",
+            "hd": false
+        },
+        {
+            "description": "w #anime o zaburzeniach oczywi\u015bcie nie mog\u0142o zabrakn\u0105\u0107 kazirodztwa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c2fd20ecef9a7bb0cc21b0ce7f45deea.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3189f5c9289c9a745dada41909264d9a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yuno dwie sekundy przed zobaczeniem twojego penisa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/04644559f952c78f142405aa8fe510f5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yuno sekund\u0119 po zobaczeniu twojego penisa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cf74a6d04c432122b79da1b8c6761e54.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yuno trzy sekundy po zobaczeniu twojego penisa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0e6e87923d6da47b9505ed3bb96b88d5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ef17973c925c9d4272b7c5ff5c3adfa5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Je\u015bli si\u0119 dok\u0142adnie przyjrzysz, zobaczysz trzy ukrywaj\u0105ce si\u0119 osoby!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1e3b94824b7d51db1ffb47476be68afc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0c2c45fc0e84e23b1174d2429abdd150.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bd229eeff9eab5dbfbda7d89fbb7a3c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "I jeszcze jedno zaburzenie do kolekcji",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1962d3b3bce12f43183910783005bf54.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fed70579887c400e38826ef7107e9ede.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/71eb5fdd2129ffc26fc64ebedeaf4d0e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/93d27fde6c5ed6961e54aff9a213c9f2.jpg",
+            "hd": false
+        },
+        {
+            "description": "I put on my serious face",
+            "filename": "http://s.modriv.net/abp/images/screencaps/69c3862f7e9a90c526a219ac0bd0292a.jpg",
+            "hd": false
+        },
+        {
+            "description": "wraz z tym odcinkiem sko\u0144czy\u0142a si\u0119 fabu\u0142a tego #anime; strach pomy\u015ble\u0107, co b\u0119dzie dalej...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bb8b4b2154367f567d46a34175c1e5c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "TAROU VI BRITA- a nie, z\u0142e anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d5489971b37ec3ad57dccdb91800de08.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9c66199ddf26a65631051a8b9faffaa1.jpg",
+            "hd": true
+        },
+        {
+            "description": "OH EXPLOITABLE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96be2b8ae6076d0210e29b46c8b5c6e8.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1432c5d85255e9039c69a8388c143a7e.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/66bd2e0894fb20b4cd2356c88ffa19b5.jpg",
+            "hd": false
+        },
+        {
+            "description": "dla Tarou to raczej najlepsze mo\u017cliwe zako\u0144czenie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/784f2ca4dcb5a03d9cf67ba07a4740ef.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e215b4f9436039d47757d7ab6e63879.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/317d65071c827f598665d72bce8ede39.jpg",
+            "hd": false
+        },
+        {
+            "description": "KIN\u00d3WKA KEJONA?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4eab09073e062da012fa78b60de51b2.jpg",
+            "hd": false
+        },
+        {
+            "description": "nowy nabytek do Kolekcji Zbocze\u0144 i Dziwactw: szalony naukowiec pod postaci\u0105 loli",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cb81d8aff8d36abd031dacda65973fb9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d3233bbc817c5eccf3302d7b3bd8716b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad3d1a8464c071e6b00d2b059db82e57.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3acae266a4c748357e4b6b275b6f8c1e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba24ff8475b0d6686e5a9451e1cedd0e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5fbe2664e854e031bb3fd33e2ef8d9e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d0aef3320b0b71c8e8aaed6b3c0e7c86.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/df3658b52bf0e032a20a52bc228e5da0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ef43ab5d6a7b94b7fd177dec98118f79.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/22ae28f3a0fd9d8ceaa1673a147817e8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4889a56768f1f1109e18f505d50c98b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "r\u00f3\u017cne oblicza tej samej, kochaj\u0105cej rodziny",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0125094b51f88a8c7c2c26ea757dd3fb.jpg",
+            "hd": false
+        },
+        {
+            "description": "p\u00f3ki co nawi\u0105zania do Smoczych J\u0105der s\u0105 najlepsz\u0105 rzecz\u0105, jakie to #anime ma do zaoferowania",
+            "filename": "http://s.modriv.net/abp/images/screencaps/991e66c488e450f06555280fc88e3381.jpg",
+            "hd": false
+        },
+        {
+            "description": "s\u0142yszeli\u015bcie? Maj\u0105 zrobi\u0107 remake Czarodziejki z Ksi\u0119\u017cyca!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b83f83a073c1f2f18a6a85c2c4aff164.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2fb70b0afbc8b069744fd6cd0dcef253.jpg",
+            "hd": false
+        },
+        {
+            "description": "je\u015bli w twojej szkole nie by\u0142o Inkwizycji, mo\u017cesz sobie pogratulowa\u0107 zmarnowanego dzieci\u0144stwa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a97871a11e3f26ddcd1436b7ec4c789e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/161898e583c3f6f80d2d3e74bc56c02b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mio bez problemu zrobi\u0142aby karier\u0119 w polityce, nawet bez tych modnych ostatnio parytet\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7871dae46772ad6888af430fe9f0abc5.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u017bRYJ CEG\u0141\u0118",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5262737b8865b56b4f7b4d7e8b23e5df.jpg",
+            "hd": false
+        },
+        {
+            "description": "wsp\u00f3\u0142praca w grupie i dobre wyczucie czasu kluczem do sukcesu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/593f0fe808c87907f9971f00401c20a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/429cd4f79fe41a2e62251850fe3ad827.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 MM! (\u3048\u3080\u3048\u3080\u3063!) - nasza ocena: ogl\u0105daj tylko je\u015bli si\u0119 nudzisz (wi\u0119cej: http://rdir.pl/st3xz)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/808972091aeb3446c37d6a768faeee7f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4eca46fdec276e836392282b1f1f7ec7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e15a2221dabfc3b5c86e7a0476c4233.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b15777bf03f7d9845c52e9fb62d7b0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e79092e0c17e7a0bd127386471000fb7.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/862ac3298d2cc8f4d1cefcd1f4b31cd8.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Szkolne przygody masochisty zakochanego w ch\u0142opaku ze swojej klasy, jego najlepszego przyjaciela transwestyty, dziewczyny z androfobi\u0105 odpowiedzialn\u0105 za wywo\u0142anie masochizmu u tego pierwszego oraz sadystki staraj\u0105cej si\u0119 im wszystkim pom\u00f3c.",
+            "type": "abp"
+        },
+        {
+            "content": "Sado Tarou suffers from sexual masochism; he experiences sexual pleasure from pain. He feels he won&#039;t ever have a normal relationship with his condition and decides to visit the Voluntary Club, a place that grants students&#039; wishes, for a cure.  At the club, he finds Isurugi Mio, a girl who thinks she is a god, and Yuno Arashiko, the girl who caused his condition in the first place...",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Matsuno Akinari's MM! light novel series.Because of an traumatic incident in the past, Sado Tarou has turned into a masochist, deriving pleasure from when cute girls violently beat him up. He will never be able to 'normally' love if he stays like this though and his friend Hayama Tatsukichi suggests to look for help. So to cure his condition, letting him confess his love to Shihori-hime, he visits the Second Voluntary Club, that supposedly fulfils the wishes of students. Arriving there he only finds Isurugi Mio, a deluded girl believing she is a goddess, and Yuuno Arashiko, the girl that unintentionally turned him into a masochist...\u2014 written by foo2 Note: The first episode was screened together with Hyakka Ryouran: Samurai Girls as part of the Media Factory Anime Festival 2010 on Sunday, September 26, 2010 in Tokyo KFC Hall. Participants were chosen through a postcard lottery held until Friday, August 27, 2010. The regular television broadcast started October 2, 2010.",
+            "type": "anidb"
+        },
+        {
+            "content": "High school student Taro Sado comes to realize that he is an extreme masochist and attempts to conceal this from his crush. To fix his problem, he enrolls in his school's \"2nd Volunteer Club\", where Mio Isurugi and the other members attempt to cure him through various \"training\" regimens.",
+            "type": "ann"
+        },
+        {
+            "content": "Taro Sado is a masochist.[6] and goes to a high school with his male friend Tatsukichi Hayama. Taro falls in love for the first time with a girl, who is in fact his cross-dressing male friend. Because Taro wants to be cured of his masochism so that he can confess his love to Tatsukichi, he goes to the Second Voluntary Club to get help. There he meets Mio Isurugi, a self-proclaimed god, and Arashiko Yuno, the girl who made him a masochist in the first place, however, she has androphobia. The club adviser is the school nurse, Michiru Onigawara. Other characters include Yumi Mamiya, Arashiko's best friend, and the president of the Inventors Club, Noa Hiragi, and her lolicon assistant, Himura Yukinoj\u014d.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 25448,
+            "date": "2012-09-29T12:49:42",
+            "score": 7.55,
+            "type": "mal"
+        },
+        {
+            "count": 1318,
+            "date": "2012-09-29T12:49:42",
+            "score": 6.87,
+            "type": "anidb"
+        },
+        {
+            "count": 1003,
+            "date": "2012-09-29T12:49:42",
+            "score": 7.401,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "MM!"
+}

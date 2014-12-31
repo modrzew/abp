@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ea\u30b9\u30c8\u30e9\u30f3\u30c6\u30d1\u30e9\u30c7\u30a3\u30fc\u30be"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 11,
+    "episodes_length": 22,
+    "external_sites": {
+        "anidb": 6384,
+        "ann": 10449,
+        "mal": 5984,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on a manga by Ono Natsume, serialised in the alternative manga magazine Manga Erotics F.Ristorante Paradiso illustrates the life of Nicoletta, a young woman who comes to Rome to confront her mother who abandoned her as a young girl. However, a chain of events leads to her becoming an apprentice chef at a restaurant owned by her mom's boyfriend instead.\"RisPara\", as it's abbreviated by Japanese fans, was the second installment in Fuji Television's \"NOISE\" late-night anime time slot, following Michiko to Hatchin.",
+            "type": "anidb"
+        },
+        {
+            "content": "21 year-old Nicoletta leaves her grandparents&#039; home in the countryside to work in Rome at a restaurant owned by her estranged mother&#039;s lover. But something sets the popular and elegant Casetta Dell&#039;orso apart from its rivals: the entire restaurant is staffed by older gentlemen wearing glasses (as per her mother&#039;s preference). Thrown into this adult world, Nicoletta must try to find personal and professional stability - things that become increasingly difficult to achieve as she falls under the spell of Casetta Dell&#039;orso.",
+            "type": "mal"
+        },
+        {
+            "content": "Nicoletta is a young woman who decides to go to Rome to see her mother who left her when she was a child. She plans to tell her mother's lover (a resurant owner who will not marry a divorced woman) that her mother was once married. Nicoletta latter struggles to understand her feeling for Claudio, an older man who works at the restaurant.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 4244,
+            "date": "2012-09-29T02:33:35",
+            "score": 7.58,
+            "type": "mal"
+        },
+        {
+            "count": 622,
+            "date": "2012-09-29T02:33:35",
+            "score": 7.41,
+            "type": "anidb"
+        },
+        {
+            "count": 336,
+            "date": "2012-09-29T02:33:35",
+            "score": 7.604,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Ristorante Paradiso"
+}

@@ -1,0 +1,1613 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30e2\u30fc\u30ec\u30c4\u5b87\u5b99\u6d77\u8cca"
+        },
+        {
+            "language": "pl",
+            "title": "Gwiezdni Piraci w Mini\u00f3wach"
+        }
+    ],
+    "aliases": [
+        "Moretsu Pirates",
+        "Mouretsu Pirates",
+        "Mouretsu Space Pirates",
+        "Bodacious Space Pirates"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/885103425",
+            "content": "#anime #Zima2012 Mouretsu Pirates (\u30e2\u30fc\u30ec\u30c4\u5b87\u5b99\u6d77\u8cca) http://rdir.pl/1mex1u",
+            "episode": 1,
+            "filename": "ef0a12e18a10b01d6d348a171ccf5d99.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/156457842734399489"
+        },
+        {
+            "blip_url": "http://blip.pl/s/904776163",
+            "content": "Mouretsu Pirates 03 - na pomoc, gimnazjali\u015bci mnie DDoSuj\u0105!",
+            "episode": 3,
+            "filename": "b6b40715d8ad7f7fdb7c83ff11a9306c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161249491264094208"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-07T16:30:00",
+            "episode": 1,
+            "score": 7.4100309119,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274715",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[RS] Moretsu Pirates - 1 [480p].mkv",
+                    "group": "RS",
+                    "hash": "",
+                    "url": "http://demo.ovh.com/download/2403d3879635e50dc2ba4a1a2072f564/%5BRS%5D%20Moretsu%20Pirates%20-%201%20%5B480p%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[RS] Moretsu Pirates - 1 [720p].mkv",
+                    "group": "RS",
+                    "hash": "",
+                    "url": "http://demo.ovh.com/download/481e35ad47c0d3e43d8df1d07537f1f2/%5BRS%5D%20Moretsu%20Pirates%20-%201%20%5B720p%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Mouretsu Pirates - 01 [D051076F].mkv",
+                    "group": "Commie",
+                    "hash": "D051076F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274789",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 01 [E5C7E08F].mkv",
+                    "group": "WhyNot",
+                    "hash": "E5C7E08F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274815",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Otakuvpr] Mouretsu Pirates 01 [DB39ED7B].mkv",
+                    "group": "Diogo4D-Otakuvpr",
+                    "hash": "DB39ED7B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275761",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-14T16:30:00",
+            "episode": 2,
+            "score": 7.3533814433,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Mouretsu Pirates - 02 [7B85B430].mkv",
+                    "group": "Commie",
+                    "hash": "7B85B430",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277604",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 5,
+                    "filename": "[EC]Bodacious Space Pirates - 02(HD)[7C42F984].mkv",
+                    "group": "EC",
+                    "hash": "7C42F984",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2002%28HD%29%5B7C42F984%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[SD]",
+                    "download_count": 1,
+                    "filename": "[EC]Bodacious Space Pirates - 02(SD)[E292F795].mkv",
+                    "group": "EC",
+                    "hash": "E292F795",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2002(SD)%5BE292F795%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Otakuvpr] Mouretsu Pirates 02 [737E484D].mkv",
+                    "group": "Diogo4D-Otakuvpr",
+                    "hash": "737E484D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280311",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-21T16:30:00",
+            "episode": 3,
+            "score": 7.3284872449,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278393",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278394",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 03 [CECB9816].mkv",
+                    "group": "WhyNot",
+                    "hash": "CECB9816",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278506",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Mouretsu Pirates - 03 [FFBD0EA8].mkv",
+                    "group": "Commie",
+                    "hash": "FFBD0EA8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280533",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 1,
+                    "filename": "[EC]Bodacious Space Pirates - 03(HD)[A31B60FB].mkv",
+                    "group": "EC",
+                    "hash": "A31B60FB",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2003%28HD%29%5BA31B60FB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Otakuvpr] Mouretsu Pirates 03 [785C9016].mkv",
+                    "group": "Diogo4D-Otakuvpr",
+                    "hash": "785C9016",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288966",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[SD]",
+                    "download_count": 1,
+                    "filename": "[EC]Bodacious Space Pirates - 03v2(SD)[5ECDAC92].mkv",
+                    "group": "EC",
+                    "hash": "5ECDAC92",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2003v2(SD)%5B5ECDAC92%5D.mkv.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-01-28T16:30:00",
+            "episode": 4,
+            "score": 7.2796707038,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281165",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281166",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281167",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Mouretsu Pirates - 04 [A1979F37].mkv",
+                    "group": "Commie",
+                    "hash": "A1979F37",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281496",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 04 [8EC134D6].mkv",
+                    "group": "WhyNot",
+                    "hash": "8EC134D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281517",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 0,
+                    "filename": "[EC]Bodacious Space Pirates - 04(HD)[9A47A89F].mkv",
+                    "group": "EC",
+                    "hash": "9A47A89F",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2004%28HD%29%5B9A47A89F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[SD]",
+                    "download_count": 0,
+                    "filename": "[EC]Bodacious Space Pirates - 04(SD)[85C958E5].mkv",
+                    "group": "EC",
+                    "hash": "85C958E5",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2004(SD)%5B85C958E5%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-04T16:30:00",
+            "episode": 5,
+            "score": 7.2636420653,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 05 [EC8E5C71].mkv",
+                    "group": "WhyNot",
+                    "hash": "EC8E5C71",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284036",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[R-Subs] Moretsu Pirates - 05 [720p].mkv",
+                    "group": "R-Subs",
+                    "hash": "",
+                    "url": "http://db.tt/yqTcFReA",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284152",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284153",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 1,
+                    "filename": "[EC]Bodacious Space Pirates - 05v2(HD)[40403E30].mkv",
+                    "group": "EC",
+                    "hash": "40403E30",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2005v2(HD)%5B40403E30%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[SD]",
+                    "download_count": 2,
+                    "filename": "[EC]Bodacious Space Pirates - 05(SD)[9D328E7F].mkv",
+                    "group": "EC",
+                    "hash": "9D328E7F",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2005(SD)%5B9D328E7F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-11T16:30:00",
+            "episode": 6,
+            "score": 7.2603821138,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286170",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286176",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Mouretsu Pirates - 06 [E1A980E4].mkv",
+                    "group": "Commie",
+                    "hash": "E1A980E4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286636",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 06 [C30FEED5].mkv",
+                    "group": "WhyNot",
+                    "hash": "C30FEED5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286685",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 0,
+                    "filename": "[EC]Bodacious Space Pirates - 06(HD)[03C86145].mkv",
+                    "group": "EC",
+                    "hash": "03C86145",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2006%28HD%29%5B03C86145%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[SD]",
+                    "download_count": 0,
+                    "filename": "[EC]Bodacious Space Pirates - 06(SD)[9B74FF03].mkv",
+                    "group": "EC",
+                    "hash": "9B74FF03",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2006%28SD%29%5B9B74FF03%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-18T16:30:00",
+            "episode": 7,
+            "score": 7.2056585613,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 07 [134AF920].mkv",
+                    "group": "WhyNot",
+                    "hash": "134AF920",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288630",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Mouretsu Pirates - 07 [A356F759].mkv",
+                    "group": "Commie",
+                    "hash": "A356F759",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 1,
+                    "filename": "[EC]Bodacious Space Pirates - 07(HD)[3C967BAC].mkv",
+                    "group": "EC",
+                    "hash": "3C967BAC",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2007%28HD%29%5B3C967BAC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[SD]",
+                    "download_count": 1,
+                    "filename": "[EC]Bodacious Space Pirates - 07(SD)[1A98F4D0].mkv",
+                    "group": "EC",
+                    "hash": "1A98F4D0",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2007(SD)%5B1A98F4D0%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-25T16:30:00",
+            "episode": 8,
+            "score": 7.1888621022,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290767",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290768",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 08 [5A65CA9C].mkv",
+                    "group": "WhyNot",
+                    "hash": "5A65CA9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290813",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Mouretsu Pirates - 08 [50A21E53].mkv",
+                    "group": "Commie",
+                    "hash": "50A21E53",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290969",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 0,
+                    "filename": "[EC]Bodacious Space Pirates - 08(HD)[59D129DD].mkv",
+                    "group": "EC",
+                    "hash": "59D129DD",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2008%28HD%29%5B59D129DD%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-03T16:30:00",
+            "episode": 9,
+            "score": 7.1781018668,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 09 [B65343F9].mkv",
+                    "group": "WhyNot",
+                    "hash": "B65343F9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293100",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293142",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293143",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Mouretsu Pirates - 09 [C0AD3368].mkv",
+                    "group": "Commie",
+                    "hash": "C0AD3368",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293613",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HD]",
+                    "download_count": 1,
+                    "filename": "[EC]Bodacious Space Pirates - 09(HD)[18BB6F88].mkv",
+                    "group": "EC",
+                    "hash": "18BB6F88",
+                    "url": "http://tracker.minglong.org/torrents/%5BEC%5DBodacious%20Space%20Pirates%20-%2009(HD)%5B18BB6F88%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-10T16:30:00",
+            "episode": 10,
+            "score": 7.1575707925,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294919",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294922",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 10 [D1AC34E7].mkv",
+                    "group": "WhyNot",
+                    "hash": "D1AC34E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295025",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Mouretsu Pirates - 10 [4119471D].mkv",
+                    "group": "Commie",
+                    "hash": "4119471D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295203",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-17T16:30:00",
+            "episode": 11,
+            "score": 7.1581596244,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296805",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296810",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296813",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 11 [B7383B2F].mkv",
+                    "group": "Commie",
+                    "hash": "B7383B2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296946",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 11 [A75984EA].mkv",
+                    "group": "WhyNot",
+                    "hash": "A75984EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297186",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-24T16:30:00",
+            "episode": 12,
+            "score": 7.1246590863,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298773",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298774",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298779",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 12 [F899B9C1].mkv",
+                    "group": "WhyNot",
+                    "hash": "F899B9C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Mouretsu Pirates - 12 [AFAC2F0A].mkv",
+                    "group": "Commie",
+                    "hash": "AFAC2F0A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299054",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-31T17:30:00",
+            "episode": 13,
+            "score": 7.1084006229,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300783",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300786",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300787",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 13 [FDF9DF20].mkv",
+                    "group": "WhyNot",
+                    "hash": "FDF9DF20",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300891",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 13 [D048099C].mkv",
+                    "group": "Commie",
+                    "hash": "D048099C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302761",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-07T17:30:00",
+            "episode": 14,
+            "score": 7.0866140483,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302690",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302694",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 14 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 14 [D52C2B0F].mkv",
+                    "group": "WhyNot",
+                    "hash": "D52C2B0F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302791",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Mouretsu Pirates - 14 [143B07D6].mkv",
+                    "group": "Commie",
+                    "hash": "143B07D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303317",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Mouretsu Pirates - 14v2 [CEA344A1].mkv",
+                    "group": "Commie",
+                    "hash": "CEA344A1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303518",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-04-14T17:30:00",
+            "episode": 15,
+            "score": 7.0699930275,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 15 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304864",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 15 [B9BAA8CD].mkv",
+                    "group": "Commie",
+                    "hash": "B9BAA8CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304967",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 15 [8210C076].mkv",
+                    "group": "WhyNot",
+                    "hash": "8210C076",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305331",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-21T17:30:00",
+            "episode": 16,
+            "score": 7.0521517328,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307128",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307131",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 16 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 16 [99A3E908].mkv",
+                    "group": "WhyNot",
+                    "hash": "99A3E908",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Mouretsu Pirates - 16 [73EA36D8].mkv",
+                    "group": "Commie",
+                    "hash": "73EA36D8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311582",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-28T17:30:00",
+            "episode": 17,
+            "score": 7.0472211471,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309362",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 17 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309366",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 17 [EE748556].mkv",
+                    "group": "WhyNot",
+                    "hash": "EE748556",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 17 [4BB1EF8B].mkv",
+                    "group": "Commie",
+                    "hash": "4BB1EF8B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311583",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-05T17:30:00",
+            "episode": 18,
+            "score": 7.045801105,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311643",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 18 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311646",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 18 [49B0A069].mkv",
+                    "group": "Commie",
+                    "hash": "49B0A069",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 18 [0FB3CE72].mkv",
+                    "group": "WhyNot",
+                    "hash": "0FB3CE72",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312200",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-12T17:30:00",
+            "episode": 19,
+            "score": 7.0322656489,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313592",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313595",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 19 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 19 [5E8E12C9].mkv",
+                    "group": "WhyNot",
+                    "hash": "5E8E12C9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313710",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Mouretsu Pirates - 19 [7AB01E5B].mkv",
+                    "group": "Commie",
+                    "hash": "7AB01E5B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317217",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-19T17:30:00",
+            "episode": 20,
+            "score": 7.0255661136,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315505",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 20 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315509",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315511",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 20 [337CBF07].mkv",
+                    "group": "WhyNot",
+                    "hash": "337CBF07",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 20 [134C4E6F].mkv",
+                    "group": "Commie",
+                    "hash": "134C4E6F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317218",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-26T17:30:00",
+            "episode": 21,
+            "score": 7.0134181818,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317438",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317440",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 21 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 21 [A5FC87BF].mkv",
+                    "group": "WhyNot",
+                    "hash": "A5FC87BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317542",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 21 [AAAEAE65].mkv",
+                    "group": "Commie",
+                    "hash": "AAAEAE65",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320895",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-02T17:30:00",
+            "episode": 22,
+            "score": 7.0120713704,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 22 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319585",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 22 [2FC0D7FF].mkv",
+                    "group": "WhyNot",
+                    "hash": "2FC0D7FF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319689",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 22 [0F5F8C9C].mkv",
+                    "group": "Commie",
+                    "hash": "0F5F8C9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320896",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-09T17:30:00",
+            "episode": 23,
+            "score": 7.0130154167,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321606",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 23 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321610",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 23v2 [75C1F7B7].mkv",
+                    "group": "WhyNot",
+                    "hash": "75C1F7B7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321692",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 23 [DFF3166A].mkv",
+                    "group": "Commie",
+                    "hash": "DFF3166A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321751",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-16T17:30:00",
+            "episode": 24,
+            "score": 7.0132543471,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 24 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 24 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323499",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 24 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323500",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 24 [DBD26553].mkv",
+                    "group": "WhyNot",
+                    "hash": "DBD26553",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Mouretsu Pirates - 24 [3AAB3760].mkv",
+                    "group": "Commie",
+                    "hash": "3AAB3760",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325385",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-23T17:30:00",
+            "episode": 25,
+            "score": 7.0202751824,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 25 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 25 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 25 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325205",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 25 [7B3DDEAE].mkv",
+                    "group": "WhyNot",
+                    "hash": "7B3DDEAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325328",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 25 [9CB8A604].mkv",
+                    "group": "Commie",
+                    "hash": "9CB8A604",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325386",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-30T17:30:00",
+            "episode": 26,
+            "score": 7.312429097,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 26 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 26 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Moretsu Pirates - 26 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327323",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mouretsu Pirates - 26 [D34A5420].mkv",
+                    "group": "Commie",
+                    "hash": "D34A5420",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328538",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Mouretsu Space Pirates - 26 [95560BE9].mkv",
+                    "group": "WhyNot",
+                    "hash": "95560BE9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328838",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7443,
+        "ann": 11399,
+        "mal": 8917,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2a0dcce58a4e9a0b5eb1ddd82660e99b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/be5a42e9aac0dd915fa2c66a32b40f24.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aaaef5b6faa03988a69d28196f18e07b.jpg",
+            "hd": false
+        },
+        {
+            "description": "pani kapitan pirat\u00f3w jest pokoj\u00f3wk\u0105!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d707485309268d925540183e0ea18da7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b1667fd3723b315bb309a6aca789edd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/591122129b7027eb1c1d9eb45255f1c6.jpg",
+            "hd": false
+        },
+        {
+            "description": "jestem piratem i jestem tajemnicza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c2f47600eb8cce653dc8350beef26c3d.jpg",
+            "hd": false
+        },
+        {
+            "description": "nauczyciel bisz? Niemo\u017cliwe!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/83c499e7931322a0b9e72472a0669cbf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5f9a53a9d1d463a891a8eeb0364ab8bb.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d2644600ad48424270f986ceff96e196.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/afcf332c0d775618734b8fa94c41cb89.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/61b5415ed43c3fd492a6f22531c74369.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/673414c68f67909dd789405eba356c0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Mouretsu Pirates (\u30e2\u30fc\u30ec\u30c4\u5b87\u5b99\u6d77\u8cca) http://rdir.pl/1mex1u",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ef0a12e18a10b01d6d348a171ccf5d99.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c6dbe6191d1752ff76b73de6cd44834e.jpg",
+            "hd": false
+        },
+        {
+            "description": "na pomoc, gimnazjali\u015bci mnie DDoSuj\u0105!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b6b40715d8ad7f7fdb7c83ff11a9306c.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Dawno dawno temu w odleg\u0142ej galaktyce by\u0142a sobie dziewczyna imieniem Marika, kt\u00f3rej \u017cycie szkolne nie by\u0142o jednak pisane. Odziedziczy\u0142a bowiem po ojcu tytu\u0142 kapitana statku gwiezdnych pirat\u00f3w.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a light novel series titled Miniskirt Uchuu Pirates by Sasamoto Yuuichi with illustrations by Matsumoto Noriyuki.Most families have a skeleton or two in the closet, but Marika is understandably shocked to learn that what her family has been hiding is a skull and crossbones! And while the revelation that her late father was a space pirate would have been earthshaking enough for most teenage girls, discovering that he was the captain of the notorious pirate ship Bentenmaru will change Marika's life forever. Because, you see, pirating is a family business, and she's just inherited the position of captain. And her father's former crew is quite intent on making sure Marika accepts the job! So what's a girl to do? Well, if you're a high school student whose prior total naval experience has been working at the space yacht club, there's really only one moral dilemma that has to be resolved: are pirates allowed to wear really short mini-skirts? Get ready for intergalactic buccaneering unlike any you've ever seen before as the spaceways get broad-sided by cutting lasses, curvy knaves and the sexiest pirate's chest ever in Mouretsu Pirates!Source: Sentai Filmworks",
+            "type": "anidb"
+        },
+        {
+            "content": "Marika is a first year high school student living on a planet known as Uminoakeboshi. One day she finds out that her recently deceased father was once the captain of the space pirate ship called the \"Bentenmaru\". More importantly, the only one to inherit the captain's title has to be a direct descendant\u2014meaning that Marika is next in line to become the captain of the ship.",
+            "type": "ann"
+        },
+        {
+            "content": "The story centers around a spirited high school girl named Marika. She keeps herself busy with the space yacht club and her part-time job at a high-class retro caf\u00e9. One day, two strangers suddenly appear and claim to be subordinates of her dead father. They demand that she assume command of the space pirate ship Bentenmaru. A privateer ship's compact was made during a war of independence a century ago, and according to that compact, the ship must be inherited by the captain's next direct descendant. Marika finds herself embarking on a new life as a space pirate.",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7238,
+            "date": "2012-09-29T14:03:48",
+            "score": 7.35,
+            "type": "mal"
+        },
+        {
+            "count": 768,
+            "date": "2012-09-29T14:03:48",
+            "score": 6.96,
+            "type": "anidb"
+        },
+        {
+            "count": 699,
+            "date": "2012-09-29T14:03:48",
+            "score": 7.535,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Mouretsu Pirates"
+}

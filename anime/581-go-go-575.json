@@ -1,0 +1,114 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "GO!GO!575"
+        }
+    ],
+    "aliases": [
+        "Go! Go! 575"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-01-09T17:25:00",
+            "episode": 1,
+            "score": 5.86,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[Hybrid] Go! Go! 575 - 01 [720p][6B3B548F].mkv",
+                    "group": "Hybrid",
+                    "hash": "6B3B548F",
+                    "url": "http://www.nyaa.se/?page=download&tid=511137",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-16T17:25:00",
+            "episode": 2,
+            "score": 5.57,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hybrid] Go! Go! 575 - 02 [720p][94A450D7].mkv",
+                    "group": "Hybrid",
+                    "hash": "94A450D7",
+                    "url": "http://www.nyaa.se/?page=download&tid=513387",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-23T17:25:00",
+            "episode": 3,
+            "score": 5.42,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hybrid] Go! Go! 575 - 03 [720p][FFAADCF1].mkv",
+                    "group": "Hybrid",
+                    "hash": "FFAADCF1",
+                    "url": "http://www.nyaa.se/?page=download&tid=516288",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-30T17:25:00",
+            "episode": 4,
+            "score": 5.57,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hybrid] Go! Go! 575 - 04 [720p][9E7DA264].mkv",
+                    "group": "Hybrid",
+                    "hash": "9E7DA264",
+                    "url": "http://www.nyaa.se/?page=download&tid=518483",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 10255,
+        "ann": 15753,
+        "mal": 21267,
+        "schedule": 3276
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Go! Go! 575 adapts the Project 575 games for PlayStation Vita and iOS, which allow anyone to create songs using the traditional Japanese 5-7-5-syllable meter found in haiku and tanka poems.(Source: ANN)",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 61,
+            "date": "2014-02-19T03:40:18",
+            "score": 5.56,
+            "type": "anidb"
+        },
+        {
+            "count": 34,
+            "date": "2014-02-19T03:40:18",
+            "score": 6.067,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Go! Go! 575"
+}

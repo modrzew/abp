@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6226\u5834\u306e\u30f4\u30a1\u30eb\u30ad\u30e5\u30ea\u30a23 \u8ab0\u304c\u305f\u3081\u306e\u9283\u7621"
+        },
+        {
+            "language": "pl",
+            "title": "Kroniki Walkirii: Kroniki Nieznane"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2011-04-13T00:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2011-06-29T00:00:00",
+            "episode": 2,
+            "score": 7.5519230769,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 2,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 8158,
+        "ann": 12156,
+        "mal": 9793,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 1681,
+            "date": "2012-09-29T13:23:02",
+            "score": 7.45,
+            "type": "mal"
+        },
+        {
+            "count": 194,
+            "date": "2012-09-29T13:23:02",
+            "score": 7.01,
+            "type": "anidb"
+        },
+        {
+            "count": 120,
+            "date": "2012-09-29T13:23:02",
+            "score": 7.414,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "35",
+    "title": "Senjou no Valkyria 3: Tagatame no Juusou"
+}

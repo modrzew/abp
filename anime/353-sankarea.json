@@ -1,0 +1,1265 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3055\u3093\u304b\u308c\u3042"
+        }
+    ],
+    "aliases": [
+        "Sankarea"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1100128223",
+            "content": "#anime #Wiosna2012 Sankarea (\u3055\u3093\u304b\u308c\u3042) http://rdir.pl/1nax8j",
+            "episode": 1,
+            "filename": "5a9fe2e1d9276689e06234cb38431c18.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190214039706664960"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1108268227",
+            "content": "Sankarea 02 - podpisz kontrakt i sta\u0144 si\u0119 Czarodziejsk\u0105 Dziewoj\u0105 w ci\u0105gu 10 minut, a dostaniesz jedno \u017cyczenie ca\u0142kowicie gratis!",
+            "episode": 2,
+            "filename": "97b55f23e9acea868907be927c57e39b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1222083825",
+            "content": "Sankarea 08 - bo pornobajki zawsze b\u0119d\u0105 pornobajkami",
+            "episode": 8,
+            "filename": "f09e40446024fa3989a6548a0ce449bc.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/207049743476600832"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-05T18:55:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Commie] Sankarea - 01 [261B2905].mkv",
+                    "group": "Commie",
+                    "hash": "261B2905",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SFW]_Sankarea_-_01_[720p][E9B37929].mkv",
+                    "group": "SFW",
+                    "hash": "E9B37929",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Doki] Sankarea - 01 (1280x720 h264 AAC) [DE2C499C].mkv",
+                    "group": "Doki",
+                    "hash": "DE2C499C",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_01_1280x720_h264_AAC_DE2C499C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 01 (848x480 h264 AAC) [2DC8E3EF].mkv",
+                    "group": "Doki",
+                    "hash": "2DC8E3EF",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_01_848x480_h264_AAC_2DC8E3EF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sankarea - 01 [10bit][720p][497935CB].mkv",
+                    "group": "Hadena",
+                    "hash": "497935CB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2001%20%5B10bit%5D%5B720p%5D%5B497935CB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sankarea - 01 [480p][51916062].mkv",
+                    "group": "Hadena",
+                    "hash": "51916062",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2001%20%5B480p%5D%5B51916062%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Sankarea - 01 [720p][11B3DCEA].mkv",
+                    "group": "Hadena",
+                    "hash": "11B3DCEA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2001%20%5B720p%5D%5B11B3DCEA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Sankarea_-_01_[10bit][1280x720][F12F8DB2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F12F8DB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303222",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sankarea_-_01_[8bit][1280x720][66AA70D1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "66AA70D1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303221",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Anifecta-Subs] Sankarea - 01 [720p][74A1EA27].mkv",
+                    "group": "Anifecta-Subs",
+                    "hash": "74A1EA27",
+                    "url": "http://goo.gl/2sGn1",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Asenshi] Sankarea - 01 [AB0EEBF2].mkv",
+                    "group": "Asenshi",
+                    "hash": "AB0EEBF2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305610",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-12T18:55:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Commie] Sankarea - 02 [08DD7C48].mkv",
+                    "group": "Commie",
+                    "hash": "08DD7C48",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Sankarea - 02 [720p][69A74990].mkv",
+                    "group": "Hadena",
+                    "hash": "69A74990",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2002%20%5B720p%5D%5B69A74990%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Sankarea - 02 (1280x720 h264 AAC) [1D84424E].mkv",
+                    "group": "Doki",
+                    "hash": "1D84424E",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_02_1280x720_h264_AAC_1D84424E.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Sankarea - 02 (848x480 h264 AAC) [6FDB556B].mkv",
+                    "group": "Doki",
+                    "hash": "6FDB556B",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_02_848x480_h264_AAC_6FDB556B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sankarea - 02 [480p][5D4DEC69].mkv",
+                    "group": "Hadena",
+                    "hash": "5D4DEC69",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2002%20%5B480p%5D%5B5D4DEC69%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Sankarea - 02 [10bit][720p][FB2607EC].mkv",
+                    "group": "Hadena",
+                    "hash": "FB2607EC",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2002%20%5B10bit%5D%5B720p%5D%5BFB2607EC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Sankarea - 02v2 (848x480 h264 AAC) [34A8B511].mkv",
+                    "group": "Doki",
+                    "hash": "34A8B511",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_02v2_848x480_h264_AAC_34A8B511.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_Sankarea_-_02_[10bit][1280x720][6FC184CA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6FC184CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305256",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Sankarea_-_02_[8bit][1280x720][96E14A94].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "96E14A94",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305255",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-19T18:55:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 20,
+                    "filename": "[Commie] Sankarea - 03 [BDBFA66E].mkv",
+                    "group": "Commie",
+                    "hash": "BDBFA66E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306663",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] Sankarea 03 [1280x720 H264] [66B2FA32].mkv",
+                    "group": "Eveyuu",
+                    "hash": "66B2FA32",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306886",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Eveyuu] Sankarea 03 [Hi10P 1280x720 H264] [A5CBFE82].mkv",
+                    "group": "Eveyuu",
+                    "hash": "A5CBFE82",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 03 (1280x720 h264 AAC) [CCEFD2C5].mkv",
+                    "group": "Doki",
+                    "hash": "CCEFD2C5",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_03_1280x720_h264_AAC_CCEFD2C5.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 03 (848x480 h264 AAC) [E8EFBC87].mkv",
+                    "group": "Doki",
+                    "hash": "E8EFBC87",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_03_848x480_h264_AAC_E8EFBC87.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sankarea - 03 [720p][4F753403].mkv",
+                    "group": "Hadena",
+                    "hash": "4F753403",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2003%20%5B720p%5D%5B4F753403%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sankarea - 03 [480p][335FDD8D].mkv",
+                    "group": "Hadena",
+                    "hash": "335FDD8D",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2003%20%5B480p%5D%5B335FDD8D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Sankarea - 03 [10bit][720p][72E36EEA].mkv",
+                    "group": "Hadena",
+                    "hash": "72E36EEA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2003%20%5B10bit%5D%5B720p%5D%5B72E36EEA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Sankarea_-_03_[10bit][1280x720][E40EB122].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E40EB122",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sankarea_-_03_[8bit][1280x720][8C5AEB54].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "8C5AEB54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308338",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-26T18:55:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 20,
+                    "filename": "[Commie] Sankarea - 04 [108B653A].mkv",
+                    "group": "Commie",
+                    "hash": "108B653A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sankarea - 04 [10bit][720p][751227EA].mkv",
+                    "group": "Hadena",
+                    "hash": "751227EA",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2004%20%5B10bit%5D%5B720p%5D%5B751227EA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sankarea - 04 [720p][4AC1C4F4].mkv",
+                    "group": "Hadena",
+                    "hash": "4AC1C4F4",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2004%20%5B720p%5D%5B4AC1C4F4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sankarea - 04 [480p][580823EE].mkv",
+                    "group": "Hadena",
+                    "hash": "580823EE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2004%20%5B480p%5D%5B580823EE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p H.264+AAC]",
+                    "download_count": 0,
+                    "filename": "[EvermorE] Sankarea - 04 [1280x720p H.264+AAC].mkv",
+                    "group": "EvermorE",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309402",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Eveyuu] Sankarea 04 [1280x720 H264] [9E1CBC76].mkv",
+                    "group": "Eveyuu",
+                    "hash": "9E1CBC76",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=309430",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Eveyuu] Sankarea 04 [Hi10P 1280x720 H264] [FECA0F74].mkv",
+                    "group": "Eveyuu",
+                    "hash": "FECA0F74",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=309431",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Sankarea - 04 (1280x720 h264 AAC) [0EB82943].mkv",
+                    "group": "Doki",
+                    "hash": "0EB82943",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_04_1280x720_h264_AAC_0EB82943.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 04 (848x480 h264 AAC) [1B20DF10].mkv",
+                    "group": "Doki",
+                    "hash": "1B20DF10",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_04_848x480_h264_AAC_1B20DF10.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Sankarea_-_04_[10bit][1280x720][FC2ABB15].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FC2ABB15",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310733",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sankarea_-_04_[8bit][1280x720][0EF004F0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0EF004F0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310731",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-03T18:55:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Sankarea - 05v0 [720p][F3265389].mkv",
+                    "group": "Hadena",
+                    "hash": "F3265389",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2005v0%20%5B720p%5D%5BF3265389%5D.mkv.torrent",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Sankarea - 05 [F81E3D11].mkv",
+                    "group": "Commie",
+                    "hash": "F81E3D11",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311247",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Eveyuu] Sankarea 05 [Hi10P 1280x720 H264] [EEEFF831].mkv",
+                    "group": "Eveyuu",
+                    "hash": "EEEFF831",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Eveyuu] Sankarea 05 [1280x720 H264] [D8284375].mkv",
+                    "group": "Eveyuu",
+                    "hash": "D8284375",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311471",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sankarea - 05 [720p][59E97390].mkv",
+                    "group": "Hadena",
+                    "hash": "59E97390",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2005%20%5B720p%5D%5B59E97390%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sankarea - 05 [480p][A336E8DF].mkv",
+                    "group": "Hadena",
+                    "hash": "A336E8DF",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2005%20%5B480p%5D%5BA336E8DF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 05 (1280x720 h264 AAC) [6F17B80B].mkv",
+                    "group": "Doki",
+                    "hash": "6F17B80B",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_05_1280x720_h264_AAC_6F17B80B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Sankarea - 05 (848x480 h264 AAC) [E18ACB3A].mkv",
+                    "group": "Doki",
+                    "hash": "E18ACB3A",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_05_848x480_h264_AAC_E18ACB3A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Sankarea - 05v2 (1280x720 h264 AAC) [176CD9E1].mkv",
+                    "group": "Doki",
+                    "hash": "176CD9E1",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_05v2_1280x720_h264_AAC_176CD9E1.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Sankarea - 05v2 (848x480 h264 AAC) [0B5C853D].mkv",
+                    "group": "Doki",
+                    "hash": "0B5C853D",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_05v2_848x480_h264_AAC_0B5C853D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Sankarea_-_05_[8bit][1280x720][26719C3B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "26719C3B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316284",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Sankarea_-_05_[10bit][1280x720][6B1A3FBF].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6B1A3FBF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316285",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-10T18:55:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Sankarea - 06 [10bit][720p][B4BB6B2B].mkv",
+                    "group": "Hadena",
+                    "hash": "B4BB6B2B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2006%20%5B10bit%5D%5B720p%5D%5BB4BB6B2B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sankarea - 06 [480p][D2CA57F3].mkv",
+                    "group": "Hadena",
+                    "hash": "D2CA57F3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2006%20%5B480p%5D%5BD2CA57F3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Commie] Sankarea - 06 [7D057758].mkv",
+                    "group": "Commie",
+                    "hash": "7D057758",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313267",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Sankarea - 06 [720p][6405C9E0].mkv",
+                    "group": "Hadena",
+                    "hash": "6405C9E0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2006%20%5B720p%5D%5B6405C9E0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 6,
+                    "filename": "[Eveyuu] Sankarea 06 [Hi10P 1280x720 H264] [6E959417].mkv",
+                    "group": "Eveyuu",
+                    "hash": "6E959417",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=313733",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Eveyuu] Sankarea 06 [1280x720 H264] [A8D7D45B].mkv",
+                    "group": "Eveyuu",
+                    "hash": "A8D7D45B",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=313732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Sankarea - 06 (1280x720 h264 AAC) [306840C8].mkv",
+                    "group": "Doki",
+                    "hash": "306840C8",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_06_1280x720_h264_AAC_306840C8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Sankarea - 06 (848x480 h264 AAC) [D0026EF1].mkv",
+                    "group": "Doki",
+                    "hash": "D0026EF1",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_06_848x480_h264_AAC_D0026EF1.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Sankarea_-_06_[8bit][1280x720][F800E3CD].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F800E3CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321558",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Sankarea_-_06_[10bit][1280x720][F5D689D3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F5D689D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321559",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-17T18:55:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 07 (1280x720 h264 AAC) [9B3B7983].mkv",
+                    "group": "Doki",
+                    "hash": "9B3B7983",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_07_1280x720_h264_AAC_9B3B7983.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 07 (848x480 h264 AAC) [026548D9].mkv",
+                    "group": "Doki",
+                    "hash": "026548D9",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_07_848x480_h264_AAC_026548D9.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sankarea - 07 [10bit][720p][469B5135].mkv",
+                    "group": "Hadena",
+                    "hash": "469B5135",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2007%20%5B10bit%5D%5B720p%5D%5B469B5135%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Sankarea - 07 [5A95DBAF].mkv",
+                    "group": "Commie",
+                    "hash": "5A95DBAF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Sankarea - 07 [480p][16E12A97].mkv",
+                    "group": "Hadena",
+                    "hash": "16E12A97",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2007%20%5B480p%5D%5B16E12A97%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[Hadena] Sankarea - 07 [720p][8194F7F8].mkv",
+                    "group": "Hadena",
+                    "hash": "8194F7F8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2007%20%5B720p%5D%5B8194F7F8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Eveyuu] Sankarea 07 [Hi10P 1280x720 H264] [1EF846F9].mkv",
+                    "group": "Eveyuu",
+                    "hash": "1EF846F9",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=315538",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] Sankarea 07 [1280x720 H264] [59B88101].mkv",
+                    "group": "Eveyuu",
+                    "hash": "59B88101",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sankarea_-_07_[8bit][1280x720][C47125C2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C47125C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Sankarea_-_07_[10bit][1280x720][0F3A11A6].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0F3A11A6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321561",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-24T18:55:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sankarea - 08 [10bit][720p][47331424].mkv",
+                    "group": "Hadena",
+                    "hash": "47331424",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2008%20%5B10bit%5D%5B720p%5D%5B47331424%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[Commie] Sankarea - 08 [6628F960].mkv",
+                    "group": "Commie",
+                    "hash": "6628F960",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317041",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Sankarea - 08 [720p][D756BF01].mkv",
+                    "group": "Hadena",
+                    "hash": "D756BF01",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2008%20%5B720p%5D%5BD756BF01%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Sankarea - 08 (1280x720 h264 AAC) [26823C80].mkv",
+                    "group": "Doki",
+                    "hash": "26823C80",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_08_1280x720_h264_AAC_26823C80.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Sankarea - 08 (848x480 h264 AAC) [10DEF798].mkv",
+                    "group": "Doki",
+                    "hash": "10DEF798",
+                    "url": "http://tracker.anime-index.org/Doki_Sankarea_-_08_848x480_h264_AAC_10DEF798.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Eveyuu] Sankarea 08 [1280x720 H264] [C6C941A8].mkv",
+                    "group": "Eveyuu",
+                    "hash": "C6C941A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317507",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Eveyuu] Sankarea 08 [Hi10P 1280x720 H264] [7537ABF4].mkv",
+                    "group": "Eveyuu",
+                    "hash": "7537ABF4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317508",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Sankarea_-_08_[10bit][1280x720][4371C7D3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4371C7D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321992",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Sankarea_-_08_[8bit][1280x720][6EA0D0C5].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6EA0D0C5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321991",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-31T18:55:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Sankarea - 09 (848x480 h264 AAC) [05745FE0].mkv",
+                    "group": "Doki",
+                    "hash": "05745FE0",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Sankarea%20-%2009%20(848x480%20h264%20AAC)%20%5B05745FE0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Sankarea - 09 (1280x720 h264 AAC) [6B0C5DDD].mkv",
+                    "group": "Doki",
+                    "hash": "6B0C5DDD",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Sankarea%20-%2009%20(1280x720%20h264%20AAC)%20%5B6B0C5DDD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sankarea - 09 [10bit][720p][D21E2353].mkv",
+                    "group": "Hadena",
+                    "hash": "D21E2353",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2009%20%5B10bit%5D%5B720p%5D%5BD21E2353%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Sankarea - 09 [720p][BC0B16F5].mkv",
+                    "group": "Hadena",
+                    "hash": "BC0B16F5",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2009%20%5B720p%5D%5BBC0B16F5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[Commie] Sankarea - 09 [271E6703].mkv",
+                    "group": "Commie",
+                    "hash": "271E6703",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319182",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Eveyuu] Sankarea 09 [Hi10P 1280x720 H264] [493E109B].mkv",
+                    "group": "Eveyuu",
+                    "hash": "493E109B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] Sankarea 09 [1280x720 H264] [B04067AD].mkv",
+                    "group": "Eveyuu",
+                    "hash": "B04067AD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Eveyuu] Sankarea 09v2 [1280x720 H264] [E84C6051].mkv",
+                    "group": "Eveyuu",
+                    "hash": "E84C6051",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320292",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Eveyuu] Sankarea 09v2 [Hi10P 1280x720 H264] [D598454C].mkv",
+                    "group": "Eveyuu",
+                    "hash": "D598454C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320293",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sankarea_-_09_[8bit][1280x720][6D26892D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6D26892D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Sankarea_-_09_[10bit][1280x720][150B89FF].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "150B89FF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322646",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-07T18:55:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Sankarea - 10 (1280x720 h264 AAC) [C2F1605D].mkv",
+                    "group": "Doki",
+                    "hash": "C2F1605D",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Sankarea%20-%2010%20(1280x720%20h264%20AAC)%20%5BC2F1605D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Sankarea - 10 (848x480 h264 AAC) [B9B91474].mkv",
+                    "group": "Doki",
+                    "hash": "B9B91474",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Sankarea%20-%2010%20(848x480%20h264%20AAC)%20%5BB9B91474%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Sankarea - 10 [720p][5834639E].mkv",
+                    "group": "Hadena",
+                    "hash": "5834639E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2010%20%5B720p%5D%5B5834639E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Commie] Sankarea - 10 [54845F38].mkv",
+                    "group": "Commie",
+                    "hash": "54845F38",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] Sankarea 10 [1280x720 H264] [044B494B].mkv",
+                    "group": "Eveyuu",
+                    "hash": "044B494B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321705",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Eveyuu] Sankarea 10 [Hi10P 1280x720 H264] [FF57FB6D].mkv",
+                    "group": "Eveyuu",
+                    "hash": "FF57FB6D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Sankarea - 10 [10bit][720p][95031218].mkv",
+                    "group": "Hadena",
+                    "hash": "95031218",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2010%20%5B10bit%5D%5B720p%5D%5B95031218%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Sankarea_-_10_[8bit][1280x720][E4EF517E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E4EF517E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322647",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Sankarea_-_10_[10bit][1280x720][9DA9AB93].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9DA9AB93",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322648",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-21T18:55:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Sankarea - 11 [720p][64B39F4F].mkv",
+                    "group": "Hadena",
+                    "hash": "64B39F4F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2011%20%5B720p%5D%5B64B39F4F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Sankarea - 11 (1280x720 h264 AAC) [56C037B0].mkv",
+                    "group": "Doki",
+                    "hash": "56C037B0",
+                    "url": "http://tracker.minglong.org/torrents/%5BDoki%5D%20Sankarea%20-%2011%20(1280x720%20h264%20AAC)%20%5B56C037B0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Sankarea - 11 [5A95B00F].mkv",
+                    "group": "Commie",
+                    "hash": "5A95B00F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 11 (848x480 h264 AAC) [0C30DCF9].mkv",
+                    "group": "Doki",
+                    "hash": "0C30DCF9",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Sankarea%20-%2011%20(848x480%20h264%20AAC)%20%5B0C30DCF9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] Sankarea 11 [1280x720 H264] [788D204F].mkv",
+                    "group": "Eveyuu",
+                    "hash": "788D204F",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=325314",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Eveyuu] Sankarea 11 [Hi10P 1280x720 H264] [324C70FE].mkv",
+                    "group": "Eveyuu",
+                    "hash": "324C70FE",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=325315",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-28T18:55:00",
+            "episode": 12,
+            "score": 7.7369413521,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Sankarea - 12 END [720p][06B9978E].mkv",
+                    "group": "Hadena",
+                    "hash": "06B9978E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2012%20END%20%5B720p%5D%5B06B9978E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Sankarea - 12 END [10bit][720p][A2344D66].mkv",
+                    "group": "Hadena",
+                    "hash": "A2344D66",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Sankarea%20-%2012%20END%20%5B10bit%5D%5B720p%5D%5BA2344D66%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Sankarea - 12 [95BD1F2E].mkv",
+                    "group": "Commie",
+                    "hash": "95BD1F2E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326939",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Sankarea - 12 (1280x720 h264 AAC) [8BE5F1C8].mkv",
+                    "group": "Doki",
+                    "hash": "8BE5F1C8",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Sankarea%20-%2012%20(1280x720%20h264%20AAC)%20%5B8BE5F1C8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Sankarea - 12 (848x480 h264 AAC) [96A97CC7].mkv",
+                    "group": "Doki",
+                    "hash": "96A97CC7",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Sankarea%20-%2012%20(848x480%20h264%20AAC)%20%5B96A97CC7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Eveyuu] Sankarea 12 [1280x720 H264] [E8D2633B].mkv",
+                    "group": "Eveyuu",
+                    "hash": "E8D2633B",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=328721",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Eveyuu] Sankarea 12 [Hi10P 1280x720 H264] [C2705525].mkv",
+                    "group": "Eveyuu",
+                    "hash": "C2705525",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=328722",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8642,
+        "ann": 13507,
+        "mal": 11499,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a9b2710a8472018894827d374c0c7ea9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3805179daa05853e8590dc0ee8476dd7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Miau",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d9e057c438363ea574dc821f35915f27.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6628cc882066b5b2706cd24e1d9e6fb9.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Sankarea (\u3055\u3093\u304b\u308c\u3042) http://rdir.pl/1nax8j",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5a9fe2e1d9276689e06234cb38431c18.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/af915090b459c1891cfd8e9cd1557d7c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a8a1277b8043634e6fe3d191c73d2edd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c3b685e3d0c6dd7d8565471f14ed3b57.jpg",
+            "hd": false
+        },
+        {
+            "description": "podpisz kontrakt i sta\u0144 si\u0119 Czarodziejsk\u0105 Dziewoj\u0105 w ci\u0105gu 10 minut, a dostaniesz jedno \u017cyczenie ca\u0142kowicie gratis!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/97b55f23e9acea868907be927c57e39b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f68fb7f5837ebb54e87905554cbdc2a.jpg",
+            "hd": false
+        },
+        {
+            "description": "bo pornobajki zawsze b\u0119d\u0105 pornobajkami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f09e40446024fa3989a6548a0ce449bc.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on the manga by Hattori Mitsuru, serialised in Bessatsu Shounen Magazine since December 2009.Furuya is obsessed with zombies. He collects any figurines, watches any movie, and plays any game with the living dead, and is even only interested in zombie girls. When his cat dies, Furuya begins trying to raise it from the dead using an ancient book of the occult he bought from a shop. But what will happen when he sees the idol of a nearby all-girls school walking close to where he conducts his experiment, wishing to die and be reborn as a different person?Source: MangaUpdates",
+            "type": "anidb"
+        },
+        {
+            "content": "Chihiro Furuya, who loves zombies above all else, meets the sweet girl Rea Sanka by chance, and he ropes her into \"resurrecting\" his dead cat. But then Rea claims she actually has become a zombie, and asks him to take responsibility for it.",
+            "type": "ann"
+        },
+        {
+            "content": "Furuya's not interested in the living, he's got zombies on the brain! When Furuya's cat dies, he decides he's going to try and bring it back to life. In the process, he stumbles across a girl who is involved in an accident and turns into a real zombie! What's Furuya going to do now that the thing he loves the most is right in front of his eyes?  (Source: FUNimation)",
+            "type": "mal"
+        },
+        {
+            "content": "Chihiro Furuya is a male high school student with a keen interest in zombies, collecting zombie-related videogames, film and manga, and even to the point of desiring to \"kiss a zombie girl\". Following the death of his pet cat, B\u0101bu, he attempts to revive it using an old manuscript, which describes the process of creating a potion for resurrection. At this time, he encounters a girl named Rea Sanka, who has run away from home. In an attempt to commit suicide, she drinks a sample of the \"resurrection\" potion which is created from the poisonous Hydrangea macrophylla flower, although this fails to kill her. Following an argument with her father, she falls from a cliff by accident and dies. However, as a result of the potion, she becomes a zombie who eats hydrangea leaves.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 24358,
+            "date": "2012-09-29T14:12:12",
+            "score": 7.62,
+            "type": "mal"
+        },
+        {
+            "count": 989,
+            "date": "2012-09-29T14:12:12",
+            "score": 7.03,
+            "type": "anidb"
+        },
+        {
+            "count": 802,
+            "date": "2012-09-29T14:12:12",
+            "score": 7.566,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Sankarea"
+}

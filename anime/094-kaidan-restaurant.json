@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u602a\u8ac7\u30ec\u30b9\u30c8\u30e9\u30f3"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 23,
+    "episodes_length": 20,
+    "external_sites": {
+        "anidb": 6785,
+        "ann": 11024,
+        "mal": 6980,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based on the best selling Kaidan Restaurant line of ghost story anthologies by Matsutani Miyoko and illustrators Takai Yoshikazu and Kato Kumiko.Each episode contains three short stories, an appetizer, entree and desert. The first two dishes of each episode depict the ghostly events that revolve around sixth-grade schoolgirl Ozora Ako. The closing chapter of each episode is a ghost story told by Ako and her classmates.",
+            "type": "anidb"
+        },
+        {
+            "content": "TV Asahi announced a new kids anime &quot;Kaidan Restaurant (Thriller Restaurant)&quot; based on a picture book. Each episode will consist of three stories or &#039;&#039;dishes&#039;&#039;: the appetizer, the main dish, and dessert. The first two &#039;&#039;dishes&#039;&#039; will deal with an ordinary sixth-grade schoolgirl named Ako Ozara and the bizarre occurrences that befall her classmates. The third &#039;&#039;dish&#039;&#039; will be a standalone short ghost story told by Ako and her friends.",
+            "type": "mal"
+        },
+        {
+            "content": "Shou transfers from London into Ako's class at Yamazakura Elementary School. Because strange things are always happening in Yamazakura, people call it a cursed town. It's a good thing Shou is interested in paranormal phenomena, because in each episode he, Ako (whom everyone calls Anko), and their friend Reiko are in three short horror stories introduced by the ghostly garcon of the restaurant. But don't worry. The restaurant adjusts the spices so those who don't like scary stories can still enjoy the meal.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 1637,
+            "date": "2012-09-29T02:38:28",
+            "score": 7.43,
+            "type": "mal"
+        },
+        {
+            "count": 195,
+            "date": "2012-09-29T02:38:28",
+            "score": 6.79,
+            "type": "anidb"
+        },
+        {
+            "count": 129,
+            "date": "2012-09-29T02:38:28",
+            "score": 6.782,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Kaidan Restaurant"
+}

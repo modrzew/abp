@@ -1,0 +1,48 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u306e\u3060\u3081\u30ab\u30f3\u30bf\u30fc\u30d3\u30ec \u30d5\u30a3\u30ca\u30fc\u30ec"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 11,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7019,
+        "ann": 10950,
+        "mal": 5690,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 15083,
+            "date": "2012-09-29T02:40:13",
+            "score": 8.49,
+            "type": "mal"
+        },
+        {
+            "count": 97,
+            "date": "2011-11-07T07:08:30",
+            "score": 8.83,
+            "type": "anidb"
+        },
+        {
+            "count": 994,
+            "date": "2012-09-29T02:40:13",
+            "score": 8.436,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "Nodame Cantabile Paris Chapter",
+    "title": "Nodame Cantabile Finale"
+}

@@ -1,0 +1,452 @@
+{
+    "additional_titles": [
+        {
+            "language": "pl",
+            "title": "Szata\u0144scy Kochankowie Bajdaka"
+        }
+    ],
+    "aliases": [
+        "Diabolik Lovers"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-09-16T16:30:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-09-23T16:30:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-09-30T16:30:00",
+            "episode": 3,
+            "score": 6.4822924791,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478379",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478380",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478382",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Sadou] Diabolik Lovers - 03 [1280x720][02CBCC70].mkv",
+                    "group": "Sadou",
+                    "hash": "02CBCC70",
+                    "url": "http://tracker.anime-index.org/download.php?id=ab3d26e4ebb9755fb6b7cd043e4187e8f971deba&f=%5BSadou%5D+Diabolik+Lovers+-+03+%5B1280x720%5D%5B02CBCC70%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-07T16:30:00",
+            "episode": 4,
+            "score": 6.2800846101,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480725",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480726",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480727",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Sadou] Diabolik Lovers - 04 [1280x720][D0CB7010].mkv",
+                    "group": "Sadou",
+                    "hash": "D0CB7010",
+                    "url": "http://tracker.anime-index.org/download.php?id=290c3b4994bb6345ce445bc967ba8f29fe80a6df&f=%5BSadou%5D+Diabolik+Lovers+-+04+%5B1280x720%5D%5BD0CB7010%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-14T16:30:00",
+            "episode": 5,
+            "score": 6.1595521412,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483019",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483021",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483022",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-21T16:30:00",
+            "episode": 6,
+            "score": 6.0902930686,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485267",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485271",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485273",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 6.5 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487687",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-28T16:30:00",
+            "episode": 7,
+            "score": 4.4948826531,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490018",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490021",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-04T16:30:00",
+            "episode": 8,
+            "score": 4.6299617225,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492217",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-11T16:30:00",
+            "episode": 9,
+            "score": 4.4826682464,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494432",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494437",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494439",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-18T16:30:00",
+            "episode": 10,
+            "score": 4.4441756757,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496714",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496720",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Shouyu]_Diabolik_Lovers_-_10_[720p]_[AA4CC7C2].mkv",
+                    "group": "Shouyu",
+                    "hash": "AA4CC7C2",
+                    "url": "http://www.nyaa.se/?page=download&tid=496781",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-25T16:30:00",
+            "episode": 11,
+            "score": 4.4428927039,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498872",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-02T16:30:00",
+            "episode": 12,
+            "score": 4.3541947566,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500996",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500998",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Diabolik Lovers - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500999",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 15,
+    "external_sites": {
+        "anidb": 9717,
+        "ann": 15150,
+        "mal": 17513,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Komori Yui is a positive-thinking girl who nevertheless is troubled by seeing spirits and experiencing poltergeist phenomena. In her second year in high school, she transfers to a new school\u2014a night school for entertainers and celebrities\u2014due to her father's work. There are rumours that vampires exist among the student body, and Yui ends up living with the six sadistic Sakamaki vampire brothers.",
+            "type": "mal"
+        },
+        {
+            "content": "Komori Yui is a positive-thinking girl who nevertheless is troubled by seeing spirits and experiencing poltergeist phenomena. In her second year in high school, she transfers to a new school \u2014 a night school for entertainers and celebrities \u2014 due to her father's work. There are rumours that vampires exist among the student body, and Yui ends up living with the six sadistic Sakamaki vampire brothers.",
+            "type": "anidb"
+        },
+        {
+            "content": "Yui Komori's father moves abroad, so he sends her to live in a new town with the six Sakamaki brothers. When she arrives at their mansion, she discovers that they are vampires. They abuse her psychologically and physically, often feeding off her. While she optimistically accepts her situation, she unravels mysteries both of their past and her own.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5257,
+            "date": "2013-10-27T03:31:11",
+            "score": 6.15,
+            "type": "mal"
+        },
+        {
+            "count": 116,
+            "date": "2013-12-23T03:30:18",
+            "score": 4.3,
+            "type": "anidb"
+        },
+        {
+            "count": 205,
+            "date": "2013-12-23T03:30:18",
+            "score": 4.533,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Diabolik Lovers"
+}

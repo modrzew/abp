@@ -1,0 +1,953 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u306c\u3089\u308a\u3072\u3087\u3093\u306e\u5b6b \u5343\u5e74\u9b54\u4eac"
+        },
+        {
+            "language": "pl",
+            "title": "Wnuczek Nurarihyona: Tysi\u0105cletnie Piek\u0142o"
+        }
+    ],
+    "aliases": [
+        "Nurarihyon no Mago Sennen Makyou",
+        "Nurarihyon no Mago - Sennen Makyou"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2011-07-03T10:30:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_01_[1280x720][1ADEC016].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1ADEC016",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226313",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC][Dual Subs][HQ]",
+                    "download_count": 3,
+                    "filename": "[IA-Hikari-Youkai]_Nurarihyon_no_Mago_-_Sennen_Makyou_-_01_(1280x720_x264_AAC)[Dual_Subs][HQ][259d4986].mkv",
+                    "group": "IA-Hikari-Youkai",
+                    "hash": "259d4986",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226624",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 01 [D9136303].mkv",
+                    "group": "Commie",
+                    "hash": "D9136303",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230189",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-10T10:30:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 02v0 [480p][0D6A975A].mkv",
+                    "group": "WhyNot",
+                    "hash": "0D6A975A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227390",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_02_[848x480][89127A05].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "89127A05",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[IA-Hikari-Youkai]_Nurarihyon_no_Mago_Sennen_Makyou_-_02_(1280x720_x264_AAC)_[D8D8BFA3].mkv",
+                    "group": "IA-Hikari-Youkai",
+                    "hash": "D8D8BFA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 02 [459B32E0].mkv",
+                    "group": "WhyNot",
+                    "hash": "459B32E0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229344",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 02 [CAB043AE].mkv",
+                    "group": "Commie",
+                    "hash": "CAB043AE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230190",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-17T10:30:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 03 [2D89FE19].mkv",
+                    "group": "WhyNot",
+                    "hash": "2D89FE19",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 03 [603B0C78].mkv",
+                    "group": "Commie",
+                    "hash": "603B0C78",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC][Dual Subs][HQ]",
+                    "download_count": 3,
+                    "filename": "[IA-Hikari-Youkai]_Nurarihyon_no_Mago_-_Sennen_Makyou_-_03_(1280x720_x264_AAC)[Dual_Subs][HQ][18c364fb].mkv",
+                    "group": "IA-Hikari-Youkai",
+                    "hash": "18c364fb",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230393",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_03_[1280x720][CCD7FD91].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CCD7FD91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230500",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-24T10:30:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 04 [25DFA7B5].mkv",
+                    "group": "WhyNot",
+                    "hash": "25DFA7B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 04 [785CCE4F].mkv",
+                    "group": "Commie",
+                    "hash": "785CCE4F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231293",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[NamiDa FanSub] Nurarihyon No Mago Sennen Makyou 004.mkv",
+                    "group": "NamiDa FanSub",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231437",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_04_[1280x720][955C0BF5].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "955C0BF5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232369",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-31T10:30:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 05 [47DE6867].mkv",
+                    "group": "WhyNot",
+                    "hash": "47DE6867",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 05 [F1F631DF].mkv",
+                    "group": "Commie",
+                    "hash": "F1F631DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233626",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_05_[1280x720][C7DF6BAD].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C7DF6BAD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 05v2 [16C0B6F9].mkv",
+                    "group": "Commie",
+                    "hash": "16C0B6F9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249392",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-08-07T10:30:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 06 [919D47E9].mkv",
+                    "group": "WhyNot",
+                    "hash": "919D47E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235294",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 06 [BDFBD54A].mkv",
+                    "group": "Commie",
+                    "hash": "BDFBD54A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235703",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_06_[1280x720][CA8A1F6A].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CA8A1F6A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237864",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-14T10:30:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 07v0 [480p][9C13B6BC].mkv",
+                    "group": "WhyNot",
+                    "hash": "9C13B6BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237298",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 07 [D768A73F].mkv",
+                    "group": "WhyNot",
+                    "hash": "D768A73F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 07 [EE0A0CD2].mkv",
+                    "group": "Commie",
+                    "hash": "EE0A0CD2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249393",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-21T10:30:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 08 [249A4E6F].mkv",
+                    "group": "WhyNot",
+                    "hash": "249A4E6F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239095",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_08_[1280x720][AB15DEFE].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "AB15DEFE",
+                    "url": "http://wilders.sleepsub.nl/torrents/%5BHatsuyuki%5D_Nurarihyon_no_Mago_Sennen_Makyou_-_08_%5B1280x720%5D%5BAB15DEFE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 08 [F43E0380].mkv",
+                    "group": "Commie",
+                    "hash": "F43E0380",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249394",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-28T10:30:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Extalia-fansubs] Nurarihyon no Mago Sennen Makyou - 09 [6B3D1885].mkv",
+                    "group": "Extalia-fansubs",
+                    "hash": "6B3D1885",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240904",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Extalia-fansubs] Nurarihyon no Mago Sennen Makyou - 09v2 [FE3FDE8F].mkv",
+                    "group": "Extalia-fansubs",
+                    "hash": "FE3FDE8F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240995",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 3,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 09 [720p][H.264][0F7D0867].mkv",
+                    "group": "OX-",
+                    "hash": "0F7D0867",
+                    "url": "http://1337x.org/download/236561/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[E00CF2D]",
+                    "download_count": 3,
+                    "filename": "[Extalia-fansubs] Nurarihyon no Mago Sennen Makyou - 09v3 [E00CF2D].mkv",
+                    "group": "Extalia-fansubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241235",
+                    "version": 3
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 09 [A3AD6841].mkv",
+                    "group": "WhyNot",
+                    "hash": "A3AD6841",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243031",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_09_[1280x720][5C7FCD25].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5C7FCD25",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 09 [7C03827E].mkv",
+                    "group": "Commie",
+                    "hash": "7C03827E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249395",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-04T10:30:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 10 [E6717024].mkv",
+                    "group": "WhyNot",
+                    "hash": "E6717024",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243103",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 3,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 10 [720p][H.264][7FDAB334].mkv",
+                    "group": "OX-",
+                    "hash": "7FDAB334",
+                    "url": "http://1337x.org/download/239057/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_10_[1280x720][09BBA2D0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "09BBA2D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 10 [FC74C1CA].mkv",
+                    "group": "Commie",
+                    "hash": "FC74C1CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249396",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-11T10:30:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 11 [F774D378].mkv",
+                    "group": "WhyNot",
+                    "hash": "F774D378",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245506",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 3,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 11 [720p][H.264][E3F6117B].mkv",
+                    "group": "OX-",
+                    "hash": "E3F6117B",
+                    "url": "http://1337x.org/download/243854/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_11_[1280x720][E4AA96CD].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E4AA96CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 11 [4C6D8981].mkv",
+                    "group": "Commie",
+                    "hash": "4C6D8981",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249397",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-18T10:30:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[848 x 480][H.264]",
+                    "download_count": 4,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 12 [848 x 480][H.264][6F38B924].mkv",
+                    "group": "OX-",
+                    "hash": "6F38B924",
+                    "url": "http://1337x.org/download/243987/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 12 [548DD4C9].mkv",
+                    "group": "WhyNot",
+                    "hash": "548DD4C9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_12_[1280x720][ABCA08FB].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "ABCA08FB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247167",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 4,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 12 [720p][H.264][9D03BCED].mkv",
+                    "group": "OX-",
+                    "hash": "9D03BCED",
+                    "url": "http://1337x.org/download/244944/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848 x 480][H.264]",
+                    "download_count": 4,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 12 [848 x 480][H.264][6BA60868].mkv",
+                    "group": "OX-",
+                    "hash": "6BA60868",
+                    "url": "http://1337x.org/download/246218/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Nurarihyon no Mago Sennen Makyou - 12 [5D96882A].mkv",
+                    "group": "Commie",
+                    "hash": "5D96882A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249398",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 12.5 [B030594A].mkv",
+                    "group": "WhyNot",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251296",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-02T10:30:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[848 x 480][H.264]",
+                    "download_count": 3,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 13 [848 x 480][H.264][6BA60868].mkv",
+                    "group": "OX-",
+                    "hash": "6BA60868",
+                    "url": "http://1337x.org/download/246226/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 13 [F22C0E2C].mkv",
+                    "group": "WhyNot",
+                    "hash": "F22C0E2C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250595",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 13 [CA17C037].mkv",
+                    "group": "WhyNot",
+                    "hash": "CA17C037",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_13_[1280x720][27AE6EBB].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "27AE6EBB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=252039",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-09T10:30:00",
+            "episode": 14,
+            "score": 8.3894049986,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_14_[1280x720][60AB12E7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "60AB12E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253902",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-16T10:30:00",
+            "episode": 15,
+            "score": 8.3781004228,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 15 [489781D8].mkv",
+                    "group": "WhyNot",
+                    "hash": "489781D8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253481",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 3,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 15 [720p][H.264][92A776A7].mkv",
+                    "group": "OX-",
+                    "hash": "92A776A7",
+                    "url": "http://1337x.org/download/254606/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_15_[1280x720][78125523].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "78125523",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254186",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-23T10:30:00",
+            "episode": 16,
+            "score": 8.3785827781,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 16 [168ADA35].mkv",
+                    "group": "WhyNot",
+                    "hash": "168ADA35",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257075",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_16_[1280x720][0F8E35D0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0F8E35D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258810",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-30T09:30:00",
+            "episode": 17,
+            "score": 8.3776683217,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 17 [B24577F3].mkv",
+                    "group": "WhyNot",
+                    "hash": "B24577F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259543",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_17_[1280x720][54FE9DAE].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "54FE9DAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259568",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-06T09:30:00",
+            "episode": 18,
+            "score": 8.3871799517,
+            "torrents": [
+                {
+                    "additional_info": "[848x480][H.264]",
+                    "download_count": 4,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 18 [848x480][H.264][4AE43E96].mkv",
+                    "group": "OX-",
+                    "hash": "4AE43E96",
+                    "url": "http://1337x.org/download/263091/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 18 [DC4162D9].mkv",
+                    "group": "WhyNot",
+                    "hash": "DC4162D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259646",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_18_[1280x720][A2B27474].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A2B27474",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260978",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-13T09:30:00",
+            "episode": 19,
+            "score": 8.3922615001,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 19 [86BAC551].mkv",
+                    "group": "WhyNot",
+                    "hash": "86BAC551",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260181",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_19_[1280x720][B53D00ED].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B53D00ED",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261595",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-20T09:30:00",
+            "episode": 20,
+            "score": 8.395358411,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 20 [EE921F67].mkv",
+                    "group": "WhyNot",
+                    "hash": "EE921F67",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262179",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 8,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_20_[1280x720][54E1B1D7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "54E1B1D7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263556",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-27T09:30:00",
+            "episode": 21,
+            "score": 8.3974995663,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 21 [61B832DE].mkv",
+                    "group": "WhyNot",
+                    "hash": "61B832DE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263791",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_21_[1280x720][4A3714C1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4A3714C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264957",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-04T09:30:00",
+            "episode": 22,
+            "score": 8.4013807214,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 22 [6FCDFF8D].mkv",
+                    "group": "WhyNot",
+                    "hash": "6FCDFF8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265574",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_22_[1280x720][15233533].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "15233533",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268133",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-11T09:30:00",
+            "episode": 23,
+            "score": 8.4030171359,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 23 [5059ABD8].mkv",
+                    "group": "WhyNot",
+                    "hash": "5059ABD8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 23 [720p][H.264][0BD8AD9B].mkv",
+                    "group": "OX-",
+                    "hash": "0BD8AD9B",
+                    "url": "http://1337x.org/download/276939/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_23_[1280x720][CDA83FD2].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CDA83FD2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269864",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-18T09:30:00",
+            "episode": 24,
+            "score": 8.4002364932,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 24 [D33D15E0].mkv",
+                    "group": "WhyNot",
+                    "hash": "D33D15E0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Nurarihyon no Mago Sennen Makyou - 24 [720p][H.264][B505615A].mkv",
+                    "group": "OX-",
+                    "hash": "B505615A",
+                    "url": "http://1337x.org/download/279494/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Nurarihyon_no_Mago_Sennen_Makyou_-_24_END_[1280x720][F7834529].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F7834529",
+                    "url": "http://www.nyaa.eu/?page=download&tid=272437",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Nurarihyon no Mago Sennen Makyou - 24.5 [26A3E2BE].mkv",
+                    "group": "WhyNot",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274511",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8177,
+        "ann": 12357,
+        "mal": 10049,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 11527,
+            "date": "2012-09-29T13:37:12",
+            "score": 8.31,
+            "type": "mal"
+        },
+        {
+            "count": 472,
+            "date": "2012-09-29T13:37:12",
+            "score": 8.018,
+            "type": "ann"
+        },
+        {
+            "count": 693,
+            "date": "2012-09-29T13:37:12",
+            "score": 7.9,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "155",
+    "title": "Nurarihyon no Mago: Sennen Makyou"
+}

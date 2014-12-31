@@ -1,0 +1,79 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d8\u30bf\u30ea\u30a2 Axis Powers"
+        }
+    ],
+    "aliases": [],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/33556420",
+            "content": "Hetalia: Axis Powers 50 - Japonia kocha kawaii zwierz\u0105tka.",
+            "episode": 50,
+            "filename": "fc50b97941523f42d7d3cdfbc7199382.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/7685886245"
+        }
+    ],
+    "episodes": [],
+    "episodes_count": 52,
+    "episodes_length": 5,
+    "external_sites": {
+        "anidb": 6234,
+        "ann": 10179,
+        "mal": 5060,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Japonia kocha kawaii zwierz\u0105tka.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fc50b97941523f42d7d3cdfbc7199382.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Pa\u0144stwa z czas\u00f3w II Wojny \u015awiatowej (\u00b1 1000 lat) przedstawione jako bisze i biszujo (czyt. eleganccy panowie i s\u0142odkie dziewczynki).",
+            "type": "abp"
+        },
+        {
+            "content": "Based on a popular web-released manga series by Himaruya Hidekazu, this has been described as a \"cynical gag\" story set in Europe in the years between WW1 and WW2 (1915-1939), using exaggerated caricatures of the different nationalities as portrayed by a gaggle of bishounen boys. For example, the Italia Veneziano character is into pasta and women. The Doitsu (German) bishi loves potatoes and sausages, and Nippon is an otaku boy. Installments of the manga have jumped back and forth in setting from the ancient times to modern-day geopolitics. The title comes the Japanese words for \"useless\" (hetare) and Italy (Italia).------------------------------------------Japan's Kids Station television network has officially canceled its planned broadcast of the Hetalia Axis Powers anime series \"due to various circumstances.\" The series was distributed by Japanese retail anime chain Animate, via cel phone delivery and internet streaming.",
+            "type": "anidb"
+        },
+        {
+            "content": "Based on a popular web-released manga series by Hidekazu Himaruya, this has been described as a &quot;cynical gag&quot; story set in Europe in the years between WW1 and WW2 (1915-1939), using exaggerated caricatures of the different nationalities as portrayed by a gaggle of bish\u014dnen. For example, the Italia Veneziano character is into pasta and women. The Deutsche (German) bishi loves potatoes and sausages, and Nippon is an otaku boy. Installments of the manga have jumped back and forth in setting from the ancient times to modern-day geopolitics. The manga&#039;s title comes the Japanese words for &quot;useless&quot; (hetare) and Italy (Italia).     (Source: ANI)",
+            "type": "mal"
+        },
+        {
+            "content": "Italy, once home of the strongest empire in the world, has changed. This is the story of Italy, now a cowardly pasta-loving fool, and his friends (other personified countries of the world) as they live through strange moments in world history.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 28101,
+            "date": "2012-09-29T02:00:29",
+            "score": 8.07,
+            "type": "mal"
+        },
+        {
+            "count": 848,
+            "date": "2012-09-29T02:00:29",
+            "score": 7.08,
+            "type": "anidb"
+        },
+        {
+            "count": 1786,
+            "date": "2012-09-29T02:00:29",
+            "score": 7.613,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Hetalia: Axis Powers"
+}

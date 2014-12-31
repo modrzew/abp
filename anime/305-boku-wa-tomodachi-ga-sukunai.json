@@ -1,0 +1,606 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u50d5\u306f\u53cb\u9054\u304c\u5c11\u306a\u3044"
+        },
+        {
+            "language": "pl",
+            "title": "Na Nadmiar Przyjaci\u00f3\u0142 Narzeka\u0107 Nie Zwyk\u0142em"
+        }
+    ],
+    "aliases": [
+        "Boku Ha Tomodachi Ga Sukunai",
+        "Boku wa Tomodachi ga Sukunai"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/742913731",
+            "content": "#anime #Jesie\u01442011 Boku wa Tomodachi ga Sukunai (\u50d5\u306f\u53cb\u9054\u304c\u5c11\u306a\u3044) http://rdir.pl/1lpmps",
+            "episode": 1,
+            "filename": "0204aeba63ea79d6ac2f3708f7f5c3a0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/122444174535565312"
+        },
+        {
+            "blip_url": "http://blip.pl/s/753563395",
+            "content": "Boku wa Tomodachi ga Sukunai 02 - nie ma to jak ostra impreza bez trzymanki",
+            "episode": 2,
+            "filename": "16c118f345f18e8afd522a7d831a3ab1.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/125700819113885696"
+        },
+        {
+            "blip_url": "http://blip.pl/s/787161111",
+            "content": "Boku wa Tomodachi ga Sukunai 05 - podstaw\u0105 zdrowej diety jest skrobia ziemniaczana",
+            "episode": 5,
+            "filename": "06347c2acd6517d265ee34fcd9c1b522.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/132907015130460161"
+        },
+        {
+            "blip_url": "http://blip.pl/s/835628173",
+            "content": "Boku wa Tomodachi ga Sukunai 09 - ko\u0144 jaki jest, ka\u017cdy widzi",
+            "episode": 9,
+            "filename": "0f24fca84991a4fed54eda718e5ab3b9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/142743289718771712"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-06T18:55:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_01_[89288C3C].mkv",
+                    "group": "Mazui",
+                    "hash": "89288C3C",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_01_89288C3C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Boku Ha Tomodachi Ga Sukunai - 01 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250783",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 01 (848x480 h264 AAC) [D354A625].mkv",
+                    "group": "Doki",
+                    "hash": "D354A625",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_01_848x480_h264_AAC_D354A625.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 01 (1280x720 h264 AAC) [0B2720E0].mkv",
+                    "group": "Doki",
+                    "hash": "0B2720E0",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_01_1280x720_h264_AAC_0B2720E0.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Boku_wa_Tomodachi_ga_Sukunai_-_01_[1280x720][C1120F18].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C1120F18",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253256",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[AniYoshi]_Boku_wa_Tomodachi_ga_Sukunai_-_01_[1181043E].mkv",
+                    "group": "AniYoshi",
+                    "hash": "1181043E",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Boku_wa_Tomodachi_ga_Sukunai_-_01_1181043E.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-13T18:55:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 02 (1280x720 h264 AAC) [F899E0F6].mkv",
+                    "group": "Doki",
+                    "hash": "F899E0F6",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_02_1280x720_h264_AAC_F899E0F6.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 02 (848x480 h264 AAC) [96A7B988].mkv",
+                    "group": "Doki",
+                    "hash": "96A7B988",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_02_848x480_h264_AAC_96A7B988.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[AniYoshi]_Boku_wa_Tomodachi_ga_Sukunai_-_02_[2DE1B3D9].mkv",
+                    "group": "AniYoshi",
+                    "hash": "2DE1B3D9",
+                    "url": "http://herpes.deepslack.eu/data/torrents/AniYoshi_Boku_wa_Tomodachi_ga_Sukunai_-_02_2DE1B3D9.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-20T18:55:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_03_[6CB4BA8B].mkv",
+                    "group": "Mazui",
+                    "hash": "6CB4BA8B",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_03_6CB4BA8B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 03 (1280x720 h264 AAC) [41305581].mkv",
+                    "group": "Doki",
+                    "hash": "41305581",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_03_1280x720_h264_AAC_41305581.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 03 (848x480 h264 AAC) [B56313E7].mkv",
+                    "group": "Doki",
+                    "hash": "B56313E7",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_03_848x480_h264_AAC_B56313E7.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Oyatsu_&_AniYoshi]_Boku_wa_Tomodachi_ga_Sukunai_-_03_[EE5D4E46].mkv",
+                    "group": "Oyatsu & AniYoshi",
+                    "hash": "EE5D4E46",
+                    "url": "http://herpes.deepslack.eu/data/torrents/Oyatsu__AniYoshi_Boku_wa_Tomodachi_ga_Sukunai_-_03_EE5D4E46.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-27T18:55:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_04_[56E72691].mkv",
+                    "group": "Mazui",
+                    "hash": "56E72691",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_04_56E72691.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_04v2_[8F1C0D76].mkv",
+                    "group": "Mazui",
+                    "hash": "8F1C0D76",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_04v2_8F1C0D76.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 04 (848x480 h264 AAC) [9F1A0BB0].mkv",
+                    "group": "Doki",
+                    "hash": "9F1A0BB0",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_04_848x480_h264_AAC_9F1A0BB0.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 04 (1280x720 h264 AAC) [9AC9F82C].mkv",
+                    "group": "Doki",
+                    "hash": "9AC9F82C",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_04_1280x720_h264_AAC_9AC9F82C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 04v2 (848x480 h264 AAC) [1E7D39AD].mkv",
+                    "group": "Doki",
+                    "hash": "1E7D39AD",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_04v2_848x480_h264_AAC_1E7D39AD.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Boku wa Tomodachi ga Sukunai - 04v2 (1280x720 h264 AAC) [62774EB9].mkv",
+                    "group": "Doki",
+                    "hash": "62774EB9",
+                    "url": "http://tracker.anime-index.org/Doki_Boku_wa_Tomodachi_ga_Sukunai_-_04v2_1280x720_h264_AAC_62774EB9.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Oyatsu_&_AniYoshi]_Boku_wa_Tomodachi_ga_Sukunai_-_04_[B74F3D5F].mkv",
+                    "group": "Oyatsu & AniYoshi",
+                    "hash": "B74F3D5F",
+                    "url": "http://herpes.deepslack.eu/data/torrents/Oyatsu__AniYoshi_Boku_wa_Tomodachi_ga_Sukunai_-_04_B74F3D5F.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-03T17:55:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_05_[D4D567A1].mkv",
+                    "group": "Mazui",
+                    "hash": "D4D567A1",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_05_D4D567A1.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chihiro]_Haganai_-_05_[1280x720_H.264_AAC][48C55B11].mkv",
+                    "group": "Chihiro",
+                    "hash": "48C55B11",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Haganai_-_05_%5B1280x720_H.264_AAC%5D%5B48C55B11%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Buka wa Tomodachi ga Sukunai - 05 (848x480 h264 AAC) [0B83FF84].mkv",
+                    "group": "Doki",
+                    "hash": "0B83FF84",
+                    "url": "http://tracker.anime-index.org/Doki_Buka_wa_Tomodachi_ga_Sukunai_-_05_848x480_h264_AAC_0B83FF84.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Buka wa Tomodachi ga Sukunai - 05 (1280x720 h264 AAC) [46C66902].mkv",
+                    "group": "Doki",
+                    "hash": "46C66902",
+                    "url": "http://tracker.anime-index.org/Doki_Buka_wa_Tomodachi_ga_Sukunai_-_05_1280x720_h264_AAC_46C66902.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Oyatsu_&_AniYoshi]_Boku_wa_Tomodachi_ga_Sukunai_-_05_[D13D5F42].mkv",
+                    "group": "Oyatsu & AniYoshi",
+                    "hash": "D13D5F42",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu_%26_AniYoshi%5D_Boku_wa_Tomodachi_ga_Sukunai_-_05_%5BD13D5F42%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-10T17:55:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_06_[1A42C742].mkv",
+                    "group": "Mazui",
+                    "hash": "1A42C742",
+                    "url": "http://herpes.deepslack.eu/data/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_06_1A42C742.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Oyatsu_&_AniYoshi]_Boku_wa_Tomodachi_ga_Sukunai_-_06_[3633ADE6].mkv",
+                    "group": "Oyatsu & AniYoshi",
+                    "hash": "3633ADE6",
+                    "url": "http://herpes.deepslack.eu/data/torrents/Oyatsu__AniYoshi_Boku_wa_Tomodachi_ga_Sukunai_-_06_3633ADE6.mkv__.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-17T17:55:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_07_[D314B974].mkv",
+                    "group": "Mazui",
+                    "hash": "D314B974",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_07_D314B974.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Oyatsu_&_AniYoshi]_Boku_wa_Tomodachi_ga_Sukunai_-_07_[9B1A5D80].mkv",
+                    "group": "Oyatsu & AniYoshi",
+                    "hash": "9B1A5D80",
+                    "url": "http://herpes.deepslack.eu/data/torrents/Oyatsu__AniYoshi_Boku_wa_Tomodachi_ga_Sukunai_-_07_9B1A5D80.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-24T17:55:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_08_[FA45ECF1].mkv",
+                    "group": "Mazui",
+                    "hash": "FA45ECF1",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_08_FA45ECF1.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Oyatsu_&_AniYoshi]_Boku_wa_Tomodachi_ga_Sukunai_-_08_[2070B15C].mkv",
+                    "group": "Oyatsu & AniYoshi",
+                    "hash": "2070B15C",
+                    "url": "http://herpes.deepslack.eu/data/torrents/Oyatsu__AniYoshi_Boku_wa_Tomodachi_ga_Sukunai_-_08_2070B15C.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-01T17:55:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 16,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_09_[D8813B74].mkv",
+                    "group": "Mazui",
+                    "hash": "D8813B74",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_09_D8813B74.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-08T17:55:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_10_[83147F8C].mkv",
+                    "group": "Mazui",
+                    "hash": "83147F8C",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_10_83147F8C.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-15T17:55:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_11_[4F3444DF].mkv",
+                    "group": "Mazui",
+                    "hash": "4F3444DF",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_11_4F3444DF.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-22T17:55:00",
+            "episode": 12,
+            "score": 7.876195638,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 22,
+                    "filename": "[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_12_[8E1BF68D].mkv",
+                    "group": "Mazui",
+                    "hash": "8E1BF68D",
+                    "url": "http://mazuisubs.com/torrents/Mazui_Boku_Ha_Tomodachi_Ga_Sukunai_-_12_8E1BF68D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8419,
+        "ann": 12983,
+        "mal": 10719,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "MASZ CO\u015a DO MOICH W\u0141OS\u00d3W, SYNEK?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c723c34b8bb7c18370fe92af315a40cb.jpg",
+            "hd": false
+        },
+        {
+            "description": "MASZ CO\u015a DO MOICH OCZU, SYNEK?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/edcb6c237e88e9bbfe3cbdd24319d65f.jpg",
+            "hd": false
+        },
+        {
+            "description": "...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/18e5c1e33f107b8684d16a573f50e0a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bc4c6961ae379c2dcb92e51305e5c690.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wypad st\u0105d",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fa59bc6ffdb72858c149777b62d5ed60.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc818ab47d26c6188f77147f7ad7d8af.jpg",
+            "hd": false
+        },
+        {
+            "description": "Sena patrzy, jak cumujesz Statek Mi\u0142o\u015bci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3f77334bae56904be4fe783cd910d354.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f928b2d45acc27076d7d705187f36c49.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e61e3ef9b506389ba6e7c72bced66ab3.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Boku wa Tomodachi ga Sukunai (\u50d5\u306f\u53cb\u9054\u304c\u5c11\u306a\u3044) http://rdir.pl/1lpmps",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0204aeba63ea79d6ac2f3708f7f5c3a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "nie ma to jak ostra impreza bez trzymanki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/16c118f345f18e8afd522a7d831a3ab1.jpg",
+            "hd": false
+        },
+        {
+            "description": "PFP",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d4407659435194ea66bcc203b37d40a3.jpg",
+            "hd": false
+        },
+        {
+            "description": "Teamwork to podstawa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc8f7e490e1951cb5165c8abc203b7fc.jpg",
+            "hd": false
+        },
+        {
+            "description": "podstaw\u0105 zdrowej diety jest skrobia ziemniaczana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/06347c2acd6517d265ee34fcd9c1b522.jpg",
+            "hd": false
+        },
+        {
+            "description": "Windows 8 ju\u017c wyciek\u0142",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1bce23d58555d7b56c116013e462f90f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/451dbe8e9b015578d16253fbf6ea429e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Patataj?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/528abf9e8a218cde2d3573d02d6adfe4.jpg",
+            "hd": false
+        },
+        {
+            "description": "M\u00f3j ko\u0144 jest wspania\u0142y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e4ccec40967b62ae1f08ec337df88032.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1e54216c866a92ba779811eb8e513984.jpg",
+            "hd": false
+        },
+        {
+            "description": "ko\u0144 jaki jest, ka\u017cdy widzi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f24fca84991a4fed54eda718e5ab3b9.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "P\u00f3\u0142-Japo\u0144czyk, p\u00f3\u0142-Brytyjczyk ze \u015bwiec\u0105cymi w\u0142osami oraz wiecznie przygn\u0119biona niewiasta postanawiaj\u0105 za\u0142o\u017cy\u0107 klub dla ludzi, kt\u00f3rzy - tak jak oni - na nadmiar przyjaci\u00f3\u0142 narzeka\u0107 nie zwykli.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a light novel series by Hirasaka Yomi with illustrations by Buriki.Hasegawa Kodaka, a half-Japanese/half-British boy, has recently transferred to a Catholic High School, St. Chronica's Academy, and as always, finds it impossible to make friends there due to his naturally blond hair, inherited from his dead English mother, which makes him look like a dangerous delinquent to his prejudiced peers. One day after school, he enters the classroom witnessing the equally solitary and very abrasive girl Mikazuki Yozora while she speaks to her Imaginary Friend Tomo. They decide that the best way to improve their social situation is to form a club - the Rinjinbu (Neighbour's Club) - just to make friends and learn social skills.Five other members soon join, starting with the school's well-connected and arrogant idol Kashiwazaki Sena, who has many male admirers but no female friends due to jealousy. Kusunoki Yukimura, a student often dressed as a maid, who idealises and follows Kodaka in the hope of learning to become manlier. Kobato, Kodaka's younger sister who is attending St. Chronica's middle school division and has a penchant for darkness, vampires and the macabre ever since she started watching an anime called Full Metal Necromancer. Shiguma Rika, a perverted underclassman and well-known scientific genius, who speaks in the third person and was saved by Kodaka during a failed experiment, thereafter trying to repay him with sex. And finally Takayama Maria, a precocious 10-year-old teacher and nun at the academy, who becomes the club adviser.",
+            "type": "anidb"
+        },
+        {
+            "content": "Hasegawa Kodaka is a recent transfer student to St. Chronica's Academy, a Catholic high school. As with every other school he has ever attended, he finds it difficult to make friends there because of his naturally-blond hair and fierce-looking eyes, which make him look like a dangerous \"yankee\" to his prejudiced schoolmates. One day, Kodaka accidentally comes across the equally solitary and very abrasive Yozora Mikazuki while she converses with her imaginary friend Tomo. Realizing that neither of them have any social lives, they decide that the best way to improve their situation is to form a club: the Neighbor's Club precisely intended to make friends and learn social skills.",
+            "type": "ann"
+        },
+        {
+            "content": "Hasegawa Kodaka has transferred schools, and he's having a hard time making friends. It doesn't help that his blond hair tends to make people think he's a delinquent. One day, he runs into his bad-tempered solitary classmate Yozora while she's talking animatedly to her imaginary friend Tomo. Realizing that neither of them have any actual friends, they decide that the best way to alter this situation is to form a club and start recruiting.   That is how \"Rinjinbu\", The Neighbours' Club, was formed, a club specifically designed for people who don't have very many friends. As other lonely classmates slowly join their little club, they'll try to learn how to build friendships through cooking together, playing games, and other group activities. But will this group of relationship-challenged misfits really be able to get along?    (Source: MU)",
+            "type": "mal"
+        },
+        {
+            "content": "Kodaka Hasegawa is a recent transfer student to St. Chronica's Academy, a Catholic high school. As with every other school he has ever attended, he finds it difficult to make friends there because of his naturally-blond hair (inherited from his deceased English mother) and fierce-looking eyes, which make him look like a dangerous foreigner to his prejudiced schoolmates.[2]",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 31851,
+            "date": "2012-09-29T13:47:31",
+            "score": 7.76,
+            "type": "mal"
+        },
+        {
+            "count": 1188,
+            "date": "2012-09-29T13:47:31",
+            "score": 7.585,
+            "type": "ann"
+        },
+        {
+            "count": 1694,
+            "date": "2012-09-29T13:47:31",
+            "score": 7.55,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Boku wa Tomodachi ga Sukunai"
+}

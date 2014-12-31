@@ -1,0 +1,1366 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "TARI TARI"
+        },
+        {
+            "language": "en",
+            "title": "Tari Tari"
+        },
+        {
+            "language": "it",
+            "title": "Tari Tari"
+        },
+        {
+            "language": "la",
+            "title": "Tari Tari"
+        },
+        {
+            "language": "fr",
+            "title": "Tari Tari"
+        },
+        {
+            "language": "pl",
+            "title": "Tari Tari"
+        }
+    ],
+    "aliases": [
+        "Tari Tari"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1412175183",
+            "content": "Tari Tari 06 - dzie\u0144 jak co dzie\u0144 dla szkolnego ch\u00f3ru",
+            "episode": 6,
+            "filename": "a5a6730555802c677e0bfbadd20a0f93.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/234400097125949440"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-07-01T15:30:00",
+            "episode": 1,
+            "score": 7.5636109215,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Tari Tari - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Tari Tari - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327810",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Tari Tari - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327811",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Tari Tari - 01 [482C6985].mkv",
+                    "group": "Commie",
+                    "hash": "482C6985",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327894",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Tari Tari - 01 (1280x720 Hi10P AAC) [005DBB71].mkv",
+                    "group": "Doki",
+                    "hash": "005DBB71",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2001%20(1280x720%20Hi10P%20AAC)%20%5B005DBB71%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Tari Tari - 01 (848x480 h264 AAC) [58AD63E1].mkv",
+                    "group": "Doki",
+                    "hash": "58AD63E1",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2001%20(848x480%20h264%20AAC)%20%5B58AD63E1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Sopranos]_Tari_Tari_01_[720p][B31CEE88].mkv",
+                    "group": "Sopranos",
+                    "hash": "B31CEE88",
+                    "url": "http://tracker.minglong.org/torrents/%5BSopranos%5D_Tari_Tari_01_%5B720p%5D%5BB31CEE88%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Sopranos]_Tari_Tari_01v2_[720p][E4D12F69].mkv",
+                    "group": "Sopranos",
+                    "hash": "E4D12F69",
+                    "url": "http://tracker.minglong.org/torrents/%5BSopranos%5D_Tari_Tari_01v2_%5B720p%5D%5BE4D12F69%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 01 [2E3F7B86].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "2E3F7B86",
+                    "url": "http://www.nyaa.eu/?page=download&tid=329026",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_01_[10bit][1280x720][43B44A92].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "43B44A92",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331547",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_01_[8bit][1280x720][3D37CAE0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "3D37CAE0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HDTV]",
+                    "download_count": 0,
+                    "filename": "[Mabushii] Tari Tari - 01 [HDTV][0E81B93C].mkv",
+                    "group": "Mabushii",
+                    "hash": "0E81B93C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332189",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-08T15:30:00",
+            "episode": 2,
+            "score": 7.5829656636,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 02 (848x480 h264 AAC) [75C57271].mkv",
+                    "group": "Doki",
+                    "hash": "75C57271",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2002%20(848x480%20h264%20AAC)%20%5B75C57271%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 02 (1280x720 Hi10P AAC) [4621EFC3].mkv",
+                    "group": "Doki",
+                    "hash": "4621EFC3",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2002%20(1280x720%20Hi10P%20AAC)%20%5B4621EFC3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330105",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Tari Tari - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Tari Tari - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tari Tari - 02 [F90F246D].mkv",
+                    "group": "Commie",
+                    "hash": "F90F246D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330156",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Sopranos]_Tari_Tari_02_[720p][94B432D1].mkv",
+                    "group": "Sopranos",
+                    "hash": "94B432D1",
+                    "url": "http://tracker.minglong.org/torrents/%5BSopranos%5D_Tari_Tari_02_%5B720p%5D%5B94B432D1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 02 [48CB13AA].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "48CB13AA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_02_[10bit][1280x720][973ED820].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "973ED820",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331549",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_02_[8bit][1280x720][D67BF47B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D67BF47B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=331548",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p Hi10p+AAC]",
+                    "download_count": 1,
+                    "filename": "[EvermorE] Tari Tari - 02 [1280x720p Hi10p+AAC].mkv",
+                    "group": "EvermorE",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[HDTV]",
+                    "download_count": 0,
+                    "filename": "[Mabushii] Tari Tari - 02 [HDTV][A2E7E344].mkv",
+                    "group": "Mabushii",
+                    "hash": "A2E7E344",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334117",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-15T15:30:00",
+            "episode": 3,
+            "score": 7.5701549002,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332230",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Tari Tari - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332231",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Tari Tari - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tari Tari - 03 [51DC79FE].mkv",
+                    "group": "Commie",
+                    "hash": "51DC79FE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=332537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_03_[8bit][1280x720][712EA43C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "712EA43C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_03_[10bit][1280x720][FFD5F7E4].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FFD5F7E4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333001",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p 10 Hip AAC]",
+                    "download_count": 0,
+                    "filename": "[EvermorE] Tari Tari - 03 [1280x720p 10 Hip AAC].mkv",
+                    "group": "EvermorE",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334495",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-22T15:30:00",
+            "episode": 4,
+            "score": 7.5654121587,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Tari Tari - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334463",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Tari Tari - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334500",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tari Tari - 04 [AE9A3ABE].mkv",
+                    "group": "Commie",
+                    "hash": "AE9A3ABE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334517",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_04_[8bit][1280x720][C692C561].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C692C561",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334940",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_04_[10bit][1280x720][97E7537A].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "97E7537A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=334941",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720p 10 Hip AAC]",
+                    "download_count": 0,
+                    "filename": "[EvermorE] Tari Tari - 04 [1280x720p 10 Hip AAC].mkv",
+                    "group": "EvermorE",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335066",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-29T15:30:00",
+            "episode": 5,
+            "score": 7.5569537667,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 05 (1280x720 Hi10P AAC) [47EFB952].mkv",
+                    "group": "Doki",
+                    "hash": "47EFB952",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2005%20(1280x720%20Hi10P%20AAC)%20%5B47EFB952%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 05 (848x480 h264 AAC) [25C4BB45].mkv",
+                    "group": "Doki",
+                    "hash": "25C4BB45",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2005%20(848x480%20h264%20AAC)%20%5B25C4BB45%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336660",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Tari Tari - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336663",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Tari Tari - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336664",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Tari Tari - 05 [49FEA213].mkv",
+                    "group": "Commie",
+                    "hash": "49FEA213",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336721",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeTL-Broken] Tari Tari - 05 (TV 720p AAC) [C35845EE].mkv",
+                    "group": "AnimeTL-Broken",
+                    "hash": "C35845EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=336964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Sopranos]_Tari_Tari_05_[720p][57B7FC0C].mkv",
+                    "group": "Sopranos",
+                    "hash": "57B7FC0C",
+                    "url": "http://tracker.anime-index.org/download.php?id=27f584406899647f6e81671eb64236eb47aef4cb&f=%5BSopranos%5D_Tari_Tari_05_%5B720p%5D%5B57B7FC0C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_05_[10bit][1280x720][D8FF38A4].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D8FF38A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337214",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_05v2_[8bit][1280x720][DCC923F1].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DCC923F1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337363",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 05 [C2DC3E5B].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "C2DC3E5B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337453",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-05T15:30:00",
+            "episode": 6,
+            "score": 7.5933426184,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 06 (848x480 h264 AAC) [14B1DF0F].mkv",
+                    "group": "Doki",
+                    "hash": "14B1DF0F",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2006%20(848x480%20h264%20AAC)%20%5B14B1DF0F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 06 (1280x720 Hi10P AAC) [022D7457].mkv",
+                    "group": "Doki",
+                    "hash": "022D7457",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2006%20(1280x720%20Hi10P%20AAC)%20%5B022D7457%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Tari Tari - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338996",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Tari Tari - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=338998",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tari Tari - 06 [5F26E9F5].mkv",
+                    "group": "Commie",
+                    "hash": "5F26E9F5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 06 [6D923A5E].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "6D923A5E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340165",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Sopranos]_Tari_Tari_06_[720p][F7F13906].mkv",
+                    "group": "Sopranos",
+                    "hash": "F7F13906",
+                    "url": "http://tracker.anime-index.org/download.php?id=a23f17c72390dedd8657533b04a48152a05d53fd&f=%5BSopranos%5D_Tari_Tari_06_%5B720p%5D%5BF7F13906%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_06_[10bit][1280x720][2161682F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "2161682F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340447",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_06_[8bit][1280x720][58998577].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "58998577",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340446",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-12T15:30:00",
+            "episode": 7,
+            "score": 7.6016463174,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 07 (848x480 h264 AAC) [45A317D0].mkv",
+                    "group": "Doki",
+                    "hash": "45A317D0",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2007%20(848x480%20h264%20AAC)%20%5B45A317D0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 07 (1280x720 Hi10P AAC) [ADD3F144].mkv",
+                    "group": "Doki",
+                    "hash": "ADD3F144",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2007%20(1280x720%20Hi10P%20AAC)%20%5BADD3F144%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Tari Tari - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341323",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Tari Tari - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341324",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tari Tari - 07 [5D53BD30].mkv",
+                    "group": "Commie",
+                    "hash": "5D53BD30",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Underwater] Tari Tari - 07 (720p) [6A464EB8].mkv",
+                    "group": "Underwater",
+                    "hash": "6A464EB8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341664",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_07_[8bit][1280x720][B97F3334].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B97F3334",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 12,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_07_[10bit][1280x720][3ABE9E98].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "3ABE9E98",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341901",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 07 [9C19E0FD].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "9C19E0FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343637",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-19T15:30:00",
+            "episode": 8,
+            "score": 7.6141101836,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 08 (848x480 h264 AAC) [3F78DFCE].mkv",
+                    "group": "Doki",
+                    "hash": "3F78DFCE",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2008%20(848x480%20h264%20AAC)%20%5B3F78DFCE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 08 (1280x720 Hi10P AAC) [70578A02].mkv",
+                    "group": "Doki",
+                    "hash": "70578A02",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2008%20(1280x720%20Hi10P%20AAC)%20%5B70578A02%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343679",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Tari Tari - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343680",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Tari Tari - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tari Tari - 08 [54A54FAE].mkv",
+                    "group": "Commie",
+                    "hash": "54A54FAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343697",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_08_[10bit][1280x720][5B4E36F3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5B4E36F3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344017",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_08_[8bit][1280x720][4D5C338E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4D5C338E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 08 [B88F674E].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "B88F674E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344445",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-26T15:30:00",
+            "episode": 9,
+            "score": 7.5994835631,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Sawa's sawa] Tari Tari - 09 [1280x720 x264 AAC] [BD57E010].mkv",
+                    "group": "Sawa's sawa",
+                    "hash": "BD57E010",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=345990",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tari Tari - 09 [6FD334C7].mkv",
+                    "group": "Commie",
+                    "hash": "6FD334C7",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=345997",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Tari Tari - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346056",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Tari Tari - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346059",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_09_[10bit][1280x720][5206BA32].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5206BA32",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346317",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 6,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_09_[8bit][1280x720][6A1CE422].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6A1CE422",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346316",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 09 [147B1AD9].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "147B1AD9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346916",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Tari Tari - 09 (848x480 h264 AAC) [8497A74C].mkv",
+                    "group": "Doki",
+                    "hash": "8497A74C",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2009%20(848x480%20h264%20AAC)%20%5B8497A74C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 09 (1280x720 Hi10P AAC) [CCD1BAF1].mkv",
+                    "group": "Doki",
+                    "hash": "CCD1BAF1",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2009%20(1280x720%20Hi10P%20AAC)%20%5BCCD1BAF1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeTL-Broken] Tari Tari - 09 (TV 720p AAC) [AE293B46].mkv",
+                    "group": "AnimeTL-Broken",
+                    "hash": "AE293B46",
+                    "url": "http://www.aniwana.com/dl&1729",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-02T15:30:00",
+            "episode": 10,
+            "score": 7.5970095766,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Tari Tari - 10 (848x480 h264 AAC) [924C6E5D].mkv",
+                    "group": "Doki",
+                    "hash": "924C6E5D",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2010%20(848x480%20h264%20AAC)%20%5B924C6E5D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 10 (1280x720 Hi10P AAC) [4F478118].mkv",
+                    "group": "Doki",
+                    "hash": "4F478118",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2010%20(1280x720%20Hi10P%20AAC)%20%5B4F478118%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Tari Tari - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348262",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Tari Tari - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348265",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tari Tari - 10 [6C47BFB2].mkv",
+                    "group": "Commie",
+                    "hash": "6C47BFB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=348282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeTL-Broken] Tari Tari - 10 (TV 720p AAC) [79D91E88].mkv",
+                    "group": "AnimeTL-Broken",
+                    "hash": "79D91E88",
+                    "url": "http://www.aniwana.com/dl&1748",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 10 [7B57C655].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "7B57C655",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349270",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_10_[8bit][1280x720][9D5E9B36].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9D5E9B36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349273",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_10_[10bit][1280x720][8AF436E4].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "8AF436E4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349274",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-09T15:30:00",
+            "episode": 11,
+            "score": 7.5909651518,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Tari Tari - 11 (848x480 h264 AAC) [66D6DA67].mkv",
+                    "group": "Doki",
+                    "hash": "66D6DA67",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2011%20(848x480%20h264%20AAC)%20%5B66D6DA67%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Tari Tari - 11 (1280x720 Hi10P AAC) [BD8BC249].mkv",
+                    "group": "Doki",
+                    "hash": "BD8BC249",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2011%20(1280x720%20Hi10P%20AAC)%20%5BBD8BC249%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Tari Tari - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350811",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Tari Tari - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350812",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tari Tari - 11 [239D8456].mkv",
+                    "group": "Commie",
+                    "hash": "239D8456",
+                    "url": "http://www.nyaa.eu/?page=download&tid=350943",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_11_[8bit][1280x720][C3659658].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C3659658",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351268",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_11_[10bit][1280x720][52F2F643].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "52F2F643",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351269",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeTL-Broken] Tari Tari - 11 (TV 720p AAC) [F74F22E1].mkv",
+                    "group": "AnimeTL-Broken",
+                    "hash": "F74F22E1",
+                    "url": "http://www.aniwana.com/dl&1962",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 11 [B21C82BE].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "B21C82BE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351673",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-16T15:30:00",
+            "episode": 12,
+            "score": 7.586535872,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 12 (848x480 h264 AAC) [AD4A7DCE].mkv",
+                    "group": "Doki",
+                    "hash": "AD4A7DCE",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2012%20(848x480%20h264%20AAC)%20%5BAD4A7DCE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 12 (1280x720 Hi10P AAC) [03A0F4BF].mkv",
+                    "group": "Doki",
+                    "hash": "03A0F4BF",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2012%20(1280x720%20Hi10P%20AAC)%20%5B03A0F4BF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353192",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Tari Tari - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353193",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tari Tari - 12 [DB3518E2].mkv",
+                    "group": "Commie",
+                    "hash": "DB3518E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353244",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeTL-Broken] Tari Tari - 12 (TV 720p AAC) [4CBFC014].mkv",
+                    "group": "AnimeTL-Broken",
+                    "hash": "4CBFC014",
+                    "url": "http://www.aniwana.com/dl&2022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Tari Tari 12 [60E3E4FD].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "60E3E4FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=354278",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_12_[8bit][1280x720][BF749D4D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "BF749D4D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355636",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_12_[10bit][1280x720][028F7A9B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "028F7A9B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355637",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-23T15:30:00",
+            "episode": 13,
+            "score": 7.6627233076,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Tari Tari - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tari Tari - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tari Tari - 13 [376FA04B].mkv",
+                    "group": "Commie",
+                    "hash": "376FA04B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_13_END_[10bit][1280x720][FE9FAFEA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FE9FAFEA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tari_Tari_-_13_END_[8bit][1280x720][80D83E5B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "80D83E5B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355660",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 13 (848x480 h264 AAC) [1D840D7C].mkv",
+                    "group": "Doki",
+                    "hash": "1D840D7C",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2013%20(848x480%20h264%20AAC)%20%5B1D840D7C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Tari Tari - 13 (1280x720 Hi10P AAC) [913BC0ED].mkv",
+                    "group": "Doki",
+                    "hash": "913BC0ED",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Tari%20Tari%20-%2013%20(1280x720%20Hi10P%20AAC)%20%5B913BC0ED%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeTL-Broken] Tari Tari - 13 (TV 720p AAC) [F6D86AE3].mkv",
+                    "group": "AnimeTL-Broken",
+                    "hash": "F6D86AE3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385749",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9077,
+        "ann": 14167,
+        "mal": 13333,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/11e2a460deb44365f85cc3b645ed8be6.jpg",
+            "hd": false
+        },
+        {
+            "description": "dzie\u0144 jak co dzie\u0144 dla szkolnego ch\u00f3ru",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5a6730555802c677e0bfbadd20a0f93.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fba86515240e76790652672228a06054.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/94743f194bc664ee4fc273c155aeb670.jpg",
+            "hd": false
+        },
+        {
+            "description": "Konatsu chcia\u0142aby mie\u0107 wi\u0119ksze",
+            "filename": "http://s.modriv.net/abp/images/screencaps/87f062d0dcf6b0914312fe824563df74.jpg",
+            "hd": false
+        },
+        {
+            "description": "get on my horse...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c6e8781bc7a180347164b29241822ed8.jpg",
+            "hd": false
+        },
+        {
+            "description": "robisz to \u017ale!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/01aba1de1bcad3b9e9fe62dc545824ed.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "The story centers around five Japanese high school students who are too young to be called adults, but who no longer think of themselves as children. Sakai Wakana once took music lessons, but she withdrew from music after losing her mother. Miyamoto Konatsu is a positive-thinking girl who loves singing and spends time after school at the vocal music club. Okita Sawa is a spirited archery club member who dreams of becoming a horse rider. Tanaka Taichi is a chronically late badminton team member who lives with his college student sister. Wien just transfered into Wakana's class after 12 years abroad in Austria. Music brings Wakana, Konatsu, Sawa and the others together into an ensemble during their last summer in high school.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "Konatsu Miyamoto was rejected to sing with the other members of her chorus club by the teacher because she was missing \"something special\". Being her last year in high school, she felt like doing something crazy: She quit. In the place of her former club, Konatsu comes up with the idea to make a new chorus club, inviting the people around her to join. With dreams in each of the member's hearts, they live out their high school lives.",
+            "type": "ann"
+        },
+        {
+            "content": "The last year of high school is always a time of both looking forward and looking back. Before you lives the future, alternately bright and scary. Behind you lie memories, both happy and sad. And somehow, in the course of one year, you have to reconcile those two and decide where your life is going to go.   For Wakana Sakai, who had started studying music, it's time to face the tragedy that made her abandon that path. For Sawa Okita, it's about her dreams of riding professionally. And for Konatsu Miyamoto, it's about bringing her friends together through the magic of song. Can something as simple as the formation of a chorus club really help solve the hurts and pangs that come with growing up? Can music bring people together despite their differences?   (Source: Sentai Filmworks)",
+            "type": "mal"
+        },
+        {
+            "content": "The story centers around five Japanese high school students who are too young to be called adults, but who no longer think of themselves as children. Wakana Sakai once took music lessons, but she withdrew from music after losing her mother. Konatsu Miyamoto is a positive-thinking girl who loves singing and spends time after school at the vocal music club. Sawa Okita is a spirited archery club member who dreams of becoming a horse rider. Taichi Tanaka is a chronically late badminton team member who lives with his college student sister. \"Wien\" just transferred into Wakana's class after 12 years abroad in Austria. Music brings Wakana, Konatsu, Sawa and the others together into an ensemble during their last summer in high school.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 8141,
+            "date": "2012-09-29T14:28:21",
+            "score": 7.68,
+            "type": "mal"
+        },
+        {
+            "count": 317,
+            "date": "2012-09-29T14:28:21",
+            "score": 7.21,
+            "type": "anidb"
+        },
+        {
+            "count": 346,
+            "date": "2012-09-29T14:28:21",
+            "score": 7.671,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Tari Tari"
+}

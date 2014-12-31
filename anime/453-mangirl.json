@@ -1,0 +1,637 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u307e\u3093\u304c\u30fc\u308b!"
+        },
+        {
+            "language": "pl",
+            "title": "Mandziewcz\u0119!"
+        }
+    ],
+    "aliases": [
+        "Mangirl!",
+        "Mangirl"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-01-02T17:35:00",
+            "episode": 1,
+            "score": 5.2,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] Mangirl! - 01v2 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2741",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[st0ned] Mangirl! - 01 [480p][0499154B].mkv",
+                    "group": "st0ned",
+                    "hash": "0499154B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[st0ned] Mangirl! - 01 [720p][4A0716FF].mkv",
+                    "group": "st0ned",
+                    "hash": "4A0716FF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389105",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Mangirl - 01 (1280x720 10-bit x264 AAC) [A28C30D2].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "A28C30D2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389129",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Mangirl! - 01 [4389BA13].mkv",
+                    "group": "Commie",
+                    "hash": "4389BA13",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Mangirl! 01 [B45486A6].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "B45486A6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391658",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Safa] Mangirl! 01.mkv",
+                    "group": "Safa",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Mangirl!_-_01_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Mangirl!_-_01_(720p)_(Commie).mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-09T17:35:00",
+            "episode": 2,
+            "score": 6.2748471616,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391201",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Mangirl! - 02 [F36273C0].mkv",
+                    "group": "Commie",
+                    "hash": "F36273C0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391243",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Mangirl! 02 [090623BF].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "090623BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393009",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Safa] Mangirl! - 02.mkv",
+                    "group": "Safa",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Mangirl!_-_02_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Mangirl!_-_02_(720p)_(Commie).mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-16T17:35:00",
+            "episode": 3,
+            "score": 6.0662601078,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393652",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Mangirl! - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393662",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mangirl! - 03 [CDF2E70C].mkv",
+                    "group": "Commie",
+                    "hash": "CDF2E70C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394184",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Safa] Mangirl! - 03.mkv",
+                    "group": "Safa",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Mangirl!_-_03_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Mangirl!_-_03_(720p)_(Commie).mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Mangirl! 03 [CD06577A].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "CD06577A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=409689",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-23T17:35:00",
+            "episode": 4,
+            "score": 6.041747543,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Mangirl! - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396341",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Mangirl! - 04 [0500C0CC].mkv",
+                    "group": "Commie",
+                    "hash": "0500C0CC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Samurai] Mangirl! - 04 [720p][C822C686].mkv",
+                    "group": "Samurai",
+                    "hash": "C822C686",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397508",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Mangirl! 04 [ACBEEB78].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "ACBEEB78",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411949",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-30T17:35:00",
+            "episode": 5,
+            "score": 6.0605853107,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Mangirl! - 05 [657DDCBE].mkv",
+                    "group": "Commie",
+                    "hash": "657DDCBE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398951",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Samurai] Mangirl! - 05 [720p][994702D5].mkv",
+                    "group": "Samurai",
+                    "hash": "994702D5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Mangirl! 05 [C477E479].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "C477E479",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414960",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-06T17:35:00",
+            "episode": 6,
+            "score": 6.0462769397,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401267",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Mangirl! - 06 [E59B8328].mkv",
+                    "group": "Commie",
+                    "hash": "E59B8328",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Mangirl! 06 [E71C964F].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "E71C964F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417321",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-13T17:35:00",
+            "episode": 7,
+            "score": 6.0348762507,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403686",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403687",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Mangirl! - 07 [4FD53210].mkv",
+                    "group": "Commie",
+                    "hash": "4FD53210",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403786",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-20T17:35:00",
+            "episode": 8,
+            "score": 6.050963761,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406026",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406027",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Mangirl! - 08 [83582E86].mkv",
+                    "group": "Commie",
+                    "hash": "83582E86",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406114",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-27T17:35:00",
+            "episode": 9,
+            "score": 6.0323620038,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408335",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Mangirl! - 09 [1EEBDD56].mkv",
+                    "group": "Commie",
+                    "hash": "1EEBDD56",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408491",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-06T17:35:00",
+            "episode": 10,
+            "score": 6.036284934,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410699",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Mangirl! - 10 [49ED4455].mkv",
+                    "group": "Commie",
+                    "hash": "49ED4455",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410798",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-13T17:35:00",
+            "episode": 11,
+            "score": 6.0439552632,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412969",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412971",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Mangirl! - 11 [1AFF8022].mkv",
+                    "group": "Commie",
+                    "hash": "1AFF8022",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413040",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-20T17:35:00",
+            "episode": 12,
+            "score": 6.0466569404,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Mangirl! - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415136",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Mangirl! - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415138",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Mangirl! - 12 [0F3FB617].mkv",
+                    "group": "Commie",
+                    "hash": "0F3FB617",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415637",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-27T17:35:00",
+            "episode": 13,
+            "score": 6.0968683923,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Mangirl! - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417317",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Mangirl! - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417324",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Mangirl! - 13 [E18C4A62].mkv",
+                    "group": "Commie",
+                    "hash": "E18C4A62",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417401",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 5,
+    "external_sites": {
+        "anidb": 9207,
+        "ann": 14325,
+        "mal": 14045,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "\"We're going to launch a manga magazine!\"   A team of girls with zero experience in manga editing are off and running toward their dream of creating the biggest manga magazine in Japan! They seem to do nothing but run into problems and failures... But still they're working hard every day!  (Source: Crunchyroll)",
+            "type": "mal"
+        },
+        {
+            "content": "The story follows the daily life of naive Editor-in-Chief Hana and Japan's cutest manga editors as they attempt to realize their dream of launching the #1 manga magazine \u2014 even though they have zero experience in actually editing manga.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "\u201cWe're going to launch a manga magazine. A team of girls with zero experience in manga editing are off and running toward their dream of creating the biggest manga magazine in Japan, They seem to do nothing but run into problems and failures... But still they're working hard every day.\u201d",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 103,
+            "date": "2013-03-29T05:36:08",
+            "score": 4.86,
+            "type": "anidb"
+        },
+        {
+            "count": 2541,
+            "date": "2013-03-29T05:36:08",
+            "score": 6.18,
+            "type": "mal"
+        },
+        {
+            "count": 99,
+            "date": "2013-03-29T05:36:08",
+            "score": 5.25,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Mangirl!"
+}

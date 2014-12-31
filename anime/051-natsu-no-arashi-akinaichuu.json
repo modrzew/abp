@@ -1,0 +1,53 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u590f\u306e\u3042\u3089\u3057!\u6625\u590f\u51ac\u4e2d"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6672,
+        "ann": 10944,
+        "mal": 6172,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Kontynuacja <a href=\"http://abp.modriv.net/pokaz/17-natsu-no-arashi-\">pierwszej serii</a>.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3032,
+            "date": "2012-09-29T02:12:48",
+            "score": 7.82,
+            "type": "mal"
+        },
+        {
+            "count": 556,
+            "date": "2012-09-29T02:12:48",
+            "score": 7.58,
+            "type": "anidb"
+        },
+        {
+            "count": 257,
+            "date": "2012-09-29T02:12:48",
+            "score": 7.496,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "17",
+    "title": "Natsu no Arashi! Akinaichuu"
+}

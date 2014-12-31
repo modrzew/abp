@@ -1,0 +1,140 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u56db\u7573\u534a\u795e\u8a71\u5927\u7cfb"
+        },
+        {
+            "language": "en",
+            "title": "The Tatami Galaxy"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2010-04-22T17:45:00",
+            "episode": 1,
+            "score": 7.803372093,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-29T17:45:00",
+            "episode": 2,
+            "score": 7.8730564972,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-06T17:45:00",
+            "episode": 3,
+            "score": 7.9626141975,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-13T17:45:00",
+            "episode": 4,
+            "score": 7.83484375,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-20T17:45:00",
+            "episode": 5,
+            "score": 7.8503012746,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-27T17:45:00",
+            "episode": 6,
+            "score": 7.8499417989,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-03T17:45:00",
+            "episode": 7,
+            "score": 7.8459708171,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-10T17:45:00",
+            "episode": 8,
+            "score": 7.8655963303,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-17T17:45:00",
+            "episode": 9,
+            "score": 7.9076684073,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-24T17:45:00",
+            "episode": 10,
+            "score": 7.9292625103,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-01T17:45:00",
+            "episode": 11,
+            "score": 8.4975687596,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 11,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7243,
+        "ann": 11200,
+        "mal": 7785,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "M\u0142odzieniec idzie na studia i do\u0142\u0105cza do pewnego klubu, w kt\u00f3rym ma nadziej\u0119 pozna\u0107 kruczow\u0142os\u0105 pi\u0119kno\u015b\u0107 swojego \u017cycia, jednak zamiast tego poznaje pewnego dziwnego jegomo\u015bcia, z kt\u00f3rym jest powi\u0105zany czarn\u0105 nici\u0105 przeznaczenia.",
+            "type": "abp"
+        },
+        {
+            "content": "When a college dropout stops for a late night bite at a mysterious ramen stand, he crosses paths with a self-proclaimed deity of matrimony. This bizarre meeting sends the young man hurtling through a horrifying flashback to his not-so-glorious college days when the influence of a cruel new friend turned him from a hopeless romantic into a mischievous &ldquo;black cupid.&rdquo;    (Source: Funimation)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on a novel by Morimi Tomihiko.The story of The Tatami Galaxy follows an unnamed third year university student in Kyoto, Japan and what he views as his wasted time in a particular club (also called circle) at his university. He meets Ozu, another student, whose encouragement sets him on a mission of dubious morality. He contemplates his affection for a second year engineering student, Akashi, and makes promises to her, usually of and within a romantic subtext. The culmination of his dubious missions often conflict with his interest in her in some way. The story is one of a number that draw on the author's experience in Kyoto University.Source: Wikipedia",
+            "type": "anidb"
+        },
+        {
+            "content": "A second year student from the Kyoto University finds himself entrapped amid a plethora of unsatisfying possibilities to change his life. Accompanied by Ozu, his mischievous best friend, and Akashi, a stern engineering student, the nameless protagonist trudges through each path as he tries to grab the opportunity that seems to dangle right in front of his eyes.",
+            "type": "ann"
+        },
+        {
+            "content": "The story of The Tatami Galaxy follows an unnamed third year university student in Kyoto, Japan and what he views as his wasted time in a particular club (also called \"circle\") at his university. He meets Ozu, another student, whose encouragement sets him on a mission of dubious morality. He contemplates his affection for a second year engineering student, Akashi, and makes promises to her, usually of and within a romantic subtext. The culmination of his dubious missions often conflict with his interest in her in some way. The story is one of a number that draw on the author's experience in Kyoto University.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 8501,
+            "date": "2012-09-29T02:44:41",
+            "score": 8.56,
+            "type": "mal"
+        },
+        {
+            "count": 1033,
+            "date": "2012-09-29T02:44:41",
+            "score": 8.19,
+            "type": "anidb"
+        },
+        {
+            "count": 560,
+            "date": "2012-09-29T02:44:41",
+            "score": 7.88,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Yojou-han Shinwa Taikei"
+}

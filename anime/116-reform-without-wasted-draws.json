@@ -1,0 +1,72 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30e0\u30c0\u30c5\u30e2\u7121\u304d\u6539\u9769 The Legend of Koizumi"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 1,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 7261,
+        "ann": 11031,
+        "mal": 6946,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Premierowie Japonii: by\u0142y (po lewej) i obecny (po prawej)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/885e7e465280d2c23a7c95ac089d8786.jpg",
+            "hd": false
+        },
+        {
+            "description": "Premier Chin",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b7c638eee79f99af5a170af40ff65e8.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on the satirical mahjong manga by Oowada Hideki originally serialised in the Kindai Mahjong Original manga magazine published by Takeshobo, then switched to bimonthly serialisation on Takeshobo's other mahjong manga magazine Kindai Mahjong in April 2009.The premise of the story is that international diplomacy is settled on the mahjong table, with real-life politicians depicted as masters of mahjong. The title, Mudazumo Naki Kaikaku (Reform with no Wasted Draws), is a parody of Koizumi Jun'ichirou's slogan, \"Seiiki Naki Kaikaku\" (Reform with no Sanctuary, \u8056\u57df\u7121\u304d\u6539\u9769).Although based on real-life politicians, the characters are, as the disclaimer notes, \"works of fiction and not really related to any real-life people\".",
+            "type": "anidb"
+        },
+        {
+            "content": "Global political figures such as The Pope, Kim Jong Il, George W. Bush and recent Japanese Prime Ministers play riichi mahjong against each other.",
+            "type": "mal"
+        },
+        {
+            "content": "Former prime minister of Japan, Junichiro Koizumi, faces several leaders of the world on intense mahjong matches while on diplomatic trips throughout the world.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2584,
+            "date": "2012-09-29T02:43:13",
+            "score": 7.38,
+            "type": "mal"
+        },
+        {
+            "count": 322,
+            "date": "2012-09-29T02:43:13",
+            "score": 7.02,
+            "type": "anidb"
+        },
+        {
+            "count": 102,
+            "date": "2012-09-29T02:43:13",
+            "score": 7.451,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Reform Without Wasted Draws"
+}

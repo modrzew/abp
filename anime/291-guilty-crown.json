@@ -1,0 +1,2028 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ae\u30eb\u30c6\u30a3\u30af\u30e9\u30a6\u30f3"
+        },
+        {
+            "language": "pl",
+            "title": "Winna Korona"
+        }
+    ],
+    "aliases": [
+        "Guilty Crown",
+        "Guilty Crown  -  "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/0",
+            "content": "#anime #Jesie\u01442011 Guilty Crown (\u30ae\u30eb\u30c6\u30a3\u30af\u30e9\u30a6\u30f3) http://rdir.pl/1ltsjd",
+            "episode": 1,
+            "filename": "4ae4ffc6288e7891419599ef8b7b1c5f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/904518175",
+            "content": "Guilty Crown 13 - co ja poczn\u0119 bez chi\u0144skich bajek?",
+            "episode": 13,
+            "filename": "736e7891ac98c31395eb7da692471714.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1089346255",
+            "content": "#anime #Jesie\u01442011 Guilty Crown (\u30ae\u30eb\u30c6\u30a3\u30af\u30e9\u30a6\u30f3) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/1ltsjd)",
+            "episode": 22,
+            "filename": "1c20afcb83f0c64bd65edcbba72de2b8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/188438137515671552"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-13T18:15:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 01 (848x480 h264 AAC) [0D556C93].mkv",
+                    "group": "Doki",
+                    "hash": "0D556C93",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_01_848x480_h264_AAC_0D556C93.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Guilty Crown - 01 (1280x720 h264 AAC) [9A511B08].mkv",
+                    "group": "Doki",
+                    "hash": "9A511B08",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_01_1280x720_h264_AAC_9A511B08.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_01_[1280x720][F65F193A].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "F65F193A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 01 [ACCB13A0].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "ACCB13A0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253913",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Monogatari]_Guilty_Crown_-_01_[76E833EE].mkv",
+                    "group": "Monogatari",
+                    "hash": "76E833EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hiyono]_Guilty_Crown_01_[720p]_[CBAD6A1E].mkv",
+                    "group": "Hiyono",
+                    "hash": "CBAD6A1E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHiyono%5D_Guilty_Crown_01_%5B720p%5D_%5BCBAD6A1E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Ryugan-Shinsen]_Guilty_Crown_-_01_[720p]_[AE1A08D0].mkv",
+                    "group": "Ryugan-Shinsen",
+                    "hash": "AE1A08D0",
+                    "url": "http://tracker.minglong.org/torrents/%5BRyugan-Shinsen%5D_Guilty_Crown_-_01_%5B720p%5D_%5BAE1A08D0%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-20T18:15:00",
+            "episode": 2,
+            "score": 8.1333386764,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Guilty Crown - 02 [6D1930E8].mkv",
+                    "group": "Commie",
+                    "hash": "6D1930E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254195",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[CoalGuys] Guilty Crown - 02 [A986664D].mkv",
+                    "group": "CoalGuys",
+                    "hash": "A986664D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena]_ Guilty Crown_ -_ 02__[1280x720_H264_AAC][33641250].mkv",
+                    "group": "Hadena",
+                    "hash": "33641250",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_02_[1280x720][63257187].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "63257187",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254514",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 02 (848x480 h264 AAC) [BB7FA5B6].mkv",
+                    "group": "Doki",
+                    "hash": "BB7FA5B6",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_02_848x480_h264_AAC_BB7FA5B6.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Guilty Crown - 02 (1280x720 h264 AAC) [53B9B5FA].mkv",
+                    "group": "Doki",
+                    "hash": "53B9B5FA",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_02_1280x720_h264_AAC_53B9B5FA.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Monogatari]_Guilty_Crown_-_02_[A1789DF6].mkv",
+                    "group": "Monogatari",
+                    "hash": "A1789DF6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 02 [967E358C].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "967E358C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Ryugan]_Guilty_Crown_-_02_[720p]_[D0479D1E].mkv",
+                    "group": "Ryugan",
+                    "hash": "D0479D1E",
+                    "url": "http://tracker.minglong.org/torrents/%5BRyugan%5D_Guilty_Crown_-_02_%5B720p%5D_%5BD0479D1E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-27T18:15:00",
+            "episode": 3,
+            "score": 8.0434240682,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Guilty Crown - 03 [5EF0B8DB].mkv",
+                    "group": "Commie",
+                    "hash": "5EF0B8DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255838",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena]_ Guilty Crown_ -_ 03_[1280x720_H264_AAC][8124916C].mkv",
+                    "group": "Hadena",
+                    "hash": "8124916C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[CoalGuys] Guilty Crown - 03 [0DBE5CD0].mkv",
+                    "group": "CoalGuys",
+                    "hash": "0DBE5CD0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255891",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena]_Guilty Crown_-_03v2_[1280x720_H264_AAC][697F4E73].mkv",
+                    "group": "Hadena",
+                    "hash": "697F4E73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255923",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 1,
+                    "filename": "[777] Guilty Crown - 03 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_03_[1280x720][C4B491A8].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "C4B491A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256127",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Guilty Crown - 03 (848x480 h264 AAC) [17B36512].mkv",
+                    "group": "Doki",
+                    "hash": "17B36512",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_03_848x480_h264_AAC_17B36512.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Guilty Crown - 03 (1280x720 h264 AAC) [A7443877].mkv",
+                    "group": "Doki",
+                    "hash": "A7443877",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_03_1280x720_h264_AAC_A7443877.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Monogatari]_Guilty_Crown_-_03_[1A1FA318].mkv",
+                    "group": "Monogatari",
+                    "hash": "1A1FA318",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256967",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 03 [F5A3EF98].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "F5A3EF98",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257135",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-03T17:15:00",
+            "episode": 4,
+            "score": 8.073706387,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 4,
+                    "filename": "[NicoNico] Guilty Crown - 04 [1280x720 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=257612",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[CoalGuys] Guilty Crown - 04 [0984A4AC].mkv",
+                    "group": "CoalGuys",
+                    "hash": "0984A4AC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257703",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Guilty Crown - 04 [D917AC8F].mkv",
+                    "group": "Commie",
+                    "hash": "D917AC8F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_04_[1280x720][337589C6].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "337589C6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257945",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Guilty Crown - 04 (848x480 h264 AAC) [B67982C4].mkv",
+                    "group": "Doki",
+                    "hash": "B67982C4",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_04_848x480_h264_AAC_B67982C4.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Doki] Guilty Crown - 04 (1280x720 h264 AAC) [B1372BCA].mkv",
+                    "group": "Doki",
+                    "hash": "B1372BCA",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_04_1280x720_h264_AAC_B1372BCA.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 04 [C44E4780].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "C44E4780",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260491",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 3,
+                    "filename": "[777] Guilty Crown - 04 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261883",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-10T17:15:00",
+            "episode": 5,
+            "score": 8.0725124228,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Guilty Crown 05 [1280x720 x264 AAC][EB1D84B2].mkv",
+                    "group": "Hadena",
+                    "hash": "EB1D84B2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259372",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Guilty Crown - 05 [CEDCE7F8].mkv",
+                    "group": "Commie",
+                    "hash": "CEDCE7F8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259408",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[CoalGuys] Guilty Crown - 05 [1D50018D].mkv",
+                    "group": "CoalGuys",
+                    "hash": "1D50018D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259429",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_05_[1280x720][14EDAE3D].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "14EDAE3D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259624",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 05 (848x480 h264 AAC) [258F98A9].mkv",
+                    "group": "Doki",
+                    "hash": "258F98A9",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_05_848x480_h264_AAC_258F98A9.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Doki] Guilty Crown - 05 (1280x720 h264 AAC) [6C0C0FA5].mkv",
+                    "group": "Doki",
+                    "hash": "6C0C0FA5",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_05_1280x720_h264_AAC_6C0C0FA5.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 05 [13A2EF35].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "13A2EF35",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_05v2_[1280x720][8AE4AE31].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "8AE4AE31",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261187",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-11-17T17:15:00",
+            "episode": 6,
+            "score": 8.0227133149,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[CoalGuys] Guilty Crown - 06 [EB315899].mkv",
+                    "group": "CoalGuys",
+                    "hash": "EB315899",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260908",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Guilty Crown - 06 [88FE8145].mkv",
+                    "group": "Commie",
+                    "hash": "88FE8145",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Guilty Crown 06 [1280x720 x264 AAC][21A3675F].mkv",
+                    "group": "Hadena",
+                    "hash": "21A3675F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2006%20%5B1280x720%20x264%20AAC%5D%5B21A3675F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_06_[1280x720][414FE460].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "414FE460",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 1,
+                    "filename": "[777] Guilty Crown - 06 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261893",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 06 (848x480 h264 AAC) [4BF07C39].mkv",
+                    "group": "Doki",
+                    "hash": "4BF07C39",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_06_848x480_h264_AAC_4BF07C39.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Guilty Crown - 06 (1280x720 h264 AAC) [354406EF].mkv",
+                    "group": "Doki",
+                    "hash": "354406EF",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_06_1280x720_h264_AAC_354406EF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 06 [0D45A376].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "0D45A376",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264180",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-24T17:15:00",
+            "episode": 7,
+            "score": 8.0027042647,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[CoalGuys] Guilty Crown - 07 [C2C2DAB8].mkv",
+                    "group": "CoalGuys",
+                    "hash": "C2C2DAB8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262551",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 10,
+                    "filename": "[Hadena] Guilty Crown 07 [1280x720 x264 AAC][01CFD931].mkv",
+                    "group": "Hadena",
+                    "hash": "01CFD931",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Guilty Crown - 07 [EF5FB5F1].mkv",
+                    "group": "Commie",
+                    "hash": "EF5FB5F1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262586",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 9,
+                    "filename": "[777] Guilty Crown - 07 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262686",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 8,
+                    "filename": "[Doki] Guilty Crown - 07 (1280x720 h264 AAC) [660D6037].mkv",
+                    "group": "Doki",
+                    "hash": "660D6037",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_07_1280x720_h264_AAC_660D6037.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Guilty Crown - 07 (848x480 h264 AAC) [4504077D].mkv",
+                    "group": "Doki",
+                    "hash": "4504077D",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_07_848x480_h264_AAC_4504077D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 07 [1FE33C0D].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "1FE33C0D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264217",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-01T17:15:00",
+            "episode": 8,
+            "score": 7.9537512307,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[CoalGuys] Guilty Crown - 08 [DB6EC1D0].mkv",
+                    "group": "CoalGuys",
+                    "hash": "DB6EC1D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264244",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Guilty Crown - 08 [B171C9BB].mkv",
+                    "group": "Commie",
+                    "hash": "B171C9BB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Guilty Crown 08 [1280x720 x264 AAC][9A40AB15].mkv",
+                    "group": "Hadena",
+                    "hash": "9A40AB15",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2008%20%5B1280x720%20x264%20AAC%5D%5B9A40AB15%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 6,
+                    "filename": "[777] Guilty Crown - 08 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264628",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Guilty Crown - 08 (848x480 h264 AAC) [8DFDCE03].mkv",
+                    "group": "Doki",
+                    "hash": "8DFDCE03",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_08_848x480_h264_AAC_8DFDCE03.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Guilty Crown - 08 (1280x720 h264 AAC) [7B1F5144].mkv",
+                    "group": "Doki",
+                    "hash": "7B1F5144",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_08_1280x720_h264_AAC_7B1F5144.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_08_[8bit][1280x720][B27FFDB0].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "B27FFDB0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_08_[10bit][1280x720][04CB139D].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "04CB139D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 08 [2F37F820].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "2F37F820",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265773",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-08T17:15:00",
+            "episode": 9,
+            "score": 7.9492023121,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[Commie] Guilty Crown - 09 [52C0456D].mkv",
+                    "group": "Commie",
+                    "hash": "52C0456D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266341",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[CoalGuys] Guilty Crown - 09 [A5D5DBEE].mkv",
+                    "group": "CoalGuys",
+                    "hash": "A5D5DBEE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266372",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Guilty Crown 09 [1280x720 x264 AAC][0EEDEA23].mkv",
+                    "group": "Hadena",
+                    "hash": "0EEDEA23",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266401",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 10,
+                    "filename": "[777] Guilty Crown - 09 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266533",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_09_[8bit][1280x720][F5AA2B65].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "F5AA2B65",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_09_[10bit][1280x720][F9D3BF11].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "F9D3BF11",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267488",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 09 (848x480 h264 AAC) [6AE15BD0].mkv",
+                    "group": "Doki",
+                    "hash": "6AE15BD0",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_09_848x480_h264_AAC_6AE15BD0.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 8,
+                    "filename": "[Doki] Guilty Crown - 09 (1280x720 h264 AAC) [E76AC310].mkv",
+                    "group": "Doki",
+                    "hash": "E76AC310",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_09_1280x720_h264_AAC_E76AC310.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Monogatari]_Guilty_Crown_-_09_[4C836E8C].mkv",
+                    "group": "Monogatari",
+                    "hash": "4C836E8C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268047",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 09 [FC6341EE].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "FC6341EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284282",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-15T17:15:00",
+            "episode": 10,
+            "score": 7.9127563586,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Commie] Guilty Crown - 10 [6094511C].mkv",
+                    "group": "Commie",
+                    "hash": "6094511C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Guilty Crown 10 [1280x720 x264 AAC][61CBFA1F].mkv",
+                    "group": "Hadena",
+                    "hash": "61CBFA1F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2010%20%5B1280x720%20x264%20AAC%5D%5B61CBFA1F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Guilty Crown 10 [848x480 H264 AAC][54CCF12B].mkv",
+                    "group": "Hadena",
+                    "hash": "54CCF12B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2010%20%5B848x480%20H264%20AAC%5D%5B54CCF12B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[CoalGuys] Guilty Crown - 10 [0A43E136].mkv",
+                    "group": "CoalGuys",
+                    "hash": "0A43E136",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268838",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_10_[8bit][1280x720][479BD78F].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "479BD78F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269307",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_10_[10bit][1280x720][3E462915].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "3E462915",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269309",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 10 (848x480 h264 AAC) [7F702C03].mkv",
+                    "group": "Doki",
+                    "hash": "7F702C03",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_10_848x480_h264_AAC_7F702C03.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Guilty Crown - 10 (1280x720 h264 AAC) [41E9A12B].mkv",
+                    "group": "Doki",
+                    "hash": "41E9A12B",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_10_1280x720_h264_AAC_41E9A12B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 0,
+                    "filename": "[777] Guilty Crown - 10 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=273529",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Monogatari]_Guilty_Crown_-_10_[A65E8936].mkv",
+                    "group": "Monogatari",
+                    "hash": "A65E8936",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 10 [C9232B94].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "C9232B94",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284427",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-22T17:15:00",
+            "episode": 11,
+            "score": 7.898986718,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[AnimeUltima] Guilty Crown - 11 [720p].mkv",
+                    "group": "AnimeUltima",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[CoalGuys] Guilty Crown - 11 [1BE9753C].mkv",
+                    "group": "CoalGuys",
+                    "hash": "1BE9753C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 28,
+                    "filename": "[Commie] Guilty Crown - 11 [8C27E959].mkv",
+                    "group": "Commie",
+                    "hash": "8C27E959",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270599",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 19,
+                    "filename": "[Hadena] Guilty Crown 11 [1280x720 x264 AAC][4886758F].mkv",
+                    "group": "Hadena",
+                    "hash": "4886758F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270620",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_11_[8bit][1280x720][F8CA9FFC].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "F8CA9FFC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271818",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 11 (848x480 h264 AAC) [F06CC5A7].mkv",
+                    "group": "Doki",
+                    "hash": "F06CC5A7",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_11_848x480_h264_AAC_F06CC5A7.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Guilty Crown - 11 (1280x720 h264 AAC) [0CA7C560].mkv",
+                    "group": "Doki",
+                    "hash": "0CA7C560",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_11_1280x720_h264_AAC_0CA7C560.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 4,
+                    "filename": "[777] Guilty Crown - 11 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=273530",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Monogatari]_Guilty_Crown_-_11_[073097AE].mkv",
+                    "group": "Monogatari",
+                    "hash": "073097AE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 11 [EF7AB4B9].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "EF7AB4B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286846",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-12T17:15:00",
+            "episode": 12,
+            "score": 7.8338270695,
+            "torrents": [
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_12_[10bit][1280x720][35A866AB].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "35A866AB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277082",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 12 (848x480 h264 AAC) [81EA6473].mkv",
+                    "group": "Doki",
+                    "hash": "81EA6473",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_12_848x480_h264_AAC_81EA6473.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Guilty Crown - 12 (1280x720 h264 AAC) [B9670837].mkv",
+                    "group": "Doki",
+                    "hash": "B9670837",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_12_1280x720_h264_AAC_B9670837.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 12 [9CF26DB4].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "9CF26DB4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289136",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-19T17:15:00",
+            "episode": 13,
+            "score": 7.8324826669,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Guilty Crown - 13 [7A8CBBCA].mkv",
+                    "group": "Commie",
+                    "hash": "7A8CBBCA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278026",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Guilty Crown - 13 [19A88BBA].mkv",
+                    "group": "Commie",
+                    "hash": "19A88BBA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278046",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Guilty Crown 13 [1280x720 x264 AAC][62902F56].mkv",
+                    "group": "Hadena",
+                    "hash": "62902F56",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278063",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Guilty Crown 13 [848x480 x264 AAC][69712023].mkv",
+                    "group": "Hadena",
+                    "hash": "69712023",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 1,
+                    "filename": "[777] Guilty Crown - 13 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Guilty Crown - 13 (1280x720 h264 AAC) [BFE6E444].mkv",
+                    "group": "Doki",
+                    "hash": "BFE6E444",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_13_1280x720_h264_AAC_BFE6E444.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Guilty Crown - 13 (848x480 h264 AAC) [C5B8C942].mkv",
+                    "group": "Doki",
+                    "hash": "C5B8C942",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_13_848x480_h264_AAC_C5B8C942.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_13_[10bit][1280x720][FC96DC69].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "FC96DC69",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285748",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_13_[8bit][1280x720][B0C2f84C].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "B0C2f84C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285747",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_13v2_[8bit][1280x720][511FD2E3].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "511FD2E3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291195",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_13v2_[10bit][1280x720][85241AA9].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "85241AA9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291196",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 13 [08B08F0D].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "08B08F0D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296823",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-26T17:15:00",
+            "episode": 14,
+            "score": 7.832590516,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Guilty Crown 14 [1280x720 x264 AAC][B556A7A8].mkv",
+                    "group": "Hadena",
+                    "hash": "B556A7A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280406",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Guilty Crown 14 [848x480 x264 AAC][C709762C].mkv",
+                    "group": "Hadena",
+                    "hash": "C709762C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Guilty Crown - 14 [18AB6B39].mkv",
+                    "group": "Commie",
+                    "hash": "18AB6B39",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280529",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TV 720p x264 AC3 - DXVA PCH]",
+                    "download_count": 0,
+                    "filename": "[777] Guilty Crown - 14 (TV 720p x264 AC3 - DXVA_PCH).mkv",
+                    "group": "777",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280693",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 14 (848x480 h264 AAC) [A0462383].mkv",
+                    "group": "Doki",
+                    "hash": "A0462383",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_14_848x480_h264_AAC_A0462383.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 14 (1280x720 h264 AAC) [FC675E42].mkv",
+                    "group": "Doki",
+                    "hash": "FC675E42",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_14_1280x720_h264_AAC_FC675E42.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_14_[8bit][1280x720][C4BF8D0A].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "C4BF8D0A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 14 [03A55F01].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "03A55F01",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300252",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-02T17:15:00",
+            "episode": 15,
+            "score": 7.8399392741,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Guilty Crown 15 [1280x720 x264 AAC][EB87988F].mkv",
+                    "group": "Hadena",
+                    "hash": "EB87988F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283169",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Guilty Crown 15 [848x480 x264 AAC][B14EB7D9].mkv",
+                    "group": "Hadena",
+                    "hash": "B14EB7D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283189",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Guilty Crown 15v2 [1280x720 x264 AAC][2B91C463].mkv",
+                    "group": "Hadena",
+                    "hash": "2B91C463",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283318",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Guilty Crown - 15 [E526E28E].mkv",
+                    "group": "Commie",
+                    "hash": "E526E28E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283327",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Guilty Crown - 15 (848x480 h264 AAC) [03C377E6].mkv",
+                    "group": "Doki",
+                    "hash": "03C377E6",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_15_848x480_h264_AAC_03C377E6.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 15 (1280x720 h264 AAC) [F555DFE8].mkv",
+                    "group": "Doki",
+                    "hash": "F555DFE8",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_15_1280x720_h264_AAC_F555DFE8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_15_[8bit][1280x720][7FE77E0F].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "7FE77E0F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_15_[10bit][1280x720][963DBE79].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "963DBE79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291201",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 15 [9528F025].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "9528F025",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300753",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-09T17:15:00",
+            "episode": 16,
+            "score": 7.8373647541,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Guilty Crown 16 [848x480 x264 AAC][23C01C1D].mkv",
+                    "group": "Hadena",
+                    "hash": "23C01C1D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285683",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 9,
+                    "filename": "[Hadena] Guilty Crown 16 [1280x720 x264 AAC][9AB6371C].mkv",
+                    "group": "Hadena",
+                    "hash": "9AB6371C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 19,
+                    "filename": "[Commie] Guilty Crown - 16 [A9F55A7F].mkv",
+                    "group": "Commie",
+                    "hash": "A9F55A7F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Doki] Guilty Crown - 16 (848x480 h264 AAC) [33E6CE5C].mkv",
+                    "group": "Doki",
+                    "hash": "33E6CE5C",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_16_848x480_h264_AAC_33E6CE5C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 16 (1280x720 h264 AAC) [66492B1A].mkv",
+                    "group": "Doki",
+                    "hash": "66492B1A",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_16_1280x720_h264_AAC_66492B1A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_16_[8bit][1280x720][FFCF6C92].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "FFCF6C92",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_16_[10bit][1280x720][92F8A2BE].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "92F8A2BE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291203",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[AFP-Diogo4D] Guilty Crown 16 [FC0525F8].mkv",
+                    "group": "AFP-Diogo4D",
+                    "hash": "FC0525F8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304025",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-16T17:15:00",
+            "episode": 17,
+            "score": 7.8068863174,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Guilty Crown 17 [1280x720 x264 AAC][84B1550D].mkv",
+                    "group": "Hadena",
+                    "hash": "84B1550D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287852",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 22,
+                    "filename": "[Commie] Guilty Crown - 17 [78831216].mkv",
+                    "group": "Commie",
+                    "hash": "78831216",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 10,
+                    "filename": "[Hadena] Guilty Crown 17 [848x480 x264 AAC][41F8AACA].mkv",
+                    "group": "Hadena",
+                    "hash": "41F8AACA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Guilty Crown 17 [Hi10P 1280x720 x264 AAC][BCE226CD].mkv",
+                    "group": "Hadena",
+                    "hash": "BCE226CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_17_[8bit][1280x720][B0B4BF91].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "B0B4BF91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291402",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_17_[10bit][1280x720][6D2FF34E].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "6D2FF34E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291404",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 17 (848x480 h264 AAC) [039FD155].mkv",
+                    "group": "Doki",
+                    "hash": "039FD155",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_17_848x480_h264_AAC_039FD155.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 17 (1280x720 h264 AAC) [C3456F2F].mkv",
+                    "group": "Doki",
+                    "hash": "C3456F2F",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_17_1280x720_h264_AAC_C3456F2F.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-23T17:15:00",
+            "episode": 18,
+            "score": 7.7854279111,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Commie] Guilty Crown - 18 [DD3DBE6E].mkv",
+                    "group": "Commie",
+                    "hash": "DD3DBE6E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290080",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Guilty Crown 18 [1280x720 x264 AAC][AA96B24C].mkv",
+                    "group": "Hadena",
+                    "hash": "AA96B24C",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2018%20%5B1280x720%20x264%20AAC%5D%5BAA96B24C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Guilty Crown 18 [848x480 x264 AAC][3D94FA94].mkv",
+                    "group": "Hadena",
+                    "hash": "3D94FA94",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2018%20%5B848x480%20x264%20AAC%5D%5B3D94FA94%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_18_[10bit][1280x720][04D2CE80].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "04D2CE80",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_18_[8bit][1280x720][BC8880BF].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "BC8880BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292214",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Guilty Crown - 18 (848x480 h264 AAC) [1F227BAC].mkv",
+                    "group": "Doki",
+                    "hash": "1F227BAC",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_18_848x480_h264_AAC_1F227BAC.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Guilty Crown - 18 (1280x720 h264 AAC) [5B57F203].mkv",
+                    "group": "Doki",
+                    "hash": "5B57F203",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_18_1280x720_h264_AAC_5B57F203.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-01T17:15:00",
+            "episode": 19,
+            "score": 7.8056717936,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Guilty Crown 19 [1280x720 x264 AAC][B873D492].mkv",
+                    "group": "Hadena",
+                    "hash": "B873D492",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2019%20%5B1280x720%20x264%20AAC%5D%5BB873D492%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[Commie] Guilty Crown - 19 [77E06975].mkv",
+                    "group": "Commie",
+                    "hash": "77E06975",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Guilty Crown 19 [848x480 x264 AAC][AD224D5D].mkv",
+                    "group": "Hadena",
+                    "hash": "AD224D5D",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2019%20%5B848x480%20x264%20AAC%5D%5BAD224D5D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Guilty Crown 19 [Hi10P 1280x720 x264 AAC][5AC3BFE2].mkv",
+                    "group": "Hadena",
+                    "hash": "5AC3BFE2",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2019%20%5BHi10P%201280x720%20x264%20AAC%5D%5B5AC3BFE2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 19 (848x480 h264 AAC) [E694AA0A].mkv",
+                    "group": "Doki",
+                    "hash": "E694AA0A",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_19_848x480_h264_AAC_E694AA0A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 19 (1280x720 h264 AAC) [68691916].mkv",
+                    "group": "Doki",
+                    "hash": "68691916",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_19_1280x720_h264_AAC_68691916.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_19_[10bit][1280x720][3E6A67B0].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "3E6A67B0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293774",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_19_[8bit][1280x720][0B39E854].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "0B39E854",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293957",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-08T17:15:00",
+            "episode": 20,
+            "score": 7.8057147615,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Guilty Crown - 20 [A98A9A05].mkv",
+                    "group": "Commie",
+                    "hash": "A98A9A05",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294426",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Guilty Crown 20 [1280x720 x264 AAC][3CB67608].mkv",
+                    "group": "Hadena",
+                    "hash": "3CB67608",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2020%20%5B1280x720%20x264%20AAC%5D%5B3CB67608%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Guilty Crown 20 [848x480 x264 AAC][E77CE52B].mkv",
+                    "group": "Hadena",
+                    "hash": "E77CE52B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2020%20%5B848x480%20x264%20AAC%5D%5BE77CE52B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Guilty Crown 20 [Hi10P 1280x720 x264 AAC][80A9C6C1].mkv",
+                    "group": "Hadena",
+                    "hash": "80A9C6C1",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2020%20%5BHi10P%201280x720%20x264%20AAC%5D%5B80A9C6C1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_20_[8bit][1280x720][2F8092BC].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "2F8092BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 6,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_20_[10bit][1280x720][A65EF6F2].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "A65EF6F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295485",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 20 (1280x720 h264 AAC) [ADB7D8F7].mkv",
+                    "group": "Doki",
+                    "hash": "ADB7D8F7",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_20_1280x720_h264_AAC_ADB7D8F7.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 20 (848x480 h264 AAC) [0102FCAF].mkv",
+                    "group": "Doki",
+                    "hash": "0102FCAF",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_20_848x480_h264_AAC_0102FCAF.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-15T17:15:00",
+            "episode": 21,
+            "score": 7.813882157,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 15,
+                    "filename": "[Commie] Guilty Crown - 21 [7EAF4DA2].mkv",
+                    "group": "Commie",
+                    "hash": "7EAF4DA2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296383",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Guilty Crown 21 [1280x720 x264 AAC][E7F790F7].mkv",
+                    "group": "Hadena",
+                    "hash": "E7F790F7",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2021%20%5B1280x720%20x264%20AAC%5D%5BE7F790F7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Guilty Crown 21 [848x480 x264 AAC][143DCBAB].mkv",
+                    "group": "Hadena",
+                    "hash": "143DCBAB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2021%20%5B848x480%20x264%20AAC%5D%5B143DCBAB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Guilty Crown - 21v2 [012C508C].mkv",
+                    "group": "Commie",
+                    "hash": "012C508C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296432",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Guilty Crown 21 [Hi10P 1280x720 x264 AAC][C942B68C].mkv",
+                    "group": "Hadena",
+                    "hash": "C942B68C",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2021%20%5BHi10P%201280x720%20x264%20AAC%5D%5BC942B68C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_21_[10bit][1280x720][4AE6AF5F].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "4AE6AF5F",
+                    "url": "http://tracker.minglong.org/torrents/%5BTsuki-Hatsuyuki%5D_Guilty_Crown_-_21_%5B10bit%5D%5B1280x720%5D%5B4AE6AF5F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 5,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_21_[8bit][1280x720][8F671CB5].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "8F671CB5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297705",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 21 (1280x720 h264 AAC) [1E3EBA24].mkv",
+                    "group": "Doki",
+                    "hash": "1E3EBA24",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_21_1280x720_h264_AAC_1E3EBA24.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 21 (848x480 h264 AAC) [613E06BE].mkv",
+                    "group": "Doki",
+                    "hash": "613E06BE",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_21_848x480_h264_AAC_613E06BE.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-22T17:15:00",
+            "episode": 22,
+            "score": 7.7185744169,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Guilty Crown - 22 [1084F246].mkv",
+                    "group": "Commie",
+                    "hash": "1084F246",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Guilty Crown 22 End [1280x720 x264 AAC][36E93D06].mkv",
+                    "group": "Hadena",
+                    "hash": "36E93D06",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2022%20End%20%5B1280x720%20x264%20AAC%5D%5B36E93D06%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Guilty Crown 22 End [848x480 x264 AAC][8C9CB140].mkv",
+                    "group": "Hadena",
+                    "hash": "8C9CB140",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2022%20End%20%5B848x480%20x264%20AAC%5D%5B8C9CB140%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Guilty Crown 22 End [Hi10P 1280x720 x264 AAC][1D9424B0].mkv",
+                    "group": "Hadena",
+                    "hash": "1D9424B0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Guilty%20Crown%2022%20End%20%5BHi10P%201280x720%20x264%20AAC%5D%5B1D9424B0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 3,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_22_END_[10bit][1280x720][9C64DDC4].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "9C64DDC4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki-Hatsuyuki]_Guilty_Crown_-_22_END_[8bit][1280x720][1D4B8FB7].mkv",
+                    "group": "Tsuki-Hatsuyuki",
+                    "hash": "1D4B8FB7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Guilty Crown - 22 (1280x720 h264 AAC) [924CC36A].mkv",
+                    "group": "Doki",
+                    "hash": "924CC36A",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_22_1280x720_h264_AAC_924CC36A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Guilty Crown - 22 (848x480 h264 AAC) [44220466].mkv",
+                    "group": "Doki",
+                    "hash": "44220466",
+                    "url": "http://tracker.anime-index.org/Doki_Guilty_Crown_-_22_848x480_h264_AAC_44220466.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 22,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8480,
+        "ann": 13001,
+        "mal": 10793,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4985801eca570d24ce5dbc3693eaf458.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/756f5903a0d3b12f3fa1b3f99ebd8a75.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/81efaa4eb03bf57632c382480447da2c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/337621777309fbb3d2fd7a59d6822a83.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96423a82b678265903ac50b284180a7c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/90fbdf84e9006341f9eb03d620263cda.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/003930cafb51fc35c47e5acd51b708c5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/144ae4f0feac9cf01a14c89103514f30.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/add1372dbe583e11c9b45eb06b9feea1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db96376f1cdbda6213b1d69984bb79b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d1773e03dd35b3016b44341414103bac.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/da489b69ccd173eb9aae06970f699f9b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/85a48b91aa9f279a34a3513301959c70.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Guilty Crown (\u30ae\u30eb\u30c6\u30a3\u30af\u30e9\u30a6\u30f3) http://rdir.pl/1ltsjd",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4ae4ffc6288e7891419599ef8b7b1c5f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d690bb9a21a3726b98c0dddad79cf60d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bcab83d3200ee96ebb809920b8ffce6f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/65e7870980e79ace258ecd7ba054dec8.jpg",
+            "hd": false
+        },
+        {
+            "description": "co ja poczn\u0119 bez chi\u0144skich bajek?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/736e7891ac98c31395eb7da692471714.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Guilty Crown (\u30ae\u30eb\u30c6\u30a3\u30af\u30e9\u30a6\u30f3) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/1ltsjd)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c20afcb83f0c64bd65edcbba72de2b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2b9a18b8c8e75afa1b435a5a964cf627.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Japonia jest pod kontrol\u0105 mi\u0119dzynarodowej organizacji, kt\u00f3ra zapobiega rozprzestrzenianiu si\u0119 gro\u017anego wirusa poprzez eksterminacj\u0119 Narodu Wybranego. Siedemnastoletni Shu przez przypadek wpl\u0105tuje si\u0119 w walk\u0119 z okupantem, kt\u00f3ry porywa r\u00f3\u017cowow\u0142os\u0105 niewiast\u0119.",
+            "type": "abp"
+        },
+        {
+            "content": "* An original anime project that premiered in Fuji TV's noitaminA program block.In the near future, a meteorite carrying a foreign virus crashes in Japan, leading to a devastating nation-wide infection and total anarchy. An international organisation known as the GHQ intervenes with martial law and restores order to Japan at the cost of its independence. This incident becomes known as the Lost Christmas.Ten years later in 2039, Ouma Shuu - a teen with a special ability awakened by the Apocalypse Virus - meets Yuzuriha Inori, a strange girl who incites him to join the struggle against the government organisation's robotic forces and a secret society whose goal remains shrouded in mystery.",
+            "type": "anidb"
+        },
+        {
+            "content": "Japan gave up its independence in order to avoid total collapse after the outbreak of an alien virus. 10 years later Japan is still a dependent nation under a not-so-friendly provisional government called GHQ. At the same time a boy named Shu has lost his past and himself. By chance Shu comes in contact with the beautiful and stoic Inori and the resourceful and charismatic Gai, both members of a militant resistance group called Funeral Parlor. Through his interaction with the members of Funeral Parlor and his acquisition of a genetically based power, the conflicted and withdrawn Shu slowly learns how to connect with others and reclaim himself. When the GHQ falls into the hands of a man who intends to use the virus to 'reset' earth's population, Shu and Funeral Parlor fight to stop him and reclaim Japan.",
+            "type": "ann"
+        },
+        {
+            "content": "The story takes place in Tokyo in 2039. After the outbreak of the unidentified virus \"Lost Christmas\" in 2029, Japan has been under the control of a multinational organization called GHQ. Ouma Shu is a 17-year-old boy who has a psychic power in his right hand. He can use the power \"Ability of King\" to extract tools or weapons from his friends. He has been avoiding making trouble for others but his life changes when he meets a girl named Yuzuriha Inori, a member of a resistance guerrilla group called \"Funeral Parlor\" (a.k.a. \"Undertaker\"), whose members pilot mecha weapons to fight against the government.",
+            "type": "mal"
+        },
+        {
+            "content": "On Christmas Eve, 2029, the unidentified \"Apocalypse Virus\" spreads and plunges Japan into a state of emergency in a chaos known as the \"Lost Christmas\" incident.[2] An international organization known as the GHQ intervenes with martial law and restores order to Japan at the cost of its independence.[2]",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 36361,
+            "date": "2012-09-29T13:42:26",
+            "score": 7.79,
+            "type": "mal"
+        },
+        {
+            "count": 1395,
+            "date": "2012-09-29T13:42:26",
+            "score": 7.429,
+            "type": "ann"
+        },
+        {
+            "count": 1703,
+            "date": "2012-09-29T13:42:26",
+            "score": 7.01,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Guilty Crown"
+}

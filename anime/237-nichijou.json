@@ -1,0 +1,3504 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u65e5\u5e38"
+        },
+        {
+            "language": "pl",
+            "title": "Codzienno\u015b\u0107"
+        }
+    ],
+    "aliases": [
+        "Nichijou"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/425822235",
+            "content": "#anime #Wiosna2011 Nichijou (\u65e5\u5e38) http://rdir.pl/1bvhy3",
+            "episode": 1,
+            "filename": "b9f3a6cd9f411ab126f0d888e69f21fa.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/55069661997441024"
+        },
+        {
+            "blip_url": "http://blip.pl/s/436423975",
+            "content": "Nichijou 02 - zwyczajna lekcja plastyki w japo\u0144skiej szkole",
+            "episode": 2,
+            "filename": "f7f9e7ffbf0530e1ccb81ad87b94d787.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/57043102178877440"
+        },
+        {
+            "blip_url": "http://blip.pl/s/451526771",
+            "content": "Nichijou 03 - ka\u017cdy ma sw\u00f3j spos\u00f3b na wyra\u017canie uczu\u0107... ale \u017ceby zaraz broku\u0142y?!",
+            "episode": 3,
+            "filename": "4a9faa0645a1347573671964aa3cf23a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/59651653804097537"
+        },
+        {
+            "blip_url": "http://blip.pl/s/467601417",
+            "content": "Nichijou 04 - nasza reakcja na st??enie WTFu w tym odcinku",
+            "episode": 4,
+            "filename": "5a87640bcca55aa86307b96aee8b247a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/62605831761436672"
+        },
+        {
+            "blip_url": "http://blip.pl/s/478666007",
+            "content": "Nichijou 05 - ten odcinek sponsorowany jest przez Shinonome Laboratory oraz s?\u00f3wko \"moe\"",
+            "episode": 5,
+            "filename": "13b92e167949898fcb67b17e715e2a3d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/64670181712084992"
+        },
+        {
+            "blip_url": "http://blip.pl/s/490870865",
+            "content": "Nichijou 06 - tegoroczn? matur? z matematyki napisa?by nawet o?miolatek",
+            "episode": 6,
+            "filename": "5f60b2e0bba77bbcc32ff8b82a2bcf15.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/67206650515304448"
+        },
+        {
+            "blip_url": "http://blip.pl/s/505864077",
+            "content": "Nichijou 07 - przeciwnicy #anime - do boju! Temat na dzi?: zn?canie si? nad zwierz?tami",
+            "episode": 7,
+            "filename": "708a11069cb9d97f57c7848829cfc32e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/69873066079031296"
+        },
+        {
+            "blip_url": "http://blip.pl/s/520169963",
+            "content": "Nichijou 08 - kogo? tu chyba pogryz? wampir",
+            "episode": 8,
+            "filename": "6e5030dc7a486fe97d3c3e9aaeb368c3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/72257629354860545"
+        },
+        {
+            "blip_url": "http://blip.pl/s/535514737",
+            "content": "Nichijou 09 - jak post?powa? z Yukko - poradnik krok po kroku",
+            "episode": 9,
+            "filename": "a8c781d1b7406e000e00ec0b85e50bd2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/74804750146748417"
+        },
+        {
+            "blip_url": "http://blip.pl/s/546115297",
+            "content": "Nichijou 10 - prawie jak klub muzyki lekkiej",
+            "episode": 10,
+            "filename": "43ce8582ed9374ce712a2892f1eacf39.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/77305627180933120"
+        },
+        {
+            "blip_url": "http://blip.pl/s/555586261",
+            "content": "Nichijou 11 - medytacja wed?ug Yukko...",
+            "episode": 11,
+            "filename": "c340965809b9f2a111a01138b3353d4c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/79849289324568576"
+        },
+        {
+            "blip_url": "http://blip.pl/s/568878597",
+            "content": "Nichijou 12 - Yuuko ju? wie, ?e musi si? szykowa? na wrze?niow? poprawk?",
+            "episode": 12,
+            "filename": "70c7fe7a1e989c7134a4d7c2ec483de4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/82370279690608640"
+        },
+        {
+            "blip_url": "http://blip.pl/s/585562087",
+            "content": "Nichijou 13 - jednak nie b?dzie poprawki we wrze?niu",
+            "episode": 13,
+            "filename": "165318bd0312bdafce02bfd0522b277b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/86086368568152064"
+        },
+        {
+            "blip_url": "http://blip.pl/s/592111123",
+            "content": "Nichijou 14 - to jest czekolada, to na pewno jest czekolada...",
+            "episode": 14,
+            "filename": "c4577dde6c8142993190ac3415f477fd.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/87682472132878336"
+        },
+        {
+            "blip_url": "http://blip.pl/s/602112409",
+            "content": "Nichijou 15 - bierzcie przyk?ad z Nano - ona ju? si? zacz??a uczy? do sierpniowej poprawki",
+            "episode": 15,
+            "filename": "1ea7e8f6add7c0746aaa371851e23ea0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/90112017737850880"
+        },
+        {
+            "blip_url": "http://blip.pl/s/631342957",
+            "content": "Nichijou 17 - Mai wspina si? na wy?yny trollingu",
+            "episode": 17,
+            "filename": "e4163c81bd3c95bb52e3bf60a393af95.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/95651800195153921"
+        },
+        {
+            "blip_url": "http://blip.pl/s/643040177",
+            "content": "Nichijou 18 - \"Doce? w?asnego ptaszka! O takich ptaszkach pisze si? wiersze!\"",
+            "episode": 18,
+            "filename": "362ef70e938a6d26635ec16645b0bcc4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/97699310438858753"
+        },
+        {
+            "blip_url": "http://blip.pl/s/652008507",
+            "content": "Nichijou 19 - girls can't into shrine",
+            "episode": 19,
+            "filename": "ba74f8e6bcb46ba17f85feef330e3998.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/100538865282068480"
+        },
+        {
+            "blip_url": "http://blip.pl/s/661307849",
+            "content": "Nichijou 20 - prawdziwa twarz Yukko",
+            "episode": 20,
+            "filename": "41fceade00138d7d42e6b0e3c070a89d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/102735572598136832"
+        },
+        {
+            "blip_url": "http://blip.pl/s/671840065",
+            "content": "Nichijou 21 - Pocky bywaj? niebezpieczne",
+            "episode": 21,
+            "filename": "3fdb2a54b95cd90ad3fa536cad097e7c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/105313039401750528"
+        },
+        {
+            "blip_url": "http://blip.pl/s/690239983",
+            "content": "Nichijou 22 - o nie, dzisiaj trzeba i?? do szko?y!",
+            "episode": 22,
+            "filename": "e5586bbf3d084ef2db51634b73e5853a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/109601963653599232"
+        },
+        {
+            "blip_url": "http://blip.pl/s/692971765",
+            "content": "Nichijou 23 - znajd? niepasuj?cy element",
+            "episode": 23,
+            "filename": "03234d5f8e5ea092acb30158d6422e50.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/110349307756036096"
+        },
+        {
+            "blip_url": "http://blip.pl/s/703519635",
+            "content": "Nichijou 24 - tymczasem w Japonii babie lato w pe?ni",
+            "episode": 24,
+            "filename": "878e6370683ccd838e0b50968e197ee5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/112894057096806400"
+        },
+        {
+            "blip_url": "http://blip.pl/s/715945053",
+            "content": "Nichijou 25 - pospieszna Mio wjedzie na tor pierwszy przy peronie pierwszym",
+            "episode": 25,
+            "filename": "ffc2cfd59920ab25d504639e1e52d198.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/115839864628457473"
+        },
+        {
+            "blip_url": "http://blip.pl/s/735421123",
+            "content": "#anime #Wiosna2011 Nichijou (??) - nasza ocena: warte obejrzenia (wi?cej: http://rdir.pl/1bvhy3)",
+            "episode": 26,
+            "filename": "081d3138b746c31c942663f34a9f6c88.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/120584113076973569"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-02T19:20:00",
+            "episode": 1,
+            "score": 7.5932987013,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nichijou - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203644",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[Underwater-Commie] Nichijou - 01 (480p) [055EE49A].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "055EE49A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 01 (720p) [99B70B42].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "99B70B42",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 01 [720p][F6630AE6].mkv",
+                    "group": "Ahodomo",
+                    "hash": "F6630AE6",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=204467",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 01 [480p][19F189F2].mkv",
+                    "group": "Ahodomo",
+                    "hash": "19F189F2",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=204468",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-09T19:20:00",
+            "episode": 2,
+            "score": 7.6686455026,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205106",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 02 (480p) [74CE3F40].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "74CE3F40",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2002%20(480p)%20%5B74CE3F40%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 02 (720p) [87E53446].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "87E53446",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2002%20(720p)%20%5B87E53446%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 02 [720p][9E3D1B7C].mkv",
+                    "group": "Ahodomo",
+                    "hash": "9E3D1B7C",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=206754",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-16T19:20:00",
+            "episode": 3,
+            "score": 7.6479784946,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206888",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][LQ]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 03 [720p][LQ][6A3BBBA1].mkv",
+                    "group": "Ahodomo",
+                    "hash": "6A3BBBA1",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=207208",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 03 (480p) [AAE51A84].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "AAE51A84",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2003%20(480p)%20%5BAAE51A84%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 03 (720p) [DC1DC680].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "DC1DC680",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2003%20(720p)%20%5BDC1DC680%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-23T19:30:00",
+            "episode": 4,
+            "score": 7.713515943,
+            "torrents": [
+                {
+                    "additional_info": "[720p][LQ]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 04 [720p][LQ][E983D727].mkv",
+                    "group": "Ahodomo",
+                    "hash": "E983D727",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=208731",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][LQ]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 04v2 [720p][LQ][0DA2378C].mkv",
+                    "group": "Ahodomo",
+                    "hash": "0DA2378C",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=208739",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208762",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 04 (480p) [ACD1D94C].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "ACD1D94C",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2004%20(480p)%20%5BACD1D94C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 04 (720p) [F642F76B].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "F642F76B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2004%20(720p)%20%5BF642F76B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-30T19:20:00",
+            "episode": 5,
+            "score": 7.7073880163,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210675",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210676",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 05 [720p][NTS][F612FC80].mkv",
+                    "group": "Ahodomo",
+                    "hash": "F612FC80",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=210679",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 05 (480p) [F5A8E15D].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "F5A8E15D",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2005%20(480p)%20%5BF5A8E15D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 05 (720p) [3698BE7B].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "3698BE7B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2005%20(720p)%20%5B3698BE7B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-07T19:20:00",
+            "episode": 6,
+            "score": 7.7756830309,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212386",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212390",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 06 [720p][NTS][12C8C044].mkv",
+                    "group": "Ahodomo",
+                    "hash": "12C8C044",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=212396",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 06 (480p) [F74E4829].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "F74E4829",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2006%20(480p)%20%5BF74E4829%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 06 (720p) [96B5F9C8].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "96B5F9C8",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2006%20(720p)%20%5B96B5F9C8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 06 (1280x720 h264 AAC) [D30C0D2E].mkv",
+                    "group": "Doki",
+                    "hash": "D30C0D2E",
+                    "url": "http://tracker.minglong.org/torrents/%5BDoki%5D%20Nichijou%20-%2006%20(1280x720%20h264%20AAC)%20%5BD30C0D2E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 06 (848x480 h264 AAC) [E0CEABA8].mkv",
+                    "group": "Doki",
+                    "hash": "E0CEABA8",
+                    "url": "http://tracker.minglong.org/torrents/%5BDoki%5D%20Nichijou%20-%2006%20(848x480%20h264%20AAC)%20%5BE0CEABA8%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-14T19:20:00",
+            "episode": 7,
+            "score": 7.7667433697,
+            "torrents": [
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 07 [720p][NTS][8A3766F1].mkv",
+                    "group": "Ahodomo",
+                    "hash": "8A3766F1",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=214000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214007",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214008",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-Commie] Nichijou - 07 (480p) [908B1110].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "908B1110",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2007%20(480p)%20%5B908B1110%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-Commie] Nichijou - 07 (720p) [C4F499A7].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "C4F499A7",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2007%20(720p)%20%5BC4F499A7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-21T17:30:00",
+            "episode": 8,
+            "score": 7.7624270887,
+            "torrents": [
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 08 [720p][NTS][F26DDFA9].mkv",
+                    "group": "Ahodomo",
+                    "hash": "F26DDFA9",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=215645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nichijou - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215669",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 08 (480p) [065ACC90].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "065ACC90",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2008%20(480p)%20%5B065ACC90%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 08 (720p) [0DFD5777].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "0DFD5777",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2008%20(720p)%20%5B0DFD5777%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-28T19:20:00",
+            "episode": 9,
+            "score": 7.7608000513,
+            "torrents": [
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 09 [720p][NTS][3340A80A].mkv",
+                    "group": "Ahodomo",
+                    "hash": "3340A80A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=217286",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217288",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 5,
+                    "filename": "[Ahodomo] Nichijou 09v2 [720p][NTS][F2CB29A6].mkv",
+                    "group": "Ahodomo",
+                    "hash": "F2CB29A6",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=217290",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217293",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 09 (480p) [BE6CF808].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "BE6CF808",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2009%20(480p)%20%5BBE6CF808%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 09 (720p) [9AEC8977].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "9AEC8977",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2009%20(720p)%20%5B9AEC8977%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 09v3 [720p][NTS][6AE9AA28].mkv",
+                    "group": "Ahodomo",
+                    "hash": "6AE9AA28",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217540",
+                    "version": 3
+                }
+            ]
+        },
+        {
+            "date": "2011-06-04T17:30:00",
+            "episode": 10,
+            "score": 7.7759830153,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218926",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218927",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 10 (480p) [EE833AEF].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "EE833AEF",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2010%20(480p)%20%5BEE833AEF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 10 (720p) [4BCE8A9F].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "4BCE8A9F",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2010%20(720p)%20%5B4BCE8A9F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-11T19:20:00",
+            "episode": 11,
+            "score": 7.788674083,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220478",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 11 (480p) [9C00AF2D].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "9C00AF2D",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2011%20(480p)%20%5B9C00AF2D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 11 (720p) [33AC1210].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "33AC1210",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2011%20(720p)%20%5B33AC1210%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-18T19:20:00",
+            "episode": 12,
+            "score": 7.7834367727,
+            "torrents": [
+                {
+                    "additional_info": "[NTS][720p]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 12 [NTS][720p][ef0213cb].mkv",
+                    "group": "Ahodomo",
+                    "hash": "ef0213cb",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222099",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222111",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-Commie] Nichijou - 12 (480p) [5D43FDA9].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "5D43FDA9",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2012%20(480p)%20%5B5D43FDA9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 12 (720p) [E7347555].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "E7347555",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2012%20(720p)%20%5BE7347555%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-25T19:20:00",
+            "episode": 13,
+            "score": 7.7994100825,
+            "torrents": [
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou Ep13 [720p}[NTS][6889bb2b].mkv",
+                    "group": "Ahodomo",
+                    "hash": "6889bb2b",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223689",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 13 (1280x720 h264 AAC) [AD47DB2F].mkv",
+                    "group": "Doki",
+                    "hash": "AD47DB2F",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_13_1280x720_h264_AAC_AD47DB2F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 13 (848x480 h264 AAC) [6BC53F0F].mkv",
+                    "group": "Doki",
+                    "hash": "6BC53F0F",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_13_848x480_h264_AAC_6BC53F0F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223699",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223700",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 13 (480p) [50F72388].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "50F72388",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2013%20(480p)%20%5B50F72388%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 13 (720p) [69148158].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "69148158",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2013%20(720p)%20%5B69148158%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-02T19:20:00",
+            "episode": 14,
+            "score": 7.8264466258,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[NTS]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 14 [NTS][38dd486b].mkv",
+                    "group": "Ahodomo",
+                    "hash": "38dd486b",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=225198",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 14 (1280x720 h264 AAC) [6F9EE268].mkv",
+                    "group": "Doki",
+                    "hash": "6F9EE268",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_14_1280x720_h264_AAC_6F9EE268.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 14 (848x480 h264 AAC) [B41FD78B].mkv",
+                    "group": "Doki",
+                    "hash": "B41FD78B",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_14_848x480_h264_AAC_B41FD78B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-Commie] Nichijou - 14 (480p) [17F8D020].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "17F8D020",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2014%20(480p)%20%5B17F8D020%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 14 (720p) [113418D3].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "113418D3",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2014%20(720p)%20%5B113418D3%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-09T19:20:00",
+            "episode": 15,
+            "score": 7.8630609222,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227051",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227053",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 15v0 [720p][7897415a].mkv",
+                    "group": "Ahodomo",
+                    "hash": "7897415a",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227049",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 15 (1280x720 h264 AAC) [D1B429E8].mkv",
+                    "group": "Doki",
+                    "hash": "D1B429E8",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_15_1280x720_h264_AAC_D1B429E8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 15 (848x480 h264 AAC) [9FDDBA45].mkv",
+                    "group": "Doki",
+                    "hash": "9FDDBA45",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_15_848x480_h264_AAC_9FDDBA45.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 15v1 [720p][08a0ede2].mkv",
+                    "group": "Ahodomo",
+                    "hash": "08a0ede2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227821",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 15 (480p) [3715C4AD].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "3715C4AD",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2015%20(480p)%20%5B3715C4AD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 15 (720p) [DCC5E1A9].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "DCC5E1A9",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2015%20(720p)%20%5BDCC5E1A9%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-16T19:20:00",
+            "episode": 16,
+            "score": 7.8938528455,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228852",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 16 (1280x720 h264 AAC) [068C4A5E].mkv",
+                    "group": "Doki",
+                    "hash": "068C4A5E",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_16_1280x720_h264_AAC_068C4A5E.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 16 (848x480 h264 AAC) [3B4FF9F1].mkv",
+                    "group": "Doki",
+                    "hash": "3B4FF9F1",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_16_848x480_h264_AAC_3B4FF9F1.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 16 [720p][NTS][CE1AD85B].mkv",
+                    "group": "Ahodomo",
+                    "hash": "CE1AD85B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229137",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-Commie] Nichijou - 16 (480p) [6350C5A8].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "6350C5A8",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2016%20(480p)%20%5B6350C5A8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 16 (720p) [AAC71562].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "AAC71562",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2016%20(720p)%20%5BAAC71562%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-23T19:20:00",
+            "episode": 17,
+            "score": 7.9124707547,
+            "torrents": [
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 17 [720p][NTS][54975629].mkv",
+                    "group": "Ahodomo",
+                    "hash": "54975629",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230661",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230679",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nichijou - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 17 (1280x720 h264 AAC) [19586C89].mkv",
+                    "group": "Doki",
+                    "hash": "19586C89",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_17_1280x720_h264_AAC_19586C89.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 17 (848x480 h264 AAC) [1BFA8F8A].mkv",
+                    "group": "Doki",
+                    "hash": "1BFA8F8A",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_17_848x480_h264_AAC_1BFA8F8A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 17 (480p) [96FFF5BE].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "96FFF5BE",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2017%20(480p)%20%5B96FFF5BE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 17 (720p) [358A17F6].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "358A17F6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2017%20(720p)%20%5B358A17F6%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-30T19:20:00",
+            "episode": 18,
+            "score": 7.932298403,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232700",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nichijou - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-Commie] Nichijou - 18 (480p) [0A58439F].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "0A58439F",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2018%20(480p)%20%5B0A58439F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 18 (720p) [BECE224E].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "BECE224E",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2018%20(720p)%20%5BBECE224E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 18 [720p][NTS][E167E7AE].mkv",
+                    "group": "Ahodomo",
+                    "hash": "E167E7AE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232977",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 18 (1280x720 h264 AAC) [840A3659].mkv",
+                    "group": "Doki",
+                    "hash": "840A3659",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_18_1280x720_h264_AAC_840A3659.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 18 (848x480 h264 AAC) [622CEDD1].mkv",
+                    "group": "Doki",
+                    "hash": "622CEDD1",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_18_848x480_h264_AAC_622CEDD1.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-06T19:20:00",
+            "episode": 19,
+            "score": 7.9617068761,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234704",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-Commie] Nichijou - 19 (480p) [C65614B0].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "C65614B0",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2019%20(480p)%20%5BC65614B0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 19 (720p) [6E818A16].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "6E818A16",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2019%20(720p)%20%5B6E818A16%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[NTS][720p]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou - 19 [NTS][720p][2455968C].mkv",
+                    "group": "Ahodomo",
+                    "hash": "2455968C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 19 (1280x720 h264 AAC) [5F6649A4].mkv",
+                    "group": "Doki",
+                    "hash": "5F6649A4",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_19_1280x720_h264_AAC_5F6649A4.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 19 (848x480 h264 AAC) [9F444719].mkv",
+                    "group": "Doki",
+                    "hash": "9F444719",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_19_848x480_h264_AAC_9F444719.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-13T19:20:00",
+            "episode": 20,
+            "score": 7.9722758621,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nichijou - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Underwater-Commie] Nichijou - 20 (480p) [35459726].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "35459726",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2020%20(480p)%20%5B35459726%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 20 (720p) [22EAF157].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "22EAF157",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2020%20(720p)%20%5B22EAF157%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Nichijou - 20 (1280x720 h264 AAC) [E49BA6B4].mkv",
+                    "group": "Doki",
+                    "hash": "E49BA6B4",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_20_1280x720_h264_AAC_E49BA6B4.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Nichijou - 20 (848x480 h264 AAC) [10333EE8].mkv",
+                    "group": "Doki",
+                    "hash": "10333EE8",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_20_848x480_h264_AAC_10333EE8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Nichijou 20 [720p][NTS][37878B55].mkv",
+                    "group": "Ahodomo",
+                    "hash": "37878B55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238468",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-20T19:20:00",
+            "episode": 21,
+            "score": 7.9904859617,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238838",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nichijou - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238846",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 21 (1280x720 h264 AAC) [8F216186].mkv",
+                    "group": "Doki",
+                    "hash": "8F216186",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_21_1280x720_h264_AAC_8F216186.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x840 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 21 (848x840 h264 AAC) [5AF08816].mkv",
+                    "group": "Doki",
+                    "hash": "5AF08816",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_21_848x840_h264_AAC_5AF08816.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-27T19:20:00",
+            "episode": 22,
+            "score": 8.0003118441,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240713",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nichijou - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 22 [720p][NTS][7F17E8F4].mkv",
+                    "group": "Ahodomo",
+                    "hash": "7F17E8F4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 22 (1280x720 h264 AAC) [1988A6B1].mkv",
+                    "group": "Doki",
+                    "hash": "1988A6B1",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_22_1280x720_h264_AAC_1988A6B1.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x840 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 22 (848x840 h264 AAC) [830E9633].mkv",
+                    "group": "Doki",
+                    "hash": "830E9633",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_22_848x840_h264_AAC_830E9633.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-03T19:20:00",
+            "episode": 23,
+            "score": 8.0102427945,
+            "torrents": [
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 23 [720p][NTS][BC23419E].mkv",
+                    "group": "Ahodomo",
+                    "hash": "BC23419E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Nichijou - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242766",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242767",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-HorribleSubs]",
+                    "download_count": 1,
+                    "filename": "[Danusarf] Nichijou - 23 [720p-HorribleSubs].mkv",
+                    "group": "Danusarf",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242829",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 23 (1280x720 h264 AAC) [E0A7036F].mkv",
+                    "group": "Doki",
+                    "hash": "E0A7036F",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_23_1280x720_h264_AAC_E0A7036F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x840 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 23 (848x840 h264 AAC) [AE2253D5].mkv",
+                    "group": "Doki",
+                    "hash": "AE2253D5",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_23_848x840_h264_AAC_AE2253D5.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-10T19:20:00",
+            "episode": 24,
+            "score": 8.0212756883,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 24 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244604",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Nichijou - 24 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[NTS][720p]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou - 24 [NTS][720p][C4044EAA].mkv",
+                    "group": "Ahodomo",
+                    "hash": "C4044EAA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 24 (1280x720 h264 AAC) [EFDE20EC].mkv",
+                    "group": "Doki",
+                    "hash": "EFDE20EC",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_24_1280x720_h264_AAC_EFDE20EC.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 24 (848x480 h264 AAC) [378B3B19].mkv",
+                    "group": "Doki",
+                    "hash": "378B3B19",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_24_848x480_h264_AAC_378B3B19.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-17T19:20:00",
+            "episode": 25,
+            "score": 8.0415812374,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 25 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 25 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][NTS]",
+                    "download_count": 1,
+                    "filename": "[Ahodomo] Nichijou 25 [720p][NTS][40AAFC58].mkv",
+                    "group": "Ahodomo",
+                    "hash": "40AAFC58",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 25 (480p) [508EEED2].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "508EEED2",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2025%20(480p)%20%5B508EEED2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 25 (720p) [27B3EF99].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "27B3EF99",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2025%20(720p)%20%5B27B3EF99%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 25 (848x480 h264 AAC) [B535868D].mkv",
+                    "group": "Doki",
+                    "hash": "B535868D",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_25_848x480_h264_AAC_B535868D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-24T19:20:00",
+            "episode": 26,
+            "score": 8.3554379562,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Nichijou - 26 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247977",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Nichijou - 26 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 26 (1280x720 h264 AAC) [F3684116].mkv",
+                    "group": "Doki",
+                    "hash": "F3684116",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_26_1280x720_h264_AAC_F3684116.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Nichijou - 26 (848x480 h264 AAC) [82CDEBAA].mkv",
+                    "group": "Doki",
+                    "hash": "82CDEBAA",
+                    "url": "http://tracker.anime-index.org/Doki_Nichijou_-_26_848x480_h264_AAC_82CDEBAA.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater-Commie] Nichijou - 26 (480p) [5E766B51].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "5E766B51",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2026%20(480p)%20%5B5E766B51%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater-Commie] Nichijou - 26 (720p) [E17C507E].mkv",
+                    "group": "Underwater-Commie",
+                    "hash": "E17C507E",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater-Commie%5D%20Nichijou%20-%2026%20(720p)%20%5BE17C507E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8168,
+        "ann": 12142,
+        "mal": 10165,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a3338781430d8748fdfcbc204c049d4a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7efed1e7e10a4cace81ad69e6d55b2e9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak, ona jest robotem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e58b89c77810be449e5c8981cef47e49.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ccc27198e2e3ec9fed895d08552a4327.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak, to jest koza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/18ab8eb9bf48846903b9a83637525b67.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak, ten kr\u00f3lik chodzi na uszach",
+            "filename": "http://s.modriv.net/abp/images/screencaps/61bff24a64b27dc951c76da2211e7cc0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bb4403c7938eb0e416ce8de8b65a3e89.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d286118cee1fcb60d7ee0e60939a2aeb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6f0118d6586b7e42a64d7ff30ade5528.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak, spadaj\u0105ce jedzenie te\u017c mo\u017ce by\u0107 epickie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/814ec6e99a14595fe00ead946f8a96a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "...a nawet jeszcze bardziej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/26558f74b10848d356fc2fa106022e96.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/43d6b22b73f5b35cfdb835edf27950d2.jpg",
+            "hd": false
+        },
+        {
+            "description": "co",
+            "filename": "http://s.modriv.net/abp/images/screencaps/80fe300974062edd3430323a2c284203.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/89c16dda1f5192df87ffb1f45b871aed.jpg",
+            "hd": false
+        },
+        {
+            "description": "KIN\u00d3WKA WIADOMOCZEGO?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/44f6e369765523b327195f5d85d21fca.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ef24f131e70ea9f0a06e5a6352f60c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e8bbd86f85a10a740c9cd87a1d12b706.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u015awi\u0119te s\u0142owa, s\u0142uchajcie si\u0119",
+            "filename": "http://s.modriv.net/abp/images/screencaps/99bd46e346296cdf509ae172f747a9ae.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Nichijou (\u65e5\u5e38) http://rdir.pl/1bvhy3",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b9f3a6cd9f411ab126f0d888e69f21fa.jpg",
+            "hd": false
+        },
+        {
+            "description": "zwyczajna lekcja plastyki w japo\u0144skiej szkole",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f7f9e7ffbf0530e1ccb81ad87b94d787.jpg",
+            "hd": false
+        },
+        {
+            "description": "misie lubi\u0105 dzieci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/45b021b06b49e1659f5a1efed53087c1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ac05c8fbe0ea0088bdccce4860f74e7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c83b278300d538edfa2a749a580266f5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/244886d85edd10be2770a32f2390fdb8.jpg",
+            "hd": false
+        },
+        {
+            "description": "I'M SO HIGH",
+            "filename": "http://s.modriv.net/abp/images/screencaps/18eaa729a7c14fc5a8830bfad13931be.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b10fd88fb5fd95153fca98289b844970.jpg",
+            "hd": false
+        },
+        {
+            "description": "BROKU\u0141Y!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/431a962e0fd2e652dc5c50f4b1a9fb19.jpg",
+            "hd": false
+        },
+        {
+            "description": "promocja w Tesco!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d73cd7096738c991d92f3b2931009662.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b25ec0279b0248035f19093f5c941664.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9f98174f58c2096b31a6c757d65c6525.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/586e167998a6ea6ff0a6dfa5bbb23732.jpg",
+            "hd": false
+        },
+        {
+            "description": "taki troll...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f98b202652bc597292cacd62ca22a22a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cdd86decd6dd1224fb2e3a98f173c6e6.jpg",
+            "hd": false
+        },
+        {
+            "description": "ka\u017cdy ma sw\u00f3j spos\u00f3b na wyra\u017canie uczu\u0107... ale \u017ceby zaraz broku\u0142y?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4a9faa0645a1347573671964aa3cf23a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dd4476c940455e8fe299497a4a75bd73.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7b535b8ed8b8fe6df822c342bcf582f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mio is not amused",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3dc1fedb831ebf9889dd0b605a71ec83.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7e7fba5f03844c702ae17700c2a553b5.jpg",
+            "hd": false
+        },
+        {
+            "description": "pami?tajcie - drugie ?niadanie to bardzo wa?ny posi?ek w ci?gu dnia",
+            "filename": "http://s.modriv.net/abp/images/screencaps/60d516c11bdb600919df2e5ea28a7f6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0c7b4c5b67347ba5d22199429bd365cd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/94220367214e3d6e9ac72ae45db59c9e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5c385b30a84dc3386082fa0ada5e45c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "wielbiciele kot\u00f3w byliby zapewne oburzeni nie mniej ni? sam Sakamoto",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cf21e4ee70026334206ca42d90b5649a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ab3da868ca05abee34f4dc79a43ff56.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ee71f23d287fdeb1f846a07661cfee1b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9e375ef3a1d2aa7814019fb020470d9d.jpg",
+            "hd": false
+        },
+        {
+            "description": "KIN\u00d3WKA CZEGO?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8c83bd91741afba6a3ba217992053e51.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e49e44fb4f3b7c52498213d6ff5b1cd5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c58deafb39a24bb43dfd483e8e47e03.jpg",
+            "hd": false
+        },
+        {
+            "description": "pami?tajcie by codziennie bawi? si? ze swoim kotem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c2d6fc664afa4027f01f2ede45fffa4b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7a73ff2274d87a06dbbddec9605829d4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3324f1d1749a0e42947ee5b5193f567a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e77c123eccc6abb42c09001d918da242.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/15326292b2a19552378cc20237f34975.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0312000c714b900dc272baacecef9a0e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e10766a721a320a4ab8a907ba1c78b02.jpg",
+            "hd": false
+        },
+        {
+            "description": "nasza reakcja na st??enie WTFu w tym odcinku",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5a87640bcca55aa86307b96aee8b247a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/667f7541d9a2f43393b83a407c620547.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/16e7c7cbc930fe908e00ac964c650ba7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b4ceb4ce7dbf5293cb123c48e0dfc443.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ef4440443056a4da581a8cb3321ac84f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5e43a760d60c0a82739262f91e884117.jpg",
+            "hd": false
+        },
+        {
+            "description": "ten odcinek sponsorowany jest przez Shinonome Laboratory oraz s?\u00f3wko \"moe\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/13b92e167949898fcb67b17e715e2a3d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/943d61a558e0f1561137dc29a8dcd8a2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Super-babcia zobaczy?a wolne miejsce w autobusie!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9866ffd843ec9072efc2e4a9bc9ccfde.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1ac993cb7c5ce277812f2e8dc15812ec.jpg",
+            "hd": false
+        },
+        {
+            "description": "kolejny ciekawy spos\u00f3b okazywania uczu? przez Yukko",
+            "filename": "http://s.modriv.net/abp/images/screencaps/12a7a2261d00418f5a3e6cb0d4ce9792.jpg",
+            "hd": false
+        },
+        {
+            "description": "DEAL WITH IT",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96e7638409f99ae07c4669508c2e2e08.jpg",
+            "hd": false
+        },
+        {
+            "description": "UWAGA! Tosty mog? by? niebezpieczne!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d7727ac640bbec103db4bf648f526d40.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yukko to ma talent...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5fa93b1820a7bfec9977bb662371b08c.jpg",
+            "hd": false
+        },
+        {
+            "description": "czy wszystko p\u00f3jdzie zgodnie z keikaku?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3b97890c4504114c1f91d22ab788b7c7.jpg",
+            "hd": false
+        },
+        {
+            "description": "zwyk?y rysunek...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8f7b3d2082d8d0f63c61205b2e565473.jpg",
+            "hd": false
+        },
+        {
+            "description": "...i zwyk?y test z angielskiego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/67b2dfecfddbbe6ad4e00ccd1ddff977.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aad8e397ad36943fd6029f5c421c3df6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3aa2b0e6a81fa90ddf00f085a99252fc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/903a5258e18e1bfb219943199d9b5194.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/93581a02595def60c1845a608f7dfb99.jpg",
+            "hd": false
+        },
+        {
+            "description": "Krowa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e8d22a2fca6ee61851dc9ddcc93a652a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yukko raczej nie zda?aby matury z angielskiego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/234cbdc5a2092f37b0926224c64bc636.jpg",
+            "hd": false
+        },
+        {
+            "description": "Hipnotyczny Jele?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/45bd6ad871ec236f49a30fd5e240149c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bd8ccc7903ec909e7d6d94ed73abce33.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6d884f666f3724af557af6e6382a58c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4c72094a063425e7b7f2cd337a199af7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc8e8d5550820d4dc66ea1e29c16e375.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fbfc8ae51beb861a762653dd36cd7290.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/83465ccc6e4c46b1f7675af49b15fb2c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f81539043362ec73e5393c843fd87482.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b98b0e73c1d7535e6bbfa08ca2e310d4.jpg",
+            "hd": false
+        },
+        {
+            "description": "pieni?dze to niebezpieczna sprawa!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b980da43b3c81152e1bbd3f02c67d228.jpg",
+            "hd": false
+        },
+        {
+            "description": "nokaut!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bcfceaf75cb06c31f8aff2ebced4df1b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d0b07a05dae6b33287334370b839cbfc.jpg",
+            "hd": false
+        },
+        {
+            "description": "tegoroczn? matur? z matematyki napisa?by nawet o?miolatek",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5f60b2e0bba77bbcc32ff8b82a2bcf15.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e316aea796a6de7b661717f66ca71cf1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jajog?owi te? maj? czasem deprech?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/721b18c42f84b7e05d87abc6a2e0e303.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1060e56f1140e07b2154b3fa47b61d34.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4577da0e36122dc953e97a8ae77710a9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/968abda487b96d5d788cdabd6b643919.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6dc67e409c3fb0fae206d330394e3cce.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b447b33f5c9127e202a40f9164227744.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8ee4412b435531fe329b257413a791f5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/16268ef353fcd83bd101b8023d27ade0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mio ci? zna!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a1d390e66f5c064f77ec8c2cf1ff1fef.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b72ea96968878a0d3eb7218acfec12cd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/64fbcbafeac16da731fa39366f85812f.jpg",
+            "hd": false
+        },
+        {
+            "description": "an arm is fine too",
+            "filename": "http://s.modriv.net/abp/images/screencaps/805f1b3aa89c075ee7de5e2d8ecfef41.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d093674f27ccbcdbae92357d8ca45489.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d35aa7aafcb8c184b8af3636d969a0c9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nano ?yje w swoim ?wiecie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c7f43c5450992dfc09f151229d3dc9a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "przeciwnicy #anime - do boju! Temat na dzi?: zn?canie si? nad zwierz?tami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/708a11069cb9d97f57c7848829cfc32e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Sakamoto nie lubi szybko lataj?cych pi?ek...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d762186a69e9b1effa70e7a2bedad57a.jpg",
+            "hd": false
+        },
+        {
+            "description": "...ale pozostawione luzem jak najbardziej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9c0e0b97e2770212ed4f796cd40a16c9.jpg",
+            "hd": false
+        },
+        {
+            "description": "KABOOOM!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/13caf9b13a24b1e8f2f397eed9d27709.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2589980c9cc1f5f25b7fb6cad36a1e52.jpg",
+            "hd": false
+        },
+        {
+            "description": "kogo? tu chyba pogryz? wampir",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6e5030dc7a486fe97d3c3e9aaeb368c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/721ac9e5a4566f8c3b4e471d4305a7e3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a51c2713557d71f3808207cb93b60aa7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4d0b777702b585e3e9701eb5760e036a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7edd73517c4d5aa6b74b52d0c9a8861d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/010d8eeaf2ded6cf97a7e13aff18ff9d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b8d563290fb80490388f08e0e8f8e3aa.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jaki test taka odpowied?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/56d459dca27ed6c8697bb28494fcd225.jpg",
+            "hd": false
+        },
+        {
+            "description": "rozdzielanie pa?eczek nigdy nie by?o tak epickie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f2428e8bbab59420c86bd5036bcfc653.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b3e15fba0ae052c32ea4402acfd4dc3.jpg",
+            "hd": false
+        },
+        {
+            "description": "jak post?powa? z Yukko - poradnik krok po kroku",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a8c781d1b7406e000e00ec0b85e50bd2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yukko is not amused",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b2fdaeb0fbdfb8c10cc9c2a03ffae70.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a7256ac295434d5a4ebbe8af06277e1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2bdbac8cafd4c2f1425bc3a0cc00a2c9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d7c38804ed44f62109e0edb1a44b9e92.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mio wzi??a za mocny towar",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fa8f2286cbfd55c4b198c2168113d125.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/14c3f9d7b5dd7824aba7db8b77cfc66f.jpg",
+            "hd": false
+        },
+        {
+            "description": "jajog?owi maj? ci??kie ?ycie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ed5c0a9ffec2fe33374e9d32f18c4269.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1fbb1605e122832b3f2bf2d46b6222e3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/88b501a73183627a43f600a47c1bb4a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d97dc9069478680114615a0baa381ec.jpg",
+            "hd": false
+        },
+        {
+            "description": "tw\u00f3j argument jest inwalid?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b6c7e172c1a8afd85d06a43e0c3f36bf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9d3cab2cdab9776814937ed5c8c20b05.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/89244ea99f018316e3804c70f8bb692b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/69544c1f7d5411ad4eb14fe837aee0f9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5e00569fd90aa318355f8dc484ebf475.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75d865038fafd3bfd9f669966828ae41.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9efd5eef2d654020a386407efb89f717.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawie jak klub muzyki lekkiej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/43ce8582ed9374ce712a2892f1eacf39.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7e841a796bc2fe2c38bcdcdb67f14fc3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7588c3aaaee298abca283d5a92f14ab8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e88ecb5e0ba701034970ebc78ac1a1fb.jpg",
+            "hd": false
+        },
+        {
+            "description": "lewitacja wed?ug Yukko...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/383b8af0daa8048d8a93d01c03b7f448.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b683667f1a274e6114f6c09dcb19220.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/38ee0683133db1cbbbe2f3f743a1208c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7b6c69f2c93c2b8d3b2a7c8201df3d38.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/83d9ecff3cdf349f57e490c7af370d9c.jpg",
+            "hd": false
+        },
+        {
+            "description": "medytacja wed?ug Yukko...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c340965809b9f2a111a01138b3353d4c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5cb266810e0186b73148ba9c78fb5997.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3db64a0aa0310dac7cda7f20efdedb0f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a12efec7c8f744dab7978fec9af2758d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fbcef32556a73d5c7be81ca6cd972d97.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/328194f1a8b763a6d6d2c25e100f9394.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a254350108e2133ec6848e0fb91868d2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Quintasan...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/80e452657b49a66beafbf9cce50cbdea.jpg",
+            "hd": false
+        },
+        {
+            "description": "...najlepszym przyjacielem cz?owieka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2ab2df389a1d735ef1b2f0ea46da6611.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/44db8d562d2cf251b8fa503e7bc8f4ff.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/919286f0942faae0efb69c5089f796d3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7c114baa33a6e463326ae48d93ebbaf7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yuuko ju? wie, ?e musi si? szykowa? na wrze?niow? poprawk?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/70c7fe7a1e989c7134a4d7c2ec483de4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e11b5f0eacf32d5d0e9dd1bcd5684448.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0891c6c73ceebcf73948cfabbcc1c1e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/01cbfbd8eb85102b494d3582e97152e3.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawie jak Shaft",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b698e1869bd43df736aac78cc4a80630.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e80ecfb4319e71cf4810d0bc1ed9c223.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2d6f47385da36318ecfeed37f725b2df.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fe652c1253c39cdde12516646786be5a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/40b9cc80cd0f8f855f3cced9c7245fa6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Niegro?na pu?apka...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cccfc03551a39e79e095f56cffc65cbf.jpg",
+            "hd": false
+        },
+        {
+            "description": "...staje si? gro?na w r?kach Hakase",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5d7b901a658ff3f56c3ac394c74d3c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/be61f055b5168148cf81144425d566fe.jpg",
+            "hd": false
+        },
+        {
+            "description": "jednak nie b?dzie poprawki we wrze?niu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/165318bd0312bdafce02bfd0522b277b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eaba609ff247c90deafc118e49bfe707.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5f3ae59308fd90376ac0711b95840b70.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ccef79e39dfa0ddd680e3f88994dc37.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0b7ca2b6c383998f5b366bd7b1672627.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad2cc053303a7179327244c2adac9f0b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7fc1793135f31962ac09caebf99de190.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/37342494bf0cbd2c70565609dee894c0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/47094174577bdd0e501060b92dff61f6.jpg",
+            "hd": false
+        },
+        {
+            "description": "tak, to jest Sakamoto",
+            "filename": "http://s.modriv.net/abp/images/screencaps/575f3248c09379c64ba8ecdf764d0d07.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9b0a13f59dc860f9759b417735961d44.jpg",
+            "hd": false
+        },
+        {
+            "description": "to jest czekolada, to na pewno jest czekolada...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4577dde6c8142993190ac3415f477fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a7391a028fcff7803be93acd65bfce82.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/338ccfa1e5b4c89fc4ec7b05cdc927ab.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db0cc0f0633663de66e474c7faceeece.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2ff4e1e503d006f0b9b61dd113c66950.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eec53fa52712ea3f8466052a4803ca73.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d701da154a06e866b09b96d0796a62f0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0c584432eae91b1b147150342aa088ac.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6aa9699d25ee476b02644c82d576e730.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ddc78a15187aae6e9d901302696b22ec.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7cbd22c32ac55a8791b9a5f05d387eea.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f67fc2560bdaef6bf4068851dcfbfe54.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b8ebbca06d1adc34771806fa774ab0bf.jpg",
+            "hd": false
+        },
+        {
+            "description": "bierzcie przyk?ad z Nano - ona ju? si? zacz??a uczy? do sierpniowej poprawki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1ea7e8f6add7c0746aaa371851e23ea0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/329f42ba9a21b4bc3c86b888303a8a34.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dee395c32d62e548a7ffc45913d227b5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/499c19b3c26e3584afaabea0bb1a9193.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eedd37bed44b6ac7ce2f1dace1f100e4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4787988df5d5f8c0f71464654fadfbea.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e8a6aff6fa654a249108f6096636ac06.jpg",
+            "hd": false
+        },
+        {
+            "description": "trafi? sw\u00f3j na swego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e964828b97d57bed7bbdd8caf76c537.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/30e0c29512351212dcb440f4ce8b73c5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a3a9a1fff42534c027fda9f86e8bda7c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/913844953b4f9d381fd86c67a271ee9a.jpg",
+            "hd": true
+        },
+        {
+            "description": "gadaj?cy kruk",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4965d0db2dbb691b9a1f2c05750fd257.jpg",
+            "hd": false
+        },
+        {
+            "description": "kruki mog? by? niebezpieczne",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b180c224ec2ac631ae2b346f845e2766.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3476367f1b992a2acbfbe450d7ba1066.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mai wspina si? na wy?yny trollingu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e4163c81bd3c95bb52e3bf60a393af95.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cb9cdb0578cce443f17a57db8ad992e6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/70d59dac428f63198708fac175cf2d30.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b492fa4938f3eab279adc34b1acadfb8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e201b8be18e0bb80ebeebd92294f25f0.jpg",
+            "hd": false
+        },
+        {
+            "description": "epic facepalm",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ddf74b7669e40c8d27417d587ecc470.jpg",
+            "hd": false
+        },
+        {
+            "description": "close enough!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e10b853a7f7232fb3c8becb2c5524e5e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/97be3118940f08611bf3786a657e9c4d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5a2153a22f963e1b2ba9b0c66d481bee.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bc57fe3e51c8c0dc2d3d3b5bb678e956.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f96173f1716bf023f114d73c130f756c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/90c715324a59619ad56dc9a4d37cf8a7.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Doce? w?asnego ptaszka! O takich ptaszkach pisze si? wiersze!\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/362ef70e938a6d26635ec16645b0bcc4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6c80013ad0d42d337310552e3c38ffb9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/13bc3c06d07a1ac1257e86f2ec5b776d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/762b4cc46a0993817e6605ab72b420d4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/74fa2ed0c09dcd64d10f390964b688a7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ed79ec18e24691b49c0ced8a313718a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7eae076a90f224f946d516665ee8b710.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b751541327cf107a6a5de387dc6e0e10.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/30fbf3db4d13bdacd79e4f15ff317ea7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c0ff4c75b052719c89096238866e577e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8a994c0478edc61ab2f4ef1c0d28117a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fb21f58ac9e941eb2550c2b1f28db86b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/883a850c8c3d0979468b3529d08f1c4f.jpg",
+            "hd": false
+        },
+        {
+            "description": "przepraszam, czy to nadal Nichijou?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1fc9b89e8b322574e1ef65a29944ae21.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6e442df6fb707ddae7f440c112bd8cb5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ecf71d5756e7e30054b895a323e756aa.jpg",
+            "hd": false
+        },
+        {
+            "description": "cheetahmen kontratakuje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/70597860250362d5f58caec372d5755b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/69771a54d71e03492e53739062cdceaa.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ab3ae6907bd627b8bf6a8c12fadc28a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ab2976cbd46cf87b94eff066dac6a9b3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c15b1a0bfbf94a4498b15c55fe1f55b6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/79589926ccfea2ca36c09bc5de66e2cd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/954dd9cd3977263e86957224929777e6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a62e3a6dfb69e12c48fa5972f1a37b0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/63e80669b04838729cd46521aaf2baa0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/81b4beb49d36cc8ce3eed7d07763df42.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c9d0708c9a240c4e2b87ed3dfc7e553.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b9081e984f3558ce5e6b0bf059c4d54e.jpg",
+            "hd": false
+        },
+        {
+            "description": "w czasie deszczu dzieci si? nudz?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1b089e72fcc2ad8768b534b1b4ae7d86.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/99a3fd525b3790973d3b0f1672ed5204.jpg",
+            "hd": false
+        },
+        {
+            "description": "girls can't into shrine",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba74f8e6bcb46ba17f85feef330e3998.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fdf7ee30f3da895ec30e8432dc7f3a57.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c09275cdb5b90d044a72c3ce762ce84.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a7665f632aa34658cbfbd6991bde7863.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad37c357e2faaaf67549b72de883f83c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8b8bc10ae484b7dc166758348f146920.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/197a5dcd4e15fd27006ea1bc125a8b25.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/26f5eaf214aa5ef4830f4b548a893efc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9c8b267867a347b60b9a6da9c3480932.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d67d7eac9b74cd79bbbc5ab26b375116.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kiraboshi wed?ug Nichijou",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dc6af3cd0b4ba5674e104d0c8be6a64b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/282e199af736d0a2447c26550065d5bf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f7f80529f3ab79feaf2db30358627e93.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/719ee7a9bbf940a066c95dbb9613c44e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ede5df5ecc7c6914dd93e94f9106cb17.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawdziwa twarz Yukko",
+            "filename": "http://s.modriv.net/abp/images/screencaps/41fceade00138d7d42e6b0e3c070a89d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9401f3dcb194fcc7dbb2c5e6c9381605.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b76805ec9419be1d56f25d2f2ce63920.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f4675fd2f8790423de55a713bb87aae.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/68d74c6b2aa2f65338025eb3a0315fd2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/18cfc9a04859d815b7a3129fcec2e1e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/902a8e54b3a1be001813fdbffcc94bf2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c0b7822e1210f987bfb8b4c17073943e.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pocky bywaj? niebezpieczne",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3fdb2a54b95cd90ad3fa536cad097e7c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/645aabcff6a85e5a3d9519842b74684e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/63b7ccfc867243a8528929a5219dc5ba.jpg",
+            "hd": false
+        },
+        {
+            "description": "o nie, dzisiaj trzeba i?? do szko?y!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e5586bbf3d084ef2db51634b73e5853a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4370738a8447b3097d30001835395979.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bb667f290b557c5ddb10aecedaf48834.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6fd8cf719aed01773718fce56eaff1e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6085deb41486f30560a5d540fa93700f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d2e3bd16329a768921aaf7afc5a2538a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2ab0b21cf5d9d7b65568446dd22136ba.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b87a836e59363d6deaccbb17d179998.jpg",
+            "hd": false
+        },
+        {
+            "description": "IMMA",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49c38a5ccc5db6cd818513a0761a811d.jpg",
+            "hd": false
+        },
+        {
+            "description": "FIRIN",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1ffedd70a8dd4ab2dec6f9c3444d4309.jpg",
+            "hd": false
+        },
+        {
+            "description": "MAH",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db10e69b1a3874e98acc961d01e3fbf5.jpg",
+            "hd": false
+        },
+        {
+            "description": "LAZOR",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ff16c1baba54a7b2bb5e52d21c328827.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/be8689c6de5e01a60cc3256ca56f93e3.jpg",
+            "hd": false
+        },
+        {
+            "description": "ci?g dalszy zn?cania si? nad zwierz?tami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aefea70d981b60d842499a5ca79aad3a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/79571ae48046fd2135bc5da7e4567934.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d3b8adaec2934813fb9f37398229242f.jpg",
+            "hd": false
+        },
+        {
+            "description": "znajd? niepasuj?cy element",
+            "filename": "http://s.modriv.net/abp/images/screencaps/03234d5f8e5ea092acb30158d6422e50.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a1ab109884cfadb9d9e586e99c3eb5ae.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a2218b00cbda7097f8e2194a834dcf12.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ae065c05e78529d8f3f349a1ee6009f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b3b5fb0c9a8a797e50abb5faf53d100a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5f5fe48cce3e27142f01c557252c8f7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a8863b51cc48bc27c8799d6aa937ed71.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/76e3c2255fa5702990b41d7774c20d7b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1658f71295272dd08dba865d20f73829.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/67c82ed5864a5e06d457e8ecbf0e1b58.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/04900f96598ff2e92f3030b2eae785b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "tymczasem w Japonii babie lato w pe?ni",
+            "filename": "http://s.modriv.net/abp/images/screencaps/878e6370683ccd838e0b50968e197ee5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f01216f480432a143cbedc5f1b78e8b7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/984f43cf8b285af9529e30c5852cf0f1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5301e4eba2ab65df082ce052ca29506e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e82ceaf1f743cb5988e621f6c8cc19bc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9428cbfc5991d6c8a91619c6c344b751.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49b7322a05da109095993bedd19c4424.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2d577df8afc32d83dfe16628668f7a9b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e71ffa58967601ab5e640c9bebb7f1fb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2b921f86c047d67f475350fcdeee4a4d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a834fc31ea7a6ac9ae1d88aef625836c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e54769b0b9c90d4301bf369c8a421e54.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/253f7837a870948b04c62fbaef73aa5f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b1be111bb9d70098a6f735be6715d4bc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d61ae57928f852886a7da2054d2ade5a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bc726bf929b5e637022a471a44117eab.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7700055112f3b75c73ede03a9bd43c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a653d65b9dab66cf53ae6c6bfe9a5954.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/59061aa7a5d76cc4038c88eaef9cccf8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/13c22d8817c87ea956ac951b7f8ce2ed.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0aae51406b649c975b2882da78043051.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/953599a479a4351e3a53603aec75ff0f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c74623bbd7ff42a178b0c6dfc533f9df.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49e32dd4a858841222c47eea61983f72.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c49f573fc3431687cf2a89159d22030f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f6c06ad134825039550af3c9d51e171c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7a8b2dbc80f334821f9ca7c00e1350ca.jpg",
+            "hd": false
+        },
+        {
+            "description": "pospieszna Mio wjedzie na tor pierwszy przy peronie pierwszym",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ffc2cfd59920ab25d504639e1e52d198.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6df818ec2142d92ed304f1af041ff59.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0803fdc4e8c1d30dbff10c5e3235a855.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc6014f9046150dc775da5c5e3006f9a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/59613903e6826daa041ef7f7f2b69a43.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Nichijou (??) - nasza ocena: warte obejrzenia (wi?cej: http://rdir.pl/1bvhy3)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/081d3138b746c31c942663f34a9f6c88.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kicham t?cz?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1843cb3b70df2221b1153b2402457479.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/912273a428b2624a7a5c697b5970df07.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Przygody z \u017cycia codziennego kilku nietypowych niewiast, chodz\u0105cych do bardzo dziwnego liceum.",
+            "type": "abp"
+        },
+        {
+            "content": "While the title suggests a story of simple, everyday school life, the contents are more the opposite. The setting is a strange school where you may see the principal wrestle a deer or a robot&#039;s arm hide a rollcake. However there are still normal stories, like making a card castle or taking a test you didn&#039;t study for.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Arai Keiichi's gag comedy manga serialised in Shounen Ace.While the title suggests a story of simple, everyday school life, the contents are more the opposite. The setting is a strange school where you may see the principal wrestle a deer or a robot's arm hide a rollcake. However there are still normal stories, like making a card castle or taking a test you didn't study for. The art style is cute but mixes with extreme expressions and action sequences for surprising comedy bits.",
+            "type": "anidb"
+        },
+        {
+            "content": "The ordinary life of the peculiar students from class 1-Q and their odd acquaintances.",
+            "type": "ann"
+        },
+        {
+            "content": "The series follows the lives of a group of high school students and their school. Various oddities and absurdities abound, such as a robotic girl made by a scientist who is an eight-year-old girl, a boy who rides a goat to school with his butler, a girl who can procure various guns out of thin air, a cat that can speak and a principal who has wrestled a deer. Despite its bizarre settings and characters, the students still lead normal lives.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 20089,
+            "date": "2012-09-29T13:16:03",
+            "score": 8.45,
+            "type": "mal"
+        },
+        {
+            "count": 1197,
+            "date": "2012-09-29T13:16:03",
+            "score": 8.01,
+            "type": "anidb"
+        },
+        {
+            "count": 847,
+            "date": "2012-09-29T13:16:03",
+            "score": 8.243,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Nichijou"
+}

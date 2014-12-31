@@ -1,0 +1,1868 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc"
+        },
+        {
+            "language": "pl",
+            "title": "Miszcz Bo\u017cyszcz\u00f3w"
+        }
+    ],
+    "aliases": [
+        "The iDOLM@STER"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/599970735",
+            "content": "#anime #Lato2011 The iDOLM@STER (????????) http://rdir.pl/1j6xui",
+            "episode": 1,
+            "filename": "d6499a3ada9b58cef3ed7a5a541cefb6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/89466750390902784"
+        },
+        {
+            "blip_url": "http://blip.pl/s/615814463",
+            "content": "The iDOLM@STER 02 - dziewczyny zobaczy?y na w?asne oczy bogactwo jakie oferuje im pan producent",
+            "episode": 2,
+            "filename": "a08da7b639b404f0b85d30dc0f2f63c4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/92923905773273088"
+        },
+        {
+            "blip_url": "http://blip.pl/s/646901909",
+            "content": "The iDOLM@STER 04 - bo fabu?a ka?dego #anime muzycznego pr?dzej czy p\u00f3?niej zejdzie na jedzenie",
+            "episode": 4,
+            "filename": "49cc09d18f8d7f21a2c9cd73dce44916.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/98394932380835840"
+        },
+        {
+            "blip_url": "http://blip.pl/s/651191139",
+            "content": "The iDOLM@STER 05 - oczywi?cie nikt nie spodziewa? si? odcinka pla?owego",
+            "episode": 5,
+            "filename": "e78f104518d26a569ba6366c12e5c02c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/99277456384602112"
+        },
+        {
+            "blip_url": "http://blip.pl/s/672373579",
+            "content": "The iDOLM@STER 07 - Iori zda?a sobie spraw?, ?e ju? za 10 dni rozpoczyna si? rok szkolny",
+            "episode": 7,
+            "filename": "2a313ae477a7e348a559ef938e24b221.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/105442143048433664"
+        },
+        {
+            "blip_url": "http://blip.pl/s/708574475",
+            "content": "The iDOLM@STER 10 - WF to powa?na sprawa",
+            "episode": 10,
+            "filename": "deefc9bc431703754cb1a9584e4ae208.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/744576261",
+            "content": "The iDOLM@STER 14 - Okr?gowa Komisja Wyborcza w pocie czo?a liczy g?osy",
+            "episode": 14,
+            "filename": "3e0bf8c06023e84857ba3fbde27d40c4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/123047430760570881"
+        },
+        {
+            "blip_url": "http://blip.pl/s/779301587",
+            "content": "The iDOLM@STER 17 - w g\u0142\u0119bi duszy, ka\u017cdy kocha moe",
+            "episode": 17,
+            "filename": "7affd550740dfa41c62121b958678e24.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/131363170525777920"
+        },
+        {
+            "blip_url": "http://blip.pl/s/812073809",
+            "content": "The iDOLM@STER 20 - Chihaya zda\u0142a sobie spraw\u0119, \u017ce ju\u017c nied\u0142ugo do miasta powr\u00f3ci konkurencja",
+            "episode": 20,
+            "filename": "f2a6747604641e574269b6ffb2e9ef1b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/137996519210102784"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-07T18:25:00",
+            "episode": 1,
+            "score": 7.0010869565,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 01 (1280x720 h264 AAC) [A4CA16BB].mkv",
+                    "group": "Doki",
+                    "hash": "A4CA16BB",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_01_1280x720_h264_AAC_A4CA16BB.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 01 (848x480 h264 AAC) [6B632761].mkv",
+                    "group": "Doki",
+                    "hash": "6B632761",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_01_848x480_h264_AAC_6B632761.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku-MATV] THE iDOLM@STER - 01 (1280x720 x264 AAC) [0D44E18E].mkv",
+                    "group": "EveTaku-MATV",
+                    "hash": "0D44E18E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_01_[720p][812B948B].mkv",
+                    "group": "Chibiki",
+                    "hash": "812B948B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_01_%5B720p%5D%5B812B948B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_01_[480p][C83E5732].mkv",
+                    "group": "Chibiki",
+                    "hash": "C83E5732",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_01_%5B480p%5D%5BC83E5732%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[MATV-EveTaku] THE iDOLM@STER - 01v2 (1280x720 x264 AAC) [AC3EFBA3].mkv",
+                    "group": "MATV-EveTaku",
+                    "hash": "AC3EFBA3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227825",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_01_[1280x720][99164E79].mkv",
+                    "group": "Nuke",
+                    "hash": "99164E79",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_01_%5B1280x720%5D%5B99164E79%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_01_[848x480][AC6B7EC2].mkv",
+                    "group": "Nuke",
+                    "hash": "AC6B7EC2",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_01_%5B848x480%5D%5BAC6B7EC2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232682",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-14T18:25:00",
+            "episode": 2,
+            "score": 6.9967975831,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 02 (1280x720 h264 AAC) [F3466636].mkv",
+                    "group": "Doki",
+                    "hash": "F3466636",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_02_1280x720_h264_AAC_F3466636.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 02 (848x480 h264 AAC) [7D99ECD3].mkv",
+                    "group": "Doki",
+                    "hash": "7D99ECD3",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_02_848x480_h264_AAC_7D99ECD3.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_02_[480p][F6973DCD].mkv",
+                    "group": "Chibiki",
+                    "hash": "F6973DCD",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_02_%5B480p%5D%5BF6973DCD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_02_[720p][26D112FB].mkv",
+                    "group": "Chibiki",
+                    "hash": "26D112FB",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_02_%5B720p%5D%5B26D112FB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[MATV-Subs] THE iDOLM@STER - 02 (1280x720 x264 AAC) [30DDEB3B].mkv",
+                    "group": "MATV-Subs",
+                    "hash": "30DDEB3B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228969",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_02v2_[1280x720][D69B2223].mkv",
+                    "group": "Nuke",
+                    "hash": "D69B2223",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_02v2_%5B1280x720%5D%5BD69B2223%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_02v2_[848x480][9CC96C88].mkv",
+                    "group": "Nuke",
+                    "hash": "9CC96C88",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_02v2_%5B848x480%5D%5B9CC96C88%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234691",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234692",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-21T18:25:00",
+            "episode": 3,
+            "score": 6.9745588235,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 03 (1280x720 h264 AAC) [2BA87778].mkv",
+                    "group": "Doki",
+                    "hash": "2BA87778",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_03_1280x720_h264_AAC_2BA87778.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 03 (848x480 h264 AAC) [A1AE52E4].mkv",
+                    "group": "Doki",
+                    "hash": "A1AE52E4",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_03_848x480_h264_AAC_A1AE52E4.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_03_[480p][9B040B7E].mkv",
+                    "group": "Chibiki",
+                    "hash": "9B040B7E",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_03_%5B480p%5D%5B9B040B7E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_03_[720p][F124C4A2].mkv",
+                    "group": "Chibiki",
+                    "hash": "F124C4A2",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_03_%5B720p%5D%5BF124C4A2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_03_[1280x720][2173BD32].mkv",
+                    "group": "Nuke",
+                    "hash": "2173BD32",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_03_%5B1280x720%5D%5B2173BD32%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_03_[848x480][709B6245].mkv",
+                    "group": "Nuke",
+                    "hash": "709B6245",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_03_%5B848x480%5D%5B709B6245%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[MATV-Subs] THE iDOLM@STER - 03 (1280x720 x264 AAC) [1D468AB2].mkv",
+                    "group": "MATV-Subs",
+                    "hash": "1D468AB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233850",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236577",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-28T18:25:00",
+            "episode": 4,
+            "score": 6.9294747475,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 04 (1280x720 h264 AAC) [74EF794C].mkv",
+                    "group": "Doki",
+                    "hash": "74EF794C",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_04_1280x720_h264_AAC_74EF794C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 04 (848x480 h264 AAC) [421BED6A].mkv",
+                    "group": "Doki",
+                    "hash": "421BED6A",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_04_848x480_h264_AAC_421BED6A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_04_[480p][3F49C593].mkv",
+                    "group": "Chibiki",
+                    "hash": "3F49C593",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_04_%5B480p%5D%5B3F49C593%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_04_[720p][AC9C922D].mkv",
+                    "group": "Chibiki",
+                    "hash": "AC9C922D",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_04_%5B720p%5D%5BAC9C922D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][v2]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_04_[480p][v2][73E444EF].mkv",
+                    "group": "Chibiki",
+                    "hash": "73E444EF",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_04_%5B480p%5D%5Bv2%5D%5B73E444EF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][v2]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_04_[720p][v2][84703672].mkv",
+                    "group": "Chibiki",
+                    "hash": "84703672",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_04_%5B720p%5D%5Bv2%5D%5B84703672%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_04_[1280x720][6AD3706A].mkv",
+                    "group": "Nuke",
+                    "hash": "6AD3706A",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_04_%5B1280x720%5D%5B6AD3706A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_04_[848x480][A865E66F].mkv",
+                    "group": "Nuke",
+                    "hash": "A865E66F",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_04_%5B848x480%5D%5BA865E66F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238798",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-04T18:25:00",
+            "episode": 5,
+            "score": 6.9363566466,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 05 (1280x720 h264 AAC) [82D5911F].mkv",
+                    "group": "Doki",
+                    "hash": "82D5911F",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_05_1280x720_h264_AAC_82D5911F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 05 (848x480 h264 AAC) [47A7437F].mkv",
+                    "group": "Doki",
+                    "hash": "47A7437F",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_05_848x480_h264_AAC_47A7437F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_05_[480p][C7BB6274].mkv",
+                    "group": "Chibiki",
+                    "hash": "C7BB6274",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_05_%5B480p%5D%5BC7BB6274%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_05_[720p][B6AD5F75].mkv",
+                    "group": "Chibiki",
+                    "hash": "B6AD5F75",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_05_%5B720p%5D%5BB6AD5F75%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_05_[1280x720][990B9143].mkv",
+                    "group": "Nuke",
+                    "hash": "990B9143",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_05_%5B1280x720%5D%5B990B9143%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_05_[848x480][598F6C9D].mkv",
+                    "group": "Nuke",
+                    "hash": "598F6C9D",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_05_%5B848x480%5D%5B598F6C9D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://is.gd/8AZpqf",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240692",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-11T18:25:00",
+            "episode": 6,
+            "score": 6.9571740042,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 06 (1280x720 h264 AAC) [261FE471].mkv",
+                    "group": "Doki",
+                    "hash": "261FE471",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_06_1280x720_h264_AAC_261FE471.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 06 (848x480 h264 AAC) [E7A2F6B9].mkv",
+                    "group": "Doki",
+                    "hash": "E7A2F6B9",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_06_848x480_h264_AAC_E7A2F6B9.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_06_[480p][F21716CD].mkv",
+                    "group": "Chibiki",
+                    "hash": "F21716CD",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_06_%5B480p%5D%5BF21716CD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_06_[720p][D0D8A938].mkv",
+                    "group": "Chibiki",
+                    "hash": "D0D8A938",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_06_%5B720p%5D%5BD0D8A938%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_06_[1280x720][D4AF7478].mkv",
+                    "group": "Nuke",
+                    "hash": "D4AF7478",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_06_%5B1280x720%5D%5BD4AF7478%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_06_[848x480][DEB90900].mkv",
+                    "group": "Nuke",
+                    "hash": "DEB90900",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_06_%5B848x480%5D%5BDEB90900%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242622",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242623",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-18T18:25:00",
+            "episode": 7,
+            "score": 6.9636634051,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_07_[480p][D37CC342].mkv",
+                    "group": "Chibiki",
+                    "hash": "D37CC342",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_07_%5B480p%5D%5BD37CC342%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_07_[720p][11B4A4B2].mkv",
+                    "group": "Chibiki",
+                    "hash": "11B4A4B2",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_07_%5B720p%5D%5B11B4A4B2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 07 (1280x720 h264 AAC) [2293FDE1].mkv",
+                    "group": "Doki",
+                    "hash": "2293FDE1",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_07_1280x720_h264_AAC_2293FDE1.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 07 (848x480 h264 AAC) [2DD37C83].mkv",
+                    "group": "Doki",
+                    "hash": "2DD37C83",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_07_848x480_h264_AAC_2DD37C83.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_07_[1280x720][2655BB3F].mkv",
+                    "group": "Nuke",
+                    "hash": "2655BB3F",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_07_%5B1280x720%5D%5B2655BB3F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 2,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_07_[848x480][FF7E5335].mkv",
+                    "group": "Nuke",
+                    "hash": "FF7E5335",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_07_%5B848x480%5D%5BFF7E5335%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244507",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244508",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-25T18:25:00",
+            "episode": 8,
+            "score": 7.0032931608,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 08 (1280x720 h264 AAC) [FF8B85DC].mkv",
+                    "group": "Doki",
+                    "hash": "FF8B85DC",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_08_1280x720_h264_AAC_FF8B85DC.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 08 (848x480 h264 AAC) [33D82994].mkv",
+                    "group": "Doki",
+                    "hash": "33D82994",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_08_848x480_h264_AAC_33D82994.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_08_[1280x720][1A1A4325].mkv",
+                    "group": "Nuke",
+                    "hash": "1A1A4325",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_08_%5B1280x720%5D%5B1A1A4325%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_08_[848x480][850D78C2].mkv",
+                    "group": "Nuke",
+                    "hash": "850D78C2",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_08_%5B848x480%5D%5B850D78C2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_08_[480p][D07AEB3D].mkv",
+                    "group": "Chibiki",
+                    "hash": "D07AEB3D",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_08_%5B480p%5D%5BD07AEB3D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_08_[720p][8486DF15].mkv",
+                    "group": "Chibiki",
+                    "hash": "8486DF15",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_08_%5B720p%5D%5B8486DF15%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246141",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246142",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-01T18:25:00",
+            "episode": 9,
+            "score": 7.0138670908,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 09 (1280x720 h264 AAC) [BF2DCCDB].mkv",
+                    "group": "Doki",
+                    "hash": "BF2DCCDB",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_09_1280x720_h264_AAC_BF2DCCDB.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 09 (848x480 h264 AAC) [D9475670].mkv",
+                    "group": "Doki",
+                    "hash": "D9475670",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_09_848x480_h264_AAC_D9475670.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_09_[480p][CA974DDA].mkv",
+                    "group": "Chibiki",
+                    "hash": "CA974DDA",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_09_%5B480p%5D%5BCA974DDA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_09_[720p][13BCD691].mkv",
+                    "group": "Chibiki",
+                    "hash": "13BCD691",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_09_%5B720p%5D%5B13BCD691%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_09_[1280x720][53192893].mkv",
+                    "group": "Nuke",
+                    "hash": "53192893",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_09_%5B1280x720%5D%5B53192893%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_09_[848x480][7F7F8A13].mkv",
+                    "group": "Nuke",
+                    "hash": "7F7F8A13",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_09_%5B848x480%5D%5B7F7F8A13%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247911",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247912",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-08T18:25:00",
+            "episode": 10,
+            "score": 7.0196084337,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 10 (1280x720 h264 AAC) [80B53F67].mkv",
+                    "group": "Doki",
+                    "hash": "80B53F67",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_10_1280x720_h264_AAC_80B53F67.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 10 (848x480 h264 AAC) [8417C8D2].mkv",
+                    "group": "Doki",
+                    "hash": "8417C8D2",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_10_848x480_h264_AAC_8417C8D2.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Alternate Preview 720p]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 10 (Alternate Preview 720p) [C8BD8C90].mkv",
+                    "group": "Doki",
+                    "hash": "C8BD8C90",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_10_Alternate_Preview_720p_C8BD8C90.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Alternate Preview 480p]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 10 (Alternate Preview 480p) [7EE21B21].mkv",
+                    "group": "Doki",
+                    "hash": "7EE21B21",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_10_Alternate_Preview_480p_7EE21B21.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_10_[480p][52B74250].mkv",
+                    "group": "Chibiki",
+                    "hash": "52B74250",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_10_%5B480p%5D%5B52B74250%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_10_[720p][BD6CFA2B].mkv",
+                    "group": "Chibiki",
+                    "hash": "BD6CFA2B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_10_%5B720p%5D%5BBD6CFA2B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_10_[1280x720][D7B5A741].mkv",
+                    "group": "Nuke",
+                    "hash": "D7B5A741",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_10_%5B1280x720%5D%5BD7B5A741%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_10_[848x480][4067F9BD].mkv",
+                    "group": "Nuke",
+                    "hash": "4067F9BD",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_10_%5B848x480%5D%5B4067F9BD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249594",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-15T18:25:00",
+            "episode": 11,
+            "score": 7.0273195021,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_11_[480p][4599CBFB].mkv",
+                    "group": "Chibiki",
+                    "hash": "4599CBFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245744",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_11_[720p][82145036].mkv",
+                    "group": "Chibiki",
+                    "hash": "82145036",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 11 (1280x720 h264 AAC) [6B5BE94A].mkv",
+                    "group": "Doki",
+                    "hash": "6B5BE94A",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_11_1280x720_h264_AAC_6B5BE94A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 11 (848x480 h264 AAC) [D91F126D].mkv",
+                    "group": "Doki",
+                    "hash": "D91F126D",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_11_848x480_h264_AAC_D91F126D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Alternate Preview 720p]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 11 (Alternate Preview 720p) [733DA75C].mkv",
+                    "group": "Doki",
+                    "hash": "733DA75C",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_11_Alternate_Preview_720p_733DA75C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Alternate Preview 480p]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 11 (Alternate Preview 480p) [13313847].mkv",
+                    "group": "Doki",
+                    "hash": "13313847",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_11_Alternate_Preview_480p_13313847.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][v2]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_11_[480p][v2][CD2976BC].mkv",
+                    "group": "Chibiki",
+                    "hash": "CD2976BC",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_11_%5B480p%5D%5Bv2%5D%5BCD2976BC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][v2]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_11_[720p][v2][4471D4D3].mkv",
+                    "group": "Chibiki",
+                    "hash": "4471D4D3",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_11_%5B720p%5D%5Bv2%5D%5B4471D4D3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_11_[848x480][BA648DF9].mkv",
+                    "group": "Nuke",
+                    "hash": "BA648DF9",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_11_%5B848x480%5D%5BBA648DF9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_11_[1280x720][4A8873F7].mkv",
+                    "group": "Nuke",
+                    "hash": "4A8873F7",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_11_%5B1280x720%5D%5B4A8873F7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251258",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251260",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-22T18:25:00",
+            "episode": 12,
+            "score": 7.0425761421,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 12 (1280x720 h264 AAC) [19D25D4C].mkv",
+                    "group": "Doki",
+                    "hash": "19D25D4C",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_12_1280x720_h264_AAC_19D25D4C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 12 (848x480 h264 AAC) [D8E4BA45].mkv",
+                    "group": "Doki",
+                    "hash": "D8E4BA45",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_12_848x480_h264_AAC_D8E4BA45.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] The iDOLM@STER - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_12_[480p][0F8ED6CE].mkv",
+                    "group": "Chibiki",
+                    "hash": "0F8ED6CE",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_12_%5B480p%5D%5B0F8ED6CE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_12_[720p][71ADE7A0].mkv",
+                    "group": "Chibiki",
+                    "hash": "71ADE7A0",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_12_%5B720p%5D%5B71ADE7A0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_12_[1280x720][3DBAC331].mkv",
+                    "group": "Nuke",
+                    "hash": "3DBAC331",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_12_%5B1280x720%5D%5B3DBAC331%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[Nuke]_THE_iDOLM@STER_-_12_[848x480][306652A7].mkv",
+                    "group": "Nuke",
+                    "hash": "306652A7",
+                    "url": "http://tracker.minglong.org/torrents/%5BNuke%5D_THE_iDOLM%40STER_-_12_%5B848x480%5D%5B306652A7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-29T18:25:00",
+            "episode": 13,
+            "score": 7.0633178342,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_13_[480p][2D5A2FCB].mkv",
+                    "group": "Chibiki",
+                    "hash": "2D5A2FCB",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_13_%5B480p%5D%5B2D5A2FCB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_13_[720p][6A9CED6A].mkv",
+                    "group": "Chibiki",
+                    "hash": "6A9CED6A",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_13_%5B720p%5D%5B6A9CED6A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Alternate Preview 720p]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 13 (Alternate Preview 720p) [5882F02A].mkv",
+                    "group": "Doki",
+                    "hash": "5882F02A",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_13_Alternate_Preview_720p_5882F02A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Alternate Preview 480p]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 13 (Alternate Preview 480p) [149ADCC3].mkv",
+                    "group": "Doki",
+                    "hash": "149ADCC3",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_13_Alternate_Preview_480p_149ADCC3.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 13 (848x480 h264 AAC) [3ECA19B3].mkv",
+                    "group": "Doki",
+                    "hash": "3ECA19B3",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_13_848x480_h264_AAC_3ECA19B3.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 13 (1280x720 h264 AAC) [5DF2F307].mkv",
+                    "group": "Doki",
+                    "hash": "5DF2F307",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_13_1280x720_h264_AAC_5DF2F307.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-06T18:25:00",
+            "episode": 14,
+            "score": 7.0709554441,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_14_[480p][08E669DC].mkv",
+                    "group": "Chibiki",
+                    "hash": "08E669DC",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_14_%5B480p%5D%5B08E669DC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_14_[720p][132A89C6].mkv",
+                    "group": "Chibiki",
+                    "hash": "132A89C6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_14_%5B720p%5D%5B132A89C6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 14 (848x480 h264 AAC) [8B902437].mkv",
+                    "group": "Doki",
+                    "hash": "8B902437",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_14_848x480_h264_AAC_8B902437.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 14 (1280x720 h264 AAC) [86A6C72B].mkv",
+                    "group": "Doki",
+                    "hash": "86A6C72B",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_14_1280x720_h264_AAC_86A6C72B.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-13T18:25:00",
+            "episode": 15,
+            "score": 7.0958604785,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 15 (848x480 h264 AAC) [1C4766AF].mkv",
+                    "group": "Doki",
+                    "hash": "1C4766AF",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_15_848x480_h264_AAC_1C4766AF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 15 (1280x720 h264 AAC) [7D4D56D7].mkv",
+                    "group": "Doki",
+                    "hash": "7D4D56D7",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_15_1280x720_h264_AAC_7D4D56D7.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Alternate Preview 480p]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 15 (Alternate Preview 480p) [C5ADC049].mkv",
+                    "group": "Doki",
+                    "hash": "C5ADC049",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_15_Alternate_Preview_480p_C5ADC049.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Alternate Preview 720p]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 15 (Alternate Preview 720p) [E3EAF73F].mkv",
+                    "group": "Doki",
+                    "hash": "E3EAF73F",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_15_Alternate_Preview_720p_E3EAF73F.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-20T18:25:00",
+            "episode": 16,
+            "score": 7.1048015873,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_16_[480p][F5528505].mkv",
+                    "group": "Chibiki",
+                    "hash": "F5528505",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_16_%5B480p%5D%5BF5528505%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_16_[720p][D7E9A705].mkv",
+                    "group": "Chibiki",
+                    "hash": "D7E9A705",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_16_%5B720p%5D%5BD7E9A705%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 16 (848x480 h264 AAC) [0CDFFD50].mkv",
+                    "group": "Doki",
+                    "hash": "0CDFFD50",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_16_848x480_h264_AAC_0CDFFD50.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 16 (1280x720 h264 AAC) [9CDE8A4C].mkv",
+                    "group": "Doki",
+                    "hash": "9CDE8A4C",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_16_1280x720_h264_AAC_9CDE8A4C.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-27T18:25:00",
+            "episode": 17,
+            "score": 7.1064647303,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_17_[480p][A3E93541].mkv",
+                    "group": "Chibiki",
+                    "hash": "A3E93541",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_17_%5B480p%5D%5BA3E93541%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_17_[720p][4103F6C6].mkv",
+                    "group": "Chibiki",
+                    "hash": "4103F6C6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_17_%5B720p%5D%5B4103F6C6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 17 (1280x720 h264 AAC) [B933D2B6].mkv",
+                    "group": "Doki",
+                    "hash": "B933D2B6",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_17_1280x720_h264_AAC_B933D2B6.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 17 (848x480 h264 AAC) [DC887BB6].mkv",
+                    "group": "Doki",
+                    "hash": "DC887BB6",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_17_848x480_h264_AAC_DC887BB6.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-03T17:25:00",
+            "episode": 18,
+            "score": 7.1104332521,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_18_[480p][CC91B033].mkv",
+                    "group": "Chibiki",
+                    "hash": "CC91B033",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_18_%5B480p%5D%5BCC91B033%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_18_[720p][212D3F2A].mkv",
+                    "group": "Chibiki",
+                    "hash": "212D3F2A",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_18_%5B720p%5D%5B212D3F2A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 18 (1280x720 h264 AAC) [3DD2D908].mkv",
+                    "group": "Doki",
+                    "hash": "3DD2D908",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_18_1280x720_h264_AAC_3DD2D908.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 18 (848x480 h264 AAC) [ACFE4124].mkv",
+                    "group": "Doki",
+                    "hash": "ACFE4124",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_18_848x480_h264_AAC_ACFE4124.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-10T17:25:00",
+            "episode": 19,
+            "score": 7.117191566,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_19_[480p][DA69B2BE].mkv",
+                    "group": "Chibiki",
+                    "hash": "DA69B2BE",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_19_%5B480p%5D%5BDA69B2BE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_19_[720p][3151F68B].mkv",
+                    "group": "Chibiki",
+                    "hash": "3151F68B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_19_%5B720p%5D%5B3151F68B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 19 (848x480 h264 AAC) [53FA7382].mkv",
+                    "group": "Doki",
+                    "hash": "53FA7382",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_19_848x480_h264_AAC_53FA7382.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 19 (1280x720 h264 AAC) [0A79AF6B].mkv",
+                    "group": "Doki",
+                    "hash": "0A79AF6B",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_19_1280x720_h264_AAC_0A79AF6B.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-17T17:25:00",
+            "episode": 20,
+            "score": 7.1561589537,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_20_[480p][C5F1454B].mkv",
+                    "group": "Chibiki",
+                    "hash": "C5F1454B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_20_%5B480p%5D%5BC5F1454B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_20_[720p][EA4ECCC9].mkv",
+                    "group": "Chibiki",
+                    "hash": "EA4ECCC9",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_20_%5B720p%5D%5BEA4ECCC9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] The iDOLM@STER - 20 (1280x720 h264 AAC) [250EF988].mkv",
+                    "group": "Doki",
+                    "hash": "250EF988",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_20_1280x720_h264_AAC_250EF988.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] The iDOLM@STER - 20 (848x480 h264 AAC) [8D658E2E].mkv",
+                    "group": "Doki",
+                    "hash": "8D658E2E",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_20_848x480_h264_AAC_8D658E2E.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-24T17:25:00",
+            "episode": 21,
+            "score": 7.168613788,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_21_[480p][8C4ABA96].mkv",
+                    "group": "Chibiki",
+                    "hash": "8C4ABA96",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_21_%5B480p%5D%5B8C4ABA96%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_21_[720p][90C46970].mkv",
+                    "group": "Chibiki",
+                    "hash": "90C46970",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_21_%5B720p%5D%5B90C46970%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 21 (848x480 h264 AAC) [87F9E39A].mkv",
+                    "group": "Doki",
+                    "hash": "87F9E39A",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_21_848x480_h264_AAC_87F9E39A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] The iDOLM@STER - 21 (1280x720 h264 AAC) [378C45A2].mkv",
+                    "group": "Doki",
+                    "hash": "378C45A2",
+                    "url": "http://tracker.anime-index.org/Doki_The_iDOLM@STER_-_21_1280x720_h264_AAC_378C45A2.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-01T17:25:00",
+            "episode": 22,
+            "score": 7.1978705541,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_22_[480p][3F1748ED].mkv",
+                    "group": "Chibiki",
+                    "hash": "3F1748ED",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_22_%5B480p%5D%5B3F1748ED%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_22_[720p][79227718].mkv",
+                    "group": "Chibiki",
+                    "hash": "79227718",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_22_%5B720p%5D%5B79227718%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-08T17:25:00",
+            "episode": 23,
+            "score": 7.217730742,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_23_[480p][09959398].mkv",
+                    "group": "Chibiki",
+                    "hash": "09959398",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_23_%5B480p%5D%5B09959398%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_23_[720p][C02ABDE5].mkv",
+                    "group": "Chibiki",
+                    "hash": "C02ABDE5",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_23_%5B720p%5D%5BC02ABDE5%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-15T17:25:00",
+            "episode": 24,
+            "score": 7.2510957081,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_24_[480p][F63314E4].mkv",
+                    "group": "Chibiki",
+                    "hash": "F63314E4",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_24_%5B480p%5D%5BF63314E4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_24_[720p][1C43D090].mkv",
+                    "group": "Chibiki",
+                    "hash": "1C43D090",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BChibiki%5D_THE_iDOLM%40STER_-_24_%5B720p%5D%5B1C43D090%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-22T17:25:00",
+            "episode": 25,
+            "score": 7.7294213923,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_25_[720p][C8DCD940].mkv",
+                    "group": "Chibiki",
+                    "hash": "C8DCD940",
+                    "url": "http://tracker.minglong.org/torrents/%5BChibiki%5D_THE_iDOLM%40STER_-_25_%5B720p%5D%5BC8DCD940%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[Chibiki]_THE_iDOLM@STER_-_25_[480p][100ED89B].mkv",
+                    "group": "Chibiki",
+                    "hash": "100ED89B",
+                    "url": "http://tracker.minglong.org/torrents/%5BChibiki%5D_THE_iDOLM%40STER_-_25_%5B480p%5D%5B100ED89B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 25,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8218,
+        "ann": 12436,
+        "mal": 10278,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ee5eae969b2be8e25a36a760881ce6ff.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bd15facb10ffa33704f2c1b321a194ae.jpg",
+            "hd": false
+        },
+        {
+            "description": "Temu to dobrze",
+            "filename": "http://s.modriv.net/abp/images/screencaps/117ccbfed9ca398dfc904c31bec20ede.jpg",
+            "hd": false
+        },
+        {
+            "description": "Idolki patrz?, jak czochrasz plusza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/158dfeda39a2b7a2428fdbe87697fe5f.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 The iDOLM@STER (????????) http://rdir.pl/1j6xui",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6499a3ada9b58cef3ed7a5a541cefb6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Idolki patrz?, jak holmsisz szerloka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3000bddb744a2b7de57489ceaa8b1b89.jpg",
+            "hd": false
+        },
+        {
+            "description": "Re?yserzy po obejrzeniu pierwszego odcinka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6e0f9b06bd7d092ce0a6e530641223db.jpg",
+            "hd": false
+        },
+        {
+            "description": "Porz?dna bluza ze stylowym napisem i wszystkie laski b?d? twoje",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b8b8e67563c00750334e996ecb6b6c4a.jpg",
+            "hd": false
+        },
+        {
+            "description": "dziewczyny zobaczy?y na w?asne oczy bogactwo jakie oferuje im pan producent",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a08da7b639b404f0b85d30dc0f2f63c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "bo fabu?a ka?dego #anime muzycznego pr?dzej czy p\u00f3?niej zejdzie na jedzenie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49cc09d18f8d7f21a2c9cd73dce44916.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/122a5b69602817c683f0957ba1de2350.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f2da9b1ed2d332426816a4a8b86173d7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/27a526d2d92d6a2c88f96875f98a8171.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a144202fffb11942ea67c122b0731fbc.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dat ass",
+            "filename": "http://s.modriv.net/abp/images/screencaps/940a6c54e12130614896c9647fcca0d9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6596ff25de41302efa8b3875dbcab6b1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/beadc2a4189ea95e7c84d0c942c96d79.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9c89fbf0fbc58cd068c6fda8289327f1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1732a37a81e8a41db7c81c8a60e62e82.jpg",
+            "hd": false
+        },
+        {
+            "description": "oczywi?cie nikt nie spodziewa? si? odcinka pla?owego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e78f104518d26a569ba6366c12e5c02c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Iori zda?a sobie spraw?, ?e ju? za 10 dni rozpoczyna si? rok szkolny",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2a313ae477a7e348a559ef938e24b221.jpg",
+            "hd": false
+        },
+        {
+            "description": "WF to powa?na sprawa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/deefc9bc431703754cb1a9584e4ae208.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5e5a919286aadcd1ff0c514cf695a96d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jestem poringiem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d649873f24f0e1e9b239991d350e4ca5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2921e509a72e765f62e37d1a15deec22.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c5144418aae4b21cd7aef3a25ab7f5c6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5c693e49d86db3ef88619619b68432b1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Okr?gowa Komisja Wyborcza w pocie czo?a liczy g?osy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e0bf8c06023e84857ba3fbde27d40c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e976d6892a24d6f45670fd25dbba0287.jpg",
+            "hd": false
+        },
+        {
+            "description": "w g\u0142\u0119bi duszy, ka\u017cdy kocha moe",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7affd550740dfa41c62121b958678e24.jpg",
+            "hd": false
+        },
+        {
+            "description": "Daj sera!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f255ffc69abff60a291112c42025cd1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1a28500059f3e3a9e57352d7d0960355.jpg",
+            "hd": false
+        },
+        {
+            "description": "Chihaya zda\u0142a sobie spraw\u0119, \u017ce ju\u017c nied\u0142ugo do miasta powr\u00f3ci konkurencja",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f2a6747604641e574269b6ffb2e9ef1b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ponczka?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4bfaf5feefbcdb95baa377070c9377d8.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "\u017bycie codzienne 12 idolek oraz zajmuj\u0105cych si\u0119 nimi pracownik\u00f3w pewnego studia.",
+            "type": "abp"
+        },
+        {
+            "content": "Anime adaptation of the Idolmaster series of games in which players assume the role of producers and lead the Idols under their care to fame and stardom.",
+            "type": "anidb"
+        },
+        {
+            "content": "The arduous struggle of the 13 girls from Talent Production 765 who dream of one day becoming idols in the competitive Japanese entertainment industry.",
+            "type": "ann"
+        },
+        {
+            "content": "Based on the XBOX 360 game The iDOLM@STER 2, The iDOLM@STER follows 13 aspiring idols aiming to reach their goals.",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 8496,
+            "date": "2012-09-29T13:35:50",
+            "score": 7.87,
+            "type": "mal"
+        },
+        {
+            "count": 465,
+            "date": "2012-09-29T13:35:50",
+            "score": 7.32,
+            "type": "anidb"
+        },
+        {
+            "count": 392,
+            "date": "2012-09-29T13:35:50",
+            "score": 7.379,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "The iDOLM@STER"
+}

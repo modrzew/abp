@@ -1,0 +1,66 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ea\u30f3\u30b0\u306b\u304b\u3051\u308d1 \u5f71\u9053\u7de8"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2010-04-01T17:00:00",
+            "episode": 1,
+            "score": 6.75,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-06T17:00:00",
+            "episode": 3,
+            "score": 7.0,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-03T17:00:00",
+            "episode": 5,
+            "score": 7.6938461538,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 6,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7274,
+        "ann": 11218,
+        "mal": 7793,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Kontynuacja Ring ni Kakero 1: Nichibei Kessen Hen, czyli kontynuacji Ring ni Kakero 1.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 68,
+            "date": "2012-09-29T02:47:32",
+            "score": 6.9,
+            "type": "mal"
+        },
+        {
+            "count": 25,
+            "date": "2012-09-29T02:47:32",
+            "score": 7.889,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "Ring ni Kakero 1: Nichibei Kessen Hen",
+    "title": "Ring ni Kakero 1: Kage Dou Hen"
+}

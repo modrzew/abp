@@ -1,0 +1,570 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30cf\u30de\u30c8\u30e9"
+        }
+    ],
+    "aliases": [
+        "Hamatora"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-01-07T17:40:00",
+            "episode": 1,
+            "score": 6.54,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hamatora - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509585",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hamatora - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] Hamatora - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509595",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Hamatora - 01 [h264-720p][B8E1BB68].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "B8E1BB68",
+                    "url": "http://www.nyaa.se/?page=download&tid=510517",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Hamatora - 01v2 [h264-720p][6E4D382C].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "6E4D382C",
+                    "url": "http://www.nyaa.se/?page=download&tid=515107",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2014-01-14T17:40:00",
+            "episode": 2,
+            "score": 6.59,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hamatora - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512208",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Hamatora - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hamatora - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512225",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-21T17:40:00",
+            "episode": 3,
+            "score": 6.61,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hamatora - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Hamatora - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514780",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hamatora - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514799",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Hamatora - 03 [h264-720p][4352C31D].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "4352C31D",
+                    "url": "http://www.nyaa.se/?page=download&tid=515181",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-28T17:40:00",
+            "episode": 4,
+            "score": 6.66,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hamatora - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Hamatora - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517367",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hamatora - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517372",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Hamatora - 04 [h264-720p][C61CEFA0].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "C61CEFA0",
+                    "url": "http://www.nyaa.se/?page=download&tid=517777",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-04T17:40:00",
+            "episode": 5,
+            "score": 6.1877934272,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hamatora - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Hamatora - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519864",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hamatora - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Hamatora - 05 [h264-720p][35947BAD].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "35947BAD",
+                    "url": "http://www.nyaa.se/?page=download&tid=520194",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-11T17:40:00",
+            "episode": 6,
+            "score": 6.2104615385,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hamatora - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522101",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Hamatora - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522102",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hamatora - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Hamatora - 06 [h264-720p][4016254E].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "4016254E",
+                    "url": "http://www.nyaa.se/?page=download&tid=522300",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-18T17:50:00",
+            "episode": 7,
+            "score": 6.1244468085,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hamatora - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524488",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hamatora - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524489",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Hamatora - 07 [h264-720p][32AA5540].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "32AA5540",
+                    "url": "http://www.nyaa.se/?page=download&tid=524647",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hamatora - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=524479",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-25T17:40:00",
+            "episode": 8,
+            "score": 6.1885020243,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hamatora - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526790",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Hamatora - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526793",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hamatora - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Hamatora - 08 [h264-720p][4C11A258].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "4C11A258",
+                    "url": "http://www.nyaa.se/?page=download&tid=527013",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-04T17:40:00",
+            "episode": 9,
+            "score": 6.1493869732,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hamatora - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529179",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hamatora - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529182",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hamatora - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529185",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Hamatora - 09 [h264-720p][2956DFD5].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "2956DFD5",
+                    "url": "http://www.nyaa.se/?page=download&tid=529365",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-11T17:40:00",
+            "episode": 10,
+            "score": 6.146741573,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hamatora - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531574",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hamatora - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hamatora - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531576",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Hamatora - 10 [h264-720p][36B2E321].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "36B2E321",
+                    "url": "http://www.nyaa.se/?page=download&tid=531735",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-18T17:40:00",
+            "episode": 11,
+            "score": 6.2085107914,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hamatora - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533734",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hamatora - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533735",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hamatora - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533737",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Hamatora - 11 [h264-720p][49E50675].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "49E50675",
+                    "url": "http://www.nyaa.se/?page=download&tid=533867",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-25T17:40:00",
+            "episode": 12,
+            "score": 6.5229411765,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hamatora - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536073",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Hamatora - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536074",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hamatora - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536076",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Hamatora - 12 [h264-720p][A16E8E42].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "A16E8E42",
+                    "url": "http://www.nyaa.se/?page=download&tid=536237",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10169,
+        "ann": 15752,
+        "mal": 20689,
+        "schedule": 3267
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "\"Minimum\" - a special inborn power found in a limited number of human beings, known as \"minimum holders.\" In Yokohama, the detective team Hamatora, formed by two minimum holders named Nice and Murasaki, comes across information connected to a serial killer being pursued by their old friend Art. It turns out all the victims are minimum holders like them. Unwillingly at first, the two detectives become involved in the investigation.",
+            "type": "ann"
+        },
+        {
+            "content": "\"Minimum\" - a special inborn power found in a limited number of human beings, known as \"minimum holders.\" In Yokohama, the detective team Hamatora, formed by two minimum holders named Nice and Murasaki, comes across information connected to a serial killer being pursued by their old friend Art. It turns out all the victims are minimum holders like them. Unwillingly at first, the two detectives become involved in the investigation.Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 313,
+            "date": "2014-04-15T06:33:01",
+            "score": 6.31,
+            "type": "anidb"
+        },
+        {
+            "count": 261,
+            "date": "2014-04-15T06:33:01",
+            "score": 6.726,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Hamatora"
+}

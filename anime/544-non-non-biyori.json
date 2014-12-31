@@ -1,0 +1,782 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u306e\u3093\u306e\u3093\u3073\u3088\u308a"
+        },
+        {
+            "language": "pl",
+            "title": "Nieniepi\u0119kna pogoda"
+        }
+    ],
+    "aliases": [
+        "Non Non Biyori"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-07T19:05:00",
+            "episode": 1,
+            "score": 7.3403772003,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Non Non Biyori - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480757",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 17,
+                    "filename": "[HorribleSubs] Non Non Biyori - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Non Non Biyori - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480766",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_01_[480p][3E6DE923].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "3E6DE923",
+                    "url": "http://www.nyaa.se/?page=download&tid=482958",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_01_[720p][679A3D0D].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "679A3D0D",
+                    "url": "http://www.nyaa.se/?page=download&tid=482959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Non Non Biyori - 01 [578B3C97].mkv",
+                    "group": "FFF",
+                    "hash": "578B3C97",
+                    "url": "http://www.nyaa.se/?page=download&tid=488630",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-14T19:35:00",
+            "episode": 2,
+            "score": 7.4103915171,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Non Non Biyori - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483049",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Non Non Biyori - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483056",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483064",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Anonnonsubs]Non Non Biyori - 02 [720p][8F33082D].mkv",
+                    "group": "Anonnonsubs",
+                    "hash": "8F33082D",
+                    "url": "http://www.nyaa.se/?page=download&tid=483351",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_02_[480p][A213F8D8].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "A213F8D8",
+                    "url": "http://www.nyaa.se/?page=download&tid=485384",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_02_[720p][6F79FA4C].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "6F79FA4C",
+                    "url": "http://www.nyaa.se/?page=download&tid=485386",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_02_[720p][B60CA2D3].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "B60CA2D3",
+                    "url": "http://www.nyaa.se/?page=download&tid=485408",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Non Non Biyori - 02 [356A6A2A].mkv",
+                    "group": "FFF",
+                    "hash": "356A6A2A",
+                    "url": "http://www.nyaa.se/?page=download&tid=488644",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-21T19:05:00",
+            "episode": 3,
+            "score": 7.4093085847,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485301",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Non Non Biyori - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485303",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485305",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_03_[480p][581A428C].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "581A428C",
+                    "url": "http://www.nyaa.se/?page=download&tid=487800",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_03_[720p][B958246D].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "B958246D",
+                    "url": "http://www.nyaa.se/?page=download&tid=487801",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Non Non Biyori - 03 [1F1A4DF5].mkv",
+                    "group": "FFF",
+                    "hash": "1F1A4DF5",
+                    "url": "http://www.nyaa.se/?page=download&tid=491296",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-28T18:05:00",
+            "episode": 4,
+            "score": 7.28,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Non Non Biyori - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487704",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Non Non Biyori - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487709",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_04_[480p][D8658E30].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "D8658E30",
+                    "url": "http://www.nyaa.se/?page=download&tid=490832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_04_[720p][639DABC2].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "639DABC2",
+                    "url": "http://www.nyaa.se/?page=download&tid=490833",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Non Non Biyori - 04 [A61C9B09].mkv",
+                    "group": "FFF",
+                    "hash": "A61C9B09",
+                    "url": "http://www.nyaa.se/?page=download&tid=493204",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-04T18:05:00",
+            "episode": 5,
+            "score": 6.7867333333,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490034",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Non Non Biyori - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490035",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Non Non Biyori - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490036",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_05_[720p][D30DA563].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "D30DA563",
+                    "url": "http://www.nyaa.se/?page=download&tid=492174",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_05_[480p][C170B654].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "C170B654",
+                    "url": "http://www.nyaa.se/?page=download&tid=492175",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Non Non Biyori - 05 [D276EB2F].mkv",
+                    "group": "FFF",
+                    "hash": "D276EB2F",
+                    "url": "http://www.nyaa.se/?page=download&tid=495108",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-11T18:05:00",
+            "episode": 6,
+            "score": 6.94078125,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Non Non Biyori - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492245",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Non Non Biyori - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492262",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_06_[480p][F309E760].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "F309E760",
+                    "url": "http://www.nyaa.se/?page=download&tid=493653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_06_[720p][32388C82].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "32388C82",
+                    "url": "http://www.nyaa.se/?page=download&tid=493654",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Non Non Biyori - 06 [6B5271CF].mkv",
+                    "group": "FFF",
+                    "hash": "6B5271CF",
+                    "url": "http://www.nyaa.se/?page=download&tid=497861",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-18T18:05:00",
+            "episode": 7,
+            "score": 6.8728695652,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Non Non Biyori - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Non Non Biyori - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_07_[480p][E5625482].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "E5625482",
+                    "url": "http://www.nyaa.se/?page=download&tid=496282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_07_[720p][C42036ED].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "C42036ED",
+                    "url": "http://www.nyaa.se/?page=download&tid=496285",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Non Non Biyori - 07 [C8B42570].mkv",
+                    "group": "FFF",
+                    "hash": "C8B42570",
+                    "url": "http://www.nyaa.se/?page=download&tid=503585",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-25T18:35:00",
+            "episode": 8,
+            "score": 7.0278064516,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496752",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Non Non Biyori - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496754",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Non Non Biyori - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_08_[720p][FF00A6D0].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "FF00A6D0",
+                    "url": "http://www.nyaa.se/?page=download&tid=498071",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_08_[480p][81A17CD0].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "81A17CD0",
+                    "url": "http://www.nyaa.se/?page=download&tid=498070",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Non Non Biyori - 08 [6695544B].mkv",
+                    "group": "FFF",
+                    "hash": "6695544B",
+                    "url": "http://www.nyaa.se/?page=download&tid=506304",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-02T18:05:00",
+            "episode": 9,
+            "score": 7.0028348214,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498894",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Non Non Biyori - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498895",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Non Non Biyori - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498899",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_09_[720p][CBBE26CF].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "CBBE26CF",
+                    "url": "http://www.nyaa.se/?page=download&tid=499822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_09_[480p][98AFEC0D].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "98AFEC0D",
+                    "url": "http://www.nyaa.se/?page=download&tid=499821",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-09T18:05:00",
+            "episode": 10,
+            "score": 7.054952381,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Non Non Biyori - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501017",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Non Non Biyori - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_10_[480p][80A56BAD].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "80A56BAD",
+                    "url": "http://www.nyaa.se/?page=download&tid=502340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_10_[720p][86DF86BF].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "86DF86BF",
+                    "url": "http://www.nyaa.se/?page=download&tid=502341",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-16T18:05:00",
+            "episode": 11,
+            "score": 7.1334156379,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503131",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Non Non Biyori - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503132",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Non Non Biyori - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503134",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_11_[480p][192D52BC].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "192D52BC",
+                    "url": "http://www.nyaa.se/?page=download&tid=503756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_11_[720p][C42BAE03].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "C42BAE03",
+                    "url": "http://www.nyaa.se/?page=download&tid=503757",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-23T18:30:00",
+            "episode": 12,
+            "score": 7.5743522976,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505338",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Non Non Biyori - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Non Non Biyori - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_12_[480p][C5DD53D0].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "C5DD53D0",
+                    "url": "http://www.nyaa.se/?page=download&tid=505855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[m.3.3.w]_Non_Non_Biyori_-_12_[720p][7EF05B45].mkv",
+                    "group": "m.3.3.w",
+                    "hash": "7EF05B45",
+                    "url": "http://www.nyaa.se/?page=download&tid=505856",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 9722,
+        "ann": 15149,
+        "mal": 17549,
+        "schedule": 3137
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Elementary school student Hotaru Ichijou has moved with her parents from Tokyo to the middle of the country. Now she must adapt to her new school, where there are a total of 5 students in the same class who range through elementary and middle school ages. Join their everyday adventures in the countryside.",
+            "type": "mal"
+        },
+        {
+            "content": "Asahioka Branch School, a combined elementary and middle school in an isolated village, has only five students total, four girls and one boy. The girls are best friends, and pass the season with traditional activities like harvesting mountain herbs and fishing.",
+            "type": "ann"
+        },
+        {
+            "content": "Note: The first episode was pre-aired at a special event on 01.09.2013, regular TV broadcast started on 08.10.2013.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2091,
+            "date": "2013-10-27T07:35:07",
+            "score": 7.42,
+            "type": "mal"
+        },
+        {
+            "count": 357,
+            "date": "2014-01-13T07:32:34",
+            "score": 7.74,
+            "type": "anidb"
+        },
+        {
+            "count": 217,
+            "date": "2014-01-13T07:32:34",
+            "score": 7.528,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Non Non Biyori"
+}

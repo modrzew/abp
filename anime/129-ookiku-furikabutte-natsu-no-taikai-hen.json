@@ -1,0 +1,136 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u304a\u304a\u304d\u304f\u632f\u308a\u304b\u3076\u3063\u3066\u3000\u301c\u590f\u306e\u5927\u4f1a\u7de8\u301c"
+        },
+        {
+            "language": "short",
+            "title": "Big Windup! 2"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2010-04-01T18:25:00",
+            "episode": 1,
+            "score": 7.5525,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-08T18:25:00",
+            "episode": 2,
+            "score": 8.155045045,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-15T18:25:00",
+            "episode": 3,
+            "score": 8.2414689265,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-22T18:25:00",
+            "episode": 4,
+            "score": 8.2822596154,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-29T18:25:00",
+            "episode": 5,
+            "score": 8.2970711297,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-06T18:25:00",
+            "episode": 6,
+            "score": 8.3051126517,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-13T18:25:00",
+            "episode": 7,
+            "score": 8.2889244373,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-20T18:25:00",
+            "episode": 8,
+            "score": 8.3263742515,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-27T18:25:00",
+            "episode": 9,
+            "score": 8.3620672269,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-03T18:25:00",
+            "episode": 10,
+            "score": 8.3968874346,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-10T18:25:00",
+            "episode": 11,
+            "score": 8.4136991261,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-17T18:25:00",
+            "episode": 12,
+            "score": 8.471504,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-24T18:25:00",
+            "episode": 13,
+            "score": 8.3952436548,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7291,
+        "ann": 11227,
+        "mal": 7720,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Sequel Ookiku Furikabutte.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3719,
+            "date": "2012-09-29T02:46:07",
+            "score": 8.37,
+            "type": "mal"
+        },
+        {
+            "count": 490,
+            "date": "2012-09-29T02:46:07",
+            "score": 8.11,
+            "type": "anidb"
+        },
+        {
+            "count": 248,
+            "date": "2012-09-29T02:46:07",
+            "score": 8.228,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "Ookiku Furikabutte",
+    "title": "Ookiku Furikabutte ~Natsu no Taikai-hen~"
+}

@@ -1,0 +1,61 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d8\u30a4\u30ed\u30fc\u30fb\u30ec\u30b8\u30a7\u30f3\u30ba"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 7,
+    "episodes_length": 15,
+    "external_sites": {
+        "anidb": 6748,
+        "ann": 11372,
+        "mal": 6867,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* The omnibus film contains eight short anime segments from production studios Bones (Prototype), Casio Entertainment (The Package), Production I.G (The Duel), Bee Train (Homecoming), Studio 4\u00b0C (Origins, The Babysitter), and Toei Animation (Odd One Out).Prototype (13 minutes \u2014 animation by Studios Bones) \u2014 Troubled by his inability to protect the junior members of his strike team, the sole survivor of the mission is still haunted by terrible nightmares. Assigned to a new unit, sergeant Ghost finds himself caught up in a bloody offensive by the Covenant. In desperation, he defies his mission orders and uses a prototype armoured-suit to provide covering fire to allow the rest of his team to withdraw safely. But his orders are for him to destroy the suit and he does not intend to disobey...The Package (14 minutes \u2014 animation by Casio Entertainment) \u2014 A small group of genetically enhanced soldiers known as Spartans are sent on a near impossible mission to recover an important item known as \"the package\" that is hidden somewhere within a Covenant fleet.The Duel (15 minutes \u2014 animation by Production I.G) \u2014 A soldier of the Covenant questions the actions of the elders and finds himself accused of dissension and branded as a traitor. With only his honour to guide him, he finds himself battling members of his tribe while remembering the troubling events that led him to this situation.Homecoming (15 minutes \u2014 animation by Production I.G) \u2014 While defending the battered remnants of a distant colony, a group of soldiers are surrounded by Covenant forces and face defeat, only to find themselves rescued by a Spartan warrior. The story of their desperate withdrawal is broken by flashbacks of how the Spartan warrior came to be assigned such a hopeless mission.Origins I (10+ minutes, animation by Studio 4\u00b0C) \u2014 A researcher studying some ancient ruins files a report that tells of how one hundred thousand years ago, an ancient race known only as the Forerunners found themselves facing an enemy they called the Flood. The Flood behaved like a virus, feeding on sentient life and was apparently unstoppable. Facing their imminent defeat, they created a terrible weapon called the HALO and set in motion a number of events that would one day give rise to the other races.Origins II (12+ minutes \u2014 animation by Studio 4\u00b0C) \u2014 The rise of humanity and their ability to travel the stars has not settled their disharmony and aggressiveness. Only when confronted with destruction by an alien enemy called the Covenant do they find a unity of purpose, as they struggle to protect and preserve the human race. But the rise of an ancient enemy soon overshadows the differences between Humanity and the Covenant, and forces the two races to share a common goal.Odd One Out (11+ minutes \u2014 animation by Toei Animation) \u2014 A Spartan solder named 1337 becomes stranded on an isolated planet where he encounters a group of human kids and has to fight off a Covenant super warrior.The Babysitter (18+ minutes \u2014 animation by Studio 4\u00b0C) \u2014 An elite ODST team is tasked with infiltrating a Covenant controlled planet and assassinating a Covenant Profit (or leader), but they are unhappy that the strike will be under the command of a newly assigned Spartan.Note: Several episodes were initially aired on Halo Waypoint (a central hub for Halo content on Xbox Live) as a promotion prior to the DVD/BD release on 16.02.2010. These episodes were The Babysitter, The Duel, The Package (aired in 2 parts on different dates) and Origins I. The episode ordering was different on the DVD/BD release.",
+            "type": "anidb"
+        },
+        {
+            "content": "This sweeping science-fiction saga delves into the rich Halo universe with 7 exciting stories including tales of Master Chief&#039;s mysterious origins, the Spartans&#039; advanced combat capabilities and the tense rivalry between Spartans and Orbital Drop Shock Troopers (ODSTs).      (Source: Warnervideo.com)    Note: Since The Package aired in two parts on Halo Waypoint and Origins has two parts the total number of episodes is 9 for the 7 stories. 5 of the 9 episodes aired online, making Halo Legends technically an ONA. See here for the episode order.",
+            "type": "mal"
+        },
+        {
+            "content": "An anthology collection of seven stories from the Halo Universe.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5729,
+            "date": "2012-09-29T02:43:30",
+            "score": 7.33,
+            "type": "mal"
+        },
+        {
+            "count": 526,
+            "date": "2012-09-29T02:43:30",
+            "score": 7.12,
+            "type": "anidb"
+        },
+        {
+            "count": 328,
+            "date": "2012-09-29T02:43:30",
+            "score": 6.701,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Halo Legends"
+}

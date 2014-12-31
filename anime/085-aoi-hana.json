@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u9752\u3044\u82b1"
+        },
+        {
+            "language": "pl",
+            "title": "Niebieski Kwiat"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 11,
+    "episodes_length": 22,
+    "external_sites": {
+        "anidb": 6443,
+        "ann": 10672,
+        "mal": 6164,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Shimura Takako's Aoi Hana yuri manga has been running in Ohta Books' Manga Erotics F magazine since 2004, and three volumes have been compiled and published.Fumi and Akira were close childhood friends until Fumi had to move away. Ten years after losing touch with each other, the two girls meet again as high school freshmen. The two struggle to reconnect after so much has changed, and both deal with the trials and tribulations of high school \u2014 sometimes independently and sometimes with each other's help.",
+            "type": "anidb"
+        },
+        {
+            "content": "In the original manga&rsquo;s story, Fumi and Akira were close childhood friends until Fumi had to move away. Ten years after losing touch with each other, the two girls meet again as high school freshmen. The two struggle to reconnect after so much has changed, and both deal with the trials and tribulations of high school &mdash; sometimes independently and sometimes with each other&rsquo;s help.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "Fumi Manjoume, an introverted, bookish teenage girl, is beginning her first year of high school at Matsuoka Girls' High School. She enters the school year with her heart broken by a previous relationship. At about the same time, she reconnects with her best friend from ten years ago, Akira Okudaira, who is now attending Fujigatani Girls' Academy as a first-year high school student. As they reconnect, they both deal with their own respective romantic problems, and help each other get through them.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 8353,
+            "date": "2012-09-29T02:35:56",
+            "score": 7.45,
+            "type": "mal"
+        },
+        {
+            "count": 1114,
+            "date": "2012-09-29T02:35:56",
+            "score": 7.56,
+            "type": "anidb"
+        },
+        {
+            "count": 710,
+            "date": "2012-09-29T02:35:56",
+            "score": 7.701,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Aoi Hana"
+}

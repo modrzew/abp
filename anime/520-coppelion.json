@@ -1,0 +1,843 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b3\u30c3\u30da\u30ea\u30aa\u30f3"
+        },
+        {
+            "language": "pl",
+            "title": "Miezianin"
+        }
+    ],
+    "aliases": [
+        "Coppelion"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-02T14:00:00",
+            "episode": 1,
+            "score": 7.2966874469,
+            "torrents": [
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Coppelion - 01 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478908",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Coppelion - 01 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&3967",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Coppelion - 01 [h264-720p][B367B20C].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "B367B20C",
+                    "url": "http://www.nyaa.se/?page=download&tid=479002",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Coppelion - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=479008",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[576p]",
+                    "download_count": 0,
+                    "filename": "[ephemera] Coppelion - 01 [576p].mkv",
+                    "group": "ephemera",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=479136",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid] Coppelion - 01 [934F46E0].mkv",
+                    "group": "Vivid",
+                    "hash": "934F46E0",
+                    "url": "http://www.nyaa.se/?page=download&tid=479653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion - 01 [2B0EB074].mkv",
+                    "group": "EveTaku",
+                    "hash": "2B0EB074",
+                    "url": "http://www.nyaa.se/?page=download&tid=480083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Coppelion - 01v2 [720p-Hi10P][1396C2E3].mkv",
+                    "group": "EveTaku",
+                    "hash": "1396C2E3",
+                    "url": "http://www.nyaa.se/?page=download&tid=480485",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-10-09T14:00:00",
+            "episode": 2,
+            "score": 7.1743214141,
+            "torrents": [
+                {
+                    "additional_info": "[576p]",
+                    "download_count": 2,
+                    "filename": "[ephemera] Coppelion - 02 [576p].mkv",
+                    "group": "ephemera",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481305",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Coppelion - 02 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481330",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Coppelion - 02 [h264-720p][08A06DCC].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "08A06DCC",
+                    "url": "http://www.nyaa.se/?page=download&tid=481359",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Coppelion - 02 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&3995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Coppelion - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid] Coppelion - 02 [A11B1101].mkv",
+                    "group": "Vivid",
+                    "hash": "A11B1101",
+                    "url": "http://www.nyaa.se/?page=download&tid=482070",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 02 [720p-Hi10P] [A4DAC21D].mkv",
+                    "group": "EveTaku",
+                    "hash": "A4DAC21D",
+                    "url": "http://www.nyaa.se/?page=download&tid=482599",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Coppelion 02v2 [720p-Hi10P] [FFC73170].mkv",
+                    "group": "EveTaku",
+                    "hash": "FFC73170",
+                    "url": "http://www.nyaa.se/?page=download&tid=484474",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-10-16T14:00:00",
+            "episode": 3,
+            "score": 7.1107404645,
+            "torrents": [
+                {
+                    "additional_info": "[576p]",
+                    "download_count": 1,
+                    "filename": "[ephemera] Coppelion - 03 [576p].mkv",
+                    "group": "ephemera",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483500",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Coppelion - 03v2 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483558",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Coppelion - 03 [h264-720p][212D2613].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "212D2613",
+                    "url": "http://www.nyaa.se/?page=download&tid=483627",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid] Coppelion - 03 [42A3373E].mkv",
+                    "group": "Vivid",
+                    "hash": "42A3373E",
+                    "url": "http://www.nyaa.se/?page=download&tid=484250",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 03 [720p-Hi10P] [16A7AFB9].mkv",
+                    "group": "EveTaku",
+                    "hash": "16A7AFB9",
+                    "url": "http://www.nyaa.se/?page=download&tid=485385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Coppelion 03v2 [720p-Hi10P] [58978163].mkv",
+                    "group": "EveTaku",
+                    "hash": "58978163",
+                    "url": "http://www.nyaa.se/?page=download&tid=485431",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 03 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486741",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-23T14:00:00",
+            "episode": 4,
+            "score": 6.2202477064,
+            "torrents": [
+                {
+                    "additional_info": "[576p]",
+                    "download_count": 2,
+                    "filename": "[ephemera] Coppelion - 04 [576p].mkv",
+                    "group": "ephemera",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485846",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Coppelion - 04 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Coppelion - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=485958",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Coppelion - 04 [h264-720p][00DFE554].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "00DFE554",
+                    "url": "http://www.nyaa.se/?page=download&tid=486067",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Vivid] Coppelion - 04 [7E735FD3].mkv",
+                    "group": "Vivid",
+                    "hash": "7E735FD3",
+                    "url": "http://www.nyaa.se/?page=download&tid=486680",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] Coppelion 04 [720p-Hi10P] [AFF0D415].mkv",
+                    "group": "EveTaku",
+                    "hash": "AFF0D415",
+                    "url": "http://www.nyaa.se/?page=download&tid=487810",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-30T13:00:00",
+            "episode": 5,
+            "score": 6.2312443182,
+            "torrents": [
+                {
+                    "additional_info": "[576p]",
+                    "download_count": 1,
+                    "filename": "[ephemera] Coppelion - 05 [576p].mkv",
+                    "group": "ephemera",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488157",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Coppelion - 05 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488236",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Coppelion - 05 [h264-720p][919308EE].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "919308EE",
+                    "url": "http://www.nyaa.se/?page=download&tid=488278",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Coppelion - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488711",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Coppelion - 05 [A98F8078].mkv",
+                    "group": "Vivid",
+                    "hash": "A98F8078",
+                    "url": "http://www.nyaa.se/?page=download&tid=489022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 05 [720p-Hi10P] [21B0DD9A].mkv",
+                    "group": "EveTaku",
+                    "hash": "21B0DD9A",
+                    "url": "http://www.nyaa.se/?page=download&tid=492588",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-06T13:00:00",
+            "episode": 6,
+            "score": 6.213627027,
+            "torrents": [
+                {
+                    "additional_info": "[576p]",
+                    "download_count": 0,
+                    "filename": "[ephemera] Coppelion - 06 [576p].mkv",
+                    "group": "ephemera",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490375",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Coppelion - 06 [h264-720p][3F0E79EC].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "3F0E79EC",
+                    "url": "http://www.nyaa.se/?page=download&tid=490590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 06 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Coppelion - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490671",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Coppelion - 06 [7BDE6744].mkv",
+                    "group": "Vivid",
+                    "hash": "7BDE6744",
+                    "url": "http://www.nyaa.se/?page=download&tid=491195",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 06 [720p-Hi10P] [101794C2].mkv",
+                    "group": "EveTaku",
+                    "hash": "101794C2",
+                    "url": "http://www.nyaa.se/?page=download&tid=494405",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-13T13:00:00",
+            "episode": 7,
+            "score": 6.352124031,
+            "torrents": [
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 07 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492752",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Coppelion - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=492753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Vivid] Coppelion - 07 [914F7ECB].mkv",
+                    "group": "Vivid",
+                    "hash": "914F7ECB",
+                    "url": "http://www.nyaa.se/?page=download&tid=493515",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Coppelion - 07 [h264-720p][2C64136E].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "2C64136E",
+                    "url": "http://www.nyaa.se/?page=download&tid=494932",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 07 [720p-Hi10P] [F8DDD9DC].mkv",
+                    "group": "EveTaku",
+                    "hash": "F8DDD9DC",
+                    "url": "http://www.nyaa.se/?page=download&tid=497098",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-20T13:00:00",
+            "episode": 8,
+            "score": 6.3025204819,
+            "torrents": [
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 08 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Coppelion - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Coppelion - 08 [h264-720p][15A08442].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "15A08442",
+                    "url": "http://www.nyaa.se/?page=download&tid=495016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Coppelion - 08 [CB92ACB9].mkv",
+                    "group": "Vivid",
+                    "hash": "CB92ACB9",
+                    "url": "http://www.nyaa.se/?page=download&tid=495645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 08 [720p-Hi10P] [417BADA5].mkv",
+                    "group": "EveTaku",
+                    "hash": "417BADA5",
+                    "url": "http://www.nyaa.se/?page=download&tid=500399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 08v2 [720p-Hi10P] [837C695A].mkv",
+                    "group": "EveTaku",
+                    "hash": "837C695A",
+                    "url": "http://www.nyaa.se/?page=download&tid=500693",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-11-27T13:00:00",
+            "episode": 9,
+            "score": 6.205915493,
+            "torrents": [
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 09 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Coppelion - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Coppelion - 09 [h264-720p][91DA2940].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "91DA2940",
+                    "url": "http://www.nyaa.se/?page=download&tid=497324",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Coppelion - 09 [47619D7D].mkv",
+                    "group": "Vivid",
+                    "hash": "47619D7D",
+                    "url": "http://www.nyaa.se/?page=download&tid=498020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 09 [720p-Hi10P] [A31F955C].mkv",
+                    "group": "EveTaku",
+                    "hash": "A31F955C",
+                    "url": "http://www.nyaa.se/?page=download&tid=503484",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-04T13:00:00",
+            "episode": 10,
+            "score": 6.1479034483,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Coppelion - 10 [h264-720p][270863FE].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "270863FE",
+                    "url": "http://www.nyaa.se/?page=download&tid=499448",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 10 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499502",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Coppelion - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499503",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Coppelion - 10 [327D439E].mkv",
+                    "group": "Vivid",
+                    "hash": "327D439E",
+                    "url": "http://www.nyaa.se/?page=download&tid=500052",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 10 [720p-Hi10P] [8FB5977A].mkv",
+                    "group": "EveTaku",
+                    "hash": "8FB5977A",
+                    "url": "http://www.nyaa.se/?page=download&tid=507419",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-11T13:00:00",
+            "episode": 11,
+            "score": 6.1690719101,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Coppelion - 11 [h264-720p][5067E12C].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "5067E12C",
+                    "url": "http://www.nyaa.se/?page=download&tid=501566",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 11 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501585",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Coppelion - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501586",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Coppelion - 11 [A716A7E1].mkv",
+                    "group": "Vivid",
+                    "hash": "A716A7E1",
+                    "url": "http://www.nyaa.se/?page=download&tid=502226",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 11 [720p-Hi10P] [60DB8471].mkv",
+                    "group": "EveTaku",
+                    "hash": "60DB8471",
+                    "url": "http://www.nyaa.se/?page=download&tid=510441",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-18T13:00:00",
+            "episode": 12,
+            "score": 6.1476844106,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Coppelion - 12 [h264-720p][ADC8A5AF].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "ADC8A5AF",
+                    "url": "http://www.nyaa.se/?page=download&tid=503643",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 12 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503648",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Coppelion - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503649",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Coppelion - 12 [29CF0BCE].mkv",
+                    "group": "Vivid",
+                    "hash": "29CF0BCE",
+                    "url": "http://www.nyaa.se/?page=download&tid=504392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-Hi10P]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] Coppelion 12 [720p-Hi10P] [FD62FDC3].mkv",
+                    "group": "EveTaku",
+                    "hash": "FD62FDC3",
+                    "url": "http://www.nyaa.se/?page=download&tid=511162",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-25T13:00:00",
+            "episode": 13,
+            "score": 6.1729531915,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Coppelion - 13 [h264-720p][0FD07859].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "0FD07859",
+                    "url": "http://www.nyaa.se/?page=download&tid=505972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[400p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Coppelion - 13 [400p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Coppelion - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Coppelion - 13 [855444EE].mkv",
+                    "group": "Vivid",
+                    "hash": "855444EE",
+                    "url": "http://www.nyaa.se/?page=download&tid=506453",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7933,
+        "ann": 11859,
+        "mal": 9479,
+        "schedule": 3184
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "In 2016, a meltdown of a nuclear power plant creates a big catastrophe in Tokyo. 20 years later, the city has become a ghost town due to the high levels of radiation. From that area a distress signal is received. The Self Defense forces dispatch three girls from the special unit Coppelion to search for survivors. But why aren't they wearing any protection against radiation?",
+            "type": "mal"
+        },
+        {
+            "content": "The story is set in 2036, after radioactive contamination from a nuclear accident has put Tokyo under a blockade. Three high school girls have been sent to this dead city. Thanks to genetic engineering, the three girls have been impervious to radioactivity since birth. They form a special forces unit, codenamed Coppelion, in the 3rd Division of Japan's Ground Self-Defense Force.",
+            "type": "anidb"
+        },
+        {
+            "content": "Many years after a great tragedy killed 90% of the people in Japan, three girls arrive in the ruins of Tokyo. In the devastated capital, their unusually clean clothes set them apart. But that's not the only strange thing about them - they also each wield supernatural powers. They call themselves \"Coppelion,\" and are on a mission to save the people of Tokyo.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5994,
+            "date": "2013-10-27T03:21:02",
+            "score": 7.07,
+            "type": "mal"
+        },
+        {
+            "count": 416,
+            "date": "2014-01-15T03:20:13",
+            "score": 5.68,
+            "type": "anidb"
+        },
+        {
+            "count": 390,
+            "date": "2014-01-15T03:20:13",
+            "score": 6.523,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Coppelion"
+}

@@ -1,0 +1,789 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u767e\u82b1\u7e5a\u4e71 SAMURAI GIRLS"
+        },
+        {
+            "language": "pl",
+            "title": "Rada Pi\u0119knych Kobiet: Samurajki"
+        }
+    ],
+    "aliases": [
+        "Hyakka Ryouran Samurai Girls "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/177215655",
+            "content": "#anime #Jesie\u01442010 Hyakka Ryouran: Samurai Girls (\u767e\u82b1\u7e5a\u4e71 SAMURAI GIRLS) http://rdir.pl/t2ics",
+            "episode": 1,
+            "filename": "4e944513f988cc41f277d18f55c4a79d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26379808258"
+        },
+        {
+            "blip_url": "http://blip.pl/s/185013191",
+            "content": "Hyakka Ryouran: Samurai Girls 02 - B\u0118DZIE KIN\u00d3WKA KEJONA?!? ",
+            "episode": 2,
+            "filename": "d783d1382168be2cf86fc14c1445e2ce.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27058067997"
+        },
+        {
+            "blip_url": "http://blip.pl/s/191061317",
+            "content": "Hyakka Ryouran: Samurai Girls 03 - waifu czy imouto... wyb\u00f3r ma znaczenie!",
+            "episode": 3,
+            "filename": "7f6281851d0fec0fcd4e4c4b8cbf416d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27858764274"
+        },
+        {
+            "blip_url": "http://blip.pl/s/227690383",
+            "content": "Hyakka Ryouran: Samurai Girls 08 - prawdziwa meido nie cofnie si\u0119 przed niczym aby wspom\u00f3c swego pana",
+            "episode": 8,
+            "filename": "f7c531d2f661226475b5f3a51c029472.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/8109079578812416"
+        },
+        {
+            "blip_url": "http://blip.pl/s/250758923",
+            "content": "Hyakka Ryouran: Samurai Girls 11 - zapewne nikt nie spodziewa\u0142 si\u0119 ataku mistycznych tentakli z ksi\u0119\u017cyca",
+            "episode": 11,
+            "filename": "e43f9770c24ce14fe77126bd69cca5db.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14457751203749888"
+        },
+        {
+            "blip_url": "http://blip.pl/s/264128017",
+            "content": "#anime #Jesie\u01442010 Hyakka Ryouran: Samurai Girls (\u767e\u82b1\u7e5a\u4e71 SAMURAI GIRLS) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/t2ics)",
+            "episode": 12,
+            "filename": "09d858d140a0e0e4efec11eae45a5d9c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18103705836457984"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-10-03T17:30:00",
+            "episode": 1,
+            "score": 7.3713201497,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 01v2 [1280x720 H264 AAC][497DCDEA].mkv",
+                    "group": "Hiryuu",
+                    "hash": "497DCDEA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=163348",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p][h.264]",
+                    "download_count": 6,
+                    "filename": "[GX_ST] Hyakka Ryouran Samurai Girls - 01 [720p][h.264][9D6ED1D3].mkv",
+                    "group": "GX ST",
+                    "hash": "9D6ED1D3",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164705",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 01v2 [480p][D77CDAC6].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "D77CDAC6",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165824",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 01v2 [720p][BC913B43].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "BC913B43",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165826",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720][BC9CC13D]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_01_[1280x720][BC9CC13D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://nyaatorrents.org/?page=download&tid=167891",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-10T17:30:00",
+            "episode": 2,
+            "score": 7.3729765458,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[TZM]Hyakka_Ryouran_Samurai_Girls_02[720p][66E8A5FA].mkv",
+                    "group": "TZM",
+                    "hash": "66E8A5FA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164476",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC] ",
+                    "download_count": 5,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 02 [1280x720 H264 AAC] [257BF5CE].mkv",
+                    "group": "Hiryuu",
+                    "hash": "257BF5CE",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=164965",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 02 [480p][969A7C37].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "969A7C37",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165130",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 02 [720p][956B2D3F].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "956B2D3F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165131",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 02v2 [480p][750480BC].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "750480BC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165827",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 02v2 [720p][CEB2334F].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "CEB2334F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165828",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720][4173F79F]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_02_[1280x720][4173F79F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][70ED68C7]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_02_v2_[1280x720][70ED68C7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://nyaatorrents.org/?page=download&tid=167893",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p][h.264]",
+                    "download_count": 1,
+                    "filename": "[GX_ST] Hyakka Ryouran Samurai Girls - 02 [720p][h.264][19781596].mkv",
+                    "group": "GX ST",
+                    "hash": "19781596",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168497",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-17T17:30:00",
+            "episode": 3,
+            "score": 7.3566965889,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hyakka Ryouran Samurai Girls - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166386",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[TZM]Hyakka_Ryouran_Samurai_Girls_03[720p][ADDF3A82].mkv",
+                    "group": "TZM",
+                    "hash": "ADDF3A82",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166792",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC] ",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 03 [1280x720 H264 AAC] [C0A31C9D].mkv",
+                    "group": "Hiryuu",
+                    "hash": "C0A31C9D",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166937",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 03 [480p][521066F8].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "521066F8",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 03 [720p][86EB6876].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "86EB6876",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][CC86E34C]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_03_[1280x720][CC86E34C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170401",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-24T17:30:00",
+            "episode": 4,
+            "score": 7.3539349593,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC] ",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 04 [1280x720 H264 AAC] [E4213239].mkv",
+                    "group": "Hiryuu",
+                    "hash": "E4213239",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168466",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [480p][2B86A68C].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "2B86A68C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169520",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [720p][8E042F4F].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "8E042F4F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169521",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[TZM]_Hyakka_Ryouran_Samurai_Girls_-_04_[720p][2E696C41].mkv",
+                    "group": "TZM",
+                    "hash": "2E696C41",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169990",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_04_[1280x720][FB6DF5D0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FB6DF5D0",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178169",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-31T16:30:00",
+            "episode": 5,
+            "score": 7.3237962684,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hyakka Ryouran Samurai Girls - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169992",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[TZM]_Hyakka_Ryouran_Samurai_Girls_-_05_[720p][DC401EBA].mkv",
+                    "group": "TZM",
+                    "hash": "DC401EBA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170551",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC] ",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 05 [1280x720 H264 AAC] [1DC87134].mkv",
+                    "group": "Hiryuu",
+                    "hash": "1DC87134",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=170633",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [480p][5D3A7AF8].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "5D3A7AF8",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [720p][F71F879D].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "F71F879D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171118",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC] ",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 05v2 [1280x720 H264 AAC] [19970EDA].mkv",
+                    "group": "Hiryuu",
+                    "hash": "19970EDA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171235",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_05_[1280x720][59347C98].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "59347C98",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178171",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-07T16:30:00",
+            "episode": 6,
+            "score": 7.315968227,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 6,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_06_[1280x720][E6201E0C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E6201E0C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178173",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-14T16:30:00",
+            "episode": 7,
+            "score": 7.3164504021,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_07_[1280x720][6BCEB8DB].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6BCEB8DB",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180949",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-21T16:30:00",
+            "episode": 8,
+            "score": 7.3032990059,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_08_[1280x720][7846673B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7846673B",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180951",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-28T16:30:00",
+            "episode": 9,
+            "score": 7.3060890944,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 09 [480p][91812C9F].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "91812C9F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180400",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 09 [720p][780DDF54].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "780DDF54",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180401",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_09_[1280x720][C5D2F4A8].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C5D2F4A8",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181142",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-05T16:30:00",
+            "episode": 10,
+            "score": 7.3034526511,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 10 [1280x720 H264 AAC] [F95B3C21].mkv",
+                    "group": "Hiryuu",
+                    "hash": "F95B3C21",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=178952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_10_[1280x720][A6EB0EC4].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A6EB0EC4",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181144",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 10 [480p][7A7F95AB].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "7A7F95AB",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182489",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 10 [720p][E3C16858].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "E3C16858",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182490",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-12T16:30:00",
+            "episode": 11,
+            "score": 7.3042652744,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 11 [1280x720 H264 AAC] [B86A67B9].mkv",
+                    "group": "Hiryuu",
+                    "hash": "B86A67B9",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=180316",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_11_[1280x720][C9B01E1E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C9B01E1E",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181786",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 11 [480p][EC107E5D].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "EC107E5D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183207",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 11 [720p][AAECD442].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "AAECD442",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183208",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-19T16:30:00",
+            "episode": 12,
+            "score": 7.3312272598,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hyakka Ryouran Samurai Girls - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181012",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Hyakka Ryouran Samurai Girls 12 [1280x720 H264 AAC] [2F80542E].mkv",
+                    "group": "Hiryuu",
+                    "hash": "2F80542E",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Hyakka_Ryouran_Samurai_Girls_-_12_-_END_[1280x720][AE2C695E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "AE2C695E",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 12 [480p][522B1F0C].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "522B1F0C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Ryuumaru] Hyakka Ryouran Samurai Girls - 12 [720p][2B7F1957].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "2B7F1957",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183827",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7440,
+        "ann": 11312,
+        "mal": 8277,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Strike Witches 3?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/484a5cabbab2318094b2e207b9fa9b4f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2f0c6c987339a7f2746150013075921b.jpg",
+            "hd": false
+        },
+        {
+            "description": "YUKIMURAAAAAAAAAAAAAAA",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0e5effd549feeeb6f4eb7965409d8fbe.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/18062ab773f62adf984bee46d18f487a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9bfc65e9d91a13ec7b5d5bf9338f2808.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5e02f5dd6eabf00d90756d14c65768fc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a10fc0a6d4f7dc7f7861e14cdebb1850.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/95c8dd4026a3a35f757a440e3600bfa3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4717074d9a40c2011de25aff155705dd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f3dc5f82424186d91ee52859cf5fce0e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b84bbb4f4eb25ec87a9b4b7d5e70936d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/097ce5ce6b55e6cf8c033533f23ed81d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Hyakka Ryouran: Samurai Girls (\u767e\u82b1\u7e5a\u4e71 SAMURAI GIRLS) http://rdir.pl/t2ics",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4e944513f988cc41f277d18f55c4a79d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Poczujesz n\u00f3\u017c Sakuyi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5f4ec426a1240844cf03c6fbc9bf6ac2.jpg",
+            "hd": false
+        },
+        {
+            "description": "IT'S OVER 9000",
+            "filename": "http://s.modriv.net/abp/images/screencaps/16c7a9ea8eaa6d3d590ce7efb5e5efa0.jpg",
+            "hd": false
+        },
+        {
+            "description": "B\u0118DZIE KIN\u00d3WKA KEJONA?!? ",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d783d1382168be2cf86fc14c1445e2ce.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/29f51fb09e7185c58220fe67ab93dc20.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d95cc0f7a3f551d60a130491fe34b886.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dosz\u0142em",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bcdb51dbd6107d1252674cf1f133d9c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "At the first I was like...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5a8f8cb29d8abdc31882abcc24424b5a.jpg",
+            "hd": false
+        },
+        {
+            "description": "...but then I baaaaawd~",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a24811891008363e8a101f48ca3eff6f.jpg",
+            "hd": false
+        },
+        {
+            "description": "waifu czy imouto... wyb\u00f3r ma znaczenie!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f6281851d0fec0fcd4e4c4b8cbf416d.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawdziwa meido nie cofnie si\u0119 przed niczym aby wspom\u00f3c swego pana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f7c531d2f661226475b5f3a51c029472.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/80fc87b1125884c5d60ebcfc875abd2f.jpg",
+            "hd": false
+        },
+        {
+            "description": "zapewne nikt nie spodziewa\u0142 si\u0119 ataku mistycznych tentakli z ksi\u0119\u017cyca",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e43f9770c24ce14fe77126bd69cca5db.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Hyakka Ryouran: Samurai Girls (\u767e\u82b1\u7e5a\u4e71 SAMURAI GIRLS) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/t2ics)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/09d858d140a0e0e4efec11eae45a5d9c.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Szogunat wraz z jego ca\u0142\u0105 otoczk\u0105 przeniesiony w realia szko\u0142y XXI wieku w Japonii, kt\u00f3ra nadal jest odizolowana od reszty \u015bwiata i w kt\u00f3rej nadal panuje etos samuraja.",
+            "type": "abp"
+        },
+        {
+            "content": "The story takes place in Japan in the early 21st century, in an alternate reality where the Tokugawa Shogunate has remained in power. In this reality, student councils are tasked with oppressing schools. Yagyuu Muneakira is a high school student who rebels against his student council with the help of girls who&#039;ve had the names of famous samurai heroes passed on to them.",
+            "type": "mal"
+        },
+        {
+            "content": "* Hyakka Ryouran: Samurai Girls is Hobby Japan's 40th anniversary mediamix project. The franchise includes a light novel series by Suzuki Akira and Ni\u03b8, published by HJ Bunko (a publishing label aimed at young adult males); a manga series by Shinano Yura published in shounen/seinen magazine Dengeki Daiou; a 4-koma web comic by Kazahana Chiruo; this anime adaptation by ARMS; figurines and so forth.The era is Heisei 20+ in the reign of the 25th Tokugawa Shogun, Keikou. In the Christian calendar, it is a bit past 2000 in the Empire of Japan.In the skirts of the Sacred Mount Fuji, there is an enormous school built in a vast area. Its name is Buou Private Academy. All students are children of samurai and while encouraged to study, they spend their days preparing themselves in battles that sometimes put their life in risk.A peaceful school at first glance, but even there a shadow of turbulence draws near: the rebellious underground activities of discontents that oppose the Tokugawa clan that rules the school. Against the dissident students, the student council executive committee formed the Toyotomi Faction and began their suppression. Now with the Toyotomi Hunting as it became known, the tyranny of the student council escalated further.The high school student Yagyuu Muneakira who attends the Buou Private Academy and is also the assistant instructor of fencing at the Yagyuu Dojo, while a servant to the Tokunaga family, he was opposed to the excessive oppression of the Toyotomi Hunting. And before Muneakira appeared several girls carrying the names of the ancient swordsmen and generals. Is this the beginning of a commotion that will shake History?Source: fiwasaki.wordpress.comNote: The first episode received an early broadcast on TOKYO MX on September 4, 2010. Additionally it was also screened together with MM! as part of the Media Factory Anime Festival 2010 on Sunday, September 26, 2010 in Tokyo KFC Hall. The regular television broadcast started on October 4.",
+            "type": "anidb"
+        },
+        {
+            "content": "The story takes place in Japan in the early 21st century, in an alternate reality where the Tokugawa Shogunate has remained in power. In this reality, student councils are tasked with oppressing schools. Yagyuu Muneakira is a high school student who rebels against his student council with the help of girls who've had the names of famous samurai heroes passed on to them.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 16197,
+            "date": "2012-09-29T12:47:43",
+            "score": 7.16,
+            "type": "mal"
+        },
+        {
+            "count": 1325,
+            "date": "2012-09-29T12:47:43",
+            "score": 6.68,
+            "type": "anidb"
+        },
+        {
+            "count": 1036,
+            "date": "2012-09-29T12:47:43",
+            "score": 7.044,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Hyakka Ryouran: Samurai Girls"
+}

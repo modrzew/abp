@@ -1,0 +1,546 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3042\u305d\u3073\u306b\u3044\u304f\u30e8!"
+        },
+        {
+            "language": "pl",
+            "title": "Pobawmy si\u0119!"
+        }
+    ],
+    "aliases": [
+        "Asobi ni Ikuyo!"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/113698164",
+            "content": "#anime #Lato2010 Asobi ni Iku yo! (\u3042\u305d\u3073\u306b\u3044\u304f\u30e8!) http://rdir.pl/hmunp",
+            "episode": 1,
+            "filename": "91ad5ce92a862aeec7198975cf6ce641.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18530695701"
+        },
+        {
+            "blip_url": "http://blip.pl/s/119131327",
+            "content": "Asobi ni Iku yo! 02 - dr\u017cyjcie, Ziemianie! Oto nieustraszona i niepokonana armia kosmit\u00f3w gotowa do podboju waszej n\u0119dznej planety!",
+            "episode": 2,
+            "filename": "dd3bf629e43e524ae7586d821c728700.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/19101246072"
+        },
+        {
+            "blip_url": "http://blip.pl/s/124219298",
+            "content": "Asobi ni Iku yo! 03 - delegacja kosmit\u00f3w na debat\u0119 z Ziemianami przyby\u0142a dobrze przygotowana w odpowiednie argumenty",
+            "episode": 3,
+            "filename": "7a66a21e1c350d4451a318957a04c99f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/19742794596"
+        },
+        {
+            "blip_url": "http://blip.pl/s/128892946",
+            "content": "Asobi ni Iku yo! 04 - jak to zwykle bywa, pod wzgl\u0119dem technologii i jej zastosowania kosmici nas przewy\u017cszaj\u0105 o kilka poziom\u00f3w",
+            "episode": 4,
+            "filename": "48ee7948dd206076d65b4a4347c64fdd.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/20258932507"
+        },
+        {
+            "blip_url": "http://blip.pl/s/133179246",
+            "content": "Asobi ni Iku yo! 05 - gdyby tylko wszystkie kobiety tak mia\u0142y... jak\u017ce spokojnym miejscem sta\u0142aby si\u0119 wtedy nasza planeta",
+            "episode": 5,
+            "filename": "22be06d86ff38b027ca298c1dc072354.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/20721682108"
+        },
+        {
+            "blip_url": "http://blip.pl/s/139301432",
+            "content": "Asobi ni Iku yo! 06 - data wyj\u015bcia tego odcinka na Blurayu: 26 listopada 2010 - zapisa\u0107 w kalendarzu i zakre\u015bli\u0107 na czerwono!",
+            "episode": 6,
+            "filename": "7fe065ecf8e05aed0b35af12701805dd.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21353891480"
+        },
+        {
+            "blip_url": "http://blip.pl/s/150695348",
+            "content": "Asobi ni Iku yo! 08 - niczym Matrix, ale z cyckami i kosmitami",
+            "episode": 8,
+            "filename": "8af9a91dadc3e0f86fe64955a6c6edd0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/22634078819"
+        },
+        {
+            "blip_url": "http://blip.pl/s/156781887",
+            "content": "Asobi ni Iku yo! 09 - ten odcinek jest sponsorowany przez Stowarzyszenie Autor\u00f3w Zwi\u0105zek Autor\u00f3w i Kompozytor\u00f3w Scenicznych",
+            "episode": 9,
+            "filename": "3ba57af7498736466ece5dd4e5b649a1.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/165680582",
+            "content": "Asobi ni Iku yo! 11 - z kolei emisj\u0119 tego odcinka wspiera Zwi\u0105zek Producent\u00f3w Audio-Video",
+            "episode": 11,
+            "filename": "48e87c54c4fe50ee728675ec187e63b4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/25041862098"
+        },
+        {
+            "blip_url": "http://blip.pl/s/171646163",
+            "content": "#anime #Lato2010 Asobi ni Iku yo! (\u3042\u305d\u3073\u306b\u3044\u304f\u30e8!) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/hmunp)",
+            "episode": 12,
+            "filename": "b23a13b0cf8d10169faef71028a7ca16.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/25727865460"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-07-10T18:58:00",
+            "episode": 1,
+            "score": 7.2578562092,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-17T18:58:00",
+            "episode": 2,
+            "score": 7.3017132254,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-24T18:58:00",
+            "episode": 3,
+            "score": 7.3095753351,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-31T18:58:00",
+            "episode": 4,
+            "score": 7.2983181609,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-07T18:58:00",
+            "episode": 5,
+            "score": 7.2953400402,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-14T18:58:00",
+            "episode": 6,
+            "score": 7.2785538576,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-21T18:58:00",
+            "episode": 7,
+            "score": 7.2401762084,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-28T18:58:00",
+            "episode": 8,
+            "score": 7.2444933164,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-04T18:58:00",
+            "episode": 9,
+            "score": 7.2119265724,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-11T18:58:00",
+            "episode": 10,
+            "score": 7.2002826272,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Asobi ni Ikuyo! - 10 [E1E730FD].mkv",
+                    "group": "Commie",
+                    "hash": "E1E730FD",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164896",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-18T18:58:00",
+            "episode": 11,
+            "score": 7.2053186459,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Asobi ni Ikuyo! - 11 [83357EE4].mkv",
+                    "group": "Commie",
+                    "hash": "83357EE4",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166060",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-25T18:58:00",
+            "episode": 12,
+            "score": 7.0728365297,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7400,
+        "ann": 10687,
+        "mal": 6166,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/47252a96064180a57d6bd28b0e428a59.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u015awietna fabu\u0142a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75ba62dcf560c63370502cdf919e7cfa.jpg",
+            "hd": false
+        },
+        {
+            "description": "Taaaaaak, fabu\u0142a genialna",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6557c69de372e5c54b87f4ccc0b57299.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zwrot w akcji! Niesamowite!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/20fcacb6cc0dd50c54cdcb8d34a2bfdd.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tapczan",
+            "filename": "http://s.modriv.net/abp/images/screencaps/edaa298efc2163bdcba865131809d238.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2010 Asobi ni Iku yo! (\u3042\u305d\u3073\u306b\u3044\u304f\u30e8!) http://rdir.pl/hmunp",
+            "filename": "http://s.modriv.net/abp/images/screencaps/91ad5ce92a862aeec7198975cf6ce641.jpg",
+            "hd": true
+        },
+        {
+            "description": "dr\u017cyjcie, Ziemianie! Oto nieustraszona i niepokonana armia kosmit\u00f3w gotowa do podboju waszej n\u0119dznej planety!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dd3bf629e43e524ae7586d821c728700.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2ecebbfcb42532224fa53b9e24a35c18.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/132c54387cb469af1c5ca2bae11c7da3.jpg",
+            "hd": true
+        },
+        {
+            "description": "Kosmici to si\u0119 jednak znaj\u0105 na rzeczy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dd9d5df555710da5d6ea2f19a93c174b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7dc29732f3cf7c0fbb82c80ee96a2ae4.jpg",
+            "hd": false
+        },
+        {
+            "description": "delegacja kosmit\u00f3w na debat\u0119 z Ziemianami przyby\u0142a dobrze przygotowana w odpowiednie argumenty",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7a66a21e1c350d4451a318957a04c99f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ostateczna bro\u0144 ludzko\u015bci w walce z kosmitami: kocimi\u0119tka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/73b6473278307334f4810490dddf5ae3.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wiedz\u0105 co dobre!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f004267a4c3c4a77f9d9ddeeb6f540f1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/786e919e75c7b79425eef8aa7e887c93.jpg",
+            "hd": false
+        },
+        {
+            "description": "A mamusia m\u00f3wi\u0142a, \u017ceby nie zadziera\u0107 z meido.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/09f70c1458fc8b0d7055d8eeec6e3b4e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6a53f1f58dace8f8f6b3d1a6468c4be6.jpg",
+            "hd": false
+        },
+        {
+            "description": "jak to zwykle bywa, pod wzgl\u0119dem technologii i jej zastosowania kosmici nas przewy\u017cszaj\u0105 o kilka poziom\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/48ee7948dd206076d65b4a4347c64fdd.jpg",
+            "hd": false
+        },
+        {
+            "description": "You're pretty much fucked up now.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c77e0b955a509f969a89848b4545f55e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f51e63d4065a0ae2d74ff0cd0112c32.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/36d8219b681f4dcfe0eba6fe93861414.jpg",
+            "hd": false
+        },
+        {
+            "description": "gdyby tylko wszystkie kobiety tak mia\u0142y... jak\u017ce spokojnym miejscem sta\u0142aby si\u0119 wtedy nasza planeta",
+            "filename": "http://s.modriv.net/abp/images/screencaps/22be06d86ff38b027ca298c1dc072354.jpg",
+            "hd": false
+        },
+        {
+            "description": "Znajd\u017a jedn\u0105 rzecz kt\u00f3ra nie pasuje na tym obrazku.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/84508a38d2b2c92ad8344075b97952c7.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/977278aaeca57953b7cdbc0f5f964cb3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d40b731488c5b55f0db3fb5ea2610240.jpg",
+            "hd": false
+        },
+        {
+            "description": "data wyj\u015bcia tego odcinka na Blurayu: 26 listopada 2010 - zapisa\u0107 w kalendarzu i zakre\u015bli\u0107 na czerwono!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7fe065ecf8e05aed0b35af12701805dd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ed46c2223455ca3eec8fccab8fc18eb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/62bf36754e8800a8254364ae0ef2fdc9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3f113b4c6e1e69c09282b8a54d2d22ad.jpg",
+            "hd": false
+        },
+        {
+            "description": "Haremu budowania ci\u0105g dalszy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d8cbbace98bc365731819fc3ac68b6c3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fbc833912fe197875106c6d5abae2bbf.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4342f2db9c2fbe2ba9edde6a6f3fab28.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e61bca3145e7cd1c63f62013ea0cf14.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5b46fe8f928fa07f9d8a11c9c5ae44bb.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e86fcb8b5b38d2d4db939d1bd408b85d.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/87edacf2a4942439e014a3486a8aeb12.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ae57feaed4e82b761935e7a1a5b4ddf8.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a85d94260ae2c69395aa9ab139affc88.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a0ebb223484b75342d9ad0b976147bc9.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a7d0b4eb331bcc3e59c83ab8da27bc0c.jpg",
+            "hd": true
+        },
+        {
+            "description": "...i opr\u00f3cz tego ma harem oddanych niewiast.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/190f379aa830bd25cf4fe8dfab187890.jpg",
+            "hd": false
+        },
+        {
+            "description": "Czysta epicko\u015b\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d8532f377e535fec6e52f75b18b0f360.jpg",
+            "hd": false
+        },
+        {
+            "description": "niczym Matrix, ale z cyckami i kosmitami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8af9a91dadc3e0f86fe64955a6c6edd0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/603d501b14af2b2c0c872c9ec574f72a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e5cd35c1fd635332d8eef19c89a5e79f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ten obrazek jest zbyt zajebisty",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f28311e7644873409c2a5fc1726c6b78.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ten obrazek jest zbyt zajebisty",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7200f7b16de04401614a7e61bcb96861.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a98231ec77819c31f3d5dfc0a546dc76.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dc990a16fec19308c55130f26b048d2a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0e874bfbefca1a5ae6d09c7b87cf5842.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fdc47b86b8f09424d347c8613e605b64.jpg",
+            "hd": false
+        },
+        {
+            "description": "ten odcinek jest sponsorowany przez Stowarzyszenie Autor\u00f3w Zwi\u0105zek Autor\u00f3w i Kompozytor\u00f3w Scenicznych",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ba57af7498736466ece5dd4e5b649a1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6c05c5b7d3e7207bfd80d035dd64106.jpg",
+            "hd": true
+        },
+        {
+            "description": "JESTEM KRULEM \u015aFIATA",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a04afe50791cc19047e1b55dcb5d3364.jpg",
+            "hd": false
+        },
+        {
+            "description": "Uleg\u0142o\u015b\u0107 haremu to bardzo wa\u017cna sprawa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9a010331e261ac89cf865ff5d09230eb.jpg",
+            "hd": false
+        },
+        {
+            "description": "Bataliony NATO w Matce Rosji, no prosz\u0119 ja was bardzo...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c845a0b2f4b78f6653b4ee2056f22b50.jpg",
+            "hd": false
+        },
+        {
+            "description": "z kolei emisj\u0119 tego odcinka wspiera Zwi\u0105zek Producent\u00f3w Audio-Video",
+            "filename": "http://s.modriv.net/abp/images/screencaps/48e87c54c4fe50ee728675ec187e63b4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak si\u0119 rodz\u0105 haremy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96dc401788169d38b8005c0a34fb0ef6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e17014173e5cc78497cbefda89ed1a1d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2010 Asobi ni Iku yo! (\u3042\u305d\u3073\u306b\u3044\u304f\u30e8!) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/hmunp)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b23a13b0cf8d10169faef71028a7ca16.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8f42e7060e8d41f8f8cae9be4a6055e2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Oficjalna zapowied\u017a drugiej serii",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3508f9a668042fccca296508d6237476.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Kosmici przybywaj\u0105 na Ziemi\u0119 w celach pokojowych. Jako swojego emisariusza wysy\u0142aj\u0105 lask\u0119-kota z du\u017cym biustem, kt\u00f3ra l\u0105duje w domostwie zwyk\u0142ego japo\u0144skiego nastolatka.",
+            "type": "abp"
+        },
+        {
+            "content": "The story revolves around Kakazu Kio, an ordinary high school freshman living in Okinawa. A girl with cat ears appears before him during a memorial service for one of his family ancestors. The girl calls herself Eris and claims she is an alien. Before long, fanatical alien worshipers and a mysterious government agency are in hot pursuit of Eris, but Kio&#039;s childhood friend Manami &mdash; who wants to follow in her father&#039;s footsteps in the CIA &mdash; captures Eris. Kio finds himself having to protect Eris from everyone.     (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Kamino Okina's Asobi ni Iku yo! light novel series.The story revolves around Kakazu Kio, an ordinary high school freshman living in Okinawa. A girl with cat ears appears before him during a memorial service for one of his family ancestors. The girl calls herself Eris and claims she is an alien. Before long, fanatical alien worshippers and a mysterious government agency are in hot pursuit of Eris, but Kio's childhood friend Manami \u2014 who wants to follow in her father's footsteps in the CIA \u2014 captures Eris. Kio finds himself having to protect Eris from everyone.Note: The first episode received an early screening in Tokyo Joypolis amusement park on June 26, 2010. The regular television broadcast started on July 11, 2010.",
+            "type": "anidb"
+        },
+        {
+            "content": "Nice guy Kio\u2019s normal life gets turned upside down when he meets a friendly, sexy cat-alien named Eris. She\u2019s on a peaceful mission\u2014and she\u2019s ready to play. Things get even friskier when her fellow felines set up base in Kio\u2019s house. It\u2019s not all fun and games, though. Danger is afoot, thanks to several secret agencies and enemy dog-aliens on Eris\u2019s tail.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 15874,
+            "date": "2012-09-29T12:46:04",
+            "score": 7.01,
+            "type": "mal"
+        },
+        {
+            "count": 1422,
+            "date": "2012-09-29T12:46:04",
+            "score": 6.74,
+            "type": "anidb"
+        },
+        {
+            "count": 1861,
+            "date": "2012-09-29T12:46:04",
+            "score": 7.678,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Asobi ni Iku yo!"
+}

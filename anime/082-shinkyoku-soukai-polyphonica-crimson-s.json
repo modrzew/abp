@@ -1,0 +1,48 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u795e\u66f2\u594f\u754c\u30dd\u30ea\u30d5\u30a9\u30cb\u30abcrimsonS"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6224,
+        "ann": 10415,
+        "mal": 5504,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 3469,
+            "date": "2012-09-29T02:35:04",
+            "score": 7.54,
+            "type": "mal"
+        },
+        {
+            "count": 420,
+            "date": "2012-09-29T02:35:04",
+            "score": 7.15,
+            "type": "anidb"
+        },
+        {
+            "count": 300,
+            "date": "2012-09-29T02:35:04",
+            "score": 7.607,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Shinkyoku Soukai Polyphonica",
+    "title": "Shinkyoku Soukai Polyphonica Crimson S"
+}

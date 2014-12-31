@@ -1,0 +1,815 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u8352\u5ddd\u30a2\u30f3\u30c0\u30fc \u30b6\u30d6\u30ea\u30c3\u30b8\u00d7\u30d6\u30ea\u30c3\u30b8"
+        },
+        {
+            "language": "pl",
+            "title": "Arakawa Pod Mostem \u00d7 Mostem"
+        },
+        {
+            "language": "short",
+            "title": "Arakawa Under the Bridge\u00d7Bridge"
+        }
+    ],
+    "aliases": [
+        "Arakawa Under the Bridge x Bridge ",
+        "Arakawa Under the Bridge \u00d72",
+        "[Zero-Raws] Arakawa Under the Bridge x Bridge"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/179854015",
+            "content": "#anime #Jesie\u01442010 Arakawa Under the Bridge x Bridge (\u8352\u5ddd\u30a2\u30f3\u30c0\u30fc \u30b6\u30d6\u30ea\u30c3\u30b8\u00d7\u30d6\u30ea\u30c3\u30b8) http://rdir.pl/s2ssx",
+            "episode": 1,
+            "filename": "ee5a127fd3a0f5d0f18d4cb26e254a86.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26585998597"
+        },
+        {
+            "blip_url": "http://blip.pl/s/187466993",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 02 - \u266c always I wanna be with you, and make believe with you \u266c",
+            "episode": 2,
+            "filename": "046c345962247d4a5bb683bede0e0d33.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27380664115"
+        },
+        {
+            "blip_url": "http://blip.pl/s/191249583",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 03 - udowodniono naukowo, \u017ce ciasteczka daj\u0105 wi\u0119cej rado\u015bci w \u017cyciu ni\u017c Biblia",
+            "episode": 3,
+            "filename": "1387821542e1bc51517f6f5d3660f39f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/28013690653"
+        },
+        {
+            "blip_url": "http://blip.pl/s/196429175",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 04 - niemo\u017cliwe, \u017ceby moja m\u0142odsza siostra by\u0142a taka s\u0142odka!",
+            "episode": 4,
+            "filename": "1f2078f8bfea9d40300bce25507fad56.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/28980265807"
+        },
+        {
+            "blip_url": "http://blip.pl/s/204156157",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 05 - mieszkaj\u0105cy pod mostem r\u00f3wnie\u017c si\u0119 ciesz\u0105 z kin\u00f3wki Kejona",
+            "episode": 5,
+            "filename": "bcb0330bde0a73253ab751a87ccae3d7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/1564282990895104"
+        },
+        {
+            "blip_url": "http://blip.pl/s/205398395",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 06 - ob\u00f3z MOE kontra ob\u00f3z GAR: wybierz swoje przeznaczenie",
+            "episode": 6,
+            "filename": "aa4c8ae6a975f1e9d80c80205704cebe.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/2076707456548864"
+        },
+        {
+            "blip_url": "http://blip.pl/s/212759189",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 07 - tylko u nas: nigdzie niepublikowane zdj\u0119cia publiki z go\u015bcinnego wyst\u0119pu Klubu Muzyki Lekkiej pod pewnym mostem",
+            "episode": 7,
+            "filename": "d5d3833601736763619f2f1438c37620.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/4159172711022593"
+        },
+        {
+            "blip_url": "http://blip.pl/s/231721699",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 08 - ju\u017c w czasach gdy nasi nie wiedzieli jeszcze co to ko\u0142o, japo\u0144skie tengu nami\u0119tnie smsowa\u0142y",
+            "episode": 8,
+            "filename": "eef66074d12ac8ae7809d60572e19ab4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/9293817475764224"
+        },
+        {
+            "blip_url": "http://blip.pl/s/243854141",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 10 - tymczasem, pod pewnym mostem...",
+            "episode": 10,
+            "filename": "d83212c7f8135706045c378b17093c39.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12622770965843969"
+        },
+        {
+            "blip_url": "http://blip.pl/s/256659763",
+            "content": "Arakawa Under the Bridge \u00d7 Bridge 11 - osiemdziesi\u0105ta druga edycja \"Ta\u0144ca z Gwiazdami na Lodzie\" odb\u0119dzie si\u0119 pod pewnym s\u0142ynnym mostem",
+            "episode": 11,
+            "filename": "f3a2acd7764ab65ddad8a9fb56547d92.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15939521912766464"
+        },
+        {
+            "blip_url": "http://blip.pl/s/275437853",
+            "content": "#anime #Jesie\u01442010 Arakawa Under the Bridge \u00d7 Bridge (\u8352\u5ddd\u30a2\u30f3\u30c0\u30fc \u30b6\u30d6\u30ea\u30c3\u30b8\u00d7\u30d6\u30ea\u30c3\u30b8) - nasza ocena: warte obejrzenia (wi\u0119cej: http://rdir.pl/153t5j)",
+            "episode": 13,
+            "filename": "7d8ad69a8d5fec479a81b94c05bf077a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21349229595197440"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-10-03T18:35:00",
+            "episode": 1,
+            "score": 8.2311872146,
+            "torrents": [
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 4,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 01v2 [480p][H264][E0855CD4].mkv",
+                    "group": "Ruri",
+                    "hash": "E0855CD4",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166564",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-10-10T18:35:00",
+            "episode": 2,
+            "score": 8.311190022,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Arakawa_Under_the_Bridge_\u00d72_-_02_[bd47f565].mkv",
+                    "group": "Nutbladder",
+                    "hash": "bd47f565",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=165148",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 02[480p][H264][86B4B468].mkv",
+                    "group": "Ruri",
+                    "hash": "86B4B468",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166900",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-17T18:35:00",
+            "episode": 3,
+            "score": 8.2940504484,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Arakawa_Under_the_Bridge_\u00d72_-_03_[8A9EC396].mkv",
+                    "group": "Nutbladder",
+                    "hash": "8A9EC396",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=166973",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TX 1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Nutbladder][Zero-Raws] Arakawa Under the Bridge x Bridge - 03 (TX 1280x720 x264 AAC).mkv",
+                    "group": "Nutbladder",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166978",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 03 [480p][H264][4CE96F7A].mkv",
+                    "group": "Ruri",
+                    "hash": "4CE96F7A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169497",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-24T18:35:00",
+            "episode": 4,
+            "score": 8.2401552063,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder]_Arakawa_Under_the_Bridge_\u00d72_-_04_[197B7655].mkv",
+                    "group": "Nutbladder",
+                    "hash": "197B7655",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168749",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TX 1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Nutbladder][Zero-Raws] Arakawa Under the Bridge x Bridge - 04 (TX 1280x720 x264 AAC).mkv",
+                    "group": "Nutbladder",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169069",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-31T17:35:00",
+            "episode": 5,
+            "score": 8.2199597167,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nutbladder]_Arakawa_Under_the_Bridge_\u00d72_-_05_[33F31DEC].mkv",
+                    "group": "Nutbladder",
+                    "hash": "33F31DEC",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=171136",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 05 [480p][H264][8725518F].mkv",
+                    "group": "Ruri",
+                    "hash": "8725518F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178926",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 05v2 [480p][H264][318F3032].mkv",
+                    "group": "Ruri",
+                    "hash": "318F3032",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189876",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-11-07T17:35:00",
+            "episode": 6,
+            "score": 8.1947762408,
+            "torrents": [
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 06 [480p][H264][27C8EBB6].mkv",
+                    "group": "Ruri",
+                    "hash": "27C8EBB6",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180142",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 06v2 [480p][H264][1A7BF2CC].mkv",
+                    "group": "Ruri",
+                    "hash": "1A7BF2CC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189878",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-11-14T17:35:00",
+            "episode": 7,
+            "score": 8.1855106707,
+            "torrents": [
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 07 [480p][H264][03707B58].mkv",
+                    "group": "Ruri",
+                    "hash": "03707B58",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 07v2 [480p][H264][03707B58].mkv",
+                    "group": "Ruri",
+                    "hash": "03707B58",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189879",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-11-21T17:35:00",
+            "episode": 8,
+            "score": 8.1706678533,
+            "torrents": [
+                {
+                    "additional_info": "[480p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ruri]Arakawa Under the Bridge x Bridge 08 [480p][H264][9B5E1622].mkv",
+                    "group": "Ruri",
+                    "hash": "9B5E1622",
+                    "url": "http://www.nyaa.eu/?page=download&tid=199598",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-28T17:35:00",
+            "episode": 9,
+            "score": 8.1740562948,
+            "torrents": []
+        },
+        {
+            "date": "2010-12-05T17:35:00",
+            "episode": 10,
+            "score": 8.1510746606,
+            "torrents": []
+        },
+        {
+            "date": "2010-12-12T17:35:00",
+            "episode": 11,
+            "score": 8.1473502162,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Arakawa_Under_the_Bridge_\u00d72_-_11_[0B107E9D].mkv",
+                    "group": "Nutbladder",
+                    "hash": "0B107E9D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180376",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-19T17:35:00",
+            "episode": 12,
+            "score": 8.1497982403,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Nutbladder]_Arakawa_Under_the_Bridge_\u00d72_-_12_[6FE8D4BB].mkv",
+                    "group": "Nutbladder",
+                    "hash": "6FE8D4BB",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=182365",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-26T17:35:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Arakawa_Under_the_Bridge_\u00d72_-_13v2_[C5A884A9].mkv",
+                    "group": "Nutbladder",
+                    "hash": "C5A884A9",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=183163",
+                    "version": 2
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7899,
+        "ann": 11827,
+        "mal": 9074,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/38266fab131f6236d354ddae70a998a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "DOCHODZ\u0118",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4c8b8e139ae17f80d86df275404d13a7.jpg",
+            "hd": false
+        },
+        {
+            "description": "DOSZ\u0141EM",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3f3c469e0772f6aea2ba77a118528a56.jpg",
+            "hd": false
+        },
+        {
+            "description": "Minut\u0119 po doj\u015bciu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/198373a6fddf12bd660923b36eaf23f1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d3c473f24df8c86eb6addcece721ba05.jpg",
+            "hd": false
+        },
+        {
+            "description": "KIN\u00d3WKA KEJONA?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a268effe37a7062e8ada8e5a6345b40.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eb17dd05eb996fbc7e94602933207ee5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b648e83a1c21deea70ebec24d33313cb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/587eaaa61cdffa084451c0caa0d45653.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba8c5c6529c9e8a517449e164b2a51fe.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/adcf0c258634015c510b26fae5402d0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f816b2db37b90c76642c878b2f260eb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/473a39f616bfc4ef09a8d4632ea02108.jpg",
+            "hd": false
+        },
+        {
+            "description": "Recruit vi Britannia rozkazuje!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/34d3a99dbd70e3a16f0e2d94a10cbbf7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Fizyka pod Mostem: Wektory",
+            "filename": "http://s.modriv.net/abp/images/screencaps/189164929b3bca24caf5b75b9bdb23ce.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/53d1db344aa7b464d79fd1d74590e1c5.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Arakawa Under the Bridge x Bridge (\u8352\u5ddd\u30a2\u30f3\u30c0\u30fc \u30b6\u30d6\u30ea\u30c3\u30b8\u00d7\u30d6\u30ea\u30c3\u30b8) http://rdir.pl/s2ssx",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ee5a127fd3a0f5d0f18d4cb26e254a86.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tengu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1c3d4a49e505c89f7221d74ef76b91ef.jpg",
+            "hd": false
+        },
+        {
+            "description": "Amazonka i tengu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e1e9d675ba0a1750abd5e6b0ff047a39.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b3a3fb783969818cddf59f69abbdab5a.jpg",
+            "hd": false
+        },
+        {
+            "description": "OBJECTION!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f527d30c2527b791c764da117d311896.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u266c always I wanna be with you, and make believe with you \u266c",
+            "filename": "http://s.modriv.net/abp/images/screencaps/046c345962247d4a5bb683bede0e0d33.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f5795d915bc94fe1fc81ee6af613a74f.jpg",
+            "hd": false
+        },
+        {
+            "description": "...kin\u00f3wka Kejona?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/452bcfef9ca09f7ac6af3decf61f9684.jpg",
+            "hd": false
+        },
+        {
+            "description": "...serio?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c33bbfae5fca45ba7a52a1d7c8881a0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2b035c26945656768fda7a34aec8cda2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2016f9544cddaac1e64c2aadefe74be8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d7b9980abe69601c2364286b5e777171.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/551257a749f53832b33d8afe54b234b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d0afd9bac1d18cd73d2222b86ebb1be6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/004ab528307ad35fe1dc803eae5976bc.jpg",
+            "hd": false
+        },
+        {
+            "description": "udowodniono naukowo, \u017ce ciasteczka daj\u0105 wi\u0119cej rado\u015bci w \u017cyciu ni\u017c Biblia",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1387821542e1bc51517f6f5d3660f39f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dc4d60a55da5238c25f81c5421e1d305.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5880c38bf844b3b154961f9996523d8b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cfba87cb4b2a145fcdd0971fe21c5a4c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/244f965afe18312e90aed35effc0997d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Cameron te\u017c zaczyna\u0142 pod mostem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9aa78306baee22d73600affc11e4e4bd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2de1a07bab0d11558a62ffd634b86d66.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/88524a1422968ecedb4b6b054a76802d.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0363aa0e1d0cc107f3ee807af5918ec0.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Male\u0144ka, zgubi\u0142a\u015b si\u0119?\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5bb7e5cf40786491072bdeef641e96f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b81549c7eca7af69e6098a3bcbde3fd8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3d429b0800d3fb10f655f1faf9a03751.jpg",
+            "hd": false
+        },
+        {
+            "description": "niemo\u017cliwe, \u017ceby moja m\u0142odsza siostra by\u0142a taka s\u0142odka!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1f2078f8bfea9d40300bce25507fad56.jpg",
+            "hd": false
+        },
+        {
+            "description": "B\u0118DZIE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/02159ae8b029387b2328267daa072a13.jpg",
+            "hd": false
+        },
+        {
+            "description": "KIN\u00d3WKA",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1d392fba6f139d8d92b7d15af57ba627.jpg",
+            "hd": false
+        },
+        {
+            "description": "KEJONA?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5607867ee691905129c27dd68fa77d6e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/333443c52a6b431af3b0f87e69f168ec.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2e10e1c9aeb410636c1ec5302f8461c0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f7f85d3d878294e298bb31318a5aeb38.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3c245832566d6d5b58c20c7708b9f714.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bda9a38c64410da5fd447187f0a37b55.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nikt by nie pomy\u015bla\u0142, \u017ce to anime jest z gatunku yaoi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/77ef205d281e12401976a0540b2baed0.jpg",
+            "hd": false
+        },
+        {
+            "description": "A ju\u017c nie P-ko i Nino-san",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8012e567dd37621133eab8eda2b0ccff.jpg",
+            "hd": false
+        },
+        {
+            "description": "mieszkaj\u0105cy pod mostem r\u00f3wnie\u017c si\u0119 ciesz\u0105 z kin\u00f3wki Kejona",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bcb0330bde0a73253ab751a87ccae3d7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fa7b8aae9c66f2d5e5241c8ff3ae8546.jpg",
+            "hd": false
+        },
+        {
+            "description": "ob\u00f3z MOE kontra ob\u00f3z GAR: wybierz swoje przeznaczenie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aa4c8ae6a975f1e9d80c80205704cebe.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/93e84047f0219349162a8a58aac247b4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9d4e745c9d4cb632e8b9469346133e5b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7257d7ee9389769615735b8ee95214dc.jpg",
+            "hd": false
+        },
+        {
+            "description": "tylko u nas: nigdzie niepublikowane zdj\u0119cia publiki z go\u015bcinnego wyst\u0119pu Klubu Muzyki Lekkiej pod pewnym mostem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d5d3833601736763619f2f1438c37620.jpg",
+            "hd": false
+        },
+        {
+            "description": "ju\u017c w czasach gdy nasi nie wiedzieli jeszcze co to ko\u0142o, japo\u0144skie tengu nami\u0119tnie smsowa\u0142y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eef66074d12ac8ae7809d60572e19ab4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pi\u0119\u0107 piw!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/955ee9f72481c15fa7b1f8cd758acb86.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Obejrzysz kin\u00f3wk\u0119 Kejona...\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b11207e202fa8d1d7d23db3b5b74f7e3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1dd15924ea8a9cb501012b971070feeb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f9973bf70784d61b3d19e92bc7c4c095.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8b5c531d2c90d6a3cc50773f46ce6581.jpg",
+            "hd": false
+        },
+        {
+            "description": "tymczasem, pod pewnym mostem...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d83212c7f8135706045c378b17093c39.jpg",
+            "hd": false
+        },
+        {
+            "description": "Odchudzanie ekstremalne",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f36e7d9a1988d19fd299259a9efb7454.jpg",
+            "hd": false
+        },
+        {
+            "description": "Prawie jak zio\u0142o",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fb697dcedcd0092909368267af242533.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2731786ff3ad76d2b5a4cd22844775c8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/21f663e5831275ae3ae90564e42148e6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b7106b575f19ac068ced3a022c6d9bd2.jpg",
+            "hd": false
+        },
+        {
+            "description": "osiemdziesi\u0105ta druga edycja \"Ta\u0144ca z Gwiazdami na Lodzie\" odb\u0119dzie si\u0119 pod pewnym s\u0142ynnym mostem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f3a2acd7764ab65ddad8a9fb56547d92.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ee9937ca28fef2050f79f98e78f03729.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/401d4df996befdfb3fcd122faff42d9a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7431e0212c5eaf08c8efd0b0060e5bd2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c1c52b430518f2f1e4a931e4c3cdb5ee.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9138a25f51a7f380dd3c29bcc87dc42a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a0adbf604849870b29be45f7c6ca18d2.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Arakawa Under the Bridge \u00d7 Bridge (\u8352\u5ddd\u30a2\u30f3\u30c0\u30fc \u30b6\u30d6\u30ea\u30c3\u30b8\u00d7\u30d6\u30ea\u30c3\u30b8) - nasza ocena: warte obejrzenia (wi\u0119cej: http://rdir.pl/153t5j)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d8ad69a8d5fec479a81b94c05bf077a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5712f928c1a915250fa1570e8311736c.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Kontynuacja przyg\u00f3d grupki ludzi \u017cyj\u0105cych pod mostem.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 16115,
+            "date": "2012-09-29T13:07:32",
+            "score": 8.0,
+            "type": "mal"
+        },
+        {
+            "count": 1058,
+            "date": "2012-09-29T13:07:32",
+            "score": 7.63,
+            "type": "anidb"
+        },
+        {
+            "count": 770,
+            "date": "2012-09-29T13:07:32",
+            "score": 7.843,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "125",
+    "title": "Arakawa Under the Bridge \u00d7 Bridge"
+}

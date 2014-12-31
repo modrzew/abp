@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5927\u6b63\u91ce\u7403\u5a18\u3002"
+        },
+        {
+            "language": "pl",
+            "title": "Bejsolowe Dziewcz\u0119ta Ery Taishou"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6315,
+        "ann": 10206,
+        "mal": 5141,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "* Based of a light novel series by author Kagurazaka Atsushi and illustrator Koike Sadaji.In 1925 (year 14 of the Taisho period), after being told by a baseball player that women should become housewives instead of going to school, two 14-year-old Japanese high school girls named Koume and Akiko decide to start a baseball team in order to prove him wrong. During this time, when even running was considered too vulgar for women, baseball is known as what the boys do and they face many difficulties when searching members, getting permission from their parents and when learning about the sport itself.",
+            "type": "anidb"
+        },
+        {
+            "content": "In 1925 (year 14 of the Taisho era) baseball is still quite unknown in Japan and there are only a few male teams. After being told by a baseball player that women should become housewives instead of going to school, 14-year-old Akiko invites her friend Koume to start a baseball team in order to prove him wrong. During this time, when even running was considered too vulgar for women, baseball is known as &quot;what the boys do&quot; and they face many difficulties when having to find enough members, to get permission from their parents and also when learning about the sport itself, which they soon discover to be more difficult than expected.",
+            "type": "mal"
+        },
+        {
+            "content": "In 1925 (year 14 of the Taish\u014d period), after being told by a baseball player that women should become housewives instead of going to school, two 14-year-old Japanese high school girls named Koume and Akiko decide to start a baseball team in order to prove him wrong. During this time, when even running was considered too vulgar for women, baseball is known as \"what the boys do\" and they face many difficulties when searching members, getting permission from their parents and when learning about the sport itself.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2972,
+            "date": "2012-09-29T02:36:15",
+            "score": 7.48,
+            "type": "mal"
+        },
+        {
+            "count": 549,
+            "date": "2012-09-29T02:36:15",
+            "score": 7.63,
+            "type": "anidb"
+        },
+        {
+            "count": 296,
+            "date": "2012-09-29T02:36:15",
+            "score": 7.568,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Taishou Yakyuu Musume."
+}

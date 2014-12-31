@@ -1,0 +1,613 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d0\u30c7\u30a3\u30fb\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9"
+        }
+    ],
+    "aliases": [
+        "Buddy Complex"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-12-29T15:00:00",
+            "episode": 1,
+            "score": 6.4,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[Watakushi] Buddy Complex - 01 [720p][E28AB81D].mkv",
+                    "group": "Watakushi",
+                    "hash": "E28AB81D",
+                    "url": "http://www.nyaa.se/?page=download&tid=507556",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Watakushi] Buddy Complex - 01v2 [720p][1347494E].mkv",
+                    "group": "Watakushi",
+                    "hash": "1347494E",
+                    "url": "http://www.nyaa.se/?page=download&tid=509313",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Buddy Complex - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509420",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Buddy Complex - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=509421",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Buddy Complex - 01 [h264-720p][30565152].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "30565152",
+                    "url": "http://www.nyaa.se/?page=download&tid=509717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Buddy Complex - 01 [1B87553F].mkv",
+                    "group": "Commie",
+                    "hash": "1B87553F",
+                    "url": "http://www.nyaa.se/?page=download&tid=510450",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-12T16:00:00",
+            "episode": 2,
+            "score": 6.8,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[Anime-Koi] Buddy Complex - 02 [h264-720p][CE1D52CE].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CE1D52CE",
+                    "url": "http://www.nyaa.se/?page=download&tid=511871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Buddy Complex - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512018",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Buddy Complex - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512019",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Buddy Complex - 02 [738C7091].mkv",
+                    "group": "Commie",
+                    "hash": "738C7091",
+                    "url": "http://www.nyaa.se/?page=download&tid=512613",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-19T16:00:00",
+            "episode": 3,
+            "score": 6.8,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Buddy Complex - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514594",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Buddy Complex - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=514595",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Buddy Complex - 03 [EEA06E41].mkv",
+                    "group": "Commie",
+                    "hash": "EEA06E41",
+                    "url": "http://www.nyaa.se/?page=download&tid=514912",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-26T16:00:00",
+            "episode": 4,
+            "score": 6.8916766467,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Buddy Complex - 04 [h264-720p][09AFD05A].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "09AFD05A",
+                    "url": "http://www.nyaa.se/?page=download&tid=517061",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Buddy Complex - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Buddy Complex - 04 [A12FE10C].mkv",
+                    "group": "Commie",
+                    "hash": "A12FE10C",
+                    "url": "http://www.nyaa.se/?page=download&tid=517435",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-02T16:00:00",
+            "episode": 5,
+            "score": 6.7278918919,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Buddy Complex - 05 [h264-720p][80168FA0].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "80168FA0",
+                    "url": "http://www.nyaa.se/?page=download&tid=519494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519678",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Buddy Complex - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=519679",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Buddy Complex - 05 [5A59A4BE].mkv",
+                    "group": "Commie",
+                    "hash": "5A59A4BE",
+                    "url": "http://www.nyaa.se/?page=download&tid=520259",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-09T16:00:00",
+            "episode": 6,
+            "score": 6.6352989691,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Buddy Complex - 06 [h264-720p][E49F901B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "E49F901B",
+                    "url": "http://www.nyaa.se/?page=download&tid=521684",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=521907",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=521908",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Buddy Complex - 06 [4EAFB976].mkv",
+                    "group": "Commie",
+                    "hash": "4EAFB976",
+                    "url": "http://www.nyaa.se/?page=download&tid=522298",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-16T16:00:00",
+            "episode": 7,
+            "score": 6.3015721154,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Buddy Complex - 07 [h264-720p][2A582DB1].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "2A582DB1",
+                    "url": "http://www.nyaa.se/?page=download&tid=524160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Buddy Complex - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524319",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Buddy Complex - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524320",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Buddy Complex - 07 [95581B92].mkv",
+                    "group": "Commie",
+                    "hash": "95581B92",
+                    "url": "http://www.nyaa.se/?page=download&tid=524903",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-23T16:00:00",
+            "episode": 8,
+            "score": 6.298912037,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 7,
+                    "filename": "[Anime-Koi] Buddy Complex - 08 [h264-720p][8E160524].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "8E160524",
+                    "url": "http://www.nyaa.se/?page=download&tid=526416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Buddy Complex - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=526585",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Buddy Complex - 08 [12A5B713].mkv",
+                    "group": "Commie",
+                    "hash": "12A5B713",
+                    "url": "http://www.nyaa.se/?page=download&tid=528217",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-02T16:00:00",
+            "episode": 9,
+            "score": 6.2838648649,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Buddy Complex - 09 [h264-720p][E39F2A06].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "E39F2A06",
+                    "url": "http://www.nyaa.se/?page=download&tid=528788",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=528961",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Buddy Complex - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=528962",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Buddy Complex - 09 [C14A1D93].mkv",
+                    "group": "Commie",
+                    "hash": "C14A1D93",
+                    "url": "http://www.nyaa.se/?page=download&tid=530076",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-09T16:00:00",
+            "episode": 10,
+            "score": 6.3108296943,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Buddy Complex - 10 [h264-720p][C0A82C85].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "C0A82C85",
+                    "url": "http://www.nyaa.se/?page=download&tid=531199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531419",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Buddy Complex - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531421",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Buddy Complex - 10 [3008ED32].mkv",
+                    "group": "Commie",
+                    "hash": "3008ED32",
+                    "url": "http://www.nyaa.se/?page=download&tid=532201",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-16T16:00:00",
+            "episode": 11,
+            "score": 6.2238418803,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] Buddy Complex - 11 [h264-720p][FFD81902].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "FFD81902",
+                    "url": "http://www.nyaa.se/?page=download&tid=533428",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533592",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Buddy Complex - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533597",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Buddy Complex - 11 [E3E3D0A5].mkv",
+                    "group": "Commie",
+                    "hash": "E3E3D0A5",
+                    "url": "http://www.nyaa.se/?page=download&tid=534649",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-23T16:00:00",
+            "episode": 12,
+            "score": 6.3519268293,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=535896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Buddy Complex - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=535904",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Buddy Complex - 12 [214BFBD1].mkv",
+                    "group": "Commie",
+                    "hash": "214BFBD1",
+                    "url": "http://www.nyaa.se/?page=download&tid=536766",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-30T17:00:00",
+            "episode": 13,
+            "score": 6.7928723404,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Buddy Complex - 13 [h264-720p][9000A4E5].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "9000A4E5",
+                    "url": "http://www.nyaa.se/?page=download&tid=537995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Buddy Complex - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=538203",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Buddy Complex - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=538204",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Buddy Complex - 13 [1F951C5E].mkv",
+                    "group": "Commie",
+                    "hash": "1F951C5E",
+                    "url": "http://www.nyaa.se/?page=download&tid=539284",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10291,
+        "ann": 15749,
+        "mal": 21437,
+        "schedule": 3243
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "On the first day back after summer break, high-school student Aoba is attacked by a giant robot that appears out of the sky. As he's pursued through the city, his classmate Hina appears in a robot of her own. She rescues him, and tells him cryptically that \"Dio is waiting for you,\" before she disappears. This begins Aoba's new life as the pilot of the Free Treaty Alliance against the Great Zogiria Republic.",
+            "type": "ann"
+        },
+        {
+            "content": "Note: The first episode premiered at special event. The regular TV broadcast started on 06.01.2014.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 323,
+            "date": "2014-04-19T04:22:08",
+            "score": 6.9,
+            "type": "anidb"
+        },
+        {
+            "count": 194,
+            "date": "2014-04-19T04:22:08",
+            "score": 6.806,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Buddy Complex"
+}

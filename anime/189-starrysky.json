@@ -1,0 +1,731 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b9\u30bf\u2606\u30b9\u30ab"
+        },
+        {
+            "language": "pl",
+            "title": "Gwie\u017adziste\u2606Niebo"
+        }
+    ],
+    "aliases": [
+        "Starry Sky"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2010-12-23T08:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 01 [2F8DD50A].mkv",
+                    "group": "SMS",
+                    "hash": "2F8DD50A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Webcast]",
+                    "download_count": 1,
+                    "filename": "[Hadena]_Starry_Sky_-_01_[Webcast][145D76E7].mkv",
+                    "group": "Hadena",
+                    "hash": "145D76E7",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=182082",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720P]",
+                    "download_count": 1,
+                    "filename": "[Hadena]Starry_Sky_-_01[720P][8D4DCAAF].mkv",
+                    "group": "Hadena",
+                    "hash": "8D4DCAAF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193556",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 01 (1024x576 H264 AAC) [1F834424].mkv",
+                    "group": "ReTouched",
+                    "hash": "1F834424",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 01 (848x480 H264 AAC) [60953DC7].mkv",
+                    "group": "ReTouched",
+                    "hash": "60953DC7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198152",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-30T08:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 02 [E7B9CC30].mkv",
+                    "group": "SMS",
+                    "hash": "E7B9CC30",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183112",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Webcast]",
+                    "download_count": 1,
+                    "filename": "[Hadena]_Starry_Sky_02_[Webcast][A482F065].mkv",
+                    "group": "Hadena",
+                    "hash": "A482F065",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 02 (1024x576 H264 AAC) [5FEF2F9D].mkv",
+                    "group": "ReTouched",
+                    "hash": "5FEF2F9D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198153",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 02 (848x480 H264 AAC) [1A6D0C50].mkv",
+                    "group": "ReTouched",
+                    "hash": "1A6D0C50",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198154",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-06T08:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 03 [7086BDE7].mkv",
+                    "group": "SMS",
+                    "hash": "7086BDE7",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184365",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Webcast]",
+                    "download_count": 1,
+                    "filename": "[Hadena]_Starry_Sky_03_[Webcast][9719A126].mkv",
+                    "group": "Hadena",
+                    "hash": "9719A126",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184526",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 03 (1024x576 H264 AAC) [B8BC5407].mkv",
+                    "group": "ReTouched",
+                    "hash": "B8BC5407",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198353",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 03 (848x480 H264 AAC) [0FAB1008].mkv",
+                    "group": "ReTouched",
+                    "hash": "0FAB1008",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198354",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-13T08:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 04 [FB5A78DC].mkv",
+                    "group": "SMS",
+                    "hash": "FB5A78DC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186135",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 04 (1024x576 H264 AAC) [A073F3B5].mkv",
+                    "group": "ReTouched",
+                    "hash": "A073F3B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200642",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 04 (848x480 H264 AAC) [4476B532].mkv",
+                    "group": "ReTouched",
+                    "hash": "4476B532",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200643",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-20T08:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 05 [85040F7E].mkv",
+                    "group": "SMS",
+                    "hash": "85040F7E",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187763",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 05 (1024x576 H264 AAC) [180002EE].mkv",
+                    "group": "ReTouched",
+                    "hash": "180002EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211490",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 05 (848x480 H264 AAC) [DDABD687].mkv",
+                    "group": "ReTouched",
+                    "hash": "DDABD687",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211489",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-27T08:00:00",
+            "episode": 6,
+            "score": 6.6939844237,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 06 [236958B8].mkv",
+                    "group": "SMS",
+                    "hash": "236958B8",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190064",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 06 (1024x576 H264 AAC) [9129BD05].mkv",
+                    "group": "ReTouched",
+                    "hash": "9129BD05",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212013",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 06 (848x480 H264 AAC) [3C092115].mkv",
+                    "group": "ReTouched",
+                    "hash": "3C092115",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212014",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-03T08:00:00",
+            "episode": 7,
+            "score": 6.7020581879,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 07 [6F1EFE8C].mkv",
+                    "group": "SMS",
+                    "hash": "6F1EFE8C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=191447",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Webcast]",
+                    "download_count": 1,
+                    "filename": "[Hadena]Starry_Sky_-_07[Webcast][B5FF598C].mkv",
+                    "group": "Hadena",
+                    "hash": "B5FF598C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=192117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 07 (1024x576 H264 AAC) [279E35CE].mkv",
+                    "group": "ReTouched",
+                    "hash": "279E35CE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222030",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 07 (848x480 H264 AAC) [7AF06733].mkv",
+                    "group": "ReTouched",
+                    "hash": "7AF06733",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222031",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-10T08:00:00",
+            "episode": 8,
+            "score": 6.6839383943,
+            "torrents": [
+                {
+                    "additional_info": "[Webcast]",
+                    "download_count": 1,
+                    "filename": "[Hadena]Starry_Sky_-_08[Webcast][B5FADD95].mkv",
+                    "group": "Hadena",
+                    "hash": "B5FADD95",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=193151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 08 [B96F1C29].mkv",
+                    "group": "SMS",
+                    "hash": "B96F1C29",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 08 (1024x576 H264 AAC) [E228EB66].mkv",
+                    "group": "ReTouched",
+                    "hash": "E228EB66",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222032",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 08 (848x480 H264 AAC) [0613CD73].mkv",
+                    "group": "ReTouched",
+                    "hash": "0613CD73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222033",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-17T08:00:00",
+            "episode": 9,
+            "score": 6.664588504,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 09 [C41C1A62].mkv",
+                    "group": "SMS",
+                    "hash": "C41C1A62",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Webcast]",
+                    "download_count": 1,
+                    "filename": "[Hadena]_Starry_Sky_-_09_[Webcast][DF9DA8B4].mkv",
+                    "group": "Hadena",
+                    "hash": "DF9DA8B4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=197085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 09 (1024x576 H264 AAC) [CF7696C2].mkv",
+                    "group": "ReTouched",
+                    "hash": "CF7696C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222299",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 09 (848x480 H264 AAC) [2E563C5C].mkv",
+                    "group": "ReTouched",
+                    "hash": "2E563C5C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222300",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-24T08:00:00",
+            "episode": 10,
+            "score": 6.6226221736,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 10 [F0E9BAC1].mkv",
+                    "group": "SMS",
+                    "hash": "F0E9BAC1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196258",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 10 (1024x576 H264 AAC) [0855C4B6].mkv",
+                    "group": "ReTouched",
+                    "hash": "0855C4B6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222301",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ReTouched] Starry Sky - 10 (848x480 H264 AAC) [87559C93].mkv",
+                    "group": "ReTouched",
+                    "hash": "87559C93",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222302",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-03T08:00:00",
+            "episode": 11,
+            "score": 6.6208405172,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 11 [95AA1755].mkv",
+                    "group": "SMS",
+                    "hash": "95AA1755",
+                    "url": "http://www.nyaa.eu/?page=download&tid=197814",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-10T08:00:00",
+            "episode": 12,
+            "score": 6.5849605945,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 12 [F7896639].mkv",
+                    "group": "SMS",
+                    "hash": "F7896639",
+                    "url": "http://www.nyaa.eu/?page=download&tid=199740",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-17T08:00:00",
+            "episode": 13,
+            "score": 6.5670157243,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 13 [07355288].mkv",
+                    "group": "SMS",
+                    "hash": "07355288",
+                    "url": "http://www.nyaa.eu/?page=download&tid=200634",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-24T08:00:00",
+            "episode": 14,
+            "score": 6.5621083712,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 14 [8EA30A5A].mkv",
+                    "group": "SMS",
+                    "hash": "8EA30A5A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=202285",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-31T09:00:00",
+            "episode": 15,
+            "score": 6.5203357664,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 15 [E4E7A3BF].mkv",
+                    "group": "SMS",
+                    "hash": "E4E7A3BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206536",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-07T09:00:00",
+            "episode": 16,
+            "score": 6.501736712,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 16 [064084D0].mkv",
+                    "group": "SMS",
+                    "hash": "064084D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206540",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-14T09:00:00",
+            "episode": 17,
+            "score": 6.4911200247,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 17 [9DCF605A].mkv",
+                    "group": "SMS",
+                    "hash": "9DCF605A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207071",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-21T09:00:00",
+            "episode": 18,
+            "score": 6.4637458531,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 18 [4F8F95CF].mkv",
+                    "group": "SMS",
+                    "hash": "4F8F95CF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208983",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-28T09:00:00",
+            "episode": 19,
+            "score": 6.447358871,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 19 [FB3C747E].mkv",
+                    "group": "SMS",
+                    "hash": "FB3C747E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210846",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-05T09:00:00",
+            "episode": 20,
+            "score": 6.4462824601,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 20v2 [BC2B56B1].mkv",
+                    "group": "SMS",
+                    "hash": "BC2B56B1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212949",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-05-12T09:00:00",
+            "episode": 21,
+            "score": 6.4298680458,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 21 [46071740].mkv",
+                    "group": "SMS",
+                    "hash": "46071740",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213933",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-19T09:00:00",
+            "episode": 22,
+            "score": 6.4250404915,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[SMS] Starry Sky - 22 [88DCE66E].mkv",
+                    "group": "SMS",
+                    "hash": "88DCE66E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216049",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-26T09:00:00",
+            "episode": 23,
+            "score": 6.4222268673,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 23 [B83D3E76].mkv",
+                    "group": "SMS",
+                    "hash": "B83D3E76",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229065",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-02T09:00:00",
+            "episode": 24,
+            "score": 6.4079899231,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[SMS] Starry Sky - 24 [DFF59010].mkv",
+                    "group": "SMS",
+                    "hash": "DFF59010",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231644",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-09T09:00:00",
+            "episode": 25,
+            "score": 6.3987323944,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[SMS] Starry Sky - 25 [81B74661].mkv",
+                    "group": "SMS",
+                    "hash": "81B74661",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234056",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-16T09:00:00",
+            "episode": 26,
+            "score": 6.5533813182,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SMS] Starry Sky - 26 [7E24C38A].mkv",
+                    "group": "SMS",
+                    "hash": "7E24C38A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234057",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 10,
+    "external_sites": {
+        "anidb": 7240,
+        "ann": 11891,
+        "mal": 7705,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Taka Hetalia, ale o gwiazdozbiorach.",
+            "type": "abp"
+        },
+        {
+            "content": "The heroine, Tsukiko, enrolled to a school that was recently changed from all-boys school to co-ed. Since the area where the school is conveniently rural and the rather exclusive curriculums the school has, up until now the heroine is the only one female who enrolled to the school.    In Starry Sky, the 13 constellations of the Zodiac are personified into handsome young men. The anime will be directed by Kiyomo Sayaka who worked with Vampire Knight. Similar to Hetalia - Axis Powers, Starry Sky&#039;s anime will be distributed through the Animate.tv website and other means.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on a series of otome dating sim games (targeted towards a female market) by Honeybee.The heroine, Tsukiko, enrolled to a school that was recently changed from all-boys school to co-ed. Since the area where the school is conveniently rural and the rather exclusive curriculums the school has, up until now the heroine is the only one female who enrolled to the school.",
+            "type": "anidb"
+        },
+        {
+            "content": "The heroine, Tsukiko, enrolled to a school that was recently changed from all-boys school to co-ed. Since the area where the school is conveniently rural and the rather exclusive curriculums the school has, up until now the heroine is the only one female who enrolled to the school.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 5371,
+            "date": "2012-09-29T12:54:53",
+            "score": 6.49,
+            "type": "mal"
+        },
+        {
+            "count": 166,
+            "date": "2012-09-29T12:54:53",
+            "score": 5.11,
+            "type": "anidb"
+        },
+        {
+            "count": 262,
+            "date": "2012-09-29T12:54:53",
+            "score": 5.287,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Starry\u2606Sky"
+}

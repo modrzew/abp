@@ -1,0 +1,733 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d5\u30ea\u30fc\u30b8\u30f3\u30b0 \u30f4\u30a1\u30a4\u30d6\u30ec\u30fc\u30b7\u30e7\u30f3"
+        },
+        {
+            "language": "pl",
+            "title": "Zamra\u017canie Wibracja"
+        }
+    ],
+    "aliases": [
+        "Freezing Vibration "
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-04T14:30:00",
+            "episode": 1,
+            "score": 7.4650106458,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 11,
+                    "filename": "[Hiryuu] Freezing Vibration 01 [AT-X Hi10P 1280x720 H264] [800A02D3].mkv",
+                    "group": "Hiryuu",
+                    "hash": "800A02D3",
+                    "url": "http://www.nyaa.se/?page=download&tid=479884",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Freezing Vibration - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480900",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Freezing Vibration - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480901",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_01_[1280x720][31F10F82].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "31F10F82",
+                    "url": "http://www.nyaa.se/?page=download&tid=483325",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 01 (1280x720 h264 AAC) [FE0BE793].mkv",
+                    "group": "Doki",
+                    "hash": "FE0BE793",
+                    "url": "http://tracker.anime-index.org/download.php?id=e070bdac1bff4ca94f6f52e9b27d997ec5e82274&f=%5BDoki%5D+Freezing+Vibration+-+01+%281280x720+h264+AAC%29+%5BFE0BE793%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 01 (848x480 h264 AAC) [04C431A1].mkv",
+                    "group": "Doki",
+                    "hash": "04C431A1",
+                    "url": "http://tracker.anime-index.org/download.php?id=04de85e11ffe87742d1f6d24a40dc045c2dee504&f=%5BDoki%5D+Freezing+Vibration+-+01+%28848x480+h264+AAC%29+%5B04C431A1%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-11T14:30:00",
+            "episode": 2,
+            "score": 7.5006431207,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Freezing Vibration 02 [AT-X Hi10P 1280x720 H264] [8A4CC011].mkv",
+                    "group": "Hiryuu",
+                    "hash": "8A4CC011",
+                    "url": "http://www.nyaa.se/?page=download&tid=482206",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Freezing Vibration - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482041",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_02_[1280x720][A95405A0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A95405A0",
+                    "url": "http://www.nyaa.se/?page=download&tid=483326",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 02 (1280x720 h264 AAC) [F41DB497].mkv",
+                    "group": "Doki",
+                    "hash": "F41DB497",
+                    "url": "http://tracker.anime-index.org/download.php?id=1c3e80eda6ade3e621db925d72ccbc4b982a95f7&f=%5BDoki%5D+Freezing+Vibration+-+02+%281280x720+h264+AAC%29+%5BF41DB497%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Freezing Vibration - 02 (848x480 h264 AAC) [F96DB341].mkv",
+                    "group": "Doki",
+                    "hash": "F96DB341",
+                    "url": "http://tracker.anime-index.org/download.php?id=5c508e53f117b6ea947f81bc4c08604979d78fe5&f=%5BDoki%5D+Freezing+Vibration+-+02+%28848x480+h264+AAC%29+%5BF96DB341%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-18T14:30:00",
+            "episode": 3,
+            "score": 7.4834296978,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Freezing Vibration - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=484203",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Freezing Vibration - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=484205",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Freezing Vibration 03 [AT-X Hi10P 1280x720 H264] [79C91D31].mkv",
+                    "group": "Hiryuu",
+                    "hash": "79C91D31",
+                    "url": "http://www.nyaa.se/?page=download&tid=484487",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_03_[1280x720][83849C83].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "83849C83",
+                    "url": "http://www.nyaa.se/?page=download&tid=485312",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 03 (1280x720 h264 AAC) [88490896].mkv",
+                    "group": "Doki",
+                    "hash": "88490896",
+                    "url": "http://tracker.anime-index.org/download.php?f=%5bDoki%5d%20Freezing%20Vibration%20-%2003%20(1280x720%20h264%20AAC)%20%5b88490896%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 03 (848x480 h264 AAC) [9001BAAC].mkv",
+                    "group": "Doki",
+                    "hash": "9001BAAC",
+                    "url": "http://tracker.anime-index.org/download.php?f=%5bDoki%5d%20Freezing%20Vibration%20-%2003%20(848x480%20h264%20AAC)%20%5b9001BAAC%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-25T14:30:00",
+            "episode": 4,
+            "score": 7.04,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Freezing Vibration - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486620",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Freezing Vibration - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486621",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Freezing Vibration 04 [AT-X Hi10P 1280x720 H264] [EB99E635].mkv",
+                    "group": "Hiryuu",
+                    "hash": "EB99E635",
+                    "url": "http://www.nyaa.se/?page=download&tid=487257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_04_[1280x720][D8E6B528].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "D8E6B528",
+                    "url": "http://www.nyaa.se/?page=download&tid=487333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 04 (1280x720 h264 AAC) [3F22B289].mkv",
+                    "group": "Doki",
+                    "hash": "3F22B289",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2004%20(1280x720%20h264%20AAC)%20%5B3F22B289%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 04 (848x480 h264 AAC) [0EE085B9].mkv",
+                    "group": "Doki",
+                    "hash": "0EE085B9",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2004%20(848x480%20h264%20AAC)%20%5B0EE085B9%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-01T13:30:00",
+            "episode": 5,
+            "score": 7.0519246575,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Freezing Vibration - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488963",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Freezing Vibration - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_05_[1280x720][B7C83670].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B7C83670",
+                    "url": "http://www.nyaa.se/?page=download&tid=489501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Freezing Vibration 05 [AT-X Hi10P 1280x720 H264] [75588103].mkv",
+                    "group": "Hiryuu",
+                    "hash": "75588103",
+                    "url": "http://www.nyaa.se/?page=download&tid=489681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 05 (1280x720 h264 AAC) [72177474].mkv",
+                    "group": "Doki",
+                    "hash": "72177474",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2005%20(1280x720%20h264%20AAC)%20%5B72177474%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 05 (848x480 h264 AAC) [ECA1F6D3].mkv",
+                    "group": "Doki",
+                    "hash": "ECA1F6D3",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2005%20(848x480%20h264%20AAC)%20%5BECA1F6D3%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-08T13:30:00",
+            "episode": 6,
+            "score": 7.1507375,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Freezing Vibration - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491144",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Freezing Vibration - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491145",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Freezing Vibration 06 [AT-X Hi10P 1280x720 H264] [89684558].mkv",
+                    "group": "Hiryuu",
+                    "hash": "89684558",
+                    "url": "http://www.nyaa.se/?page=download&tid=491798",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_06_[1280x720][7DBB730F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7DBB730F",
+                    "url": "http://www.nyaa.se/?page=download&tid=494155",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 06 (848x480 h264 AAC) [3E0EDC9D].mkv",
+                    "group": "Doki",
+                    "hash": "3E0EDC9D",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2006%20(848x480%20h264%20AAC)%20%5B3E0EDC9D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 06 (1280x720 h264 AAC) [B6D45C62].mkv",
+                    "group": "Doki",
+                    "hash": "B6D45C62",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2006%20(1280x720%20h264%20AAC)%20%5BB6D45C62%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-15T13:30:00",
+            "episode": 7,
+            "score": 7.1499700599,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Freezing Vibration - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493417",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Freezing Vibration - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493419",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Freezing Vibration 07 [AT-X Hi10P 1280x720 H264] [08AD8F53].mkv",
+                    "group": "Hiryuu",
+                    "hash": "08AD8F53",
+                    "url": "http://www.nyaa.se/?page=download&tid=493651",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_07_[1280x720][24D5AF26].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "24D5AF26",
+                    "url": "http://www.nyaa.se/?page=download&tid=494232",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 07 (1280x720 h264 AAC) [F9CB0809].mkv",
+                    "group": "Doki",
+                    "hash": "F9CB0809",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2007%20(1280x720%20h264%20AAC)%20%5BF9CB0809%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 07 (848x480 h264 AAC) [728CA652].mkv",
+                    "group": "Doki",
+                    "hash": "728CA652",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2007%20(848x480%20h264%20AAC)%20%5B728CA652%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-22T13:30:00",
+            "episode": 8,
+            "score": 7.1640666667,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Freezing Vibration - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495617",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Freezing Vibration - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Freezing Vibration 08 [AT-X Hi10P 1280x720 H264] [2E9A1944].mkv",
+                    "group": "Hiryuu",
+                    "hash": "2E9A1944",
+                    "url": "http://www.nyaa.se/?page=download&tid=495889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_08_[1280x720][A03D9F5E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A03D9F5E",
+                    "url": "http://www.nyaa.se/?page=download&tid=497197",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 08 (1280x720 h264 AAC) [A16D1EDA].mkv",
+                    "group": "Doki",
+                    "hash": "A16D1EDA",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2008%20(1280x720%20h264%20AAC)%20%5BA16D1EDA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 08 (848x480 h264 AAC) [EB02E75B].mkv",
+                    "group": "Doki",
+                    "hash": "EB02E75B",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2008%20(848x480%20h264%20AAC)%20%5BEB02E75B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-29T13:30:00",
+            "episode": 9,
+            "score": 7.0197849462,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Freezing Vibration - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498003",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Freezing Vibration - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 0,
+                    "filename": "[Hiryuu] Freezing Vibration 09 [AT-X Hi10P 1280x720 H264] [5CDE9679].mkv",
+                    "group": "Hiryuu",
+                    "hash": "5CDE9679",
+                    "url": "http://www.nyaa.se/?page=download&tid=498219",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 09 (1280x720 h264 AAC) [2F245414].mkv",
+                    "group": "Doki",
+                    "hash": "2F245414",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2009%20(1280x720%20h264%20AAC)%20%5B2F245414%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 09 (848x480 h264 AAC) [F2ABEE32].mkv",
+                    "group": "Doki",
+                    "hash": "F2ABEE32",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2009%20(848x480%20h264%20AAC)%20%5BF2ABEE32%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-06T13:30:00",
+            "episode": 10,
+            "score": 6.783626943,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Freezing Vibration 10 [AT-X Hi10P 1280x720 H264] [2B47E6BB].mkv",
+                    "group": "Hiryuu",
+                    "hash": "2B47E6BB",
+                    "url": "http://www.nyaa.se/?page=download&tid=500320",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Freezing Vibration - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Freezing Vibration - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_10_[1280x720][3C8EFD1F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "3C8EFD1F",
+                    "url": "http://www.nyaa.se/?page=download&tid=505687",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 10 (1280x720 h264 AAC) [3440EFA6].mkv",
+                    "group": "Doki",
+                    "hash": "3440EFA6",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2010%20(1280x720%20h264%20AAC)%20%5B3440EFA6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Freezing Vibration - 10 (848x480 h264 AAC) [AEB80302].mkv",
+                    "group": "Doki",
+                    "hash": "AEB80302",
+                    "url": "http://tracker.anime-index.org/%5BDoki%5D%20Freezing%20Vibration%20-%2010%20(848x480%20h264%20AAC)%20%5BAEB80302%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-13T13:30:00",
+            "episode": 11,
+            "score": 6.8108040201,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Freezing Vibration - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502230",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Freezing Vibration - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502231",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Freezing Vibration 11 [AT-X Hi10P 1280x720 H264] [A0476AD3].mkv",
+                    "group": "Hiryuu",
+                    "hash": "A0476AD3",
+                    "url": "http://www.nyaa.se/?page=download&tid=502399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_11_[1280x720][E6022D3D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E6022D3D",
+                    "url": "http://www.nyaa.se/?page=download&tid=505688",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-20T13:30:00",
+            "episode": 12,
+            "score": 6.5860949555,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Freezing Vibration - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=504415",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Freezing Vibration - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=504417",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X Hi10P 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Freezing Vibration 12 [AT-X Hi10P 1280x720 H264] [15BC984D].mkv",
+                    "group": "Hiryuu",
+                    "hash": "15BC984D",
+                    "url": "http://www.nyaa.se/?page=download&tid=505020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Freezing_Vibration_-_12_END_[1280x720][71463436].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "71463436",
+                    "url": "http://www.nyaa.se/?page=download&tid=507305",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 9789,
+        "ann": 15226,
+        "mal": 18001,
+        "schedule": 3168
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 2337,
+            "date": "2013-10-27T03:55:56",
+            "score": 7.49,
+            "type": "mal"
+        },
+        {
+            "count": 239,
+            "date": "2014-01-09T04:10:35",
+            "score": 6.46,
+            "type": "anidb"
+        },
+        {
+            "count": 223,
+            "date": "2014-01-09T04:10:35",
+            "score": 6.708,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": true,
+    "sequel_parent": "202",
+    "title": "Freezing Vibration"
+}

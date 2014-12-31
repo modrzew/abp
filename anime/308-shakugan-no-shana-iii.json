@@ -1,0 +1,891 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u707c\u773c\u306e\u30b7\u30e3\u30caIII (Final)"
+        },
+        {
+            "language": "pl",
+            "title": "Ognistooka Shana III (Koniec)"
+        }
+    ],
+    "aliases": [
+        "Shakugan no Shana III",
+        "Shakugan no Shana Final",
+        "Shakugan no Shana III [Final]"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/743540299",
+            "content": "#anime #Jesie\u01442011 Shakugan no Shana III (\u707c\u773c\u306e\u30b7\u30e3\u30caIII (Final)) http://rdir.pl/1lpr91",
+            "episode": 1,
+            "filename": "77affba54a9ec688264cde2136c04598.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/122668628700184578"
+        },
+        {
+            "blip_url": "http://blip.pl/s/788618699",
+            "content": "Shakugan no Shana III 05 - podryw \"na cukierka\" zadzia\u0142a\u0142",
+            "episode": 5,
+            "filename": "57c38ff2f459f3598afe4c99ce573ce3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/133270387193675776"
+        },
+        {
+            "blip_url": "http://blip.pl/s/800649111",
+            "content": "Shakugan no Shana III 06 - wszystko gry i zabawy, p\u00f3ki kto\u015b nie straci oka",
+            "episode": 6,
+            "filename": "f8ac21140f648fd4d560ffbf3942ecc9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/135749565713350657"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1089349715",
+            "content": "#anime #Jesie\u01442011 Shakugan no Shana III (\u707c\u773c\u306e\u30b7\u30e3\u30caIII (Final)) - nasza ocena: lepsze ni\u017c poprzednik (wi\u0119cej: http://rdir.pl/1lpr91)",
+            "episode": 24,
+            "filename": "75e99af3432c59cc23c8f2e1818af535.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-07T18:30:00",
+            "episode": 1,
+            "score": 8.31,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shakugan no Shana III - 01 [6FA7779A].mkv",
+                    "group": "Commie",
+                    "hash": "6FA7779A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250961",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] Shakugan no Shana III - 01 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250965",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 4,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 01 (1280x720 Hi10P) [853CEC84].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "853CEC84",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2001%20(1280x720%20Hi10P)%20%5b853CEC84%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Shakugan no Shana III (Final) - 01 (1280x720 h264 AAC) [EB8F5FF8].mkv",
+                    "group": "Doki",
+                    "hash": "EB8F5FF8",
+                    "url": "http://tracker.anime-index.org/Doki_Shakugan_no_Shana_III_Final_-_01_1280x720_h264_AAC_EB8F5FF8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Shakugan no Shana III (Final) - 01 (848x480 h264 AAC) [EFBF5BE6].mkv",
+                    "group": "Doki",
+                    "hash": "EFBF5BE6",
+                    "url": "http://tracker.anime-index.org/Doki_Shakugan_no_Shana_III_Final_-_01_848x480_h264_AAC_EFBF5BE6.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[8bit] Shakugan no Shana Final - 01 (1280x720 h264) [84EDA441].mkv",
+                    "group": "8bit",
+                    "hash": "84EDA441",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5b8bit%5d%20Shakugan%20no%20Shana%20Final%20-%2001%20(1280x720%20h264)%20%5b84EDA441%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-14T18:30:00",
+            "episode": 2,
+            "score": 8.294350023,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264]",
+                    "download_count": 4,
+                    "filename": "[8bit] Shakugan no Shana Final - 02 (1280x720 x264) [E944412B].mkv",
+                    "group": "8bit",
+                    "hash": "E944412B",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5b8bit%5d%20Shakugan%20no%20Shana%20Final%20-%2002%20(1280x720%20x264)%20%5bE944412B%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-21T18:30:00",
+            "episode": 3,
+            "score": 8.2619112903,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Shakugan no Shana III - 03 [4BFF8E7D].mkv",
+                    "group": "Commie",
+                    "hash": "4BFF8E7D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254490",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 03 (1280x720 Hi10P) [6EE625F2].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "6EE625F2",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2003%20(1280x720%20Hi10P)%20%5b6EE625F2%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264]",
+                    "download_count": 3,
+                    "filename": "[8bit] Shakugan no Shana Final - 03 (1280x720 x264) [0121D821].mkv",
+                    "group": "8bit",
+                    "hash": "0121D821",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5b8bit%5d%20Shakugan%20no%20Shana%20Final%20-%2003%20(1280x720%20x264)%20%5b0121D821%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-28T18:30:00",
+            "episode": 4,
+            "score": 8.2734109589,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shakugan no Shana III - 04 [BCAD3D73].mkv",
+                    "group": "Commie",
+                    "hash": "BCAD3D73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 4,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 04 (1280x720 Hi10P) [B3552EAF].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "B3552EAF",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2004%20(1280x720%20Hi10P)%20%5bB3552EAF%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 2,
+                    "filename": "[8bit] Shakugan no Shana Final - 04 (1280x720 h264) [8008EA0E].mkv",
+                    "group": "8bit",
+                    "hash": "8008EA0E",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5b8bit%5d%20Shakugan%20no%20Shana%20Final%20-%2004%20(1280x720%20h264)%20%5b8008EA0E%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-04T17:30:00",
+            "episode": 5,
+            "score": 8.274356291,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Shakugan no Shana III - 05 [3AE17439].mkv",
+                    "group": "Commie",
+                    "hash": "3AE17439",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257919",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 05 (1280x720 Hi10P) [A7CC8FDB].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "A7CC8FDB",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2005%20(1280x720%20Hi10P)%20%5bA7CC8FDB%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264]",
+                    "download_count": 3,
+                    "filename": "[8bit] Shakugan no Shana Final - 05 (1280x720 h264) [DD158A69].mkv",
+                    "group": "8bit",
+                    "hash": "DD158A69",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5b8bit%5d%20Shakugan%20no%20Shana%20Final%20-%2005%20(1280x720%20h264)%20%5bDD158A69%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-11T17:30:00",
+            "episode": 6,
+            "score": 8.2396799892,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Shakugan no Shana III - 06 [84FB446C].mkv",
+                    "group": "Commie",
+                    "hash": "84FB446C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 06 (1280x720 Hi10P) [15C18942].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "15C18942",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2006%20(1280x720%20Hi10P)%20%5b15C18942%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-18T17:30:00",
+            "episode": 7,
+            "score": 8.2145974555,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Shakugan no Shana III - 07 [8E05796A].mkv",
+                    "group": "Commie",
+                    "hash": "8E05796A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261116",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 10,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 07 (1280x720 Hi10P) [8C6DCFCD].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "8C6DCFCD",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2007%20(1280x720%20Hi10P)%20%5b8C6DCFCD%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-25T17:30:00",
+            "episode": 8,
+            "score": 8.2073721042,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Shakugan no Shana III - 08 [9E5147E7].mkv",
+                    "group": "Commie",
+                    "hash": "9E5147E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 6,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 08 (1280x720 Hi10P) [0AE54B9B].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "0AE54B9B",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2008%20(1280x720%20Hi10P)%20%5b0AE54B9B%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-02T17:30:00",
+            "episode": 9,
+            "score": 8.189422519,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Shakugan no Shana III - 09 [91C48870].mkv",
+                    "group": "Commie",
+                    "hash": "91C48870",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 7,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 09 (1280x720 Hi10P) [3D73200C].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "3D73200C",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2009%20(1280x720%20Hi10P)%20%5b3D73200C%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-09T17:30:00",
+            "episode": 10,
+            "score": 8.1810343688,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Shakugan no Shana III - 10 [FF705D7E].mkv",
+                    "group": "Commie",
+                    "hash": "FF705D7E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267112",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 4,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 10 (1280x720 Hi10P) [03107BBE].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "03107BBE",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2010%20(1280x720%20Hi10P)%20%5b03107BBE%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-16T17:30:00",
+            "episode": 11,
+            "score": 8.1776718816,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Shakugan no Shana III - 11 [0F01C7B8].mkv",
+                    "group": "Commie",
+                    "hash": "0F01C7B8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269351",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 11 (1280x720 Hi10P) [76215EE5].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "76215EE5",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2011%20(1280x720%20Hi10P)%20%5b76215EE5%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-23T17:30:00",
+            "episode": 12,
+            "score": 8.185402882,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 7,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 12 (1280x720 Hi10P) [9D2F5C7B].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "9D2F5C7B",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2012%20(1280x720%20Hi10P)%20%5b9D2F5C7B%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Shakugan no Shana III - 12 [A2FF8F2F].mkv",
+                    "group": "Commie",
+                    "hash": "A2FF8F2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271434",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-06T17:30:00",
+            "episode": 13,
+            "score": 8.1639241671,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Shakugan no Shana III - 13 [CA37799C].mkv",
+                    "group": "Commie",
+                    "hash": "CA37799C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274561",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 6,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 13 (1280x720 Hi10P) [D7CC6B73].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "D7CC6B73",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2013%20(1280x720%20Hi10P)%20%5bD7CC6B73%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[8bit] Shakugan no Shana Final - 13 (1280x720).mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275180",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-13T17:30:00",
+            "episode": 14,
+            "score": 8.1455490819,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 2,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 14 (1280x720 Hi10P) [65BAE5BA].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "65BAE5BA",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2014%20(1280x720%20Hi10P)%20%5b65BAE5BA%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Shakugan no Shana III - 14 [38C7AAE8].mkv",
+                    "group": "Commie",
+                    "hash": "38C7AAE8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=276778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[8bit] Shakugan no Shana Final - 14 (1280x720).mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=276816",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-20T17:30:00",
+            "episode": 15,
+            "score": 8.1504221501,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 4,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 15 (1280x720 Hi10P) [869DC599].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "869DC599",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2015%20(1280x720%20Hi10P)%20%5b869DC599%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][1]",
+                    "download_count": 1,
+                    "filename": "[8bit] Shakugan no Shana Final - 15 (1280x720) [869DC599] (1).mkv",
+                    "group": "8bit",
+                    "hash": "869DC599",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278913",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Shakugan no Shana III - 15 [40DEF44F].mkv",
+                    "group": "Commie",
+                    "hash": "40DEF44F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280536",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-27T17:30:00",
+            "episode": 16,
+            "score": 8.1376225726,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Shakugan no Shana III - 16 [7CBCB4BA].mkv",
+                    "group": "Commie",
+                    "hash": "7CBCB4BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1]",
+                    "download_count": 5,
+                    "filename": "[8bit] Shakugan no Shana III - 16 [7CBCB4BA] (1).mkv",
+                    "group": "8bit",
+                    "hash": "7CBCB4BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 16 (1280x720 Hi10P) [426E86CC].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "426E86CC",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2016%20(1280x720%20Hi10P)%20%5b426E86CC%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-03T17:30:00",
+            "episode": 17,
+            "score": 8.1261498382,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 4,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 17 (1280x720 Hi10P) [E75092AA].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "E75092AA",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2017%20(1280x720%20Hi10P)%20%5bE75092AA%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][1]",
+                    "download_count": 1,
+                    "filename": "[8bit] Shakugan no Shana Final - 17 (1280x720) [E75092AA] (1).mkv",
+                    "group": "8bit",
+                    "hash": "E75092AA",
+                    "url": "http://db.tt/EUhoU7aW",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Shakugan no Shana III - 17 [CD948D22].mkv",
+                    "group": "Commie",
+                    "hash": "CD948D22",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284375",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-10T17:30:00",
+            "episode": 18,
+            "score": 8.1238268685,
+            "torrents": [
+                {
+                    "additional_info": "[368p]",
+                    "download_count": 2,
+                    "filename": "[R-Subs] Shakugan no Shana III 18 [368p].mkv",
+                    "group": "R-Subs",
+                    "hash": "",
+                    "url": "http://db.tt/7HCZx2ZW",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 2,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 18 (1280x720 Hi10P) [8AA4DA1C].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "8AA4DA1C",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2018%20(1280x720%20Hi10P)%20%5b8AA4DA1C%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[8bit] Shakugan no Shana Final - 18 (1280x720).mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://db.tt/7zTFzLtH",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Shakugan no Shana III - 18 [DF3F5B71].mkv",
+                    "group": "Commie",
+                    "hash": "DF3F5B71",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286863",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-17T17:30:00",
+            "episode": 19,
+            "score": 8.0982565437,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 19 (1280x720 Hi10P) [18461027].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "18461027",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2019%20(1280x720%20Hi10P)%20%5b18461027%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Shakugan no Shana III - 19 [88FF7BEF].mkv",
+                    "group": "Commie",
+                    "hash": "88FF7BEF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Vorbis][1]",
+                    "download_count": 0,
+                    "filename": "[8bit] Shakugan no Shana III - 19 [Vorbis] (1).mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://db.tt/3QxoNipg",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-24T17:30:00",
+            "episode": 20,
+            "score": 8.0890571216,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 4,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 20 (1280x720 Hi10P) [F9475228].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "F9475228",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2020%20(1280x720%20Hi10P)%20%5bF9475228%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[8bit] Shakugan no Shana Final - 20 (1280x720).mkv",
+                    "group": "8bit",
+                    "hash": "",
+                    "url": "http://db.tt/20v7qNdi",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Shakugan no Shana III - 20 [1128078D].mkv",
+                    "group": "Commie",
+                    "hash": "1128078D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292496",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-02T17:30:00",
+            "episode": 21,
+            "score": 8.0752598104,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Shakugan no Shana III - 21 [CCF4904A].mkv",
+                    "group": "Commie",
+                    "hash": "CCF4904A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293614",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 7,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 21 (1280x720 Hi10P) [3DC91FC0].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "3DC91FC0",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2021%20(1280x720%20Hi10P)%20%5b3DC91FC0%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-09T17:30:00",
+            "episode": 22,
+            "score": 8.041757468,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Shakugan no Shana III - 22 [4386AD6A].mkv",
+                    "group": "Commie",
+                    "hash": "4386AD6A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295201",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 22 (1280x720 Hi10P) [E89B764C].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "E89B764C",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2022%20(1280x720%20Hi10P)%20%5bE89B764C%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-16T17:30:00",
+            "episode": 23,
+            "score": 8.0214701996,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 5,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 23 (1280x720 Hi10P) [0E731EA4].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "0E731EA4",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2023%20(1280x720%20Hi10P)%20%5b0E731EA4%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Shakugan no Shana III - 23 [0C9311A7].mkv",
+                    "group": "Commie",
+                    "hash": "0C9311A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297468",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-23T17:30:00",
+            "episode": 24,
+            "score": 8.0249739583,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shakugan no Shana III - 24 [9D13BEF4].mkv",
+                    "group": "Commie",
+                    "hash": "9D13BEF4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298947",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P]",
+                    "download_count": 3,
+                    "filename": "[SS-Eclipse] Shakugan no Shana Final - 24 (1280x720 Hi10P) [4B866A6E].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "4B866A6E",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20Final%20-%2024%20(1280x720%20Hi10P)%20%5b4B866A6E%5d.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1]",
+                    "download_count": 3,
+                    "filename": "[8bit] Shakugan no Shana III - 24 [9D13BEF4] (1).mkv",
+                    "group": "8bit",
+                    "hash": "9D13BEF4",
+                    "url": "http://db.tt/jqKOxVvD",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8483,
+        "ann": 13003,
+        "mal": 6773,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/14e24cfe95a69a38883ff5a6c55bb1ad.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4d9aa31971ba3611c665c0248f2e4a62.jpg",
+            "hd": false
+        },
+        {
+            "description": ":D",
+            "filename": "http://s.modriv.net/abp/images/screencaps/561addd7f5c0bf935e9b7e883d9fc563.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dbd32f24834aa998414d93eceec6fa14.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/330de9a651e278575425579fb061bd14.jpg",
+            "hd": false
+        },
+        {
+            "description": "Reddsy bez popity to nie jest najlepszy wyb\u00f3r",
+            "filename": "http://s.modriv.net/abp/images/screencaps/890c4fff1072fae3587717fb89e5db84.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7ee6f6955fea52859c3c817e0e780e4.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Shakugan no Shana III (\u707c\u773c\u306e\u30b7\u30e3\u30caIII (Final)) http://rdir.pl/1lpr91",
+            "filename": "http://s.modriv.net/abp/images/screencaps/77affba54a9ec688264cde2136c04598.jpg",
+            "hd": false
+        },
+        {
+            "description": "podryw \"na cukierka\" zadzia\u0142a\u0142",
+            "filename": "http://s.modriv.net/abp/images/screencaps/57c38ff2f459f3598afe4c99ce573ce3.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u30ec\u30a4\u30d7",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bdf6182c7e99c654e6f82e0e8b3477da.jpg",
+            "hd": false
+        },
+        {
+            "description": "wszystko gry i zabawy, p\u00f3ki kto\u015b nie straci oka",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f8ac21140f648fd4d560ffbf3942ecc9.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Shakugan no Shana III (\u707c\u773c\u306e\u30b7\u30e3\u30caIII (Final)) - nasza ocena: lepsze ni\u017c poprzednik (wi\u0119cej: http://rdir.pl/1lpr91)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75e99af3432c59cc23c8f2e1818af535.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 14731,
+            "date": "2012-09-29T13:48:28",
+            "score": 7.94,
+            "type": "mal"
+        },
+        {
+            "count": 658,
+            "date": "2012-09-29T13:48:28",
+            "score": 7.916,
+            "type": "ann"
+        },
+        {
+            "count": 854,
+            "date": "2012-09-29T13:48:28",
+            "score": 7.18,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "61",
+    "title": "Shakugan no Shana III"
+}

@@ -1,0 +1,327 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u590f\u8272\u30ad\u30bb\u30ad"
+        },
+        {
+            "language": "pl",
+            "title": "Cud Koloru Letniego"
+        }
+    ],
+    "aliases": [
+        "Natsuiro Kiseki",
+        "Natsuiro Kiseki - Episode "
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-04-05T19:25:00",
+            "episode": 1,
+            "score": 6.7835905045,
+            "torrents": [
+                {
+                    "additional_info": "[Pre-air]",
+                    "download_count": 7,
+                    "filename": "[rori] Natsuiro Kiseki - 01 [Pre-air][4F1796CB].mkv",
+                    "group": "rori",
+                    "hash": "4F1796CB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300935",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Rori-ZeroRaws]",
+                    "download_count": 5,
+                    "filename": "[ReinWeiss] Natsuiro Kiseki - 01 [Rori-ZeroRaws].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302206",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[rori] Natsuiro Kiseki - 01 [26AFFF70].mkv",
+                    "group": "rori",
+                    "hash": "26AFFF70",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302223",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-12T19:25:00",
+            "episode": 2,
+            "score": 6.7415342466,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[rori] Natsuiro Kiseki - 02 [721DBE9E].mkv",
+                    "group": "rori",
+                    "hash": "721DBE9E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304402",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-19T19:25:00",
+            "episode": 3,
+            "score": 6.7534205405,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[rori] Natsuiro Kiseki - 03 [5EBA9404].mkv",
+                    "group": "rori",
+                    "hash": "5EBA9404",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Tasty-Anmitsu] Natsuiro Kiseki - Episode 03 (848x480 h264 AAC) [CF14A46E].mkv",
+                    "group": "Tasty-Anmitsu",
+                    "hash": "CF14A46E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312256",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[Tasty-Anmitsu] Natsuiro Kiseki - Episode 03 (1280x720 10bit AAC) [43443310].mkv",
+                    "group": "Tasty-Anmitsu",
+                    "hash": "43443310",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Tasty-Anmitsu] Natsuiro Kiseki - Episode 03 (1280x720 h264 AAC) [4C76CFA6].mkv",
+                    "group": "Tasty-Anmitsu",
+                    "hash": "4C76CFA6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312258",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-26T19:25:00",
+            "episode": 4,
+            "score": 6.7745043228,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[rori] Natsuiro Kiseki - 04 [D0402D5E].mkv",
+                    "group": "rori",
+                    "hash": "D0402D5E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308893",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Tasty-Anmitsu] Natsuiro Kiseki - Episode 04 (848x480 h264 AAC) [2177FB31].mkv",
+                    "group": "Tasty-Anmitsu",
+                    "hash": "2177FB31",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313940",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Tasty-Anmitsu] Natsuiro Kiseki - Episode 04 (1280x720 h264 AAC) [72D0F16D].mkv",
+                    "group": "Tasty-Anmitsu",
+                    "hash": "72D0F16D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313941",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[Tasty-Anmitsu] Natsuiro Kiseki - Episode 04 (1280x720 10bit AAC) [BF98333B].mkv",
+                    "group": "Tasty-Anmitsu",
+                    "hash": "BF98333B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320187",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-03T19:25:00",
+            "episode": 5,
+            "score": 6.8593645603,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[rori] Natsuiro Kiseki - 05 [DD70944A].mkv",
+                    "group": "rori",
+                    "hash": "DD70944A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311230",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-10T19:25:00",
+            "episode": 6,
+            "score": 6.8619732105,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[rori] Natsuiro Kiseki - 06 [4576631C].mkv",
+                    "group": "rori",
+                    "hash": "4576631C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313219",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-17T19:25:00",
+            "episode": 7,
+            "score": 6.8728011182,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[rori] Natsuiro Kiseki - 07 [A10E9E87].mkv",
+                    "group": "rori",
+                    "hash": "A10E9E87",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=315091",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-24T19:25:00",
+            "episode": 8,
+            "score": 6.8694490189,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[rori] Natsuiro Kiseki - 08 [152F73C3].mkv",
+                    "group": "rori",
+                    "hash": "152F73C3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317022",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-31T19:25:00",
+            "episode": 9,
+            "score": 6.8706906795,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[rori] Natsuiro Kiseki - 09 [16DF7072].mkv",
+                    "group": "rori",
+                    "hash": "16DF7072",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319139",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-07T19:25:00",
+            "episode": 10,
+            "score": 6.8896699682,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[rori] Natsuiro Kiseki - 10 [76183975].mkv",
+                    "group": "rori",
+                    "hash": "76183975",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321164",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-14T19:25:00",
+            "episode": 11,
+            "score": 6.888392562,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[rori] Natsuiro Kiseki - 11 [F533CA86].mkv",
+                    "group": "rori",
+                    "hash": "F533CA86",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324822",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-21T19:25:00",
+            "episode": 12,
+            "score": 7.146737839,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8804,
+        "ann": 13562,
+        "mal": 12119,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Waking up in the morning, going to school, spending time with friends. These make up the days of four friends. They experience fun and sad things as well, and these days seem to go on forever, until one summer, a miracle happens. This is a story of four girls: Natsumi, a cheerful and frank girl, Saki, who is perfect in both studying and sports, Yuka, who is a fan of the idol group Four Seasons, and Rinko, who loves music. This warm yet refreshing summer-coloured wonder will surely carry you along...Source: official siteNote: The first episode received an exclusive pre-airing on video sharing website Nico Nico Douga on Saturday, March 31, 2012. The regular broadcast started on April 6, 2012.",
+            "type": "anidb"
+        },
+        {
+            "content": "Natsumi, Saki, Yuka, and Ringo are best friends. They've grown up in an old agricultural town, experiencing everything together, both happy and sad. But one summer, they are visited by a miracle.",
+            "type": "ann"
+        },
+        {
+            "content": "At a Shinto shrine in Shimoda, there is a large rock. It is said that if four close friends gather around the rock and all wish for the same thing, that wish will come true. As four friends, Natsumi, Saki, Yuka and Rinko, gather around the rock like they used to in their childhood, they soon find the rock can indeed grant people's wishes. With only a short amount of time before Saki is due to transfer schools, the girls spend a summer filled with magic.  (Source: Wikipedia.org)",
+            "type": "mal"
+        },
+        {
+            "content": "At a Shinto shrine in Shimoda, there is a large rock. It is said that if four close friends gather around the rock and all wish for the same thing, that wish will come true. As four friends, Natsumi, Saki, Yuka and Rinko, gather around the rock like they used to in their childhood, they soon find the rock can indeed grant people's wishes. With only a short amount of time before Saki is due to transfer schools, the girls spend a summer filled with magic.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 4925,
+            "date": "2012-09-29T14:11:26",
+            "score": 7.16,
+            "type": "mal"
+        },
+        {
+            "count": 331,
+            "date": "2012-09-29T14:11:26",
+            "score": 6.59,
+            "type": "anidb"
+        },
+        {
+            "count": 273,
+            "date": "2012-09-29T14:11:26",
+            "score": 7.587,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Natsuiro Kiseki"
+}

@@ -1,0 +1,69 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a4\u30ec\u30d6\u30f3\u30a2\u30a4\u30ba"
+        },
+        {
+            "language": "pl",
+            "title": "11oczu"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6751,
+        "ann": 10935,
+        "mal": 6682,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Jeden go\u015b\u0107, kt\u00f3ry ma magiczne z\u0142ote oko, wraz ze swoim haremem ma\u0142ych dziewczynek z du\u017cymi cyckami zostaje wci\u0105gni\u0119ty do Czerwonej Nocy i walczy o przetrwanie z potworami.",
+            "type": "abp"
+        },
+        {
+            "content": "* Adaptation of the 11eyes \u2014 Tsumi to Batsu to Aganai no Shoujo adult PC game from developer Lass.\"The Red Night \u2014 it appears without warning. Real, yet unreal. A dark world which exists in an alternate dimension. The Fragments, boys and girls who have been dragged inside are being attacked by strange black knights. Why them? Just what will happen? Will an answer await them at the end of this nightmare?\" \u2014 from introThe fantasy adventure revolves around seven teen classmates transported to another world of fantasy and magic where they must defeat six black knights in order to return home.",
+            "type": "anidb"
+        },
+        {
+            "content": "When the Sky turns Red, the Moon turns Black, and monsters begin roaming the streets, Satsuki Kakeru is at a loss for what to do.  Along with his best friend Yuka, they try to decipher why they have been sent to this strange world, which is seemingly empty aside from themselves.    However, when the &#039;Red Night&#039; ends, Kakeru and Yuka believed it was all a dream, until it happens again and they are left in a dangerous situation. They meet four others in the same predicament: Kusakabe Misuzu, an expert swordswoman, Tachibana Kukuri, a strange mute girl who looks uncannily like Kakeru&#039;s deceased sister, Hirohara Yukiko, a lively young girl whose personality reverts to that of a cold killer when her glasses are removed, and Tajima Takahisa, a young pyrokineticist.    As the six of them band together to survive and discover what this mysterious world is, things take a turn for the worse as six shadows appear before them...    [Written by MAL Rewrite]",
+            "type": "mal"
+        },
+        {
+            "content": "Satsuki Kakeru lost his sister by suicide and has been living a dull life ever since then. One day, he is transported into a bizarre world \"Red Night\" along with his friend Minase Yuka. In order to survive and escape from Red Night, he fights against Dark Spirits (Ralva) and Black Nights.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 24426,
+            "date": "2012-09-29T02:13:51",
+            "score": 6.81,
+            "type": "mal"
+        },
+        {
+            "count": 1393,
+            "date": "2012-09-29T02:13:51",
+            "score": 6.16,
+            "type": "anidb"
+        },
+        {
+            "count": 1278,
+            "date": "2012-09-29T02:13:51",
+            "score": 6.534,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "11eyes"
+}

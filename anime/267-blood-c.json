@@ -1,0 +1,810 @@
+{
+    "additional_titles": [
+        {
+            "language": "pl",
+            "title": "Krew-C"
+        }
+    ],
+    "aliases": [
+        "Blood-C",
+        "Blood C"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/599748265",
+            "content": "#anime #Lato2011 Blood-C http://rdir.pl/1j6mj2",
+            "episode": 1,
+            "filename": "fa7d672b3c121758233a45efebe92b75.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/89421744305225728"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-07T18:40:00",
+            "episode": 1,
+            "score": 7.1899495798,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 01 (480p) [036090B6].mkv",
+                    "group": "Underwater",
+                    "hash": "036090B6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2001%20(480p)%20%5B036090B6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Blood-C - 01 (720p) [CEBAC53A].mkv",
+                    "group": "Underwater",
+                    "hash": "CEBAC53A",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2001%20(720p)%20%5BCEBAC53A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 01 (1280x720 h264 AAC) [7700C546].mkv",
+                    "group": "Doki",
+                    "hash": "7700C546",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_01_1280x720_h264_AAC_7700C546.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 01 (848x480 h264 AAC) [4AD8C0FF].mkv",
+                    "group": "Doki",
+                    "hash": "4AD8C0FF",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_01_848x480_h264_AAC_4AD8C0FF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 2,
+                    "filename": "[GX_ST] Blood C - 01 [720p_H264][E2E2609F].mkv",
+                    "group": "GX ST",
+                    "hash": "E2E2609F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230447",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-14T18:40:00",
+            "episode": 2,
+            "score": 6.9341025939,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hurf] Blood-C - 02 (1280x720 x264 AAC).mkv",
+                    "group": "Hurf",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Blood-C - 02 (480p) [4BEFEA1D].mkv",
+                    "group": "Underwater",
+                    "hash": "4BEFEA1D",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2002%20(480p)%20%5B4BEFEA1D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Underwater] Blood-C - 02 (720p) [6C1376B6].mkv",
+                    "group": "Underwater",
+                    "hash": "6C1376B6",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2002%20(720p)%20%5B6C1376B6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Blood-C - 02 (1280x720 h264 AAC) [4F1697EE].mkv",
+                    "group": "Doki",
+                    "hash": "4F1697EE",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_02_1280x720_h264_AAC_4F1697EE.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Blood-C - 02 (848x480 h264 AAC) [957D40D4].mkv",
+                    "group": "Doki",
+                    "hash": "957D40D4",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_02_848x480_h264_AAC_957D40D4.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p H264]",
+                    "download_count": 1,
+                    "filename": "[GX_ST] Blood C - 02 [720p_H264][8CFC1781].mkv",
+                    "group": "GX ST",
+                    "hash": "8CFC1781",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230449",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-21T18:40:00",
+            "episode": 3,
+            "score": 6.6802242871,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Blood-C - 03 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230207",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Herp] Blood-C - 03 (1280x720 x264 AAC) [CE5FE80E].mkv",
+                    "group": "Herp",
+                    "hash": "CE5FE80E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230234",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Blood-C - 03 (480p) [D22997DC].mkv",
+                    "group": "Underwater",
+                    "hash": "D22997DC",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2003%20(480p)%20%5BD22997DC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 03 (720p) [A478F7BF].mkv",
+                    "group": "Underwater",
+                    "hash": "A478F7BF",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2003%20(720p)%20%5BA478F7BF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 03 (1280x720 h264 AAC) [2EAFBDCB].mkv",
+                    "group": "Doki",
+                    "hash": "2EAFBDCB",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_03_1280x720_h264_AAC_2EAFBDCB.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 03 (848x480 h264 AAC) [F3C81688].mkv",
+                    "group": "Doki",
+                    "hash": "F3C81688",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_03_848x480_h264_AAC_F3C81688.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-28T18:40:00",
+            "episode": 4,
+            "score": 6.5645812535,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[NicoNico] Blood-C - 04 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232048",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Blood-C - 04 (480p) [315B2B6B].mkv",
+                    "group": "Underwater",
+                    "hash": "315B2B6B",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2004%20(480p)%20%5B315B2B6B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Blood-C - 04 (720p) [F4F038D7].mkv",
+                    "group": "Underwater",
+                    "hash": "F4F038D7",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2004%20(720p)%20%5BF4F038D7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 04 (1280x720 h264 AAC) [64D76F1D].mkv",
+                    "group": "Doki",
+                    "hash": "64D76F1D",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_04_1280x720_h264_AAC_64D76F1D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 04 (848x480 h264 AAC) [9857ADA3].mkv",
+                    "group": "Doki",
+                    "hash": "9857ADA3",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_04_848x480_h264_AAC_9857ADA3.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-04T18:40:00",
+            "episode": 5,
+            "score": 6.5345676081,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Blood-C - 05 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 05 (480p) [7EF71864].mkv",
+                    "group": "Underwater",
+                    "hash": "7EF71864",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2005%20(480p)%20%5B7EF71864%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 05 (720p) [311CE666].mkv",
+                    "group": "Underwater",
+                    "hash": "311CE666",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2005%20(720p)%20%5B311CE666%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 05 (1280x720 h264 AAC) [C9BD7185].mkv",
+                    "group": "Doki",
+                    "hash": "C9BD7185",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_05_1280x720_h264_AAC_C9BD7185.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 05 (848x480 h264 AAC) [C014D4D3].mkv",
+                    "group": "Doki",
+                    "hash": "C014D4D3",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_05_848x480_h264_AAC_C014D4D3.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-11T18:40:00",
+            "episode": 6,
+            "score": 6.5245184662,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Blood-C - 06 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 06 (480p) [5E29DD01].mkv",
+                    "group": "Underwater",
+                    "hash": "5E29DD01",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2006%20(480p)%20%5B5E29DD01%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 06 (720p) [4FB68CFB].mkv",
+                    "group": "Underwater",
+                    "hash": "4FB68CFB",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2006%20(720p)%20%5B4FB68CFB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Doki] Blood-C - 06 (1280x720 h264 AAC) [7232998B].mkv",
+                    "group": "Doki",
+                    "hash": "7232998B",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_06_1280x720_h264_AAC_7232998B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 06 (848x480 h264 AAC) [981BBA54].mkv",
+                    "group": "Doki",
+                    "hash": "981BBA54",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_06_848x480_h264_AAC_981BBA54.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-18T18:40:00",
+            "episode": 7,
+            "score": 6.5268911067,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[NicoNico] Blood-C - 07 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=240004",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 07 (480p) [8D777CB5].mkv",
+                    "group": "Underwater",
+                    "hash": "8D777CB5",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2007%20(480p)%20%5B8D777CB5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Underwater] Blood-C - 07 (720p) [135C29C8].mkv",
+                    "group": "Underwater",
+                    "hash": "135C29C8",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2007%20(720p)%20%5B135C29C8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 07 (1280x720 h264 AAC) [F02E9494].mkv",
+                    "group": "Doki",
+                    "hash": "F02E9494",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_07_1280x720_h264_AAC_F02E9494.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 07 (848x480 h264 AAC) [FF1C6456].mkv",
+                    "group": "Doki",
+                    "hash": "FF1C6456",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_07_848x480_h264_AAC_FF1C6456.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Blood-C - 07 [720p][H.264][90DE7017].mkv",
+                    "group": "OX-",
+                    "hash": "90DE7017",
+                    "url": "http://1337x.org/download/235759/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p][AnimeDragon]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 07 [480p] (AnimeDragon).mkv",
+                    "group": "Underwater",
+                    "hash": "",
+                    "url": "http://zoink.it/torrent/E27297E99BCEC3F3C833A7A7FA024CA6F69A76D4.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][AnimeDragon]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 07 [720p] (AnimeDragon).mkv",
+                    "group": "Underwater",
+                    "hash": "",
+                    "url": "http://zoink.it/torrent/A107B94E249A9E27087B7099CC54BA23F62224CF.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-25T18:40:00",
+            "episode": 8,
+            "score": 6.5055779739,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 3,
+                    "filename": "[NicoNico] Blood-C - 08 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=242113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Vyrsalia] Blood-C - 08 [720p][403E9B47].mkv",
+                    "group": "Vyrsalia",
+                    "hash": "403E9B47",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Blood-C - 08 [720p][H.264][9E6BF435].mkv",
+                    "group": "OX-",
+                    "hash": "9E6BF435",
+                    "url": "http://1337x.org/download/238152/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 08 (848x480 h264 AAC) [DCDF572E].mkv",
+                    "group": "Doki",
+                    "hash": "DCDF572E",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_08_848x480_h264_AAC_DCDF572E.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 08 (1280x720 h264 AAC) [39D4A912].mkv",
+                    "group": "Doki",
+                    "hash": "39D4A912",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_08_1280x720_h264_AAC_39D4A912.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-01T18:40:00",
+            "episode": 9,
+            "score": 6.4824415042,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 12,
+                    "filename": "[NicoNico] Blood-C - 09 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://castor.whatbox.ca:27551/%5BNicoNico%5D%20Blood-C%20-%2009%20%5B640x360%20H.264%20AAC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Blood-C - 09 (1280x720 h264 AAC) [481E377E].mkv",
+                    "group": "Doki",
+                    "hash": "481E377E",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_09_1280x720_h264_AAC_481E377E.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 09 (848x480 h264 AAC) [BF61F1C7].mkv",
+                    "group": "Doki",
+                    "hash": "BF61F1C7",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_09_848x480_h264_AAC_BF61F1C7.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Blood-C - 09 [720p][H.264][A6641D69].mkv",
+                    "group": "OX-",
+                    "hash": "A6641D69",
+                    "url": "http://1337x.org/download/240804/",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-08T18:40:00",
+            "episode": 10,
+            "score": 6.4582954115,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Blood-C - 10 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245658",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 10 (1280x720 h264 AAC) [59A1D23B].mkv",
+                    "group": "Doki",
+                    "hash": "59A1D23B",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_10_1280x720_h264_AAC_59A1D23B.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 10 (848x480 h264 AAC) [B7E498BE].mkv",
+                    "group": "Doki",
+                    "hash": "B7E498BE",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_10_848x480_h264_AAC_B7E498BE.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Blood-C - 10 [720p][H.264][42649BA5].mkv",
+                    "group": "OX-",
+                    "hash": "42649BA5",
+                    "url": "http://1337x.org/download/243445/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 10 (480p) [B5C00B1F].mkv",
+                    "group": "Underwater",
+                    "hash": "B5C00B1F",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2010%20(480p)%20%5BB5C00B1F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 10 (720p) [7DA01400].mkv",
+                    "group": "Underwater",
+                    "hash": "7DA01400",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2010%20(720p)%20%5B7DA01400%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-15T18:40:00",
+            "episode": 11,
+            "score": 6.4095269321,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Blood-C - 11 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247343",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 11 (480p) [C5D9A6A1].mkv",
+                    "group": "Underwater",
+                    "hash": "C5D9A6A1",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2011%20(480p)%20%5BC5D9A6A1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 11 (720p) [A395988E].mkv",
+                    "group": "Underwater",
+                    "hash": "A395988E",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2011%20(720p)%20%5BA395988E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 11 (1280x720 h264 AAC) [FBFD2EB8].mkv",
+                    "group": "Doki",
+                    "hash": "FBFD2EB8",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_11_1280x720_h264_AAC_FBFD2EB8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 11 (848x480 h264 AAC) [BA0B38D5].mkv",
+                    "group": "Doki",
+                    "hash": "BA0B38D5",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_11_848x480_h264_AAC_BA0B38D5.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Blood-C - 11 [720p][H.264][C4FDA525].mkv",
+                    "group": "OX-",
+                    "hash": "C4FDA525",
+                    "url": "http://1337x.org/download/245676/",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-22T18:40:00",
+            "episode": 12,
+            "score": 6.4433680665,
+            "torrents": [
+                {
+                    "additional_info": "[640x360 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[NicoNico] Blood-C - 12 [640x360 H.264 AAC].mkv",
+                    "group": "NicoNico",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249139",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 12 (480p) [F1443869].mkv",
+                    "group": "Underwater",
+                    "hash": "F1443869",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2012%20(480p)%20%5BF1443869%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Underwater] Blood-C - 12 (720p) [B200D489].mkv",
+                    "group": "Underwater",
+                    "hash": "B200D489",
+                    "url": "http://underwater.nyaatorrents.org/torrent/%5BUnderwater%5D%20Blood-C%20-%2012%20(720p)%20%5BB200D489%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Blood-C - 12 [720p][H.264][5053DE62].mkv",
+                    "group": "OX-",
+                    "hash": "5053DE62",
+                    "url": "http://1337x.org/download/248374/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 12 (1280x720 h264 AAC) [7E1C11CF].mkv",
+                    "group": "Doki",
+                    "hash": "7E1C11CF",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_12_1280x720_h264_AAC_7E1C11CF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Blood-C - 12 (848x480 h264 AAC) [926292E3].mkv",
+                    "group": "Doki",
+                    "hash": "926292E3",
+                    "url": "http://tracker.anime-index.org/Doki_Blood-C_-_12_848x480_h264_AAC_926292E3.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8348,
+        "ann": 12857,
+        "mal": 10490,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Bli?niaczki: podw\u00f3jna przyjemno?? za t? sam? cen?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d8716d66d4fe4a85d312a12f3847fc7a.jpg",
+            "hd": false
+        },
+        {
+            "description": "ctrl-c ctrl-v",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5c4c6c21528c4eba26a26c90c7c3bcf0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Z cyklu \"anime to najwi?ksze z?o tego ?wiata, bo\": promuje anoreksj?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a77afe761c9e12cd972adb6146af8be6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Mamusia nie m\u00f3wi?a, ?eby si? nie zatrzymywa? podczas przechodzenia przez jezdni??",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0d7811c3c7e065248cf250a40d14b907.jpg",
+            "hd": false
+        },
+        {
+            "description": "To CHYBA jest pies",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3d35b09be22ef8ff3fa82a5ba7667a39.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ready... FIGHT!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/44c8ca0882529a56a150950298b8eb8d.jpg",
+            "hd": false
+        },
+        {
+            "description": "Plot twist",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b0996ed23af3edc27bb45c3b8c1b254f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8161abed9e9b2d0f067087eb9946a0c7.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Blood-C http://rdir.pl/1j6mj2",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fa7d672b3c121758233a45efebe92b75.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ode i pozornie niezdarne dziewcz\u0119, gdy nastanie wiecz\u00f3r, dobywa miecza i staje si\u0119 nieustraszonym pogromc\u0105 Z\u0142a z okiem czerwonym niczym tytu\u0142owa Krew.",
+            "type": "abp"
+        },
+        {
+            "content": "Ukishima Shrine is located in an old, picturesque lakeside town. Shrine maiden Kisaragi Saya lives there along with her father, Tadayoshi. By day, she lives the life of a normal high school student at Sanbara Academy. By night, she hunts the Old Ones. Possessing supernatural physical prowess, the Old Ones prey on humans, and only Saya has the ability to defeat them.    (Source: AniDB)",
+            "type": "mal"
+        },
+        {
+            "content": "* A new original animation based on the Blood franchise and featuring popular mangaka collaboration Clamp as original character designers.Ukishima Shrine is located in an old, picturesque lakeside town. Shrine maiden Kisaragi Saya lives there along with her father, Tadayoshi. By day, she lives the life of a normal high school student at Sanbara Academy. By night, she hunts the Elder Bairns (Old Ones). Possessing supernatural physical prowess, the Elder Bairns prey on humans, and only Saya has the ability to defeat them.~ translated and adapted from official site by CranstonNote: The first episode received an early live broadcast limited to 2000 viewers at video-sharing website Nico Nico Douga on Friday, July 1, 2011. The regular television broadcast started on July 8, 2011.",
+            "type": "anidb"
+        },
+        {
+            "content": "Saya is a seemingly normal girl living with her father in a shrine. During the day she goes to school and spends time with her friends at a local cafe. But when night falls Saya is called upon to protect her village from strange monsters.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 14170,
+            "date": "2012-09-29T13:35:13",
+            "score": 6.59,
+            "type": "mal"
+        },
+        {
+            "count": 1064,
+            "date": "2012-09-29T13:35:13",
+            "score": 5.86,
+            "type": "anidb"
+        },
+        {
+            "count": 794,
+            "date": "2012-09-29T13:35:13",
+            "score": 5.988,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Blood-C"
+}

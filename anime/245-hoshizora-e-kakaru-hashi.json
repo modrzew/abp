@@ -1,0 +1,660 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u661f\u7a7a\u3078\u67b6\u304b\u308b\u6a4b"
+        },
+        {
+            "language": "pl",
+            "title": "Pomost ku Gwie\u017adzistemu Niebu"
+        }
+    ],
+    "aliases": [
+        "Hoshizora e Kakaru Hoshi",
+        "Hoshizora e Kakaru Hashi"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/454128507",
+            "content": "#anime #Wiosna2011 Hoshizora e Kakaru Hashi (\u661f\u7a7a\u3078\u67b6\u304b\u308b\u6a4b) http://rdir.pl/1czm7n",
+            "episode": 1,
+            "filename": "599ad0f8d090a97418c40f42df1b4f33.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/60023329616183296"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-04-11T02:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Afroman] Hoshizora e Kakaru Hoshi - 01 [480p][9694C3C7].mkv",
+                    "group": "Afroman",
+                    "hash": "9694C3C7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205767",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_01v0_[1280x720][0E391803].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0E391803",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205888",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206332",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CTSS-TZM] Hoshizora e Kakaru Hashi - 01 [720p].mkv",
+                    "group": "CTSS-TZM",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206941",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_01_[1280x720][A38FF2DF].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A38FF2DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_01_[720p][525EB300].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "525EB300",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209145",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-18T02:00:00",
+            "episode": 2,
+            "score": 7.0648275862,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_02_[1280x720][6B13F606].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6B13F606",
+                    "url": "http://www.nyaa.eu/?page=download&tid=207881",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208023",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_02_[720p][B66814FC].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "B66814FC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_02v2_[720p][96CC9952].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "96CC9952",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209364",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Kagayaki]_Hoshizora_-_02_[720p]_[6C4A2B1E].mkv",
+                    "group": "Kagayaki",
+                    "hash": "6C4A2B1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217735",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-25T02:00:00",
+            "episode": 3,
+            "score": 7.224774672,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_03_[720p][A89C8D60].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "A89C8D60",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209154",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209997",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=209999",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_03_[1280x720][76162238].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "76162238",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210177",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-02T02:00:00",
+            "episode": 4,
+            "score": 7.2014822695,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_04_[720p][06870867].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "06870867",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=211827",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_04_[1280x720][583B2EDA].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "583B2EDA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219371",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-09T02:00:00",
+            "episode": 5,
+            "score": 7.1897217391,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_05_[720p][4399B363].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "4399B363",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213426",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213427",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_05_[1280x720][F0C35206].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "F0C35206",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219372",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-16T02:00:00",
+            "episode": 6,
+            "score": 7.1861227831,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_06_[720p][0CB62BBB].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "0CB62BBB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=214409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_06_[1280x720][289957B9].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "289957B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219373",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-23T02:00:00",
+            "episode": 7,
+            "score": 7.1938589512,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_07_[720p][617CC573].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "617CC573",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216013",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216680",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216681",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_07_[1280x720][2AA74EB0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "2AA74EB0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219374",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-30T02:00:00",
+            "episode": 8,
+            "score": 7.1856873315,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218387",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_08_[1280x720][AA0BEC45].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "AA0BEC45",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219375",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_08_[720p][6979767E].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "6979767E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219563",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-06T02:00:00",
+            "episode": 9,
+            "score": 7.1277468707,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_09_[720p][151D1318].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "151D1318",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219984",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_09_[1280x720][FB46FD89].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FB46FD89",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220646",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-13T02:00:00",
+            "episode": 10,
+            "score": 7.1297887091,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221565",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_10_[1280x720][42C0826B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "42C0826B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=222621",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_10_[720p][2C5F35AB].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "2C5F35AB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241488",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-20T02:00:00",
+            "episode": 11,
+            "score": 7.1075399485,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_11_[1280x720][1892181C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1892181C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_11_[720p][C08E16B0].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "C08E16B0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243659",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-27T02:00:00",
+            "episode": 12,
+            "score": 7.0208929446,
+            "torrents": [
+                {
+                    "additional_info": "480p",
+                    "download_count": 1,
+                    "filename": "[TrY] Hoshizora e Kakaru Hashi - 12 -FINAL- [480p].mkv",
+                    "group": "TrY",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224112",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224668",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hoshizora e Kakaru Hashi - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=224670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_12_[1280x720][6B0F63A6].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6B0F63A6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226981",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8166,
+        "ann": 12339,
+        "mal": 10079,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Haremowe dziewcz\u0119 nr 1",
+            "filename": "http://s.modriv.net/abp/images/screencaps/97366b570543b772c8dc6d27a667c082.jpg",
+            "hd": false
+        },
+        {
+            "description": "Haremowe dziewcz\u0119 nr 2",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1895226c36e8adf052100ee0c1a4d804.jpg",
+            "hd": false
+        },
+        {
+            "description": "Haremowe dziewcz\u0119 nr 3",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8ca1208f8fd45ed546a30efb1d9d4f3b.jpg",
+            "hd": false
+        },
+        {
+            "description": "JEZUS MARIA PERWERSJA LICEALI\u015aCI SI\u0118 CA\u0141UJ\u0104 FUJ",
+            "filename": "http://s.modriv.net/abp/images/screencaps/258d814d715d651889beed86188c82e4.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2011 Hoshizora e Kakaru Hashi (\u661f\u7a7a\u3078\u67b6\u304b\u308b\u6a4b) http://rdir.pl/1czm7n",
+            "filename": "http://s.modriv.net/abp/images/screencaps/599ad0f8d090a97418c40f42df1b4f33.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9ebcb756285f89960598e20866295770.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/55a536c0fe462238c47d77b5200b862d.jpg",
+            "hd": false
+        },
+        {
+            "description": "To samo mo\u017cna by zrobi\u0107 ze wszystkimi bohaterami tego anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f5e5ac1563903eab66a5576ca6e150e.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142odzieniec przybywa wraz ze swoim m\u0142odszym bratem na wie\u015b, gdzie zaczyna budowa\u0107 sw\u00f3j osobisty harem.",
+            "type": "abp"
+        },
+        {
+            "content": "Kazuma has moved to a small town in the country. On his first day at school, he meets Ui when he is lost his way. They go to school together, but Kazuma accidentally slips and kisses Ui.... To make matters worse, Ibuki, Ui&#039;s close friend, sees it.... Well, what will happen to his new school life...?    (Source: ErogeShop)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on an erotic visual novel by Feng.Kazuma moves to the country town of Yamabi Kochou together with Ayumu, his younger brother, due to the latter's weak constitution. On the way to Yorozuyo, the inn in which they are planning to lodge, run by their father's old friend, they take the wrong bus. When a monkey steals Ayumu's cap, Kochou recklessly follows the animal into the forest, and promptly gets lost. Luckily a beautiful mysterious girl named Ui suddenly appears...\u2014 translated and adapted from official site by Cranston",
+            "type": "anidb"
+        },
+        {
+            "content": "Kazuma's brother Ayumu needs to recuperate from an illness, so they move from the city to a rural mountain village. They plan to board at their father's inn, Yorozuyo, but get lost on their way. Wandering in the mountains, Kazuma stumbles across a girl named Ui Nakatsugawa. It's the first of many encounters in his new country life.",
+            "type": "ann"
+        },
+        {
+            "content": "Kazuma Hoshino is a young student who, in the company of his younger brother Ayumu, move from undisclosed urban Japan into the rural city of Yamabiko. On their way to Yorozuyo Inn, where they are prearranged to lodge, the boys get on the wrong bus however, forcing them to wait out the next ride at a stop. Lounging around and passing time, a wild monkey mischievously steals Ayumu's hat, an upset Kazuma giving chase into surrounding forest.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 13582,
+            "date": "2012-09-29T13:18:24",
+            "score": 7.14,
+            "type": "mal"
+        },
+        {
+            "count": 751,
+            "date": "2012-09-29T13:18:24",
+            "score": 6.44,
+            "type": "anidb"
+        },
+        {
+            "count": 621,
+            "date": "2012-09-29T13:18:24",
+            "score": 6.991,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Hoshizora e Kakaru Hashi"
+}

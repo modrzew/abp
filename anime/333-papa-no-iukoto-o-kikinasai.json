@@ -1,0 +1,1434 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d1\u30d1\u306e\u3044\u3046\u3053\u3068\u3092\u805e\u304d\u306a\u3055\u3044\uff01"
+        },
+        {
+            "language": "en",
+            "title": "Listen To Me Girls, I'm Your Father!"
+        },
+        {
+            "language": "pl",
+            "title": "S\u0142uchaj Si\u0119 Tego, Co M\u00f3wi Tatu\u015b!"
+        }
+    ],
+    "aliases": [
+        "Papa no Iu Koto wo Kikinasai!",
+        "Papa no Iukoto wo Kikinasai!",
+        "Papa no Iukoto o Kikinasai!",
+        "Papa no Iukoto wo Kikinasai"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/890056547",
+            "content": "#anime #Zima2012 Papa no Iukoto o Kikinasai! (\u30d1\u30d1\u306e\u3044\u3046\u3053\u3068\u3092\u805e\u304d\u306a\u3055\u3044\uff01) http://rdir.pl/1mfxi9",
+            "episode": 1,
+            "filename": "93ffa16a3ef10ef14982b46b7c902929.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/157875116330594304"
+        },
+        {
+            "blip_url": "http://blip.pl/s/895374807",
+            "content": "Papa no Iukoto o Kikinasai! 02 - Yuuta to ma styl!",
+            "episode": 2,
+            "filename": "43e8e6e45b2135782c34b445238cca2a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/160150286743252993"
+        },
+        {
+            "blip_url": "http://blip.pl/s/976217983",
+            "content": "Papa no Iukoto o Kikinasai! 07 - fabu\u0142a jest najwa\u017cniejsza",
+            "episode": 7,
+            "filename": "62ae14322ac893bec8b9befbc4ed3ce7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/172419085265682432"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1004383825",
+            "content": "Papa no Iukoto o Kikinasai! 08 - skutki nadmiaru chi\u0144skich pornobajek",
+            "episode": 8,
+            "filename": "4ccf939d14afa576983ec0a60e56debd.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/176392526176067585"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1089367767",
+            "content": "#anime #Zima2012 Papa no Iukoto o Kikinasai! (\u30d1\u30d1\u306e\u3044\u3046\u3053\u3068\u3092\u805e\u304d\u306a\u3055\u3044\uff01) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/1mfxi9)",
+            "episode": 12,
+            "filename": "5af78e144c4b11d98592c34f99bc69ab.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-10T17:30:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[CrunchySubs] Papa no Iu Koto wo Kikinasai! - 01 [480p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275529",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[CrunchySubs] Papa no Iu Koto wo Kikinasai! - 01 [720p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275530",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[RS] Papa no Iukoto wo Kikinasai! - 1 [480p].mkv",
+                    "group": "RS",
+                    "hash": "",
+                    "url": "http://demo.ovh.com/download/d57fbcc061048433d213c83bc7db1889/%5BRS%5D%20Papa%20no%20Iukoto%20wo%20Kikinasai!%20-%201%20%5B480p%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[RS] Papa no Iukoto wo Kikinasai! - 1 [720p].mkv",
+                    "group": "RS",
+                    "hash": "",
+                    "url": "http://demo.ovh.com/download/a5dbc9a984a79b7842abf816a1aa7259/%5BRS%5D%20Papa%20no%20Iukoto%20wo%20Kikinasai!%20-%201%20%5B720p%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 01 (848x480 h264 AAC) [26C0ACBB].mkv",
+                    "group": "Doki",
+                    "hash": "26C0ACBB",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_01_848x480_h264_AAC_26C0ACBB.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 01 (1280x720 h264 AAC) [7163FC45].mkv",
+                    "group": "Doki",
+                    "hash": "7163FC45",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_01_1280x720_h264_AAC_7163FC45.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 4,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 01 [1280x720][10-bit] [084D383E].mkv",
+                    "group": "Oyatsu",
+                    "hash": "084D383E",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2001%20%5B1280x720%5D%5B10-bit%5D%20%5B084D383E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 01 [850BAB2F].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "850BAB2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278347",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-17T17:30:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277453",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277454",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[MX 1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs-STINX]_Papa_no_Iukoto_o_Kikinasai!_-_02_(MX_1280x720_x264_AAC).mkv",
+                    "group": "HorribleSubs-STINX",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277574",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Shin-S] Papa no Iu Koto wo Kikinasai! - 02 [4ADC359F].mkv",
+                    "group": "Shin-S",
+                    "hash": "4ADC359F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277680",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 02 [5C0C8730].mkv",
+                    "group": "rori",
+                    "hash": "5C0C8730",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[RS] Papa no Iukoto wo Kikinasai! - 02 [1080p].mkv",
+                    "group": "RS",
+                    "hash": "",
+                    "url": "http://demo.ovh.com/download/62e3c0b771fe6f87356c647b2b5853be/%5BRS%5D%20Papa%20no%20Iukoto%20wo%20Kikinasai!%20-%2002%20%5B1080p%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 0,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_02_[10bit][1280x720][AAC][7861695E].mkv",
+                    "group": "Pettanko",
+                    "hash": "7861695E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278290",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 0,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_02_[8bit][1280x720][AAC][E9586AF7].mkv",
+                    "group": "Pettanko",
+                    "hash": "E9586AF7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278296",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 1,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_02_[8bit]_[848x480][AAC][CAD922F1].mkv",
+                    "group": "Pettanko",
+                    "hash": "CAD922F1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278297",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 02 (848x480 h264 AAC) [1F41027D].mkv",
+                    "group": "Doki",
+                    "hash": "1F41027D",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_02_848x480_h264_AAC_1F41027D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 02 (1280x720 h264 AAC) [A04D7157].mkv",
+                    "group": "Doki",
+                    "hash": "A04D7157",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_02_1280x720_h264_AAC_A04D7157.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 02 [1280x720][10-bit] [42D5C033].mkv",
+                    "group": "Oyatsu",
+                    "hash": "42D5C033",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2002%20%5B1280x720%5D%5B10-bit%5D%20%5B42D5C033%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 02 [6DCA2728].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "6DCA2728",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282495",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-24T17:30:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279541",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[MX 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs-STINX]_Papa_no_Iukoto_o_Kikinasai!_-_03_(MX_1280x720_x264_AAC).mkv",
+                    "group": "HorribleSubs-STINX",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279616",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[LoveMyAnime] Papa no Iukoto wo Kikinasai! - 3 [480p].mkv",
+                    "group": "LoveMyAnime",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 03 [0DF5C7B5].mkv",
+                    "group": "rori",
+                    "hash": "0DF5C7B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=279734",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_03_[480p][BA00176D].mkv",
+                    "group": "Pettanko",
+                    "hash": "BA00176D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280542",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10p]",
+                    "download_count": 1,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_03v2_[720p][Hi10p][365CD4D9].mkv",
+                    "group": "Pettanko",
+                    "hash": "365CD4D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280554",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[ 720p]",
+                    "download_count": 0,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_03v2_[_720p][33CD26DD].mkv",
+                    "group": "Pettanko",
+                    "hash": "33CD26DD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280567",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 03 [1280x720][10-bit] [6DC43B30].mkv",
+                    "group": "Oyatsu",
+                    "hash": "6DC43B30",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2003%20%5B1280x720%5D%5B10-bit%5D%20%5B6DC43B30%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 03 (848x480 h264 AAC) [855128E6].mkv",
+                    "group": "Doki",
+                    "hash": "855128E6",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_03_848x480_h264_AAC_855128E6.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 03 (1280x720 h264 AAC) [6ECC97B8].mkv",
+                    "group": "Doki",
+                    "hash": "6ECC97B8",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_03_1280x720_h264_AAC_6ECC97B8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 03 [54D04BD8].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "54D04BD8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283090",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-31T17:30:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282451",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282469",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Asenshi] Papa no Iukoto wo Kikinasai! - 04 [E3E6E875].mkv",
+                    "group": "Asenshi",
+                    "hash": "E3E6E875",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 04 [9FE821BE].mkv",
+                    "group": "rori",
+                    "hash": "9FE821BE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282586",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 04 [FA07FFE7].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "FA07FFE7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283503",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 4,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 04 [1280x720][10-bit][7077f85a].mkv",
+                    "group": "Oyatsu",
+                    "hash": "7077f85a",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283675",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 04v2 [1280x720][10-bit] [9B11324E].mkv",
+                    "group": "Oyatsu",
+                    "hash": "9B11324E",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2004v2%20%5B1280x720%5D%5B10-bit%5D%20%5B9B11324E%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 5,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_04_[8bit][1280x720][21575B70].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "21575B70",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 04 (848x480 h264 AAC) [0610063F].mkv",
+                    "group": "Doki",
+                    "hash": "0610063F",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_04_848x480_h264_AAC_0610063F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 04 (1280x720 h264 AAC) [C18831FC].mkv",
+                    "group": "Doki",
+                    "hash": "C18831FC",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_04_1280x720_h264_AAC_C18831FC.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Hi10p]",
+                    "download_count": 5,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_04_[720p][Hi10p][4A0809E9].mkv",
+                    "group": "Pettanko",
+                    "hash": "4A0809E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286967",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_04_[720p][5115DB69].mkv",
+                    "group": "Pettanko",
+                    "hash": "5115DB69",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286966",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[Pettanko]_Papa_no_Iukoto_wo_Kikinasai!_-_04_[480p][F7F831CF].mkv",
+                    "group": "Pettanko",
+                    "hash": "F7F831CF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286965",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-07T17:30:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284989",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284990",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Asenshi] Papa no Iukoto wo Kikinasai! - 05 [370493DA].mkv",
+                    "group": "Asenshi",
+                    "hash": "370493DA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285049",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 05 [C0E0C7FE].mkv",
+                    "group": "rori",
+                    "hash": "C0E0C7FE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285119",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 05 [E63CE1CC].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "E63CE1CC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_05_[8bit][1280x720][FE541150].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "FE541150",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285749",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 05 (848x480 h264 AAC) [D2814A05].mkv",
+                    "group": "Doki",
+                    "hash": "D2814A05",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_05_848x480_h264_AAC_D2814A05.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 05 (1280x720 h264 AAC) [9DEBD32F].mkv",
+                    "group": "Doki",
+                    "hash": "9DEBD32F",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_05_1280x720_h264_AAC_9DEBD32F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 05 [1280x720][10-bit] [B7E543F4].mkv",
+                    "group": "Oyatsu",
+                    "hash": "B7E543F4",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2005%20%5B1280x720%5D%5B10-bit%5D%20%5BB7E543F4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 05v2 [1280x720][10-bit] [CF7EB3C8].mkv",
+                    "group": "Oyatsu",
+                    "hash": "CF7EB3C8",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2005v2%20%5B1280x720%5D%5B10-bit%5D%20%5BCF7EB3C8%5D.torrent",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-02-14T17:30:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287126",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287127",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287128",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Papa no Iukoto wo Kikinasai! - 06 [88D305B5].mkv",
+                    "group": "Asenshi",
+                    "hash": "88D305B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287213",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 06 [66D13ED6].mkv",
+                    "group": "rori",
+                    "hash": "66D13ED6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287268",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 06 [4622C766].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "4622C766",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288099",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 06 [1280x720][10-bit] [FEE30059].mkv",
+                    "group": "Oyatsu",
+                    "hash": "FEE30059",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2006%20%5B1280x720%5D%5B10-bit%5D%20%5BFEE30059%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 06 (848x480 h264 AAC) [A6D4313D].mkv",
+                    "group": "Doki",
+                    "hash": "A6D4313D",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_06_848x480_h264_AAC_A6D4313D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 06 (1280x720 h264 AAC) [F5FBE01C].mkv",
+                    "group": "Doki",
+                    "hash": "F5FBE01C",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_06_1280x720_h264_AAC_F5FBE01C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_06_[8bit][1280x720][60FC9C8F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "60FC9C8F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290448",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-21T17:30:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289412",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289413",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Asenshi] Papa no Iukoto wo Kikinasai! - 07 [82FF524C].mkv",
+                    "group": "Asenshi",
+                    "hash": "82FF524C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289521",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 07 [2790CC8F].mkv",
+                    "group": "rori",
+                    "hash": "2790CC8F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289547",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_07_[8bit][1280x720][81108313].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "81108313",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290625",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 07 [1280x720][10-bit] [FAF39B5F].mkv",
+                    "group": "Oyatsu",
+                    "hash": "FAF39B5F",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2007%20%5B1280x720%5D%5B10-bit%5D%20%5BFAF39B5F%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 07 (1280x720 h264 AAC) [146770BA].mkv",
+                    "group": "Doki",
+                    "hash": "146770BA",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_07_1280x720_h264_AAC_146770BA.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 07 (848x480 h264 AAC) [CF377E29].mkv",
+                    "group": "Doki",
+                    "hash": "CF377E29",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_07_848x480_h264_AAC_CF377E29.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 07 [A4C4ED1D].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "A4C4ED1D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294158",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-28T17:30:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291893",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 08 [BEE50CEA].mkv",
+                    "group": "rori",
+                    "hash": "BEE50CEA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292035",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_08_[8bit][1280x720][057F8411].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "057F8411",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292236",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 08 [1280x720][10-bit] [5D5B95FD].mkv",
+                    "group": "Oyatsu",
+                    "hash": "5D5B95FD",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2008%20%5B1280x720%5D%5B10-bit%5D%20%5B5D5B95FD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 08 [8897DB65].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "8897DB65",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 08 (1280x720 h264 AAC) [2F32C7CD].mkv",
+                    "group": "Doki",
+                    "hash": "2F32C7CD",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_08_1280x720_h264_AAC_2F32C7CD.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 08 (848x480 h264 AAC) [0E574C39].mkv",
+                    "group": "Doki",
+                    "hash": "0E574C39",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_08_848x480_h264_AAC_0E574C39.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-06T17:30:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293872",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 09 [589A7DE9].mkv",
+                    "group": "rori",
+                    "hash": "589A7DE9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_09_[8bit][1280x720][9244498D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "9244498D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294012",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 09 [8E1E192C].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "8E1E192C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295827",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 09 [1280x720][10-bit] [3745DDD8].mkv",
+                    "group": "Oyatsu",
+                    "hash": "3745DDD8",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2009%20%5B1280x720%5D%5B10-bit%5D%20%5B3745DDD8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 09 (1280x720 h264 AAC) [9D2B302F].mkv",
+                    "group": "Doki",
+                    "hash": "9D2B302F",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_09_1280x720_h264_AAC_9D2B302F.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 09 (848x480 h264 AAC) [AF956256].mkv",
+                    "group": "Doki",
+                    "hash": "AF956256",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_09_848x480_h264_AAC_AF956256.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-13T17:30:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295796",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 10 [B448926D].mkv",
+                    "group": "rori",
+                    "hash": "B448926D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295944",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_10_[8bit][1280x720][EDF822BD].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "EDF822BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295956",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 10 [3899273C].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "3899273C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298023",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 10 [1280x720][10-bit] [06FA303E].mkv",
+                    "group": "Oyatsu",
+                    "hash": "06FA303E",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2010%20%5B1280x720%5D%5B10-bit%5D%20%5B06FA303E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 10 (1280x720 h264 AAC) [19424AF8].mkv",
+                    "group": "Doki",
+                    "hash": "19424AF8",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_10_1280x720_h264_AAC_19424AF8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 10 (848x480 h264 AAC) [8A676F5D].mkv",
+                    "group": "Doki",
+                    "hash": "8A676F5D",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_10_848x480_h264_AAC_8A676F5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-20T17:30:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297671",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297672",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 11 [208BA755].mkv",
+                    "group": "rori",
+                    "hash": "208BA755",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_11_[8bit][1280x720][8EE949DE].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "8EE949DE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297825",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 11 [EA9E19E5].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "EA9E19E5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299329",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 11 [1280x720][10-bit] [B71F8133].mkv",
+                    "group": "Oyatsu",
+                    "hash": "B71F8133",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2011%20%5B1280x720%5D%5B10-bit%5D%20%5BB71F8133%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 11 (1280x720 h264 AAC) [BEF4A2E9].mkv",
+                    "group": "Doki",
+                    "hash": "BEF4A2E9",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_11_1280x720_h264_AAC_BEF4A2E9.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 11 (848x480 h264 AAC) [C0C4A013].mkv",
+                    "group": "Doki",
+                    "hash": "C0C4A013",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_11_848x480_h264_AAC_C0C4A013.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-27T18:30:00",
+            "episode": 12,
+            "score": 7.6255651974,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[rori] Papa no Iukoto wo Kikinasai - 12 [812C4532].mkv",
+                    "group": "rori",
+                    "hash": "812C4532",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299788",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300087",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300088",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Papa no Iukoto wo Kikinasai! - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300089",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Papa_no_Iukoto_wo_Kikinasai_-_12_END_[8bit][1280x720][CE8DC949].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CE8DC949",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300336",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BakeSubs-Diogo4D] Papa no Iukoto o Kikinasai! 12 [592CA240].mkv",
+                    "group": "BakeSubs-Diogo4D",
+                    "hash": "592CA240",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300594",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 12 END [1280x720][10-bit] [8040D5B6].mkv",
+                    "group": "Oyatsu",
+                    "hash": "8040D5B6",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2012%20END%20%5B1280x720%5D%5B10-bit%5D%20%5B8040D5B6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][10-bit]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Papa no Iu Koto wo Kikinasai! - 12v2 END [1280x720][10-bit] [7442BA7A].mkv",
+                    "group": "Oyatsu",
+                    "hash": "7442BA7A",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Papa%20no%20Iu%20Koto%20wo%20Kikinasai!%20-%2012v2%20END%20%5B1280x720%5D%5B10-bit%5D%20%5B7442BA7A%5D.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 12 (1280x720 h264 AAC) [6E7C7838].mkv",
+                    "group": "Doki",
+                    "hash": "6E7C7838",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_12_1280x720_h264_AAC_6E7C7838.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Papa no Iukoto wo Kikinasai! - 12 (848x480 h264 AAC) [6F963067].mkv",
+                    "group": "Doki",
+                    "hash": "6F963067",
+                    "url": "http://tracker.anime-index.org/Doki_Papa_no_Iukoto_wo_Kikinasai!_-_12_848x480_h264_AAC_6F963067.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8686,
+        "ann": 13756,
+        "mal": 11179,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a83d5b13f81ea847689efcdb1b3fe38e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e0d5c87be7fb23ad5c570e1168c99146.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/baecde3b46954445d56f8b3a89a7f2ed.jpg",
+            "hd": false
+        },
+        {
+            "description": "ach te studentki!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75e6099a0655b4fe9f5ffe313a3d1958.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b3df86251fca13e8fa9384e6ed79cd66.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/10c38c2ea5d0875d9e89b690c6bde32f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/994a504fce83f6f047c14e41451afbd9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3cce4190beaa9ceec2e4b83cdeeb86b5.jpg",
+            "hd": false
+        },
+        {
+            "description": "you are doing it wrong",
+            "filename": "http://s.modriv.net/abp/images/screencaps/400d5ae0d129db0834c2154cacc169ba.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Papa no Iukoto o Kikinasai! (\u30d1\u30d1\u306e\u3044\u3046\u3053\u3068\u3092\u805e\u304d\u306a\u3055\u3044\uff01) http://rdir.pl/1mfxi9",
+            "filename": "http://s.modriv.net/abp/images/screencaps/93ffa16a3ef10ef14982b46b7c902929.jpg",
+            "hd": false
+        },
+        {
+            "description": "wyczucie czasu to podstawa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1303c7493c38059c34636bdf036b5d54.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bebe820b7f8c4451e86c986e34a32693.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0ab0b63006952e2ea5f4a8732f988a91.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yuuta to ma styl!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/43e8e6e45b2135782c34b445238cca2a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Hina can (not) into food",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1e169bc29391ab2e21a29cccfbbbeba0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4a31ecffbb0b491ba70a5c1183f54fa0.jpg",
+            "hd": false
+        },
+        {
+            "description": "fabu\u0142a jest najwa\u017cniejsza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/62ae14322ac893bec8b9befbc4ed3ce7.jpg",
+            "hd": false
+        },
+        {
+            "description": "skutki nadmiaru chi\u0144skich pornobajek",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4ccf939d14afa576983ec0a60e56debd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d4d23574ccc91b833837a7b88f7eefe8.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Papa no Iukoto o Kikinasai! (\u30d1\u30d1\u306e\u3044\u3046\u3053\u3068\u3092\u805e\u304d\u306a\u3055\u3044\uff01) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/1mfxi9)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5af78e144c4b11d98592c34f99bc69ab.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b02269ef212d7b6e61481c08d60e45e.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Segawa Yuta zostaje poproszony przez swoj\u0105 siostr\u0119, chc\u0105c\u0105 wybra\u0107 si\u0119 na wycieczk\u0119, o opiek\u0119 nad tr\u00f3jk\u0105 jej c\u00f3rek. Niestety samolot, kt\u00f3rym lecia\u0142a razem z m\u0119\u017cem zagin\u0105\u0142. Od tego momentu Yuta musi opiekowa\u0107 si\u0119 tr\u00f3jk\u0105 dziewczynek o bardzo r\u00f3\u017cnych charakterach.",
+            "type": "abp"
+        },
+        {
+            "content": "The story explains the day-to-day of a college freshman just starting a new life in the School of Literature Department of Tama University. While he grew up with his sister, he left and lived by himself when she got married with a man who had two daughters from previous marriages. He tried to distance himself from that family and so he moved out to live on his own. About 3 years later he was asked by his sister to visit and babysit the girls which suddenly turned his life upside down when the girls' parents went missing. He now has to live with the three daughters of his sister; with which two (from a previous marriage) are not related by blood: a tsundere Takanashi Sora (14 years), a little demon Takanashi Miu (10 years) and a small girl Takanashi Hina (3 years). In a six tatami mat size room.Source: Baka-Updates Manga",
+            "type": "anidb"
+        },
+        {
+            "content": "College student Y\u016bta Segawa is suddenly given custody of his older sister's three daughters, aged 14, 10, and 3. They're now stuck living together in a 10 square meter apartment. Meanwhile Raika, the object of his affection, has a fondness of cuteness, and his unexpected arrivals may finally offer an opportunity for them to get together.",
+            "type": "ann"
+        },
+        {
+            "content": "Segawa Yuta is a freshman of a university. He lost his parents when he was small and was raised by his sister Yuri. Yuta has been living alone since Yuri got married to a middle aged man when Yuta was a junior high student.   One day, Yuri visited Yuta's apartment and asked him to take care of her three daughters while Yuri and her husband were on a trip. He unwillingly accepted the job but the plane Yuri took went missing. In order to prevent the daughters from being adopted separately by relatives, Yuta decided to take in all three girls.   A life of a strange family in a tiny apartment begins. (The elder two of the daughters are children of Yuri's husband from other women. The smallest one is his and Yuri's child.)",
+            "type": "mal"
+        },
+        {
+            "content": "Y\u016bta Segawa is a university freshman who was looked after by his older sister, Yuri, but decided to live alone when Yuri got married. One day, Y\u016bta is asked by Yuri and her husband to babysit their children, Sora, Miu and Hina Takanashi, whilst they go on a trip. However, during this time, the plane Yuri and her husband are riding crashes and they are both reported missing. In order to prevent the girls from being separated from each other, Y\u016bta takes it upon himself to look after the girls in his small dormitory apartment. Thus begins Y\u016bta's life of sharing his everyday life with three other girls.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 15171,
+            "date": "2012-09-29T14:06:09",
+            "score": 7.64,
+            "type": "mal"
+        },
+        {
+            "count": 800,
+            "date": "2012-09-29T14:06:09",
+            "score": 7.11,
+            "type": "anidb"
+        },
+        {
+            "count": 686,
+            "date": "2012-09-29T14:06:09",
+            "score": 7.599,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Papa no Iukoto o Kikinasai!"
+}

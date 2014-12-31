@@ -1,0 +1,822 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3081\u3060\u304b\u30dc\u30c3\u30af\u30b9"
+        },
+        {
+            "language": "pl",
+            "title": "Boks Medaki"
+        }
+    ],
+    "aliases": [
+        "Medaka Box"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1100005573",
+            "content": "#anime #Wiosna2012 Medaka Box (\u3081\u3060\u304b\u30dc\u30c3\u30af\u30b9) http://rdir.pl/1nawn7",
+            "episode": 1,
+            "filename": "4e795f621b8e09ade8794d1bd6d82e8c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190196807677124609"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-04T18:50:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU]_Medaka_Box_-_01_(1280x720_x264_AAC)_[EEBD02A5].mkv",
+                    "group": "SubDESU",
+                    "hash": "EEBD02A5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302009",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 13,
+                    "filename": "[WhyNot] Medaka Box - 01 [720F54E9].mkv",
+                    "group": "WhyNot",
+                    "hash": "720F54E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302013",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[WhyNot-Modified]",
+                    "download_count": 1,
+                    "filename": "[ReinWeiss] Medaka Box - 01 [WhyNot-Modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302179",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU]_Medaka_Box_-_01v2_(1280x720_x264_AAC)_[CB5AA788].mkv",
+                    "group": "SubDESU",
+                    "hash": "CB5AA788",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302492",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Medaka Box - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304114",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Medaka Box - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304115",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Medaka Box - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 01 [8bit][07152118].mkv",
+                    "group": "FFF",
+                    "hash": "07152118",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307395",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 01 [10bit][9C9A8CC0].mkv",
+                    "group": "FFF",
+                    "hash": "9C9A8CC0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307396",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-11T18:50:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Medaka Box - 02 [8096D239].mkv",
+                    "group": "WhyNot",
+                    "hash": "8096D239",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304116",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Medaka Box - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304119",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Medaka Box - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304120",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Medaka Box - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Medaka_Box_-_02_(1280x720_x264_AAC)_[15FA54BB].mkv",
+                    "group": "SubDESU",
+                    "hash": "15FA54BB",
+                    "url": "http://tracker.minglong.org/torrents/%5BSubDESU%5D_Medaka_Box_-_02_(1280x720_x264_AAC)_%5B15FA54BB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 02 [10bit][882B9AEF].mkv",
+                    "group": "FFF",
+                    "hash": "882B9AEF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309534",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 02 [8bit][2A605354].mkv",
+                    "group": "FFF",
+                    "hash": "2A605354",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309533",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-18T18:50:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Medaka Box - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Medaka Box - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Medaka Box - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306282",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Medaka Box - 03 [B42B4E14].mkv",
+                    "group": "WhyNot",
+                    "hash": "B42B4E14",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306284",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 03 [8bit][B1994CE0].mkv",
+                    "group": "FFF",
+                    "hash": "B1994CE0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309549",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 03 [10bit][AA86152E].mkv",
+                    "group": "FFF",
+                    "hash": "AA86152E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309550",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-25T18:50:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Medaka Box - 04 [3568B0A1].mkv",
+                    "group": "WhyNot",
+                    "hash": "3568B0A1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308562",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Medaka Box - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308566",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Medaka Box - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Medaka Box - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 04 [8bit][57C1CE31].mkv",
+                    "group": "FFF",
+                    "hash": "57C1CE31",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 04 [10bit][90FCFE04].mkv",
+                    "group": "FFF",
+                    "hash": "90FCFE04",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309982",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-02T18:50:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Medaka Box - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310879",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Medaka Box - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310880",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Medaka Box - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310881",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 05 [8bit][DA0DC972].mkv",
+                    "group": "FFF",
+                    "hash": "DA0DC972",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 05 [10bit][E81691F6].mkv",
+                    "group": "FFF",
+                    "hash": "E81691F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312262",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-09T18:50:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Medaka Box - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312988",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Medaka Box - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312989",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Medaka Box - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312990",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 06 [8bit][95558F4E].mkv",
+                    "group": "FFF",
+                    "hash": "95558F4E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 06 [10bit][07471725].mkv",
+                    "group": "FFF",
+                    "hash": "07471725",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313347",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-16T18:50:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Medaka Box - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Medaka Box - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314815",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Medaka Box - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 07v2 [8bit][CA4B7DF4].mkv",
+                    "group": "FFF",
+                    "hash": "CA4B7DF4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315698",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 07v2 [10bit][E743CC21].mkv",
+                    "group": "FFF",
+                    "hash": "E743CC21",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315699",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-05-23T18:50:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Medaka Box - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316790",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Medaka Box - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316791",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Medaka Box - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316792",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 08 [8bit][2F4A5B43].mkv",
+                    "group": "FFF",
+                    "hash": "2F4A5B43",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 08 [10bit][FBF21010].mkv",
+                    "group": "FFF",
+                    "hash": "FBF21010",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317188",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-30T18:50:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Medaka Box - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318894",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Medaka Box - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Medaka Box - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 2,
+                    "filename": "[FFF] Medaka Box - 09 [8bit][8174711D].mkv",
+                    "group": "FFF",
+                    "hash": "8174711D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 2,
+                    "filename": "[FFF] Medaka Box - 09 [10bit][2FD7FFD9].mkv",
+                    "group": "FFF",
+                    "hash": "2FD7FFD9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319261",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-06T18:50:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Medaka Box - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Medaka Box - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Medaka Box - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320862",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 4,
+                    "filename": "[FFF] Medaka Box - 10 [8bit][F98CCFD7].mkv",
+                    "group": "FFF",
+                    "hash": "F98CCFD7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 4,
+                    "filename": "[FFF] Medaka Box - 10 [10bit][8D943EF1].mkv",
+                    "group": "FFF",
+                    "hash": "8D943EF1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321228",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-13T18:50:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Medaka Box - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Medaka Box - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322875",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Medaka Box - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 2,
+                    "filename": "[FFF] Medaka Box - 11 [8bit][B1FB41BF].mkv",
+                    "group": "FFF",
+                    "hash": "B1FB41BF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323053",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 2,
+                    "filename": "[FFF] Medaka Box - 11 [10bit][8AADC0A8].mkv",
+                    "group": "FFF",
+                    "hash": "8AADC0A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323054",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-20T18:50:00",
+            "episode": 12,
+            "score": 7.0596402783,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Medaka Box - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Medaka Box - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324616",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Medaka Box - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324618",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 12 [8bit][046E4CE3].mkv",
+                    "group": "FFF",
+                    "hash": "046E4CE3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324837",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFF] Medaka Box - 12 [10bit][C63C2400].mkv",
+                    "group": "FFF",
+                    "hash": "C63C2400",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324838",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8799,
+        "ann": 13617,
+        "mal": 11761,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f4d9c5c2c770aede3197f9353acc7dd.jpg",
+            "hd": false
+        },
+        {
+            "description": "Fabu\u0142a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0b1f5929e20563b624b6a48e41941bb6.jpg",
+            "hd": false
+        },
+        {
+            "description": "1934 si\u0119 przypomina",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7f1e4bc1a10c91eeec154e1714d88991.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Medaka Box (\u3081\u3060\u304b\u30dc\u30c3\u30af\u30b9) http://rdir.pl/1nawn7",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4e795f621b8e09ade8794d1bd6d82e8c.jpg",
+            "hd": false
+        },
+        {
+            "description": "OBIEKCJA",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bc8a23d47b846aa4f6727e5db039c87c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Medaka nie ma penisa, dlatego obnosi si\u0119 ze swoimi opaskami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7a5edbb20ad57be33ccf559cec58f1b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wi\u0119cej fabu\u0142y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c12b934733af77b6678e09dd5486f9d7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zwrot w akcji!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/912c4ae8e8a0cc11ad0fe203880f8254.jpg",
+            "hd": false
+        },
+        {
+            "description": "Przybyli\u015bmy ci wpierdoli\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a98cc62f1a173c45ed949c9ebbe2318b.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on the manga by Nishio Ishin with illustrations by Akatsuki Akira.Kurokami Medaka is an exceptional first year student at Hanokiwa Academy who got elected as president of the student council with a smashing 98% of the votes. Extremely intelligent, strong, and rich; she wants to help anyone in need. To do that, she introduces a suggestion box that allows any student to contact her. Later known as the Medaka Box, it will bring forth incredible challenges to Kurokami and her friends of the student council.",
+            "type": "anidb"
+        },
+        {
+            "content": "Medaka Kurokami, a first year student at Hakoniwa Academy, excels at everything she does. She becomes the Student council president and along with her childhood friend, Zenkichi Hitoyoshi, she plans to solve all of the student body's problems that are submitted to a suggestion box, dubbed the \"Medaka Box.\"",
+            "type": "ann"
+        },
+        {
+            "content": "When newly elected Student Council President Medaka Kurokami institutes her idea for a suggestion box where people can submit problems that need to be solved, she's expecting things like rescuing lost puppies and giving advice. What she and her best friend Zenkichi find instead, however, are the first hints of an unbelievable secret, and their school, Hakoniwa Academy, and Medaka herself are somehow at the very center of the growing maelstrom! As what seemed like an innocent past time turns into a dangerous game, Medaka and her recruits to the Student Council discover new depths to both themselves and their own unexpected abilities. And then things get really out of control!   (Source: Sentai Filmworks)",
+            "type": "mal"
+        },
+        {
+            "content": "At her first year in Hakoniwa Academy, Medaka Kurokami is elected Student Council President and institutes a suggestion box, dubbed the \"Medaka Box\" for her fellow academy students to make suggestions and requests. Together with her childhood friend Zenkichi Hitoyoshi, Medaka is determined to address any kind of request by the students, from finding lost dogs to cleaning up club buildings and even fixing personalities. During the course of the series, Kouki Akune and Mogana Kikaijima are also recruited by Medaka to become part of the Student Council.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 11112,
+            "date": "2012-09-29T14:10:35",
+            "score": 7.12,
+            "type": "mal"
+        },
+        {
+            "count": 533,
+            "date": "2012-09-29T14:10:35",
+            "score": 6.18,
+            "type": "anidb"
+        },
+        {
+            "count": 497,
+            "date": "2012-09-29T14:10:35",
+            "score": 6.371,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Medaka Box"
+}

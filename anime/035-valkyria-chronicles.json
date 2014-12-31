@@ -1,0 +1,75 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6226\u5834\u306e\u30f4\u30a1\u30eb\u30ad\u30e5\u30ea\u30a2"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6244,
+        "ann": 10416,
+        "mal": 5507,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Historia pewnej dru\u017cyny, do kt\u00f3rej trafia m\u0142oda piekarka z jakiej\u015b wiochy, a kt\u00f3ra przeistacza si\u0119 w bohaterk\u0119 wojenn\u0105 i prowadzi armi\u0119 ku zwyci\u0119stwu.",
+            "type": "abp"
+        },
+        {
+            "content": "* Adaptation of the Japanese tactical RPG developed by Sega exclusively for the PlayStation 3.When Imperial forces attack the small border town of Bruhl, Welkin Gunther, son of late General Belgen Gunther, is forced to fight for his life alongside Town Watch captain Alicia Melchiott. Along with Welkin's adopted sister Isara, the three escape to Gallia's capitol and subsequently join the country's militia forces. As members of the newly-formed Squad 7, they must work to repel the invading Imperial forces and discover the true purpose of the invasion itself.",
+            "type": "anidb"
+        },
+        {
+            "content": "Valkyria Chronicles is set in a fictitious continent reminiscent of 1930s Europe. The continent, called Europa, is divided into two main powers: The Imperial Empire, a monarchy in the east, and the alliance of democracies called the Federation in the west. In this world, there is a very important resource called ragnite; its uses range from fueling weapons of war to use in medical treatments. Since ragnite is such an important resource, the Federation and the Empire are constantly at war with each other for it.    The story takes place in the neutral country of Gallia, known for its bountiful reserves of ragnite, when the Empire decides to invade and seize the ragnite for themselves. The story follows Welkin, the son of a former war hero; Isara, Welkin&#039;s Darcsen adoptive sister; and Alicia, a member of the Bruhl town watch, as they fight the Imperials in the ragtag Gallian militia group, Squad 7.    Squad 7 fights to regain their homes and livelihoods with Welkin as the squad leader and commander of the Edelweiss tank; Alicia as a scout; Isara as the pilot of the Edelweiss, and a variety of colorful individuals.",
+            "type": "mal"
+        },
+        {
+            "content": "Valkyria Chronicles won \"Best Artistic Graphics\" from GameSpot.[46] The game's soundtrack was awarded as \"Best Original Soundtrack\" by GameSpy,[47] Strategy Game of the Year 2008.[48] GameTrailers nominated it for the \"Best Role-Playing Game\" category. Gaming Target recognized the game in the \"40 Games We'll Still Be Playing From 2008\" category.[49] IGN recognized the game as \"PlayStation 3 Strategy Game of 2008.[50] RPGFan awarded the game with the \"Playstation 3 RPG of the Year\" and \"Best Strategy RPG on a Console\" awards.[51] and several RPGamer awards including the \"RPG of the Year\", \"Best Graphics\", and \"Playstation 3 RPG of the Year\" categories.[52]",
+            "type": "wiki"
+        },
+        {
+            "content": "When Imperial forces attack the small border town of Bruhl, Welkin Gunther, son of late General Belgen Gunther, is forced to fight for his life alongside Town Watch captain Alicia Melchiott. Along with Welkin's adopted sister Isara, the three escape to Gallia's capitol and subsequently join the country's militia forces. As members of the newly-formed Squad 7, they must work to repel the invading Imperial forces and discover the true purpose of the invasion itself.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 16252,
+            "date": "2012-09-29T02:07:54",
+            "score": 7.79,
+            "type": "mal"
+        },
+        {
+            "count": 1701,
+            "date": "2012-09-29T02:07:54",
+            "score": 7.54,
+            "type": "anidb"
+        },
+        {
+            "count": 1293,
+            "date": "2012-09-29T02:07:54",
+            "score": 7.741,
+            "type": "ann"
+        },
+        {
+            "count": 13171,
+            "date": "2011-11-13T16:21:15",
+            "score": 7.77,
+            "type": "wiki"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Valkyria Chronicles"
+}

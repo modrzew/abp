@@ -1,0 +1,413 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a8\u30f3\u30b8\u30a7\u30eb\u30d3\u30fc\u30c4"
+        },
+        {
+            "language": "pl",
+            "title": "Bicie Anio\u0142\u00f3w!"
+        }
+    ],
+    "aliases": [],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/61864919",
+            "content": "#anime #Wiosna2010 Angel Beats (\u30a8\u30f3\u30b8\u30a7\u30eb\u30d3\u30fc\u30c4) - Harunnad, czyli Haruhi i Clannad w jednym pakiecie (wi\u0119cej: http://rdir.pl/8fj43)",
+            "episode": 1,
+            "filename": "021c33dfe8d90bd6481d926fda189f24.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/11528152824"
+        },
+        {
+            "blip_url": "http://blip.pl/s/65387381",
+            "content": "Angel Beats! 02 - prawdziwy g\u0142\u00f3wny w\u0105tek tego #anime",
+            "episode": 2,
+            "filename": "3e5c7dda513bc17cd571f3c9a391ecf8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12065839096"
+        },
+        {
+            "blip_url": "http://blip.pl/s/67424264",
+            "content": "Angel Beats! 03 - Takeyama-kun pragnie wszystkim tegorocznym maturzystom przypomnie\u0107 o obowi\u0105zkowej maturze z matematyki!",
+            "episode": 3,
+            "filename": "36abe36787893100bbf21e6f6054dade.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12490843047"
+        },
+        {
+            "blip_url": "http://blip.pl/s/69525559",
+            "content": "Angel Beats! 04 - Hinata te\u017c nie ma poj\u0119cia o czym jest to #anime. Prawdopodobnie jednak nie o sparklach.",
+            "episode": 4,
+            "filename": "89c501d025799694614487b92c13beb2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/12761920162"
+        },
+        {
+            "blip_url": "http://blip.pl/s/72686027",
+            "content": "Angel Beats! 05 - bawwwwwwwwww ;_;",
+            "episode": 5,
+            "filename": "c73ce43c67f8a0d4c58c40f6fca2c2dc.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13212548811"
+        },
+        {
+            "blip_url": "http://blip.pl/s/75467576",
+            "content": "Angel Beats! 06 - Otonashi to idiota, takiej okazji nie wykorzysta\u0107",
+            "episode": 6,
+            "filename": "e2128f2608a08decb166e7095b1501da.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13612720196"
+        },
+        {
+            "blip_url": "http://blip.pl/s/78500547",
+            "content": "Angel Beats! 07 - it&#039;s all fun and games until Kanade starts fishing",
+            "episode": 7,
+            "filename": "6c825f062e4c42bcd9a33a164102cbaa.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14066939581"
+        },
+        {
+            "blip_url": "http://blip.pl/s/83063753",
+            "content": "Angel Beats! 08 - So as I pray, &quot;Unlimited Tenshi Works&quot;!",
+            "episode": 8,
+            "filename": "ceb76811b7789ee85f0d59a7c85bb751.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14523228868"
+        },
+        {
+            "blip_url": "http://blip.pl/s/85728263",
+            "content": "Angel Beats! 09 - koniec jedzenia w tunelu odci\u0119tym od \u015bwiata? Phew, studenci maj\u0105 to na co dzie\u0144.",
+            "episode": 9,
+            "filename": "96b287682efebe86ef96c643a66735c4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/14950755303"
+        },
+        {
+            "blip_url": "http://blip.pl/s/89702002",
+            "content": "Angel Beats! 10 - ;_;",
+            "episode": 10,
+            "filename": "acc560f4d8596239977e333370ae60df.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15462039968"
+        },
+        {
+            "blip_url": "http://blip.pl/s/94561999",
+            "content": "Angel Beats! 11 - Naoi i jego hipnoza w pe\u0142nej krasie",
+            "episode": 11,
+            "filename": "11b1f38c04ca4378a87c68f05bd375ea.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15973136617"
+        },
+        {
+            "blip_url": "http://blip.pl/s/97934010",
+            "content": "Angel Beats! 12 - SSS idzie expi\u0107",
+            "episode": 12,
+            "filename": "d6dacc492aa99506830a5a64de25c247.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/16518414876"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-04-02T19:00:00",
+            "episode": 1,
+            "score": 7.7416134768,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-09T19:00:00",
+            "episode": 2,
+            "score": 7.8793618421,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-16T19:00:00",
+            "episode": 3,
+            "score": 7.9493218695,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-23T19:00:00",
+            "episode": 4,
+            "score": 7.9903264316,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-30T19:00:00",
+            "episode": 5,
+            "score": 8.0936310867,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-07T19:00:00",
+            "episode": 6,
+            "score": 8.1430865173,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-14T19:00:00",
+            "episode": 7,
+            "score": 8.1957836401,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-21T19:00:00",
+            "episode": 8,
+            "score": 8.2293212157,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-28T19:00:00",
+            "episode": 9,
+            "score": 8.2832225849,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-04T19:00:00",
+            "episode": 10,
+            "score": 8.3420244171,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-11T19:00:00",
+            "episode": 11,
+            "score": 8.3640134794,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-18T19:00:00",
+            "episode": 12,
+            "score": 8.3756169397,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-25T19:00:00",
+            "episode": 13,
+            "score": 8.5206862608,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6564,
+        "ann": 10885,
+        "mal": 6547,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Cze\u015b\u0107, Haruhi.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e928875fc6babaa3a6e8f2ae9ac4c6fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "Cze\u015b\u0107, Sunohara.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ece1bca5a6956a981a48942c63520199.jpg",
+            "hd": false
+        },
+        {
+            "description": "Clannad After Life?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7b1df6168f788daf473a4c0921acdf86.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ach, \"te dni\"...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/91281fc29a97bb1d4650f82f9923dd63.jpg",
+            "hd": false
+        },
+        {
+            "description": "Brygada SOS",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b4c52309c6ffa2f34cf2a1f58dce3bb9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Schei\u00dfschutzstaffel",
+            "filename": "http://s.modriv.net/abp/images/screencaps/90948b63d2311bcf0e181f667bc1c089.jpg",
+            "hd": false
+        },
+        {
+            "description": "<del>Afterschool Teatime</del> ENOZ znowu na scenie!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db8fbee1c97d7286bd5178cdff06a45e.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2010 Angel Beats (\u30a8\u30f3\u30b8\u30a7\u30eb\u30d3\u30fc\u30c4) - Harunnad, czyli Haruhi i Clannad w jednym pakiecie (wi\u0119cej: http://rdir.pl/8fj43)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/021c33dfe8d90bd6481d926fda189f24.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Widz\u0119, \u017ce nie wiesz, co to depilacja, Haruhi\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6ffa85607804dfab7abc400dddeca94b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Duzi ch\u0142opcy z du\u017cym... dzia\u0142em",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fce82090ac588c2822d11401f4a64978.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak, to taki nowy Clannad.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1b1d3d11c4e99e7cca17a6912805b5da.jpg",
+            "hd": false
+        },
+        {
+            "description": "prawdziwy g\u0142\u00f3wny w\u0105tek tego #anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3e5c7dda513bc17cd571f3c9a391ecf8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Takeyama-kun pragnie wszystkim tegorocznym maturzystom przypomnie\u0107 o obowi\u0105zkowej maturze z matematyki!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/36abe36787893100bbf21e6f6054dade.jpg",
+            "hd": false
+        },
+        {
+            "description": "Prawie jak czerwony tekst",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f4dec3434f9c77653c42a4438c6c19e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "Porz\u0105dny product placement jest porz\u0105dny",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0bbef4a049cd2187914c11d3c1c8f8be.jpg",
+            "hd": false
+        },
+        {
+            "description": "Co to techno robi z lud\u017ami.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1e24c96ccd82ca23aaa6f2e647261955.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/62bb1a5261dec6ba3298593b142e980b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/297688816197c52ece0c7e1ee45851cb.jpg",
+            "hd": false
+        },
+        {
+            "description": "Hinata te\u017c nie ma poj\u0119cia o czym jest to #anime. Prawdopodobnie jednak nie o sparklach.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/89c501d025799694614487b92c13beb2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nyan~!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e4c21416bfc571b70b8205e9db868a6e.jpg",
+            "hd": false
+        },
+        {
+            "description": "bawwwwwwwwww ;_;",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c73ce43c67f8a0d4c58c40f6fca2c2dc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b611535734729dd1bea0e0aa98e9de78.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kwiatek",
+            "filename": "http://s.modriv.net/abp/images/screencaps/da51401865a6d26c93c678c403b3a024.jpg",
+            "hd": false
+        },
+        {
+            "description": "Szkolna komedia, powiadacie?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7e2b16d3809c89c9c03b68a542e5c625.jpg",
+            "hd": false
+        },
+        {
+            "description": "Otonashi to idiota, takiej okazji nie wykorzysta\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e2128f2608a08decb166e7095b1501da.jpg",
+            "hd": false
+        },
+        {
+            "description": "it&#039;s all fun and games until Kanade starts fishing",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6c825f062e4c42bcd9a33a164102cbaa.jpg",
+            "hd": false
+        },
+        {
+            "description": "So as I pray, &quot;Unlimited Tenshi Works&quot;!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ceb76811b7789ee85f0d59a7c85bb751.jpg",
+            "hd": false
+        },
+        {
+            "description": "koniec jedzenia w tunelu odci\u0119tym od \u015bwiata? Phew, studenci maj\u0105 to na co dzie\u0144.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/96b287682efebe86ef96c643a66735c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Awwww~~",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7aef3082bd8b55056fa15ed3aaf4e7d5.jpg",
+            "hd": true
+        },
+        {
+            "description": "Co\u015b TY zrobi\u0142 dla realizacji planu?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/144d28723851cbc787e4e1f7d32eefe3.jpg",
+            "hd": false
+        },
+        {
+            "description": "I'M USING CAPSLOCK",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7fa4a3321f2bd9cf7d1473cb5ab2c681.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9f8b1b16263b39f8fbc3ac0cf3959dbf.jpg",
+            "hd": false
+        },
+        {
+            "description": ";_;",
+            "filename": "http://s.modriv.net/abp/images/screencaps/acc560f4d8596239977e333370ae60df.jpg",
+            "hd": false
+        },
+        {
+            "description": "Naoi i jego hipnoza w pe\u0142nej krasie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/11b1f38c04ca4378a87c68f05bd375ea.jpg",
+            "hd": false
+        },
+        {
+            "description": "SSS idzie expi\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6dacc492aa99506830a5a64de25c247.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ody ch\u0142opak budzi si\u0119 w szkole nic nie pami\u0119taj\u0105c, dowiaduje si\u0119 \u017ce jest martwy i \u017ce musi walczy\u0107 z Anio\u0142em pod postaci\u0105 ma\u0142om\u00f3wnej loli.",
+            "type": "abp"
+        },
+        {
+            "content": "It sucks being dead. Sucks even more to be trapped in a surreal afterlife where you&#039;re caught between the living and the dead&mdash;where a mysterious, violent Angel is trying to pull you over to...somewhere. What do you do? Well, if you&#039;re this group of rough-and-tumble teens, you grab every weapon you can get your hands on and give Heaven hell! High-caliber action and locked-and-loaded comedy meet on a rock and roll battleground in Angel Beats!    (Source: Anime Network)",
+            "type": "mal"
+        },
+        {
+            "content": "* A mixed media project originally conceived by Maeda Jun with original character designs by Na-Ga, from Visual Art's/Key.The after-life world for youths having died in an unfair turn of events is centred around a large school campus...Yuri, the leader of the Shinda Sekai Sensen (SSS), rebels against the god who destined her to have an unreasonable life. On the other hand, Tenshi nicknamed Angel, the chairperson of the student council for the world after death, harnesses supernatural powers against the SSS members.What is this strange world in limbo, where no one ages or dies? Why do some students simply vanish? What role does the seemingly violent Angel play, and what are the SSS' goals? The recently deceased Otonashi Yuzuru is looking for the answers...Note: The first episode was pre-aired during a special event for the Angel Beats multimedia project, held in Tokyo on March 22, 2010 to a selected number of lucky first-time viewers, who were chosen from a nationwide postcard lottery held until March 12.",
+            "type": "anidb"
+        },
+        {
+            "content": "In a world after death, angels fight for their fate and their future. Yuri, the leader of the Shinda Sekai Sensen, rebels against the god who destined her to have an unreasonable life. On the otherhand, Tenshi, the chairperson of the student council for the world after death, battles against the SSS members. SSS members utilize armed weaponry to battle it out against the angels harnessing supernatural powers.",
+            "type": "ann"
+        },
+        {
+            "content": "Angel Beats! takes place at a high school acting as a limbo for those who have died, where students learn to give up any lingering attachments they still have from life before passing on. Those in the afterlife school can still feel pain as they did when they were alive, as well as dying again, only to awaken later with no injuries. The story follows the main protagonist Otonashi, a boy who lost his memories of his life after dying. He meets Yuri, a girl who invites him to join the Afterlife Battlefront (\u6b7b\u3093\u3060\u4e16\u754c\u6226\u7dda, Shinda Sekai Sensen (SSS)?), an organization she founded and leads which fights against God for the cruel fates the SSS members experienced in life. In the SSS, there is a four-girl band named Girls Dead Monster that acts as a diversion during missions, and an organization called the Guild that mass produces weapons out of dirt and supplies them to the SSS. Their only enemy is Angel, a girl who has supernatural powers and fights against the SSS. Angel creates her powers with the aid of a computer program called Angel Player. The rest of the afterlife school is populated by a large number of \"normal\" students and teachers Yuri deems \"non-player characters\" (NPCs) as they are not human, but look and act the part.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 94430,
+            "date": "2012-09-29T02:46:25",
+            "score": 8.58,
+            "type": "mal"
+        },
+        {
+            "count": 4453,
+            "date": "2012-09-29T02:46:25",
+            "score": 8.23,
+            "type": "anidb"
+        },
+        {
+            "count": 4688,
+            "date": "2012-09-29T02:46:25",
+            "score": 8.697,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Angel Beats!"
+}

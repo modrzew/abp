@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30db\u30ef\u30a4\u30c8\u30a2\u30eb\u30d0\u30e0"
+        },
+        {
+            "language": "pl",
+            "title": "Bia\u0142y Album"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6026,
+        "ann": 10134,
+        "mal": 4720,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Fujii Touya, a college student, is dating a rising idol singer named Morikawa Yuki. There are numerous challenges to the couple's relationship from the other people at Fujii's college, Morikawa's work, and elsewhere.",
+            "type": "anidb"
+        },
+        {
+            "content": "Adapted from the Leaf eroge.    The White Album game centers around T\u014dya Fuj\u012b, a college student dating a rising idol singer named Yuki Morikawa. The game deals with the challenges to the couple&rsquo;s relationship from the other people at Fuj\u012b&rsquo;s college, Morikawa&rsquo;s work, and elsewhere.    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "T\u014dya Fuji, a college student is dating a rising idol singer named Yuki Morikawa. There are numerous challenges to the couple's relationship from the other people at Fuji's college, Morikawa's work, and elsewhere.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7311,
+            "date": "2012-09-29T02:16:31",
+            "score": 6.88,
+            "type": "mal"
+        },
+        {
+            "count": 1009,
+            "date": "2012-09-29T02:16:31",
+            "score": 6.89,
+            "type": "anidb"
+        },
+        {
+            "count": 617,
+            "date": "2012-09-29T02:16:31",
+            "score": 6.694,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "White Album"
+}

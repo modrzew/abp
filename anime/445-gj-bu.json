@@ -1,0 +1,657 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "GJ\u90e8"
+        }
+    ],
+    "aliases": [
+        "GJ-bu",
+        "GJ - bu"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-01-09T17:29:00",
+            "episode": 1,
+            "score": 7.1718867925,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 14,
+                    "filename": "[Anime-Koi] GJ-bu - 01 [h264-720p][D9902A6D].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "D9902A6D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391456",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 5,
+                    "filename": "[EveTaku] GJ-bu - 01 (1280x720 x264-Hi10P AAC)[A8A0354E].mkv",
+                    "group": "EveTaku",
+                    "hash": "A8A0354E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=392071",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] GJ-bu - 01v2 [h264-720p][A3346038].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "A3346038",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394013",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p][Anime-Koi]",
+                    "download_count": 1,
+                    "filename": "(Hi10)_GJ_-_bu_-_01_(720p)_(Anime-Koi).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/ryuuzaki/Torrents/(Hi10)_GJ_-_bu_-_01_(720p)_(Anime-Koi).torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] GJ-bu - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] GJ-bu - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408192",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] GJ-bu - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408197",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-16T17:29:00",
+            "episode": 2,
+            "score": 7.1675620438,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] GJ-bu - 02 [h264-720p][330FDB4B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "330FDB4B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393805",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] GJ-bu - 02 (1280x720 x264-Hi10P AAC)[D6CAD9CA].mkv",
+                    "group": "EveTaku",
+                    "hash": "D6CAD9CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393804",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GJ-bu - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408194",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] GJ-bu - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GJ-bu - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408198",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-23T17:29:00",
+            "episode": 3,
+            "score": 7.1000675369,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] GJ-bu - 03 [h264-720p][23B5A445].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "23B5A445",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396485",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] GJ-bu - 03 (1280x720 x264-Hi10P AAC)[E1C2CDA1].mkv",
+                    "group": "EveTaku",
+                    "hash": "E1C2CDA1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396505",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GJ-bu - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408203",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GJ-bu - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408205",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GJ-bu - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408221",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-30T17:29:00",
+            "episode": 4,
+            "score": 7.1113915604,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] GJ-bu - 04 (1280x720 x264-Hi10P AAC)[6B8288A8].mkv",
+                    "group": "EveTaku",
+                    "hash": "6B8288A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 9,
+                    "filename": "[Anime-Koi] GJ-bu - 04 [h264-720p][8B0017F2].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "8B0017F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398900",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-06T17:29:00",
+            "episode": 5,
+            "score": 7.1113822688,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 8,
+                    "filename": "[Anime-Koi] GJ-bu - 05 [h264-720p][E533CA00].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "E533CA00",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401410",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] GJ-bu - 05 (1280x720 x264-Hi10P AAC)[400FA713].mkv",
+                    "group": "EveTaku",
+                    "hash": "400FA713",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401422",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] GJ-bu - 05v2 (1280x720 x264-Hi10P AAC)[510EE234].mkv",
+                    "group": "EveTaku",
+                    "hash": "510EE234",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402146",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-02-13T17:29:00",
+            "episode": 6,
+            "score": 7.1364631043,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] GJ-bu - 06 [h264-720p][0C41221E].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "0C41221E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403840",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[EveTaku] GJ-bu - 06 (1280x720 x264-Hi10P AAC)[149728D7].mkv",
+                    "group": "EveTaku",
+                    "hash": "149728D7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403847",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GJ-bu - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408216",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GJ-bu - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408223",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] GJ-bu - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408224",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-20T17:29:00",
+            "episode": 7,
+            "score": 7.1891288825,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[Anime-Koi] GJ-bu - 07 [h264-720p][A8557259].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "A8557259",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406135",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] GJ-bu - 07 (1280x720 x264-Hi10P AAC)[3832E8C0].mkv",
+                    "group": "EveTaku",
+                    "hash": "3832E8C0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GJ-bu - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GJ-bu - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408190",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-27T17:29:00",
+            "episode": 8,
+            "score": 7.2345644897,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] GJ-bu - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408362",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] GJ-bu - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] GJ-bu - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] GJ-bu - 08 [h264-720p][CFAA7334].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "CFAA7334",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408474",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 3,
+                    "filename": "[EveTaku] GJ-bu - 08 (1280x720 x264-Hi10P AAC)[FB0331D9].mkv",
+                    "group": "EveTaku",
+                    "hash": "FB0331D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408479",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-06T17:29:00",
+            "episode": 9,
+            "score": 7.2781913876,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GJ-bu - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410725",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] GJ-bu - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410727",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] GJ-bu - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410728",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] GJ-bu - 09 [h264-720p][2E3FA68B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "2E3FA68B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] GJ-bu - 09 (1280x720 x264-Hi10P AAC)[2090FD73].mkv",
+                    "group": "EveTaku",
+                    "hash": "2090FD73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410847",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-13T17:29:00",
+            "episode": 10,
+            "score": 7.3136977266,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] GJ-bu - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GJ-bu - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412992",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] GJ-bu - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] GJ-bu - 10 [h264-720p][7164F75E].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "7164F75E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413077",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] GJ-bu - 10 (1280x720 x264-Hi10P AAC)[4DCE01AF].mkv",
+                    "group": "EveTaku",
+                    "hash": "4DCE01AF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413455",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-20T17:29:00",
+            "episode": 11,
+            "score": 7.3687525956,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GJ-bu - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] GJ-bu - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415152",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] GJ-bu - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 2,
+                    "filename": "[EveTaku] GJ-bu - 11 (1280x720 x264-Hi10P AAC)[A06C1562].mkv",
+                    "group": "EveTaku",
+                    "hash": "A06C1562",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415295",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] GJ-bu - 11 [h264-720p][DAF2DFC2].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "DAF2DFC2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415306",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-27T17:29:00",
+            "episode": 12,
+            "score": 7.5968695652,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] GJ-bu - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417491",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] GJ-bu - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417492",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] GJ-bu - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417496",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264-Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[EveTaku] GJ-bu - 12 END (1280x720 x264-Hi10P AAC)[3DCA432F].mkv",
+                    "group": "EveTaku",
+                    "hash": "3DCA432F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417501",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[Anime-Koi] GJ-bu - 12 END [h264-720p][F555FF40].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "F555FF40",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417510",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9311,
+        "ann": 14671,
+        "mal": 14811,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "TV anime adaptation of the GJ-bu moe light novel series, dubbed as the \"first four-panel novel\", where each story is only four pages long with illustrations.",
+            "type": "mal"
+        },
+        {
+            "content": "Within the old school building of a certain high school, is the clubroom of the GJ (Good Job) Club, into which Shinomiya Kyouya finds himself forcibly conscripted.The other members are:Mao, the short and egotistical president;Megumi, Mao's sister who's as generous as an angel;Shion, a genius lacking in common sense; andKirara, who is perpetually hungry.",
+            "type": "anidb"
+        },
+        {
+            "content": "Shinomiya Ky\u014dya is forced to become a new member of the GJ-bu (lit. GJ Club), an unidentified club that dwells in a room of the former building of a certain school. There he meets four girls: Mao, Megumi, Shion and Kirara. Time flies with these unique girls around.",
+            "type": "wiki"
+        },
+        {
+            "content": "GJ-bu, or GJ Club, revolves around five members of a vague high school club, where on any given day they may be playing Twister, taking naps, or reading manga. The show outlines the relationship between the protagonist, a boy named Ky\u014dya, and four rather interesting girls, including a tiny, tsundere president, her calm, kind sister, a genius chess player, and a girl who is always eating and resembles a cat.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 4530,
+            "date": "2013-03-29T04:13:14",
+            "score": 7.65,
+            "type": "mal"
+        },
+        {
+            "count": 165,
+            "date": "2013-03-29T04:13:14",
+            "score": 6.53,
+            "type": "anidb"
+        },
+        {
+            "count": 135,
+            "date": "2013-03-29T04:13:14",
+            "score": 7.118,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "GJ-bu"
+}

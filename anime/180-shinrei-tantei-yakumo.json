@@ -1,0 +1,525 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5fc3\u970a\u63a2\u5075 \u516b\u96f2"
+        },
+        {
+            "language": "pl",
+            "title": "Duchowy Detektyw Yakumo"
+        }
+    ],
+    "aliases": [
+        "Psychic Detective Yakumo",
+        "Shinrei Tantei Yakumo "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/179822907",
+            "content": "#anime #Jesie\u01442010 Shinrei Tantei Yakumo (\u5fc3\u970a\u63a2\u5075 \u516b\u96f2) http://rdir.pl/tid99",
+            "episode": 1,
+            "filename": "0f093da0c4f4a5ee62ed5b0eeac85816.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26583876234"
+        },
+        {
+            "blip_url": "http://blip.pl/s/185544669",
+            "content": "Shinrei Tantei Yakumo 02 - moda na czerwone oczy wraca i ma si\u0119 dobrze",
+            "episode": 2,
+            "filename": "6a311ded90b2ccc39ba359a934bceb1f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27140276368"
+        },
+        {
+            "blip_url": "http://blip.pl/s/196053477",
+            "content": "Shinrei Tantei Yakumo 04 - oto zwyk\u0142y przechodzie\u0144 po us\u0142yszeniu nowiny o kin\u00f3wce Kejona",
+            "episode": 4,
+            "filename": "4877fdebf5e5b8e4ccf7b5e38463c7b2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/28924289790"
+        },
+        {
+            "blip_url": "http://blip.pl/s/205141871",
+            "content": "Shinrei Tantei Yakumo 06 - a dzisiaj co\u015b specjalnie dla fan\u00f3w bisz\u00f3w i ich m\u0119skich klat",
+            "episode": 6,
+            "filename": "2a73591405c373ed49ce963090b6db9d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/2020131362308096"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-10-03T16:00:00",
+            "episode": 1,
+            "score": 7.8934393064,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_01_[22EEDA90].mkv",
+                    "group": "AonE",
+                    "hash": "22EEDA90",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_01_%5B22EEDA90%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-10T16:00:00",
+            "episode": 2,
+            "score": 7.8258028362,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nordkohl] Psychic Detective Yakumo - 02 [4B646823].mkv",
+                    "group": "Nordkohl",
+                    "hash": "4B646823",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164597",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Nordkohl-Remux] Psychic Detective Yakumo - 02 (1280x720 x264 AAC).mkv",
+                    "group": "Nordkohl-Remux",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164731",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 02 [480p][9AB3D682].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "9AB3D682",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165726",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[StolenSubs] Shinrei Tantei Yakumo 02 [720p].mkv",
+                    "group": "StolenSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166301",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_02_[DF9F6B16].mkv",
+                    "group": "AonE",
+                    "hash": "DF9F6B16",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_02_%5BDF9F6B16%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-17T16:00:00",
+            "episode": 3,
+            "score": 7.7788030194,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Nordkohl] Psychic Detective Yakumo - 03 [4F3D41C6].mkv",
+                    "group": "Nordkohl",
+                    "hash": "4F3D41C6",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[StolenSubs] Shinrei Tantei Yakumo - 03 [720p].mkv",
+                    "group": "StolenSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166303",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 03 [480p][A536E921].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "A536E921",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167600",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_03_[80290879].mkv",
+                    "group": "AonE",
+                    "hash": "80290879",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_03_%5B80290879%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-24T16:00:00",
+            "episode": 4,
+            "score": 7.7543456597,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Nordkohl] Psychic Detective Yakumo - 04 [535211AF].mkv",
+                    "group": "Nordkohl",
+                    "hash": "535211AF",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=167998",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[StolenSubs] Shinrei Tantei Yakumo - 04 [720p].mkv",
+                    "group": "StolenSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168136",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 04 [480p][6B61DFC4].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "6B61DFC4",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169473",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_04_[F6D5ED5C].mkv",
+                    "group": "AonE",
+                    "hash": "F6D5ED5C",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_04_%5BF6D5ED5C%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-31T15:00:00",
+            "episode": 5,
+            "score": 7.7404424531,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nordkohl] Psychic Detective Yakumo - 05 [390122B7]?.mkv",
+                    "group": "",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=169896",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[StolenSubs] Shinrei Tantei Yakumo - 05 [720p].mkv",
+                    "group": "StolenSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170363",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 05 [480p][4278C07B].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "4278C07B",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170603",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-07T15:00:00",
+            "episode": 6,
+            "score": 7.7318888316,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-14T15:00:00",
+            "episode": 7,
+            "score": 7.7076928246,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-21T15:00:00",
+            "episode": 8,
+            "score": 7.70321812,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_08_[8AA00B82].mkv",
+                    "group": "AonE",
+                    "hash": "8AA00B82",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_08_%5B8AA00B82%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-28T15:00:00",
+            "episode": 9,
+            "score": 7.6469083871,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 09 [480p][62CDAB4F].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "62CDAB4F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=177890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_09_[72BF24FF].mkv",
+                    "group": "AonE",
+                    "hash": "72BF24FF",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_09_%5B72BF24FF%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-05T15:00:00",
+            "episode": 10,
+            "score": 7.6522821782,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 10 [480p][D3C30A2D].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "D3C30A2D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178996",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_10_[8740B372].mkv",
+                    "group": "AonE",
+                    "hash": "8740B372",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_10_%5B8740B372%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-12T15:00:00",
+            "episode": 11,
+            "score": 7.6462135807,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 11 [480p][8A616EE6].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "8A616EE6",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_11_[EEA06D21].mkv",
+                    "group": "AonE",
+                    "hash": "EEA06D21",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_11_%5BEEA06D21%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-19T15:00:00",
+            "episode": 12,
+            "score": 7.636819482,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 12v2 [480p][63FAD9A3].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "63FAD9A3",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183065",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2010-12-26T15:00:00",
+            "episode": 13,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[FFFpeeps] Shinrei Tantei Yakumo 13 [480p][2AAE3048].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "2AAE3048",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[AonE]_Shinrei_Tantei_Yakumo_13_[6889C32D].mkv",
+                    "group": "AonE",
+                    "hash": "6889C32D",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Shinrei_Tantei_Yakumo_13_%5B6889C32D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7233,
+        "ann": 11191,
+        "mal": 7662,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f8f90e8b44ca8ea5b39f8dd87664a266.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f37f51a798cdea5314c8f71cce856a4d.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Ale ja chcia\u0142em Kejona, a nie jakie\u015b losowe duchy!\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/864e37b874d377792129f2e9228dc642.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yakumo te\u017c jest zawiedziony tym sezonem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cba2ba83a8a04847be8309896073eee7.jpg",
+            "hd": false
+        },
+        {
+            "description": "+20 do zajebisto\u015bci, -1 do dziewczyny",
+            "filename": "http://s.modriv.net/abp/images/screencaps/22b7876acad5c6b90ae2ac1a5ec7ca94.jpg",
+            "hd": false
+        },
+        {
+            "description": "OMG TOREBKA",
+            "filename": "http://s.modriv.net/abp/images/screencaps/522329207bf74acd2ef988368b0f4421.jpg",
+            "hd": false
+        },
+        {
+            "description": "YAKUMO VI BRITANNIA COMMANDS YOU...!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/05d45e20b5a7a3b346ec958bf617aed3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e599765af8281d4b4e6f473514ddcd8b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/92d222cb2c45ce8e9fb7142891b94396.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Shinrei Tantei Yakumo (\u5fc3\u970a\u63a2\u5075 \u516b\u96f2) http://rdir.pl/tid99",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0f093da0c4f4a5ee62ed5b0eeac85816.jpg",
+            "hd": false
+        },
+        {
+            "description": "moda na czerwone oczy wraca i ma si\u0119 dobrze",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6a311ded90b2ccc39ba359a934bceb1f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1bfaf058cdfe35d66e00a190d9976092.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ptaszek wlatuje tutaj",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db8de7adc63295ac4ab75334dd62e7b9.jpg",
+            "hd": false
+        },
+        {
+            "description": "oto zwyk\u0142y przechodzie\u0144 po us\u0142yszeniu nowiny o kin\u00f3wce Kejona",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4877fdebf5e5b8e4ccf7b5e38463c7b2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/306933d9bea9dbcf1a886860933535fe.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e07b58e45c0fae01b5d5e0ac8600500a.jpg",
+            "hd": false
+        },
+        {
+            "description": "a dzisiaj co\u015b specjalnie dla fan\u00f3w bisz\u00f3w i ich m\u0119skich klat",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2a73591405c373ed49ce963090b6db9d.jpg",
+            "hd": true
+        },
+        {
+            "description": "Robienie fotek na Nasz\u0105 Klas\u0119 jeszcze nigdy nie by\u0142o r\u00f3wnie niebezpieczne",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3f29534b929edc600ccd709d4ec0d058.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "M\u0142ody i tajemniczy bisz z czerwonym okiem, za pomoc\u0105 kt\u00f3rego widzi i rozmawia z duchami, przejawia sw\u00f3j geniusz podczas rozwi\u0105zywania zagadek kryminalnych.",
+            "type": "abp"
+        },
+        {
+            "content": "In order to help a friend possessed by a spirit, Ozawa Haruka knocks on the door of her university&#039;s movie research association. There she meets Saitou Yakumo, a rude, unkempt young man with a red left eye, who is said to have spiritual powers. At first Haruka is skeptical, but she comes to believe him when he conveys messages from her older sister, who died when she was a child. Together, they work to shed light on the terrifying events happening at their university. But this is only the prologue of what&#039;s to come...    (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "In order to help a friend possessed by a spirit, Ozawa Haruka knocks on the door of her university's movie research association. There she meets Saitou Yakumo, a rude, unkempt young man with a red left eye, who is said to have spiritual powers. At first Haruka is skeptical, but she comes to believe him when he conveys messages from her older sister, who died when she was a child. Together, they work to shed light on the terrifying events happening at their university. But this is only the prologue of what's to come...",
+            "type": "ann"
+        },
+        {
+            "content": "* Based on a novel by Kaminaga Manabu.Shinrei Tantei Yakumo, aka Psychic Detective Yakumo, tells a story about a college student, Saitou Yakumo who is born with different eye colors. His red left eye gives him a special ability to see ghosts and spirits. He believes ghosts and spirits are bound to earth because of a certain cause, and simply eliminating that cause will let those spirits rest in peace. Being asked for help by Ozawa Haruka, they begin the investigation together.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 16304,
+            "date": "2012-09-29T12:52:10",
+            "score": 7.53,
+            "type": "mal"
+        },
+        {
+            "count": 1025,
+            "date": "2012-09-29T12:52:10",
+            "score": 7.06,
+            "type": "anidb"
+        },
+        {
+            "count": 687,
+            "date": "2012-09-29T03:24:31",
+            "score": 7.132,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Shinrei Tantei Yakumo"
+}

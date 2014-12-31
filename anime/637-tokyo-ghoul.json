@@ -1,0 +1,799 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6771\u4eac\u55b0\u7a2e[\u30c8\u30a6\u30ad\u30e7\u30a6\u30b0\u30fc\u30eb]"
+        }
+    ],
+    "aliases": [
+        "Tokyo Ghoul"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-07-03T17:00:00",
+            "episode": 1,
+            "score": 7.6753011364,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=570756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 22,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=570757",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Chyuu] Tokyo Ghoul - 01 [720p][0FAB9BA9].mkv",
+                    "group": "Chyuu",
+                    "hash": "0FAB9BA9",
+                    "url": "http://www.nyaa.se/?page=download&tid=572449",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 01 (1280x720 10bit AAC) [FDCCEF8A].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "FDCCEF8A",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2001%20(1280x720%2010bit%20AAC)%20%5BFDCCEF8A%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[Commie] Tokyo Ghoul - 01 [3820560D].mkv",
+                    "group": "Commie",
+                    "hash": "3820560D",
+                    "url": "http://www.nyaa.se/?page=download&tid=572677",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_01_[1280x720][CCB510E7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "CCB510E7",
+                    "url": "http://www.nyaa.se/?page=download&tid=573948",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Chyuu]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Tokyo_Ghoul_-_01_(720p)_(Chyuu)_(886F6E17).mkv",
+                    "group": "Hi10",
+                    "hash": "886F6E17",
+                    "url": "http://www.anirena.com/dl/9698",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-10T17:00:00",
+            "episode": 2,
+            "score": 7.6156981132,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=573392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=573393",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 02 (1280x720 10bit AAC) [DC532659].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "DC532659",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2002%20(1280x720%2010bit%20AAC)%20%5BDC532659%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chyuu] Tokyo Ghoul - 02 [720p][3E86FEEC].mkv",
+                    "group": "Chyuu",
+                    "hash": "3E86FEEC",
+                    "url": "http://www.nyaa.se/?page=download&tid=573746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Chyuu] Tokyo Ghoul - 02v2 [720p][01312F47].mkv",
+                    "group": "Chyuu",
+                    "hash": "01312F47",
+                    "url": "http://www.nyaa.se/?page=download&tid=574402",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Tokyo Ghoul - 02 [B2BB62FA].mkv",
+                    "group": "Commie",
+                    "hash": "B2BB62FA",
+                    "url": "http://www.nyaa.se/?page=download&tid=574444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_02_[1280x720][05D4B5CB].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "05D4B5CB",
+                    "url": "http://www.nyaa.se/?page=download&tid=575223",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-17T17:00:00",
+            "episode": 3,
+            "score": 7.3684210526,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576242",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=576243",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Chyuu] Tokyo Ghoul - 03 [720p][74BCBD68].mkv",
+                    "group": "Chyuu",
+                    "hash": "74BCBD68",
+                    "url": "http://www.nyaa.se/?page=download&tid=576461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 1,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 03 (1280x720 10bit AAC) [3AAADB81].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "3AAADB81",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2003%20(1280x720%2010bit%20AAC)%20%5B3AAADB81%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_03_[1280x720][50FAEA5C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "50FAEA5C",
+                    "url": "http://www.nyaa.se/?page=download&tid=577746",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tokyo Ghoul - 03 [AD9FAB32].mkv",
+                    "group": "Commie",
+                    "hash": "AD9FAB32",
+                    "url": "http://www.nyaa.se/?page=download&tid=579938",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-24T17:00:00",
+            "episode": 4,
+            "score": 7.3010626703,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=579228",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=579229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 04 (1280x720 10bit AAC) [25CBC5B0].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "25CBC5B0",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2004%20(1280x720%2010bit%20AAC)%20%5B25CBC5B0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Chyuu] Tokyo Ghoul - 04 [720p][CF62E8D4].mkv",
+                    "group": "Chyuu",
+                    "hash": "CF62E8D4",
+                    "url": "http://www.nyaa.se/?page=download&tid=579815",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_04_[1280x720][20D00B73].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "20D00B73",
+                    "url": "http://www.nyaa.se/?page=download&tid=581817",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tokyo Ghoul - 04 [1BA522E9].mkv",
+                    "group": "Commie",
+                    "hash": "1BA522E9",
+                    "url": "http://www.nyaa.se/?page=download&tid=584553",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-07-31T17:00:00",
+            "episode": 5,
+            "score": 7.208866005,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=582082",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chyuu] Tokyo Ghoul - 05 [720p][01DF6879].mkv",
+                    "group": "Chyuu",
+                    "hash": "01DF6879",
+                    "url": "http://www.nyaa.se/?page=download&tid=582325",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 05 (1280x720 10bit AAC) [E7E35599].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "E7E35599",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2005%20(1280x720%2010bit%20AAC)%20%5BE7E35599%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_05_[1280x720][41AC8541].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "41AC8541",
+                    "url": "http://www.nyaa.se/?page=download&tid=584236",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tokyo Ghoul - 05 [53C95D07].mkv",
+                    "group": "Commie",
+                    "hash": "53C95D07",
+                    "url": "http://www.nyaa.se/?page=download&tid=585345",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-07T17:00:00",
+            "episode": 6,
+            "score": 7.2138501171,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=584920",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=584921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chyuu] Tokyo Ghoul - 06 [720p][F49511C5].mkv",
+                    "group": "Chyuu",
+                    "hash": "F49511C5",
+                    "url": "http://www.nyaa.se/?page=download&tid=585242",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 3,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 06 (1280x720 10bit AAC) [025DCE81].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "025DCE81",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2006%20(1280x720%2010bit%20AAC)%20%5B025DCE81%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_06_[1280x720][B54ADCE3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B54ADCE3",
+                    "url": "http://www.nyaa.se/?page=download&tid=586346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tokyo Ghoul - 06 [347773B5].mkv",
+                    "group": "Commie",
+                    "hash": "347773B5",
+                    "url": "http://www.nyaa.se/?page=download&tid=586448",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-14T17:00:00",
+            "episode": 7,
+            "score": 7.3715793991,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=587677",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=587678",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chyuu] Tokyo Ghoul - 07 [720p][457FD12C].mkv",
+                    "group": "Chyuu",
+                    "hash": "457FD12C",
+                    "url": "http://www.nyaa.se/?page=download&tid=587995",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 07 (1280x720 10bit AAC) [4532F203].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "4532F203",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2007%20(1280x720%2010bit%20AAC)%20%5B4532F203%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Tokyo Ghoul - 07 [18BEDC27].mkv",
+                    "group": "Commie",
+                    "hash": "18BEDC27",
+                    "url": "http://www.nyaa.se/?page=download&tid=588320",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_07_[1280x720][381E884C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "381E884C",
+                    "url": "http://www.nyaa.se/?page=download&tid=590241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[v2][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_07_[v2][1280x720][C9835533].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C9835533",
+                    "url": "http://www.nyaa.se/?page=download&tid=590321",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-21T17:00:00",
+            "episode": 8,
+            "score": 7.321473251,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=590623",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=590624",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Chyuu] Tokyo Ghoul - 08 [720p][13BC4B66].mkv",
+                    "group": "Chyuu",
+                    "hash": "13BC4B66",
+                    "url": "http://www.nyaa.se/?page=download&tid=590913",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 08 (1280x720 10bit AAC) [0C030757].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "0C030757",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2008%20(1280x720%2010bit%20AAC)%20%5B0C030757%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 08v2 (1280x720 10bit AAC) [DF7E5108].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "DF7E5108",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2008v2%20(1280x720%2010bit%20AAC)%20%5BDF7E5108%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Tokyo Ghoul - 08 [864A0BA9].mkv",
+                    "group": "Commie",
+                    "hash": "864A0BA9",
+                    "url": "http://www.nyaa.se/?page=download&tid=593028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_08_[1280x720][E556BD63].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E556BD63",
+                    "url": "http://www.nyaa.se/?page=download&tid=593819",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-08-28T17:00:00",
+            "episode": 9,
+            "score": 7.2605671078,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=593684",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=593685",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Chyuu] Tokyo Ghoul - 09 [720p][E1C2FA20].mkv",
+                    "group": "Chyuu",
+                    "hash": "E1C2FA20",
+                    "url": "http://www.nyaa.se/?page=download&tid=593955",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 09 (1280x720 10bit AAC) [7979AB94].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "7979AB94",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2009%20(1280x720%2010bit%20AAC)%20%5B7979AB94%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Tokyo_Ghoul_-_09_[1280x720][70E166A6].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "70E166A6",
+                    "url": "http://www.nyaa.se/?page=download&tid=596097",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Tokyo Ghoul - 09 [020EDF78].mkv",
+                    "group": "Commie",
+                    "hash": "020EDF78",
+                    "url": "http://www.nyaa.se/?page=download&tid=603396",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-04T17:00:00",
+            "episode": 10,
+            "score": 7.2533464286,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/A7245DE6D01A56EB40E000E27C279AF679D82A4B.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/95D3F7E530F37DD4D3A92488EAE3F7788C25DD43.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 10 (1280x720 10bit AAC) [B0A28996].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "B0A28996",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2010%20(1280x720%2010bit%20AAC)%20%5BB0A28996%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Chyuu] Tokyo Ghoul - 10 [720p][8AF2F50F].mkv",
+                    "group": "Chyuu",
+                    "hash": "8AF2F50F",
+                    "url": "http://www.nyaa.se/?page=download&tid=595808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tokyo Ghoul - 10 [99D49949].mkv",
+                    "group": "Commie",
+                    "hash": "99D49949",
+                    "url": "http://www.nyaa.se/?page=download&tid=603420",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-11T17:00:00",
+            "episode": 11,
+            "score": 7.2555215146,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/64A0F69E5E565C2A82A0F8A23F2437F9CFF9DF03.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://torrentcaching.com/torrent/EF76E4E458F4BA9F8A8E7419D22CE0D7C174E2B5.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AWI] Tokyo Ghoul - 11 [720p].mkv",
+                    "group": "AWI",
+                    "hash": "",
+                    "url": "http://torcache.net/torrent/3F9C7EC79A51AB911F6E87E28367103EF1278C38.torrent?title=%5Bkickass.to%5Dawi.tokyo.ghoul.11.720p.mkv",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 4,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 11 (1280x720 10bit AAC) [FD370A57].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "FD370A57",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2011%20(1280x720%2010bit%20AAC)%20%5BFD370A57%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Chyuu] Tokyo Ghoul - 11 [720p][145819E3].mkv",
+                    "group": "Chyuu",
+                    "hash": "145819E3",
+                    "url": "http://www.nyaa.se/?page=download&tid=597867",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Tokyo Ghoul - 11 [59C66B27].mkv",
+                    "group": "Commie",
+                    "hash": "59C66B27",
+                    "url": "http://www.nyaa.se/?page=download&tid=604661",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-09-18T17:00:00",
+            "episode": 12,
+            "score": 7.186734375,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599146",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] Tokyo Ghoul - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://nyaa.se/?page=download&tid=599147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 2,
+                    "filename": "[DameDesuYo] Tokyo Ghoul - 12 (1280x720 10bit AAC) [7578A255].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "7578A255",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Tokyo%20Ghoul%20-%2012%20(1280x720%2010bit%20AAC)%20%5B7578A255%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Tokyo Ghoul - 12 [A5F6B0CD].mkv",
+                    "group": "Commie",
+                    "hash": "A5F6B0CD",
+                    "url": "http://www.nyaa.se/?page=download&tid=604682",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10401,
+        "ann": 16087,
+        "mal": 22319,
+        "schedule": 3437
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Ken Kaneki is a bookworm college student who meets a girl names Rize at a cafe he frequents. They're the same age and have the same interests, so they quickly become close. Little does Kaneki know that Rize is a ghoul - a kind of monster that lives by hunting and devouring human flesh. When part of her special organ - \"the red child\" - is transplanted into Kaneki, he becomes a ghoul himself, trapped in a warped world where humans are not the top of the food chain.",
+            "type": "ann"
+        },
+        {
+            "content": "Tokyo is haunted by mysterious ghouls who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like he is, at the caf\u00e9 he frequents. Little does Kaneki realize that his fate will change overnight.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "An anime adaptation by Pierrot began airing on Tokyo MX on July 3, 2014. The opening theme song is \"unravel\" by TK from Ling Tosite Sigure, and the ending theme is \"Saints\" (\u8056\u8005\u305f\u3061, Seijatachi?) performed by People In The Box.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 525,
+            "date": "2014-09-23T03:18:43",
+            "score": 6.87,
+            "type": "anidb"
+        },
+        {
+            "count": 435,
+            "date": "2014-09-23T03:18:43",
+            "score": 7.569,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Tokyo Ghoul"
+}

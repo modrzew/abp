@@ -1,0 +1,921 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3044\u3064\u304b\u5929\u9b54\u306e\u9ed2\u30a6\u30b5\u30ae"
+        },
+        {
+            "language": "pl",
+            "title": "Mroczny Kr\u00f3lik Jakiego\u015btam Demona"
+        },
+        {
+            "language": "en",
+            "title": "A Dark Rabbit Has Seven Lives"
+        }
+    ],
+    "aliases": [
+        "Itsuka Tenma no Kuro Usagi",
+        "Itsuka Tenma no Kurousagi",
+        "A Dark Rabbit Has Seven Lives"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/601184609",
+            "content": "#anime #Lato2011 Itsuka Tenma no Kuro Usagi (??????????) http://rdir.pl/1j8o4j",
+            "episode": 1,
+            "filename": "a92d4b6657f4a86c1757b50ac88b7978.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/89822596853542913"
+        },
+        {
+            "blip_url": "http://blip.pl/s/645634799",
+            "content": "Itsuka Tenma no Kuro Usagi 04 - nawet 7 ?y? nie pomo?e w starciu z magicznymi tentaklami",
+            "episode": 4,
+            "filename": "71420f748d7fb9f3e9d9feaf44ef8145.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/98154940341555200"
+        },
+        {
+            "blip_url": "http://blip.pl/s/654350169",
+            "content": "Itsuka Tenma no Kuro Usagi 05 - kto? tu chyba regularnie za?ywa pewne artyku?y kolekcjonerskie",
+            "episode": 5,
+            "filename": "e1b4690482dfafa08e542b098cd96a7b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/101036455148785664"
+        },
+        {
+            "blip_url": "http://blip.pl/s/663346107",
+            "content": "Itsuka Tenma no Kuro Usagi 06 - co? chyba przesadzili, je?li chodzi o smak tych nowych mentos\u00f3w",
+            "episode": 6,
+            "filename": "fd2682b376424e2d1d5827c0d68ff716.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/103249723904901121"
+        },
+        {
+            "blip_url": "http://blip.pl/s/696426977",
+            "content": "Itsuka Tenma no Kuro Usagi 09 - robienie omlet\u00f3w: powa?ny biznes",
+            "episode": 9,
+            "filename": "ce1a53c0bd94991726ffec9f8b45d643.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/111186503400554496"
+        },
+        {
+            "blip_url": "http://blip.pl/s/704808929",
+            "content": "Itsuka Tenma no Kuro Usagi 10 - kto zamawia? na wynos?",
+            "episode": 10,
+            "filename": "ab83c36fa5243af90da0c03699fbab54.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/113264965581942785"
+        },
+        {
+            "blip_url": "http://blip.pl/s/735346581",
+            "content": "#anime #Lato2011 Itsuka Tenma no Kuro Usagi (??????????) - nasza ocena: ogl?daj tylko je?li si? nudzisz (wi?cej: http://rdir.pl/1j8o4j)",
+            "episode": 12,
+            "filename": "2490061fe28a5a2c2e0187404f22237f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/120563805532069888"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-08T18:05:00",
+            "episode": 1,
+            "score": 7.4145682731,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_01_[1280x720_x264_AAC][D6C25CE4].mkv",
+                    "group": "Derp",
+                    "hash": "D6C25CE4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226883",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_01v2_[1280x720_x264_AAC][F1C5BF4D].mkv",
+                    "group": "Derp",
+                    "hash": "F1C5BF4D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227294",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Chiki-Subs]_Itsuka_Tenma_no_Kurousagi_-_01_(1280x720_H.264_AAC)_[88AE9902].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "88AE9902",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=227411",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 01 [BC6E9975].mkv",
+                    "group": "WhyNot",
+                    "hash": "BC6E9975",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227445",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_Itsuka_Tenma_no_Kurousagi_-_01v2_(1280x720_H.264_AAC)_[AAA5995D].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "AAA5995D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=227618",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228555",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228556",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-15T18:05:00",
+            "episode": 2,
+            "score": 7.2886845387,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Herp] Itsuka Tenma no Kuro usagi - 02 (848x480 x264 AAC).mkv",
+                    "group": "Herp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Herp] Itsuka Tenma no Kuro usagi - 02 (1280x720 x264 AAC).mkv",
+                    "group": "Herp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228668",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 02 [E560747E].mkv",
+                    "group": "WhyNot",
+                    "hash": "E560747E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228736",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_Itsuka_Tenma_no_Kurousagi_-_02v0_(1280x720_H264_AAC)_[EC217EDD].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "EC217EDD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228812",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_02_[1280x720_x264_AAC][2FEF0330].mkv",
+                    "group": "Derp",
+                    "hash": "2FEF0330",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228904",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 02v2 [2D3371CC].mkv",
+                    "group": "WhyNot",
+                    "hash": "2D3371CC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229335",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230288",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230289",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-22T18:05:00",
+            "episode": 3,
+            "score": 7.2190968511,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_Itsuka_Tenma_no_Kurousagi_-_03_(1280x720_H264_AAC)_[B983C3D7].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "B983C3D7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 03 [6C3160BD].mkv",
+                    "group": "WhyNot",
+                    "hash": "6C3160BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_03_[1280x720_x264_AAC][B9490AAE].mkv",
+                    "group": "Derp",
+                    "hash": "B9490AAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230633",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_Itsuka_Tenma_no_Kurousagi_-_03v2_(1280x720_H264_AAC)_[8E7BEF66].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "8E7BEF66",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230931",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232642",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-29T18:05:00",
+            "episode": 4,
+            "score": 7.1454297104,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_04_[1280x720_x264_AAC][8CBC0E14].mkv",
+                    "group": "Derp",
+                    "hash": "8CBC0E14",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs]_Itsuka_Tenma_no_Kurousagi_-_04_(1280x720_H264_AAC)_[0DB0E411].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "0DB0E411",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 04 [6AD713A1].mkv",
+                    "group": "WhyNot",
+                    "hash": "6AD713A1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233555",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234281",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-05T18:05:00",
+            "episode": 5,
+            "score": 7.1050045232,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_05_[1280x720_x264_AAC][471E2E2E].mkv",
+                    "group": "Derp",
+                    "hash": "471E2E2E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 05 [9626C4F7].mkv",
+                    "group": "WhyNot",
+                    "hash": "9626C4F7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235547",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Chiki-Subs] Itsuka Tenma no Kuro Usagi - 05 [720p][B666F049].mkv",
+                    "group": "Chiki-Subs",
+                    "hash": "B666F049",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235494",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-12T18:05:00",
+            "episode": 6,
+            "score": 7.0337970813,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 06 [95357367].mkv",
+                    "group": "WhyNot",
+                    "hash": "95357367",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_06_[1280x720_x264_AAC][DB747610].mkv",
+                    "group": "Derp",
+                    "hash": "DB747610",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236830",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238415",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238416",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-19T18:05:00",
+            "episode": 7,
+            "score": 6.997374269,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 07 [C7C4AF6D].mkv",
+                    "group": "WhyNot",
+                    "hash": "C7C4AF6D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239027",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_07_[1280x720_x264_AAC][84342E98].mkv",
+                    "group": "Derp",
+                    "hash": "84342E98",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239270",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://is.gd/aNJkqz",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://is.gd/Xqn9TS",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Itsuka Tenma no Kuro Usagi - 07 [720p][H.264][F54D7D85].mkv",
+                    "group": "OX-",
+                    "hash": "F54D7D85",
+                    "url": "http://1337x.org/download/237663/",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-26T18:05:00",
+            "episode": 8,
+            "score": 6.9486022832,
+            "torrents": [
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Itsuka Tenma no Kuro Usagi - 08 [720p][H.264][61773242].mkv",
+                    "group": "OX-",
+                    "hash": "61773242",
+                    "url": "http://1337x.org/download/237740/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242370",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242371",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_08_[1280x720_x264_AAC][D6C786B0].mkv",
+                    "group": "Derp",
+                    "hash": "D6C786B0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 08 [6FD45EBC].mkv",
+                    "group": "WhyNot",
+                    "hash": "6FD45EBC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242989",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-02T18:05:00",
+            "episode": 9,
+            "score": 6.9202357747,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_09_[1280x720_x264_AAC][FF4FCE8F].mkv",
+                    "group": "Derp",
+                    "hash": "FF4FCE8F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242639",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 09 [C1FA4020].mkv",
+                    "group": "WhyNot",
+                    "hash": "C1FA4020",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[AFFTW] Itsuka Tenma no Kurousagi - 09 [720p][F5027666].mkv",
+                    "group": "AFFTW",
+                    "hash": "F5027666",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243668",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Itsuka Tenma no Kuro Usagi - 09 [720p][H.264][C1700742].mkv",
+                    "group": "OX-",
+                    "hash": "C1700742",
+                    "url": "http://1337x.org/download/239770/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244164",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-09T18:05:00",
+            "episode": 10,
+            "score": 6.9002463606,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_10_[1280x720_x264_AAC][48E0FA8D].mkv",
+                    "group": "Derp",
+                    "hash": "48E0FA8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244554",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 10 [AB503075].mkv",
+                    "group": "WhyNot",
+                    "hash": "AB503075",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 2,
+                    "filename": "[OX-] Itsuka Tenma no Kuro Usagi - 10 [720p][H.264][DEB93FD3].mkv",
+                    "group": "OX-",
+                    "hash": "DEB93FD3",
+                    "url": "http://1337x.org/download/242125/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[AFFTW] Itsuka Tenma no Kurousagi - 10 [720p][CEC71664].mkv",
+                    "group": "AFFTW",
+                    "hash": "CEC71664",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245424",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245863",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245864",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-16T18:05:00",
+            "episode": 11,
+            "score": 6.8663989474,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_11_[1280x720_x264_AAC][7259D2B5].mkv",
+                    "group": "Derp",
+                    "hash": "7259D2B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246167",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Itsuka Tenma no Kuro Usagi - 11 [720p][H.264][5A757EF7].mkv",
+                    "group": "OX-",
+                    "hash": "5A757EF7",
+                    "url": "http://1337x.org/download/243553/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 11 [8AF7FB65].mkv",
+                    "group": "WhyNot",
+                    "hash": "8AF7FB65",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246779",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[AFFTW] Itsuka Tenma no Kurousagi - 11 [720p][FF4FFACD].mkv",
+                    "group": "AFFTW",
+                    "hash": "FF4FFACD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247897",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-23T18:05:00",
+            "episode": 12,
+            "score": 6.8475136399,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247545",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_12_[1280x720_x264_AAC][1966CC3D].mkv",
+                    "group": "Derp",
+                    "hash": "1966CC3D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 2,
+                    "filename": "[OX-] Itsuka Tenma No Kuro Usagi - 12 [720p][H.264][E4E50F96].mkv",
+                    "group": "OX-",
+                    "hash": "E4E50F96",
+                    "url": "http://1337x.org/download/246784/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Itsuka Tenma no Kuro Usagi - 12 [B80ADCFD].mkv",
+                    "group": "WhyNot",
+                    "hash": "B80ADCFD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=248728",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[AFFTW] Itsuka Tenma no Kuro Usagi - 12 Final [720p][9DA06675].mkv",
+                    "group": "AFFTW",
+                    "hash": "9DA06675",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250516",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8229,
+        "ann": 12422,
+        "mal": 9750,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4b3b7169ec81a09a13246df2df85d90.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8022c435a1bc5a97bb389ca6d0ba4c68.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nie widzisz kobieto, ?e po?wi?cam si? nauce?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/814979abc20d6502ad32b9367ba55136.jpg",
+            "hd": false
+        },
+        {
+            "description": "Czy to jest to s?ynne futanari?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c2a795ab465442c1e3f6dbf11aac046a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/872bfbb7363354ce519834994a8adbef.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/710589c64c3c7b4a08743c3a07331cc2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/af14afd26219886515c214220c4d5edf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ba0d89b6b831599fb222d93e0b3ead2.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Itsuka Tenma no Kuro Usagi (??????????) http://rdir.pl/1j8o4j",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a92d4b6657f4a86c1757b50ac88b7978.jpg",
+            "hd": false
+        },
+        {
+            "description": "nawet 7 ?y? nie pomo?e w starciu z magicznymi tentaklami",
+            "filename": "http://s.modriv.net/abp/images/screencaps/71420f748d7fb9f3e9d9feaf44ef8145.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e0159d001637ce17772ae2b444937a89.jpg",
+            "hd": false
+        },
+        {
+            "description": "Go?y ty?ek... bez cenzury?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8d738be7db894641451dce1face57769.jpg",
+            "hd": false
+        },
+        {
+            "description": "kto? tu chyba regularnie za?ywa pewne artyku?y kolekcjonerskie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e1b4690482dfafa08e542b098cd96a7b.jpg",
+            "hd": false
+        },
+        {
+            "description": "co? chyba przesadzili, je?li chodzi o smak tych nowych mentos\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fd2682b376424e2d1d5827c0d68ff716.jpg",
+            "hd": false
+        },
+        {
+            "description": "Invisible penis",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aa47190bf4aa25819831894f5dd5e2b1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cd6692b19e04e40acd296523a1dbde97.jpg",
+            "hd": false
+        },
+        {
+            "description": "EXPLOITABLE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/74f1989a0dff18d920bacdb50db75773.jpg",
+            "hd": false
+        },
+        {
+            "description": "Rape commencing in 3... 2... 1...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5d153f131cf0ed9e1cf2261e00780354.jpg",
+            "hd": false
+        },
+        {
+            "description": "robienie omlet\u00f3w: powa?ny biznes",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ce1a53c0bd94991726ffec9f8b45d643.jpg",
+            "hd": false
+        },
+        {
+            "description": "kto zamawia? na wynos?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ab83c36fa5243af90da0c03699fbab54.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Itsuka Tenma no Kuro Usagi (??????????) - nasza ocena: ogl?daj tylko je?li si? nudzisz (wi?cej: http://rdir.pl/1j8o4j)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2490061fe28a5a2c2e0187404f22237f.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Zwyk\u0142y licealista na w\u0142asnej sk\u00f3rze do\u015bwiadcza, na czym polega czo\u0142owe zderzenie z ci\u0119\u017car\u00f3wk\u0105. Na jego szcz\u0119\u015bcie udaje mu si\u0119 prze\u017cy\u0107, mimo wyra\u017anej dekapitacji. W tym momencie przypomina sobie o obietnicy, kt\u00f3r\u0105 9 lat wcze\u015bniej z\u0142o\u017cy\u0142 pewnej dziewczynie, dzi\u0119ki kt\u00f3rej nadal \u017cyje.",
+            "type": "abp"
+        },
+        {
+            "content": "Taito has been really sleepy lately, and keeps dreaming of a female vampire who says she has given him her &quot;poison.&quot; Sometimes he even thinks he hears her voice when he&#039;s awake. But after surviving an accident that should have killed him, Taito&#039;s world changes drastically and he realizes that his dreams are more real than he thought.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on light novel series by Kagami Takaya.1st year high school student Kurogane Taito is a disillusioned youth. He has thrown away the belief that hard work and effort will be compensated. Now, he simply exists as the days pass him by.However, there is something that he has forgotten. A stolen memory of a girl, a pact, and a curse. 9 years ago, the young Taito had met Saito Himea, the eldest vampire, and made a pact with her.Now, Taito's memories are about to be restored, and he will remember the girl which has been kidnapped and kept imprisoned for the past 9 years, waiting for him to free her.~ adapted and translated from official site by Cranston",
+            "type": "anidb"
+        },
+        {
+            "content": "When Taito Kurogane was little he met Himea Saito, a vampire girl who gave him a curse of living after dying, but dies after being killed the 7th time. Himea was then taken away from Taito, who loses all memory of her. After 9 years, Taito is now in high school, and has freed Himea, and they begin to catch up on the 9 years away from each other.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 10389,
+            "date": "2012-09-29T13:37:36",
+            "score": 6.89,
+            "type": "mal"
+        },
+        {
+            "count": 550,
+            "date": "2012-09-29T13:37:36",
+            "score": 5.99,
+            "type": "anidb"
+        },
+        {
+            "count": 543,
+            "date": "2012-09-29T13:37:36",
+            "score": 6.298,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Itsuka Tenma no Kuro Usagi"
+}

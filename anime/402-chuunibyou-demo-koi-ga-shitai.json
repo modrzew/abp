@@ -1,0 +1,638 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u4e2d\u4e8c\u75c5\u3067\u3082\u604b\u304c\u3057\u305f\u3044!"
+        },
+        {
+            "language": "en",
+            "title": "Regardless of My Adolescent Delusions of Grandeur, I Want a Date!"
+        },
+        {
+            "language": "pl",
+            "title": "Pomimo Moich Wznios\u0142ych Uroje\u0144 Gimbusa, Chc\u0119 Zarucha\u0107!"
+        }
+    ],
+    "aliases": [
+        "Chuunibyou Demo Koi ga Shitai!"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1568542181",
+            "content": "#anime #Jesie\u01442012: Chuunibyou demo Koi ga Shitai! - http://rdir.pl/1p9kx4",
+            "episode": 1,
+            "filename": "842236a5ab4d1d48f5307f97f549d447.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/253630688069312513"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1589975935",
+            "content": "Chuunibyou demo Koi ga Shitai! 04 - najnowszy spos\u00f3b na podryw w\u015br\u00f3d licealist\u00f3w: wsp\u00f3lne czytanie \u015bwierszczyk\u00f3w",
+            "episode": 4,
+            "filename": "4185938cf229ab364089dbf972b30fd4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/261566198351818752"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-10-03T17:30:00",
+            "episode": 1,
+            "score": 7.8909015892,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 32,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_01_[5B6EFD1F].mkv",
+                    "group": "gg",
+                    "hash": "5B6EFD1F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_01_[720p][64775D00].mkv",
+                    "group": "URW",
+                    "hash": "64775D00",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358459",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 01 [2D8778DC].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "2D8778DC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359300",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[YamiSora] Chuunibyou demo Koi ga Shitai! - 01.mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371286",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-10T17:30:00",
+            "episode": 2,
+            "score": 7.9867105263,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 28,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_02_[D9C76A37].mkv",
+                    "group": "gg",
+                    "hash": "D9C76A37",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_02_[720p][EB39C0D3].mkv",
+                    "group": "URW",
+                    "hash": "EB39C0D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360965",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 02 [0B733978].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "0B733978",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362067",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[YamiSora] Chuunibyou demo Koi ga Shitai! - 02.mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371287",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-17T17:30:00",
+            "episode": 3,
+            "score": 8.0110066235,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 24,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_03_[F0F2EAFB].mkv",
+                    "group": "gg",
+                    "hash": "F0F2EAFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363676",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_03_[720p][C732893A].mkv",
+                    "group": "URW",
+                    "hash": "C732893A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 03 [C9C6F0E8].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "C9C6F0E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=365234",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[YamiSora] Chuunibyou demo Koi ga Shitai! - 03.mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371341",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-24T17:30:00",
+            "episode": 4,
+            "score": 8.0269504267,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 20,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_04_[7AA74CD9].mkv",
+                    "group": "gg",
+                    "hash": "7AA74CD9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366390",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_04_[720p][D41E2856].mkv",
+                    "group": "URW",
+                    "hash": "D41E2856",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366391",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 04 [1A6FF695].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "1A6FF695",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368647",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[YamiSora] Chuunibyou demo Koi ga Shitai! - 04.mkv",
+                    "group": "YamiSora",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371342",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-31T16:30:00",
+            "episode": 5,
+            "score": 8.0444615202,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 19,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_05_[38F3C4D9].mkv",
+                    "group": "gg",
+                    "hash": "38F3C4D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369030",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_05_[720p][650467CD].mkv",
+                    "group": "URW",
+                    "hash": "650467CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369032",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 05 [75075DC2].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "75075DC2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371453",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-07T16:30:00",
+            "episode": 6,
+            "score": 8.0658934123,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 27,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_06_[BF8B7DD9].mkv",
+                    "group": "gg",
+                    "hash": "BF8B7DD9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371558",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_06_[720p][7D173283].mkv",
+                    "group": "URW",
+                    "hash": "7D173283",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 06 [7AA7CAFE].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "7AA7CAFE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374433",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-14T16:30:00",
+            "episode": 7,
+            "score": 8.089974454,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 18,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_07_[C4BA1D17].mkv",
+                    "group": "gg",
+                    "hash": "C4BA1D17",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374151",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_07_[720p][492097A4].mkv",
+                    "group": "URW",
+                    "hash": "492097A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 07 [0C1889B0].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "0C1889B0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375840",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-21T16:30:00",
+            "episode": 8,
+            "score": 8.1132550756,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 19,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_08_[0DD974B9].mkv",
+                    "group": "gg",
+                    "hash": "0DD974B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376386",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_08_[720p][8EB46D45].mkv",
+                    "group": "URW",
+                    "hash": "8EB46D45",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376413",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-28T16:30:00",
+            "episode": 9,
+            "score": 8.1570419404,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 19,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_09_[B8DDB253].mkv",
+                    "group": "gg",
+                    "hash": "B8DDB253",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378714",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_09_[720p][13A22458].mkv",
+                    "group": "URW",
+                    "hash": "13A22458",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 09 [D91B3DD7].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "D91B3DD7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381357",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-05T16:30:00",
+            "episode": 10,
+            "score": 8.212649612,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_10_[DD9540F4].mkv",
+                    "group": "gg",
+                    "hash": "DD9540F4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_10_[720p][D505F865].mkv",
+                    "group": "URW",
+                    "hash": "D505F865",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380802",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Linkmstr] Chuunibyou demo Koi ga Shitai! - 10 [480p].mkv",
+                    "group": "Linkmstr",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380999",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Linkmstr] Chuunibyou demo Koi ga Shitai! - 10v2 [480p].mkv",
+                    "group": "Linkmstr",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382687",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 10 [5D35F3B4].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "5D35F3B4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384274",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-12T16:30:00",
+            "episode": 11,
+            "score": 8.2356957276,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_11_[720p][C31B6869].mkv",
+                    "group": "URW",
+                    "hash": "C31B6869",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Linkmstr] Chuunibyou demo Koi ga Shitai! - 11 [480p].mkv",
+                    "group": "Linkmstr",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_11_[7F7B8D55].mkv",
+                    "group": "gg",
+                    "hash": "7F7B8D55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382894",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 11 [CF55DD11].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "CF55DD11",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384591",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-19T16:30:00",
+            "episode": 12,
+            "score": 8.2358470863,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[gg]_Chuunibyou_Demo_Koi_ga_Shitai!_-_12_[D6A39E87].mkv",
+                    "group": "gg",
+                    "hash": "D6A39E87",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384835",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[URW]_Chuunibyou_demo_Koi_ga_Shitai!_-_12_[720p][577EE8E7].mkv",
+                    "group": "URW",
+                    "hash": "577EE8E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Hattori] Chuunibyou demo Koi ga Shitai! 12 [BC9361B9].mkv",
+                    "group": "Diogo4D-Hattori",
+                    "hash": "BC9361B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385141",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Linkmstr] Chuunibyou demo Koi ga Shitai! - 12 [480p].mkv",
+                    "group": "Linkmstr",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385354",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8883,
+        "ann": 14448,
+        "mal": 14741,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/825004fe2773739e278d7239dab69b6c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3a8c8e9426346256b39ea985680b40d8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3248101fdda767668738e8e5f06c2ff9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7906f12315600d5454f693490316c292.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zgaduj zgadula, kt\u00f3re to ch\u0142op, a kt\u00f3re niewiasta?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8625bc6a6291bb12ca8d43b72c87ed54.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4e75511946e6ccc6164efe35570d68a8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Yuuta does not approve",
+            "filename": "http://s.modriv.net/abp/images/screencaps/115af6aa75692ff5abf8a514114f38a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "To anime to kopalnia animowanych gif\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e2661afd55603ceb1ae123c45a28aa1a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/252cd8316a6f33ef31d56e13789701fb.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442012: Chuunibyou demo Koi ga Shitai! - http://rdir.pl/1p9kx4",
+            "filename": "http://s.modriv.net/abp/images/screencaps/842236a5ab4d1d48f5307f97f549d447.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4e331d0fc31552a695608ef621650b12.jpg",
+            "hd": false
+        },
+        {
+            "description": "Gdzie piniondze za las?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/80c6890f3c50ff025f10ab8ac2695d12.jpg",
+            "hd": false
+        },
+        {
+            "description": "Shibari done wrong",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6f15f73d9f46a90750c10a59ae637da8.jpg",
+            "hd": false
+        },
+        {
+            "description": "U\u015bmiech typu \"dzisiaj zarucham\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/66a22f8c5c08afebd06f95b3c1f3c2f6.jpg",
+            "hd": false
+        },
+        {
+            "description": "najnowszy spos\u00f3b na podryw w\u015br\u00f3d licealist\u00f3w: wsp\u00f3lne czytanie \u015bwierszczyk\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4185938cf229ab364089dbf972b30fd4.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Yuuta Togashi suffered from chuunibyou while he was in middle school. When he graduated, he put that dark history behind him and forgot about it... or he was supposed to. High school was smooth sailing and full of enjoyment - until the unavoidable, sad event occurs. The event that locks Yuuta into a contract with Rikka Takanashi and disrupts his desperately ordinary life.",
+            "type": "mal"
+        },
+        {
+            "content": "Togashi Yuuta, a boy who used to suffer from chuunibyou, and Takanashi Rikka, who still has the syndrome, made a true contract with each other (that is, they are dating). They are in the middle of enjoying real life to the fullest... or should be. However, Shichimiya Satone a.k.a. Sophia Ring SP Saturn VII, a friend from middle school and the one suffering the most from chuunibyou, appears and turns Togashi's life upside down. And so, a battle between Saturn and Jaou Shingan (True Eye of the Devil King) begins.",
+            "type": "anidb"
+        },
+        {
+            "content": "High school freshman Y\u016bta Togashi was once a \"ch\u016bniby\u014d patient\" i.e. an overly self-conscious middle schooler. He wants to bury this embarrassing past and begins a new life in high school -- unsuccessfully. His classmate Rikka Takanashi, a \"current\" ch\u016bniby\u014d patient, has found traces of residual symptoms on him and used the fact to force Togashi \"making a contract\" with her.",
+            "type": "ann"
+        },
+        {
+            "content": "Y\u016bta Togashi is a boy who, during junior high school, had \"adolescent delusions\" (\u4e2d\u4e8c\u75c5, ch\u016bniby\u014d?, lit. \"junior high school second grade illness\"), believing himself to be a 'Dark Flame Master' and alienating himself from his classmates. Finding his past embarrassing, Y\u016bta attempts to start off high school with a clean slate, free from his old delusions. This proves to be difficult, however, as another delusional teen, a girl named Rikka Takanashi, learns of Y\u016bta's other identity and becomes interested in him.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 13449,
+            "date": "2012-12-19T03:31:46",
+            "score": 8.24,
+            "type": "mal"
+        },
+        {
+            "count": 324,
+            "date": "2012-12-19T03:31:46",
+            "score": 8.2,
+            "type": "anidb"
+        },
+        {
+            "count": 333,
+            "date": "2012-12-19T03:31:46",
+            "score": 8.103,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Chuunibyou demo Koi ga Shitai!"
+}

@@ -1,0 +1,846 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b7\u30fc\u30ad\u30e5\u30fc\u30d6"
+        },
+        {
+            "language": "pl",
+            "title": "Ce sze\u015bcian"
+        }
+    ],
+    "aliases": [
+        "C3  -  ",
+        "C\u00b3",
+        "C3 Cube x Cursed x Curious",
+        "C3 - Cube x Cursed x Curious"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/739840657",
+            "content": "#anime #Jesie\u01442011 C\u00b3 (\u30b7\u30fc\u30ad\u30e5\u30fc\u30d6) http://rdir.pl/1lp440",
+            "episode": 1,
+            "filename": "c7311d9c508fda07a565d8bf87b89fba.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/121685511575318528"
+        },
+        {
+            "blip_url": "http://blip.pl/s/745117055",
+            "content": "C\u00b3 02 - Nie wszyscy s\u0105 zadowoleni z wynik\u00f3w wybor\u00f3w parlamentarnych",
+            "episode": 2,
+            "filename": "8a0caf9bf36ada9d7d22ff453b6e76eb.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/123187348296040449"
+        },
+        {
+            "blip_url": "http://blip.pl/s/800820407",
+            "content": "C\u00b3 07 - w s\u0142yn\u0105cej z ksenofobii Japonii nawet koleje s\u0105 rasistowskie i wpuszczaj\u0105 tylko czystej krwi ludzi",
+            "episode": 7,
+            "filename": "45e8449df3f1cd29d377011c81937a4a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/135783524694372352"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-01T16:30:00",
+            "episode": 1,
+            "score": 6.82,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena]_C3_ -_ 01_[1280x720_H264_AAC][38E04A82].mkv",
+                    "group": "Hadena",
+                    "hash": "38E04A82",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249678",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[pp] C3 - 01 [480p].mkv",
+                    "group": "pp",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249765",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena]_C3_ -_ 01v2_[1280x720_H264_AAC][7D3098BB].mkv",
+                    "group": "Hadena",
+                    "hash": "7D3098BB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249817",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] C\u00b3 - 01 [8B4D09D8].mkv",
+                    "group": "Commie",
+                    "hash": "8B4D09D8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_01_[1280x720][AD0D47A7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "AD0D47A7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250078",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena]_C3_ -_ 01v2_[480p_H264_AAC][80216928].mkv",
+                    "group": "Hadena",
+                    "hash": "80216928",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=250149",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena]_C3_ -_ 01v3_[1280x720_H264_AAC][C508AFB3].mkv",
+                    "group": "Hadena",
+                    "hash": "C508AFB3",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254615",
+                    "version": 3
+                }
+            ]
+        },
+        {
+            "date": "2011-10-08T16:30:00",
+            "episode": 2,
+            "score": 6.95,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720? H264? AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena]?_C3?_ -?_ 02_[1280x720?_H264?_AAC][73C2A3EC].mkv",
+                    "group": "Hadena",
+                    "hash": "73C2A3EC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251335",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-15T16:30:00",
+            "episode": 3,
+            "score": 6.961804191,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_03_[h264-720p][6DD83E52].mkv",
+                    "group": "UTW",
+                    "hash": "6DD83E52",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253167",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-10bit-720p][no ordered chapters OPv2]",
+                    "download_count": 7,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_03_[h264-10bit-720p][AA30D204]_(no_ordered_chapters_OPv2).mkv",
+                    "group": "UTW",
+                    "hash": "AA30D204",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253445",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_03_[1280x720][C70E6B38].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C70E6B38",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-10bit]",
+                    "download_count": 7,
+                    "filename": "[&] C\u00b3 - 03 [720p-10bit][BCB7FBCC].mkv",
+                    "group": "&",
+                    "hash": "BCB7FBCC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253844",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-22T16:30:00",
+            "episode": 4,
+            "score": 6.953877367,
+            "torrents": [
+                {
+                    "additional_info": "[H.264 704x400 AAC]",
+                    "download_count": 8,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 04 (H.264 704x400 AAC) [FC7B3BB0].mkv",
+                    "group": "Gimme",
+                    "hash": "FC7B3BB0",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=254781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_04_[h264-720p][8ACB8555].mkv",
+                    "group": "UTW",
+                    "hash": "8ACB8555",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254800",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 1280x720 AAC]",
+                    "download_count": 6,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 04 (H.264 1280x720 AAC) [8EEC1B9C].mkv",
+                    "group": "Gimme",
+                    "hash": "8EEC1B9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254930",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 1280x720 AAC][Hi10p]",
+                    "download_count": 6,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 04 (H.264 1280x720 AAC) [Hi10p][B6FE706F].mkv",
+                    "group": "Gimme",
+                    "hash": "B6FE706F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255027",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Hadena]_C3_ -_ 04_[1280x720_H264_AAC][0D1D7668].mkv",
+                    "group": "Hadena",
+                    "hash": "0D1D7668",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255223",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 6,
+                    "filename": "[Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_04_[1280x720][0B7229D9].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "0B7229D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256808",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-29T16:30:00",
+            "episode": 5,
+            "score": 6.9470278005,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena]_C3_ -_05_[1280x720_H264_AAC][CE355D88].mkv",
+                    "group": "Hadena",
+                    "hash": "CE355D88",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256472",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_05_[h264-720p][80926A9C].mkv",
+                    "group": "UTW",
+                    "hash": "80926A9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256529",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 1280x720 AAC][Hi10p]",
+                    "download_count": 3,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 05 (H.264 1280x720 AAC) [Hi10p][F4C2A7CE].mkv",
+                    "group": "Gimme",
+                    "hash": "F4C2A7CE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256561",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 1280x720 AAC]",
+                    "download_count": 3,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 05 (H.264 1280x720 AAC) [16809B79].mkv",
+                    "group": "Gimme",
+                    "hash": "16809B79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 848x480 AAC]",
+                    "download_count": 3,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 05 (H.264 848x480 AAC) [1B9DC457].mkv",
+                    "group": "Gimme",
+                    "hash": "1B9DC457",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256559",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p-10bit]",
+                    "download_count": 4,
+                    "filename": "[&] C\u00b3 - 05 [720p-10bit][DCB8C851].mkv",
+                    "group": "&",
+                    "hash": "DCB8C851",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257304",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_05_[1280x720][1DCF803F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1DCF803F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258491",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-05T15:30:00",
+            "episode": 6,
+            "score": 6.9427521454,
+            "torrents": [
+                {
+                    "additional_info": "[H.264 1280x720 AAC][Hi10p]",
+                    "download_count": 3,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 06 (H.264 1280x720 AAC) [Hi10p] [C1A50227].mkv",
+                    "group": "Gimme",
+                    "hash": "C1A50227",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258312",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 1280x720 AAC]",
+                    "download_count": 4,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 06 (H.264 1280x720 AAC) [3D9DE24A].mkv",
+                    "group": "Gimme",
+                    "hash": "3D9DE24A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258313",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 848x480 AAC]",
+                    "download_count": 3,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 06 (H.264 848x480 AAC) [B1AC6A5D].mkv",
+                    "group": "Gimme",
+                    "hash": "B1AC6A5D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258314",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena]_C3_ -_06_[1280x720_H264_AAC][11B4AB80].mkv",
+                    "group": "Hadena",
+                    "hash": "11B4AB80",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D_C3_%20-_06_%5B1280x720_H264_AAC%5D%5B11B4AB80%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_06_[h264-720p][5B69AE72].mkv",
+                    "group": "UTW",
+                    "hash": "5B69AE72",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_06_[1280x720][1DF2BCFC].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1DF2BCFC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260674",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-12T15:30:00",
+            "episode": 7,
+            "score": 6.9251591743,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] C3 - 07 [1280x720 x264 AAC][17CA513C].mkv",
+                    "group": "Hadena",
+                    "hash": "17CA513C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259848",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 1280x720 AAC][Hi10p]",
+                    "download_count": 2,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 07 (H.264 1280x720 AAC) [Hi10p][C4B517D2].mkv",
+                    "group": "Gimme",
+                    "hash": "C4B517D2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260037",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 848x480 AAC]",
+                    "download_count": 2,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 07 (H.264 848x480 AAC) [ECC06394].mkv",
+                    "group": "Gimme",
+                    "hash": "ECC06394",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260039",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H.264 1280x720 AAC]",
+                    "download_count": 6,
+                    "filename": "[Gimme] C3 - Cube x Cursed x Curious - 07 (H.264 1280x720 AAC) [B6820ABE].mkv",
+                    "group": "Gimme",
+                    "hash": "B6820ABE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260038",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_07_[h264-720p][0143E0E2].mkv",
+                    "group": "UTW",
+                    "hash": "0143E0E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260351",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[AFFTW-Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_07_[1280x720][7E4776DA].mkv",
+                    "group": "AFFTW-Hatsuyuki",
+                    "hash": "7E4776DA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265630",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-19T15:30:00",
+            "episode": 8,
+            "score": 6.9195529257,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Hadena] C3 - 08 [1280x720 x264 AAC][63BB7377].mkv",
+                    "group": "Hadena",
+                    "hash": "63BB7377",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] C3 - 08 [1280x720 x264 AAC][B2A4B521].mkv",
+                    "group": "Hadena",
+                    "hash": "B2A4B521",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261469",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_08_[h264-720p][B508D198].mkv",
+                    "group": "UTW",
+                    "hash": "B508D198",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262090",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[AFFTW-Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_08_[1280x720][87975656].mkv",
+                    "group": "AFFTW-Hatsuyuki",
+                    "hash": "87975656",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266465",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-26T15:30:00",
+            "episode": 9,
+            "score": 6.9154172767,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 15,
+                    "filename": "[Hadena] C3 - 09 [1280x720 x264 AAC][5304813B].mkv",
+                    "group": "Hadena",
+                    "hash": "5304813B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20C3%20-%2009%20%5B1280x720%20x264%20AAC%5D%5B5304813B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[AFFTW-Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_09_[1280x720][1F6034C2].mkv",
+                    "group": "AFFTW-Hatsuyuki",
+                    "hash": "1F6034C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267757",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-03T15:30:00",
+            "episode": 10,
+            "score": 6.9313007399,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Hadena] C3 - 10 [1280x720 x264 AAC][A359BE10].mkv",
+                    "group": "Hadena",
+                    "hash": "A359BE10",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20C3%20-%2010%20%5B1280x720%20x264%20AAC%5D%5BA359BE10%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_10_[h264-720p][C8F61D16].mkv",
+                    "group": "UTW",
+                    "hash": "C8F61D16",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265823",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 5,
+                    "filename": "[AFFTW-Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_10_[1280x720][8D2AADF4].mkv",
+                    "group": "AFFTW-Hatsuyuki",
+                    "hash": "8D2AADF4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268111",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-10T15:30:00",
+            "episode": 11,
+            "score": 6.9288012279,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 9,
+                    "filename": "[Hadena] C3 - 11 [1280x720 x264 AAC][EF8262A1].mkv",
+                    "group": "Hadena",
+                    "hash": "EF8262A1",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20C3%20-%2011%20%5B1280x720%20x264%20AAC%5D%5BEF8262A1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_11_[h264-720p][D6835EEA].mkv",
+                    "group": "UTW",
+                    "hash": "D6835EEA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=268020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[AFFTW-Hatsuyuki]_C3_Cube_x_Cursed_x_Curious_-_11_[1280x720][D2DB4B9E].mkv",
+                    "group": "AFFTW-Hatsuyuki",
+                    "hash": "D2DB4B9E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269693",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-17T15:30:00",
+            "episode": 12,
+            "score": 7.0396586696,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 9,
+                    "filename": "[Hadena] C3 - 12 END [1280x720 x264 AAC][5DA84F47].mkv",
+                    "group": "Hadena",
+                    "hash": "5DA84F47",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20C3%20-%2012%20END%20%5B1280x720%20x264%20AAC%5D%5B5DA84F47%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW]_C3_Cube_x_Cursed_x_Curious_-_12_[h264-720p][6B2F1A7A].mkv",
+                    "group": "UTW",
+                    "hash": "6B2F1A7A",
+                    "url": "http://tracker.minglong.org/torrents/%5BUTW%5D_C3_Cube_x_Cursed_x_Curious_-_12_%5Bh264-720p%5D%5B6B2F1A7A%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8376,
+        "ann": 12992,
+        "mal": 10578,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Not sure if want",
+            "filename": "http://s.modriv.net/abp/images/screencaps/45a3e33ca32d94b379f21e2e53900c19.jpg",
+            "hd": false
+        },
+        {
+            "description": "ZDRAD\u0179 MI SWOJE SEKRETY",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aee3d142d9c3a9f147aae6bb35601efe.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e96a38e340b7fd6250b0eabb4eb90f50.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0739c61248a2df42ff28793710f02547.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u0141aaaaaaaaaaa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/372408b305da3bf196a19a3a67b19cb1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3c712c637795ad462be077018e7d0e01.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/69d1cc06699c69e49dd5519a3fad2690.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7e9064d191e35336a5bed788f2c257c9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/921e5d177a49cbf5e79595b5e2ec3638.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/af16f9dc0eb96d11bfb13c65e7cb0571.jpg",
+            "hd": false
+        },
+        {
+            "description": "Exploitable",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7d52cf357f5d3fc96d3555c39c49f40.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b97d3ef622ed431dab5741c1a1cbd8f7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/eba48db96f4938b02800e18b0ff03ae1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/81aa6eaed4b7f2eb3852f2bc2c085b0f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Po wynikach wybor\u00f3w do Sejmu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b3a6c243b1dda78d03a968ab545df2bd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f002d3714a2f4959b1db2ebd3122dd32.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/75450028d29ca59dc4f64c336a965d93.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b04aee93ff91cfb1893ffebb21a70d7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/26466d19a7ac4d484c1c375ac581291d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 C\u00b3 (\u30b7\u30fc\u30ad\u30e5\u30fc\u30d6) http://rdir.pl/1lp440",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c7311d9c508fda07a565d8bf87b89fba.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2eb73de5bbdca520a89ce3607df99951.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d262125b042d82b7631f245dac733c49.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8904d3dd9d9acebad1bcc66ce2bccf5d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/904b9623fa531a5fb4b8b7f7329ef9b2.jpg",
+            "hd": false
+        },
+        {
+            "description": "A w\u0142osy jej na wietrze rozwiane",
+            "filename": "http://s.modriv.net/abp/images/screencaps/91d44491abb05dc56d426c48ddfe868f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zrobili j\u0105 na szaro",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0da9510f2728d9ab1fb83e53e0f8f406.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tutaj co\u015b jej strzeli\u0142o do g\u0142owy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f89f4c0fc24c1be0d85f387f111e8e5f.jpg",
+            "hd": false
+        },
+        {
+            "description": "Papierosy? PRZECIE\u017b TO POLITYCZNIE NIEPOPRAWNE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/015c30351e7af09a6f4dcbc6fda135f1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nie wszyscy s\u0105 zadowoleni z wynik\u00f3w wybor\u00f3w parlamentarnych",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8a0caf9bf36ada9d7d22ff453b6e76eb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fcdd3d7d9f65e2351619ebefcbc2437a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bc3c7078a88fae63428f1b7d878a3254.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f26bf561f99f842207b539820ea7e048.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/52d052888d9169d5032b5a15c5dc41cd.jpg",
+            "hd": false
+        },
+        {
+            "description": "JAK TO SLD OSTATNIE?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4aabd74b9946c992cf8c4a83b18b606a.jpg",
+            "hd": false
+        },
+        {
+            "description": "w s\u0142yn\u0105cej z ksenofobii Japonii nawet koleje s\u0105 rasistowskie i wpuszczaj\u0105 tylko czystej krwi ludzi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/45e8449df3f1cd29d377011c81937a4a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f7f8c14045eea736a1284eb9da3febb7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/56e5d59aafb71881cda19ffe0ada79b4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4d272c4aebf36f9ed89fed374367f3a5.jpg",
+            "hd": false
+        },
+        {
+            "description": "A potem \u017cyli grubo i szcz\u0119\u015bliwie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/63e2d6d04bec65b307d86b9359ba8a77.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/97bab8c18a89e366fe6db71eca045584.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bc5672a11f022f2b1db1abf14047c704.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Pewnego pi\u0119knego dnia m\u0142odzieniec dostaje od swojego ojca-podr\u00f3\u017cnika tajemniczy sze\u015bcian. Tej samej nocy sze\u015bcian przemienia si\u0119 w pi\u0119kn\u0105, niebieskow\u0142os\u0105 niewiast\u0119, kt\u00f3ra zaczyna wpiernicza\u0107 wafelki ry\u017cowe i si\u0119 og\u00f3lnie rz\u0105dzi\u0107 w domu.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on Minase Hazuki's C\u00b3 (C Cube/Cube x Cursed x Curious) light novel series.The story begins when a high school student named Yachi Haruaki receives a mysterious, super-heavy black cube from his father overseas. That night, Haruaki wakes up to a suspicious noise in the kitchen, and he discovers a fully naked female thief of rice crackers. The girl, Fear, is the first of several surprises that Haruaki receives.",
+            "type": "anidb"
+        },
+        {
+            "content": "A school battle action & love comedy with ecchi elements. Yachi Haruaki is a high school boy and naturally resistant to curses. His father, Honatsu, sends him cursed instruments called \"Worse\" to try to break this. One day, Haruaki receives a black cube from Honatsu. During the night, he encounters a naked silver haired girl stealing rice crackers. She is the human-form of the black cube, an instrument of torture called \"Fear in Cube\". Haruaki and the girl 'Fear' fight together against other 'Worse' instruments and their owners using Fear's 32 mechanisms of torture.",
+            "type": "ann"
+        },
+        {
+            "content": "From the light novel series written by Minase Hazuki, comes a story of love, action, and comedy. Yachi Haruaki is a high school boy who is naturally resistant to curses. After his father sends him a mysterious black cube, Haruaki awakes to find a nude girl named Fear standing in his kitchen. She\u2019s the human form of the cursed black cube \u2013 and an instrument of torture! Utilizing her special abilities, Fear fights alongside Haruaki to defeat other cursed instruments and their owners.  (Source: FUNimation)",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 14318,
+            "date": "2012-09-29T13:48:52",
+            "score": 7.02,
+            "type": "mal"
+        },
+        {
+            "count": 646,
+            "date": "2012-09-29T13:48:52",
+            "score": 6.306,
+            "type": "ann"
+        },
+        {
+            "count": 816,
+            "date": "2012-09-29T13:48:52",
+            "score": 6.28,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "C\u00b3"
+}

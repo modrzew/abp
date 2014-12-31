@@ -1,0 +1,596 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3044\u306a\u308a, \u3053\u3093\u3053\u3093, \u604b\u3044\u308d\u306f."
+        }
+    ],
+    "aliases": [
+        "Inari, Konkon, Koi Iroha"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-01-15T17:00:00",
+            "episode": 1,
+            "score": 7.5,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512495",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512496",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 720p]",
+                    "download_count": 0,
+                    "filename": "[Serenity] Inari, Konkon, Koi Iroha - 01 [Hi10P 720p][B39EA848].mkv",
+                    "group": "Serenity",
+                    "hash": "B39EA848",
+                    "url": "http://www.nyaa.se/?page=download&tid=513416",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 01 [h264-720p][433F99AB].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "433F99AB",
+                    "url": "http://www.nyaa.se/?page=download&tid=513638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit 720p]",
+                    "download_count": 0,
+                    "filename": "[Serenity] Inari, Konkon, Koi Iroha - 01 [8bit 720p][C218E4F1].mkv",
+                    "group": "Serenity",
+                    "hash": "C218E4F1",
+                    "url": "http://www.nyaa.se/?page=download&tid=513720",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 01 [C46C6CBE].mkv",
+                    "group": "Vivid",
+                    "hash": "C46C6CBE",
+                    "url": "http://www.nyaa.se/?page=download&tid=514987",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Oni] Inari, Konkon, Koi Iroha - 01  [720p][27C6DDED].mkv",
+                    "group": "Oni",
+                    "hash": "27C6DDED",
+                    "url": "http://www.nyaa.se/?page=download&tid=515254",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-22T17:00:00",
+            "episode": 2,
+            "score": 7.58,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515069",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515070",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 02 [h264-720p][A2A5B96B].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "A2A5B96B",
+                    "url": "http://www.nyaa.se/?page=download&tid=515225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 02 [D5ADB1F9].mkv",
+                    "group": "Vivid",
+                    "hash": "D5ADB1F9",
+                    "url": "http://www.nyaa.se/?page=download&tid=516272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 720p]",
+                    "download_count": 0,
+                    "filename": "[Serenity] Inari, Konkon, Koi Iroha - 02 [Hi10P 720p][E994CDB7].mkv",
+                    "group": "Serenity",
+                    "hash": "E994CDB7",
+                    "url": "http://www.nyaa.se/?page=download&tid=517443",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Oni] Inari, Konkon, Koi Iroha - 02  [720p][DDC5D16E].mkv",
+                    "group": "Oni",
+                    "hash": "DDC5D16E",
+                    "url": "http://www.nyaa.se/?page=download&tid=518522",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-29T17:00:00",
+            "episode": 3,
+            "score": 7.1672578616,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517665",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517675",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 03 [h264-720p][4F8C6976].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "4F8C6976",
+                    "url": "http://www.nyaa.se/?page=download&tid=517816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 03 [FB116CA3].mkv",
+                    "group": "Vivid",
+                    "hash": "FB116CA3",
+                    "url": "http://www.nyaa.se/?page=download&tid=518281",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 720p]",
+                    "download_count": 0,
+                    "filename": "[Serenity] Inari, Konkon, Koi Iroha - 03 [Hi10P 720p][5692F70A].mkv",
+                    "group": "Serenity",
+                    "hash": "5692F70A",
+                    "url": "http://www.nyaa.se/?page=download&tid=519280",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Oni] Inari, Konkon, Koi Iroha - 03  [720p][1A57835D].mkv",
+                    "group": "Oni",
+                    "hash": "1A57835D",
+                    "url": "http://www.nyaa.se/?page=download&tid=521239",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-05T17:00:00",
+            "episode": 4,
+            "score": 7.1228742515,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520105",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 04 [h264-720p][64FB6F02].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "64FB6F02",
+                    "url": "http://www.nyaa.se/?page=download&tid=520256",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 04 [2F61D863].mkv",
+                    "group": "Vivid",
+                    "hash": "2F61D863",
+                    "url": "http://www.nyaa.se/?page=download&tid=520449",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 720p]",
+                    "download_count": 0,
+                    "filename": "[Serenity] Inari, Konkon, Koi Iroha - 04 [Hi10P 720p][D521F21C].mkv",
+                    "group": "Serenity",
+                    "hash": "D521F21C",
+                    "url": "http://www.nyaa.se/?page=download&tid=521683",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-12T17:00:00",
+            "episode": 5,
+            "score": 7.4990309278,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522420",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522421",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 05 [h264-720p][99EEC1A5].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "99EEC1A5",
+                    "url": "http://www.nyaa.se/?page=download&tid=522537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 05 [h264-720p][4EBC46B2].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "4EBC46B2",
+                    "url": "http://www.nyaa.se/?page=download&tid=522554",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 05 [E970ED68].mkv",
+                    "group": "Vivid",
+                    "hash": "E970ED68",
+                    "url": "http://www.nyaa.se/?page=download&tid=523005",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 720p]",
+                    "download_count": 0,
+                    "filename": "[Serenity] Inari, Konkon, Koi Iroha - 05 [Hi10P 720p][4791127F].mkv",
+                    "group": "Serenity",
+                    "hash": "4791127F",
+                    "url": "http://www.nyaa.se/?page=download&tid=523485",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-19T17:00:00",
+            "episode": 6,
+            "score": 7.5043932039,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=524761",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 06 [h264-720p][8CE32D3A].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "8CE32D3A",
+                    "url": "http://www.nyaa.se/?page=download&tid=524890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 06 [0BF26F6C].mkv",
+                    "group": "Vivid",
+                    "hash": "0BF26F6C",
+                    "url": "http://www.nyaa.se/?page=download&tid=525130",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 720p]",
+                    "download_count": 0,
+                    "filename": "[Serenity] Inari, Konkon, Koi Iroha - 06 [Hi10P 720p][D390F0E0].mkv",
+                    "group": "Serenity",
+                    "hash": "D390F0E0",
+                    "url": "http://www.nyaa.se/?page=download&tid=526892",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-26T17:00:00",
+            "episode": 7,
+            "score": 7.4756071429,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 07 [h264-720p][93C1E254].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "93C1E254",
+                    "url": "http://www.nyaa.se/?page=download&tid=527225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 07v2 [h264-720p][74FB513C].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "74FB513C",
+                    "url": "http://www.nyaa.se/?page=download&tid=527379",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 07 [97C5033A].mkv",
+                    "group": "Vivid",
+                    "hash": "97C5033A",
+                    "url": "http://www.nyaa.se/?page=download&tid=527630",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-05T17:00:00",
+            "episode": 8,
+            "score": 7.4642155172,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529511",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529512",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 1,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 08 [h264-720p][1E584BF1].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "1E584BF1",
+                    "url": "http://www.nyaa.se/?page=download&tid=529625",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 08 [B6B09378].mkv",
+                    "group": "Vivid",
+                    "hash": "B6B09378",
+                    "url": "http://www.nyaa.se/?page=download&tid=530149",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-12T17:00:00",
+            "episode": 9,
+            "score": 7.4468571429,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=531857",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 09 [h264-720p][3216976F].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "3216976F",
+                    "url": "http://www.nyaa.se/?page=download&tid=531954",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 09 [58A83CC2].mkv",
+                    "group": "Vivid",
+                    "hash": "58A83CC2",
+                    "url": "http://www.nyaa.se/?page=download&tid=532229",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-19T17:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533990",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Inari, Konkon, Koi Iroha - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=533991",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Inari, Konkon, Koi Iroha - 10 [DA0ED34B].mkv",
+                    "group": "Vivid",
+                    "hash": "DA0ED34B",
+                    "url": "http://www.nyaa.se/?page=download&tid=534097",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[Anime-Koi] Inari, Konkon, Koi Iroha - 10 [h264-720p][C6B8F188].mkv",
+                    "group": "Anime-Koi",
+                    "hash": "C6B8F188",
+                    "url": "http://www.nyaa.se/?page=download&tid=534107",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 10,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9536,
+        "ann": 14920,
+        "mal": 20457,
+        "schedule": 3254
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The story revolves about an ordinary girl named Inari Fushimi who has crush to her classmate, K\u014dji Tanbabashi, but assuming he is in love with their popular classmate. She later meets a God at a shrine and thus received the God's power.",
+            "type": "wiki"
+        },
+        {
+            "content": "Inari Fushimi is a middle school girl who's never had a requited love, since she's a shy, clumsy and not very bright. One day, she witnesses her crush Kouji giving a letter to her classmate Akemi. Shocked and saddened, Inari rushes to a shrine, where she sees a mysterious phenomenon. From this strange encounter, she gains the power of physical transformation.",
+            "type": "ann"
+        },
+        {
+            "content": "Fushimi Inari is a shy, not-so-bright middle school girl living in Kyoto's Fushimi ward. She has a crush on her classmate Tanbabashi Kouji, but cannot express her feelings. One day, as thanks for helping a fox pup, the deity Ukanomitama no Kami grants her the ability to change her form.Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 111,
+            "date": "2014-03-15T04:30:45",
+            "score": 6.95,
+            "type": "anidb"
+        },
+        {
+            "count": 141,
+            "date": "2014-03-19T04:30:42",
+            "score": 7.838,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Inari, Konkon, Koi Iroha."
+}

@@ -1,0 +1,584 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u304e\u3093\u304e\u3064\u306d"
+        },
+        {
+            "language": "pl",
+            "title": "Srebrny Lis"
+        }
+    ],
+    "aliases": [
+        "Gingitsune"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-06T18:05:00",
+            "episode": 1,
+            "score": 7.0653679047,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gingitsune - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480327",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Gingitsune - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480332",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gingitsune - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=480333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Gingitsune - 01 [DE33AD44].mkv",
+                    "group": "Vivid",
+                    "hash": "DE33AD44",
+                    "url": "http://www.nyaa.se/?page=download&tid=480537",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-13T18:05:00",
+            "episode": 2,
+            "score": 7.0728085977,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Gingitsune - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482683",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=482688",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Gingitsune - 02 [2A5F2A02].mkv",
+                    "group": "Vivid",
+                    "hash": "2A5F2A02",
+                    "url": "http://www.nyaa.se/?page=download&tid=482788",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-20T18:05:00",
+            "episode": 3,
+            "score": 7.1163824503,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gingitsune - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=484949",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gingitsune - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=484952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=484955",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Gingitsune - 03 [22F5CB8E].mkv",
+                    "group": "Vivid",
+                    "hash": "22F5CB8E",
+                    "url": "http://www.nyaa.se/?page=download&tid=485037",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-27T17:05:00",
+            "episode": 4,
+            "score": 7.1616494845,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gingitsune - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487335",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gingitsune - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487338",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=487341",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Vivid] Gingitsune - 04 [5E85D6E9].mkv",
+                    "group": "Vivid",
+                    "hash": "5E85D6E9",
+                    "url": "http://www.nyaa.se/?page=download&tid=487418",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-03T17:05:00",
+            "episode": 5,
+            "score": 7.2074347826,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Gingitsune - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=489672",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Vivid] Gingitsune - 05 [4D424401].mkv",
+                    "group": "Vivid",
+                    "hash": "4D424401",
+                    "url": "http://www.nyaa.se/?page=download&tid=489736",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-10T17:05:00",
+            "episode": 6,
+            "score": 7.215,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491853",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gingitsune - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=491856",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Gingitsune - 06 [522875F0].mkv",
+                    "group": "Vivid",
+                    "hash": "522875F0",
+                    "url": "http://www.nyaa.se/?page=download&tid=491937",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-17T17:05:00",
+            "episode": 7,
+            "score": 7.3935714286,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494091",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gingitsune - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494093",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=494098",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Vivid] Gingitsune - 07 [32D6E984].mkv",
+                    "group": "Vivid",
+                    "hash": "32D6E984",
+                    "url": "http://www.nyaa.se/?page=download&tid=494201",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-24T17:05:00",
+            "episode": 8,
+            "score": 7.3615421687,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gingitsune - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496373",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=496375",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Gingitsune - 08 [6DBFA795].mkv",
+                    "group": "Vivid",
+                    "hash": "6DBFA795",
+                    "url": "http://www.nyaa.se/?page=download&tid=496425",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-01T17:05:00",
+            "episode": 9,
+            "score": 7.2736614173,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498584",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gingitsune - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498587",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=498590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Gingitsune - 09 [CE20E4B1].mkv",
+                    "group": "Vivid",
+                    "hash": "CE20E4B1",
+                    "url": "http://www.nyaa.se/?page=download&tid=498661",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-08T17:05:00",
+            "episode": 10,
+            "score": 7.1873023256,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500659",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gingitsune - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500660",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=500661",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Gingitsune - 10 [5EB473EA].mkv",
+                    "group": "Vivid",
+                    "hash": "5EB473EA",
+                    "url": "http://www.nyaa.se/?page=download&tid=500731",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-15T17:05:00",
+            "episode": 11,
+            "score": 7.2246268657,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502797",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Gingitsune - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502800",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=502802",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Gingitsune - 11 [DB1B7D64].mkv",
+                    "group": "Vivid",
+                    "hash": "DB1B7D64",
+                    "url": "http://www.nyaa.se/?page=download&tid=502869",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-22T17:05:00",
+            "episode": 12,
+            "score": 7.179578,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505018",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Gingitsune - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505019",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Gingitsune - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=505021",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Vivid] Gingitsune - 12 [24357035].mkv",
+                    "group": "Vivid",
+                    "hash": "24357035",
+                    "url": "http://www.nyaa.se/?page=download&tid=505091",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 9836,
+        "ann": 15283,
+        "mal": 18411,
+        "schedule": 3155
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Gintaro is a fox spirit that has been protecting the small Inari temple since the Edo era. Saeki Makoto's family possesses the power to see the gods' agent, but the ability is limited to one living relative at a time. When Makoto's mother passed away while she was still young, Makoto inherited the ability as the sole remaining family member. With the help of fox spirit's power, Makoto and Gintaro help the people of their community, in spite of their many differences.",
+            "type": "mal"
+        },
+        {
+            "content": "The story is set at a small Shinto harvest shrine dating back to the Edo period. Saeki Makoto lives with her father (the head priest of the shrine) and Gintarou, a kitsune (fox spirit) who happens to be a messenger for the gods. Makoto also happens to be the only one who can see the shrine's kitsune. The manga follows the everyday life of Makoto and Gintarou as they act as the go-between for the gods and humans.",
+            "type": "anidb"
+        },
+        {
+            "content": "Makoto is the fifteenth generation heiress of a small shrine to the god Inari. Her father is still the shrine's priest, but Inari's divine messenger, Gintarou, has appeared to Makoto, marking her as true successor. Gintarou has the ability to see a short distance into the future and to find lost objects, but is unmotivated and foulmouthed. In spite of this, he becomes friends with Makoto, and together they help those who come to the shrine.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2234,
+            "date": "2013-10-27T04:26:55",
+            "score": 7.11,
+            "type": "mal"
+        },
+        {
+            "count": 314,
+            "date": "2014-01-11T04:20:39",
+            "score": 6.96,
+            "type": "anidb"
+        },
+        {
+            "count": 271,
+            "date": "2014-01-11T04:20:39",
+            "score": 7.409,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Gingitsune"
+}

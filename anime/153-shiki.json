@@ -1,0 +1,867 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5c4d\u9b3c"
+        }
+    ],
+    "aliases": [
+        "Shiki"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/113695858",
+            "content": "#anime #Lato2010 Shiki (\u5c4d\u9b3c) http://rdir.pl/hilhx",
+            "episode": 1,
+            "filename": "55b2b418c66a98cc254a2142624c84a0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18530502950"
+        },
+        {
+            "blip_url": "http://blip.pl/s/117424379",
+            "content": "Shiki 02 - siedem niewyja\u015bnionych zgon\u00f3w w dwa odcinki? Urocze, czekamy na wi\u0119cej.",
+            "episode": 2,
+            "filename": "65264d93c9f71b5ce6e6593633ea5902.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18933790976"
+        },
+        {
+            "blip_url": "http://blip.pl/s/124193893",
+            "content": "Shiki 03 - przecie\u017c to najnormalniejsza rodzina pod s\u0142o\u0144cem, jak mo\u017cna ich o cokolwiek podejrzewa\u0107",
+            "episode": 3,
+            "filename": "1ae4426ff9b9a1688cc85fefcd9fe3b2.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/19739937321"
+        },
+        {
+            "blip_url": "http://blip.pl/s/127239800",
+            "content": "Shiki 04 - pod\u0142\u00f3\u017ckowa Megumi patrzy jak si\u0119 masturbujesz",
+            "episode": 4,
+            "filename": "e4e7061f316f6188e6fb38c7dd2d7f6a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/20091065821"
+        },
+        {
+            "blip_url": "http://blip.pl/s/131821640",
+            "content": "Shiki 05 - ostrze\u017cenie: to #anime mo\u017ce zawiera\u0107 \u015bladowe ilo\u015bci martwych facet\u00f3w w szlafrokach spadaj\u0105cych z drzew.",
+            "episode": 5,
+            "filename": "b8aea23e894d2a0bc6e7bb8edd726746.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/20571244848"
+        },
+        {
+            "blip_url": "http://blip.pl/s/137720963",
+            "content": "Shiki 06 - p\u00f3ki co, to #anime prowadzi w rankingu na najbrzydsze postaci tego sezonu",
+            "episode": 6,
+            "filename": "9643dbf6bd4be631bb3a34a40d316df5.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21184671260"
+        },
+        {
+            "blip_url": "http://blip.pl/s/153175113",
+            "content": "Shiki 09 - a jednak si\u0119 b\u0142yszcz\u0105!",
+            "episode": 9,
+            "filename": "91b4d22442c25b7368b53c61f5313630.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/158298641",
+            "content": "Shiki 10 - no kto\u015b tu chyba raczy sobie \u017cartowa\u0107...",
+            "episode": 10,
+            "filename": "5d0e84db261904ac4875183d8d043546.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/163411813",
+            "content": "Shiki 11 - w poprzednim odcinku Natsuno, w tym odcinku Seishin... co si\u0119 z tym #anime dzieje?",
+            "episode": 11,
+            "filename": "73059765a5eeeed303b296d209a42b75.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/24768859510"
+        },
+        {
+            "blip_url": "http://blip.pl/s/188318421",
+            "content": "Shiki 12 - ju\u017c na pierwszy rzut oka wida\u0107, kto stoi po stronie Z\u0142a!",
+            "episode": 12,
+            "filename": "3ba91bb02734541355ff6d400d051af1.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27480996152"
+        },
+        {
+            "blip_url": "http://blip.pl/s/199586041",
+            "content": "Shiki 13 - [*]",
+            "episode": 13,
+            "filename": "bfce8ee0b7ad1cf79cf5a9d2c0f60101.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/29483177773"
+        },
+        {
+            "blip_url": "http://blip.pl/s/202121893",
+            "content": "Shiki 14 - prze\u0142om w walce z nieumar\u0142ymi: je\u015bli zaklei im si\u0119 usta, przestaj\u0105 gada\u0107",
+            "episode": 14,
+            "filename": "cfd8982cfb2b693abfe0c2114aabcb23.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/606439320068096"
+        },
+        {
+            "blip_url": "http://blip.pl/s/218898723",
+            "content": "Shiki 16 - jak donosz\u0105 ameryka\u0144scy naukowcy, wampirze \u0142zy r\u00f3wnie\u017c si\u0119 b\u0142yszcz\u0105",
+            "episode": 16,
+            "filename": "230760f37cb81bbe0cf009ba02defccb.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/5700046808944640"
+        },
+        {
+            "blip_url": "http://blip.pl/s/232989673",
+            "content": "Shiki 17 - to #anime nie b\u0119dzie mia\u0142o szcz\u0119\u015bliwego zako\u0144czenia",
+            "episode": 17,
+            "filename": "084cfca780ea4c3ae2d608252356dec8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/9610701320495104"
+        },
+        {
+            "blip_url": "http://blip.pl/s/238296085",
+            "content": "Shiki 18 - wbrew powszechnemu przekonaniu, wampiry te\u017c korzystaj\u0105 z dobrodziejstw przedmiot\u00f3w kolekcjonerskich",
+            "episode": 18,
+            "filename": "a46067f0037e43efdc32abc7484d12e6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/10887208932212736"
+        },
+        {
+            "blip_url": "http://blip.pl/s/247826931",
+            "content": "Shiki 19 - wie\u015b\u0107 o pewnej kin\u00f3wce dotar\u0142a ju\u017c nawet do odci\u0119tej od \u015bwiata wioski Sotoba",
+            "episode": 19,
+            "filename": "f09df812fbda00fd28c767a10bdfda89.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13649758476304384"
+        },
+        {
+            "blip_url": "http://blip.pl/s/256658565",
+            "content": "Shiki 20 - \u015awi\u0119ty Miko\u0142aj ju\u017c si\u0119 zbli\u017ca - byli\u015bcie grzeczni w tym roku?",
+            "episode": 20,
+            "filename": "d1693d23ba39dfc9e13eb596e1cbfc44.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15938928469082112"
+        },
+        {
+            "blip_url": "http://blip.pl/s/265393437",
+            "content": "Shiki 21 - najlepszy prezent na \u015bwi\u0119ta: loli w walizce!",
+            "episode": 21,
+            "filename": "9dd35a9de6882163687a97694b7905e7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18485379409649664"
+        },
+        {
+            "blip_url": "http://blip.pl/s/275445131",
+            "content": "#anime #Lato2010 Shiki (\u5c4d\u9b3c) - nasza ocena: warte obejrzenia (wi\u0119cej: http://rdir.pl/hilhx)",
+            "episode": 22,
+            "filename": "317caefe994d973efe3584453329c864.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21351676279521280"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-07-08T18:15:00",
+            "episode": 1,
+            "score": 7.3825368249,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-15T18:15:00",
+            "episode": 2,
+            "score": 7.4746099806,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-22T18:15:00",
+            "episode": 3,
+            "score": 7.4878274268,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-29T18:15:00",
+            "episode": 4,
+            "score": 7.5267819149,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-05T18:15:00",
+            "episode": 5,
+            "score": 7.5839515711,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-12T18:15:00",
+            "episode": 6,
+            "score": 7.6141731375,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-19T18:15:00",
+            "episode": 7,
+            "score": 7.6441937799,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-26T18:15:00",
+            "episode": 8,
+            "score": 7.6734633282,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-02T18:15:00",
+            "episode": 9,
+            "score": 7.7320974707,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Shiki - 09 [BF086813].mkv",
+                    "group": "Commie",
+                    "hash": "BF086813",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169790",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-09T18:15:00",
+            "episode": 10,
+            "score": 7.8057974635,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 10 [A4AAFDEA].mkv",
+                    "group": "Commie",
+                    "hash": "A4AAFDEA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169815",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-16T18:15:00",
+            "episode": 11,
+            "score": 7.882084641,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720][DDAF224C]",
+                    "download_count": 1,
+                    "filename": "[Fubuki]_Shiki_-_11_[1280x720][DDAF224C].mkv",
+                    "group": "Fubuki",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164305",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 11 [A4AC03BC].mkv",
+                    "group": "Commie",
+                    "hash": "A4AC03BC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183344",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-14T18:15:00",
+            "episode": 12,
+            "score": 7.8835362228,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Shiki_-_12_[40408709].mkv",
+                    "group": "umee",
+                    "hash": "40408709",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Okawari]_Shiki_-_12_[848x480_H.264_AAC][B8C3546A].mkv",
+                    "group": "Okawari",
+                    "hash": "B8C3546A",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=167059",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Okawari]_Shiki_-_12_[1280x720_H.264_AAC][77E21210].mkv",
+                    "group": "Okawari",
+                    "hash": "77E21210",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=167061",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720][3CF8D10F]",
+                    "download_count": 2,
+                    "filename": "[Fubuki]_Shiki_-_12_[1280x720][3CF8D10F].mkv",
+                    "group": "Fubuki",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168426",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 12 [783016EC].mkv",
+                    "group": "Commie",
+                    "hash": "783016EC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183345",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-28T18:15:00",
+            "episode": 13,
+            "score": 7.9140233766,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 1,
+                    "filename": "[CrunchySubs] Shiki - 13 [360p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168970",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Shiki - 13 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169040",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Shiki_-_13_[F3D9DA23].mkv",
+                    "group": "umee",
+                    "hash": "F3D9DA23",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169300",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 13 [9AB2213B].mkv",
+                    "group": "Commie",
+                    "hash": "9AB2213B",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183346",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-04T17:15:00",
+            "episode": 14,
+            "score": 7.8822963272,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Shiki_-_14_[37B5FB4C].mkv",
+                    "group": "umee",
+                    "hash": "37B5FB4C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=170921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 14 [15857549].mkv",
+                    "group": "Commie",
+                    "hash": "15857549",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183347",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-11T17:15:00",
+            "episode": 15,
+            "score": 7.8877755709,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 15 [0E4A14BB].mkv",
+                    "group": "Commie",
+                    "hash": "0E4A14BB",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183348",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-18T17:15:00",
+            "episode": 16,
+            "score": 7.9058569737,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 16 [1156928D].mkv",
+                    "group": "Commie",
+                    "hash": "1156928D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193665",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-25T17:15:00",
+            "episode": 17,
+            "score": 7.9010905709,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 17 [AC33C1DA].mkv",
+                    "group": "Commie",
+                    "hash": "AC33C1DA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193666",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-02T17:15:00",
+            "episode": 18,
+            "score": 7.9381652748,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shiki - 18 [E27ACF4D].mkv",
+                    "group": "WhyNot",
+                    "hash": "E27ACF4D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=177897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 18 [32F17107].mkv",
+                    "group": "Commie",
+                    "hash": "32F17107",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193667",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-09T17:15:00",
+            "episode": 19,
+            "score": 7.9563477628,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Shiki_-_19_[CBF773E3].mkv",
+                    "group": "umee",
+                    "hash": "CBF773E3",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shiki - 19 [D1EC3F25].mkv",
+                    "group": "WhyNot",
+                    "hash": "D1EC3F25",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=179107",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 19 [DF78A9CB].mkv",
+                    "group": "Commie",
+                    "hash": "DF78A9CB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193668",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-16T17:15:00",
+            "episode": 20,
+            "score": 7.9758775534,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[umee]_Shiki_-_20_[7836A4EC].mkv",
+                    "group": "umee",
+                    "hash": "7836A4EC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180365",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shiki - 20 [04847951].mkv",
+                    "group": "WhyNot",
+                    "hash": "04847951",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=180526",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 20 [145692DB].mkv",
+                    "group": "Commie",
+                    "hash": "145692DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193669",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-23T17:15:00",
+            "episode": 21,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[umee]_Shiki_-_21_[AFB1E479].mkv",
+                    "group": "umee",
+                    "hash": "AFB1E479",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181992",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shiki - 21 [9F0474CB].mkv",
+                    "group": "WhyNot",
+                    "hash": "9F0474CB",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=183023",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Shiki - 21 [AB3CC13F].mkv",
+                    "group": "Commie",
+                    "hash": "AB3CC13F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193670",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-30T17:15:00",
+            "episode": 22,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[umee]_Shiki_-_22_[5C0D8249].mkv",
+                    "group": "umee",
+                    "hash": "5C0D8249",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=183162",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Shiki - 22 [4ABF059A].mkv",
+                    "group": "WhyNot",
+                    "hash": "4ABF059A",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=183887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Shiki - 22 [85521484].mkv",
+                    "group": "Commie",
+                    "hash": "85521484",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193671",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 22,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7268,
+        "ann": 11302,
+        "mal": 7724,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/67904efa1aebc61f78bc9877808ce288.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d22db7aaca39800efaf8e765c8602a68.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dziewcz\u0119...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5993e75b67f68e1116389c9bf74b65e8.jpg",
+            "hd": false
+        },
+        {
+            "description": "...i jej bojasek",
+            "filename": "http://s.modriv.net/abp/images/screencaps/869d45b3028018971fbc1d504c110042.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e3a05f4018c85262c7b1bb73e3728dc6.jpg",
+            "hd": false
+        },
+        {
+            "description": "HERP DERP",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c83db01d53d25e91fc71e1ac9382d89f.jpg",
+            "hd": false
+        },
+        {
+            "description": "HURR DURRRR",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fc929b4a39ed4490cfedfaf85aacf8ec.jpg",
+            "hd": false
+        },
+        {
+            "description": "A mama m\u00f3wi\u0142a, \u017ceby nie rozmawia\u0107 z nieznajomymi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9d8513d5da56a963e9a36845f52aab67.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2010 Shiki (\u5c4d\u9b3c) http://rdir.pl/hilhx",
+            "filename": "http://s.modriv.net/abp/images/screencaps/55b2b418c66a98cc254a2142624c84a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "siedem niewyja\u015bnionych zgon\u00f3w w dwa odcinki? Urocze, czekamy na wi\u0119cej.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/65264d93c9f71b5ce6e6593633ea5902.jpg",
+            "hd": false
+        },
+        {
+            "description": "przecie\u017c to najnormalniejsza rodzina pod s\u0142o\u0144cem, jak mo\u017cna ich o cokolwiek podejrzewa\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1ae4426ff9b9a1688cc85fefcd9fe3b2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/81d2b43258d6b2a8cfc281d427297b6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "pod\u0142\u00f3\u017ckowa Megumi patrzy jak si\u0119 masturbujesz",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e4e7061f316f6188e6fb38c7dd2d7f6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "ostrze\u017cenie: to #anime mo\u017ce zawiera\u0107 \u015bladowe ilo\u015bci martwych facet\u00f3w w szlafrokach spadaj\u0105cych z drzew.",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b8aea23e894d2a0bc6e7bb8edd726746.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ciep\u0142o, ciep\u0142o...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/76a5a7c4d39d7ce97dc1fe6a88a4657e.jpg",
+            "hd": false
+        },
+        {
+            "description": "p\u00f3ki co, to #anime prowadzi w rankingu na najbrzydsze postaci tego sezonu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9643dbf6bd4be631bb3a34a40d316df5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b9a04be57400ac38fd4f9f0b0135e922.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/697c6a98e26125326cd4dafa58b031e1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c7c8f97d83f2db75a043c8f552bf5a25.jpg",
+            "hd": false
+        },
+        {
+            "description": "a jednak si\u0119 b\u0142yszcz\u0105!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/91b4d22442c25b7368b53c61f5313630.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/95e26316a57f79117f439f90a1e5700f.jpg",
+            "hd": false
+        },
+        {
+            "description": "no kto\u015b tu chyba raczy sobie \u017cartowa\u0107...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5d0e84db261904ac4875183d8d043546.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wampirze \u0142zy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/45749943999cb09f6a94da9b16343a07.jpg",
+            "hd": false
+        },
+        {
+            "description": "w poprzednim odcinku Natsuno, w tym odcinku Seishin... co si\u0119 z tym #anime dzieje?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/73059765a5eeeed303b296d209a42b75.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c63751354fd434a2a5be5603af4af2ff.jpg",
+            "hd": false
+        },
+        {
+            "description": "*sparkles*",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cb29fc4d16709794019b39e124b3441e.jpg",
+            "hd": false
+        },
+        {
+            "description": "ju\u017c na pierwszy rzut oka wida\u0107, kto stoi po stronie Z\u0142a!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ba91bb02734541355ff6d400d051af1.jpg",
+            "hd": false
+        },
+        {
+            "description": "Twilight: Yaoi Edition",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a08927b2cb5b8289cd767f76d03912c8.jpg",
+            "hd": false
+        },
+        {
+            "description": "[*]",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bfce8ee0b7ad1cf79cf5a9d2c0f60101.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c5b12bdaecdd47cfad7b05696b1eb365.jpg",
+            "hd": false
+        },
+        {
+            "description": "prze\u0142om w walce z nieumar\u0142ymi: je\u015bli zaklei im si\u0119 usta, przestaj\u0105 gada\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cfd8982cfb2b693abfe0c2114aabcb23.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/10a583fbd19a0f5db1b6473c3a55bed9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/914080f50c9203970110cc4e7f9488ce.jpg",
+            "hd": false
+        },
+        {
+            "description": "jak donosz\u0105 ameryka\u0144scy naukowcy, wampirze \u0142zy r\u00f3wnie\u017c si\u0119 b\u0142yszcz\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/230760f37cb81bbe0cf009ba02defccb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/59d4a74aca543fcf890cbb3937e3d33c.jpg",
+            "hd": false
+        },
+        {
+            "description": "to #anime nie b\u0119dzie mia\u0142o szcz\u0119\u015bliwego zako\u0144czenia",
+            "filename": "http://s.modriv.net/abp/images/screencaps/084cfca780ea4c3ae2d608252356dec8.jpg",
+            "hd": false
+        },
+        {
+            "description": "wbrew powszechnemu przekonaniu, wampiry te\u017c korzystaj\u0105 z dobrodziejstw przedmiot\u00f3w kolekcjonerskich",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a46067f0037e43efdc32abc7484d12e6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3a756f397f4f522f576b8bdaf5718165.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/043abc6fde2158f88d4c94551dfdf2aa.jpg",
+            "hd": false
+        },
+        {
+            "description": "wie\u015b\u0107 o pewnej kin\u00f3wce dotar\u0142a ju\u017c nawet do odci\u0119tej od \u015bwiata wioski Sotoba",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f09df812fbda00fd28c767a10bdfda89.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u015awi\u0119ty Miko\u0142aj ju\u017c si\u0119 zbli\u017ca - byli\u015bcie grzeczni w tym roku?",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d1693d23ba39dfc9e13eb596e1cbfc44.jpg",
+            "hd": false
+        },
+        {
+            "description": "najlepszy prezent na \u015bwi\u0119ta: loli w walizce!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9dd35a9de6882163687a97694b7905e7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/14f0855962e2085c8dcc77f015a066c9.jpg",
+            "hd": false
+        },
+        {
+            "description": "DERP",
+            "filename": "http://s.modriv.net/abp/images/screencaps/78d80b2e5c217daad4d3ff805a2efa53.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u015awi\u0119ty Miko\u0142aj dostaje wszystkie niegrzeczne dziewczynki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e3548deadf9f0095b2948a231f1ed6f6.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2010 Shiki (\u5c4d\u9b3c) - nasza ocena: warte obejrzenia (wi\u0119cej: http://rdir.pl/hilhx)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/317caefe994d973efe3584453329c864.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Za g\u00f3rami, za lasami, w zabitej dechami wiosce w tajemniczych okoliczno\u015bciach zaczynaj\u0105 umiera\u0107 ludzie. W centrum wydarze\u0144, jak zwykle, grupa nastolatk\u00f3w.",
+            "type": "abp"
+        },
+        {
+            "content": "During a fiercely hot summer in Sotoba, a peaceful and quiet village with a population of 1300 people, a series of bizarre deaths begin to occur. At the same time, a strange family moves into a long abandoned mansion in the region. After supposedly visiting this strange family, the fashionable Shimizu Megumi goes missing and the entire village goes out in search for her.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on Ono Fuyumi and Fujisaki Ryuu's Shiki horror mystery manga.Sotobamura is a small village with around 1300 inhabitants. It is a village which is connected to not even a single highway. An isolated village in which old customs, such as the burial of the dead, are still practised.One day, the corpses of 3 people are found. Although Ozaki Toshio, the village's lone doctor, feels uncertain, he treats the deaths as normal occurrences. However, in the days following, the villagers die one after the other.Is this mere coincidence, an epidemic, or something else entirely?- translated and adapted from the official japanese site by CranstonNote: An early preview was screened on June 27, 2010 in Tokyo, with 250 viewers being invited to attend it. The earliest television broadcast started July 9.",
+            "type": "anidb"
+        },
+        {
+            "content": "Sotobamura is a small village with around 1300 residents; so small the village isn't even connected to a single highway. An isolated village in which old customs, such as the burial of the dead, are still practiced. One day, the bodies of three people are found dead. Although Ozaki Toshio, the village's lone doctor, feels uncertain, he treats the deaths as a normal occurrence. However, in the days following, the villagers start to die one after the other.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 30782,
+            "date": "2012-09-29T12:43:37",
+            "score": 8.25,
+            "type": "mal"
+        },
+        {
+            "count": 2077,
+            "date": "2012-09-29T12:43:37",
+            "score": 7.98,
+            "type": "anidb"
+        },
+        {
+            "count": 1500,
+            "date": "2012-09-29T12:43:37",
+            "score": 7.258,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Shiki"
+}

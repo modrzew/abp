@@ -1,0 +1,670 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30a2\u30af\u30a8\u30ea\u30aa\u30f3EVOL"
+        },
+        {
+            "language": "pl",
+            "title": "Akwarysta \u0106\u015aO\u0141IM"
+        }
+    ],
+    "aliases": [
+        "Aquarion EVOL"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/891039213",
+            "content": "#anime #Zima2012 Aquarion Evol (\u30a2\u30af\u30a8\u30ea\u30aa\u30f3EVOL) http://rdir.pl/1mgdft",
+            "episode": 1,
+            "filename": "7c0483e5790c2faa76747eb1cc2a701f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/159119019553722370"
+        },
+        {
+            "blip_url": "http://blip.pl/s/903039407",
+            "content": "Aquarion Evol 03 - no to czekamy na wiert\u0142a",
+            "episode": 3,
+            "filename": "a6b6712f44772e82fbff035142fffe04.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161091200277946368"
+        },
+        {
+            "blip_url": "http://blip.pl/s/907670255",
+            "content": "Aquarion Evol 04 - mur berli\u0144ski: historia prawdziwa",
+            "episode": 4,
+            "filename": "f9d0bc67595ac5f6faa376e5b287629d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161572056272605186"
+        },
+        {
+            "blip_url": "http://blip.pl/s/963468825",
+            "content": "Aquarion Evol 07 - po orgazmuj\u0105cej \u017cabie nic nas ju\u017c nie zdziwi",
+            "episode": 7,
+            "filename": "999787f47a3259c975e521518e70fbd9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/170578682237300737"
+        },
+        {
+            "blip_url": "http://blip.pl/s/976460671",
+            "content": "Aquarion Evol 08 - Japo\u0144czycy te\u017c maj\u0105 swojego Rejtana",
+            "episode": 8,
+            "filename": "b2fe8483177ad74a57169130a7025560.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/172443563081220097"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-08T17:35:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[42m]",
+                    "download_count": 17,
+                    "filename": "[gg]_Aquarion_EVOL_-_01_(42m)_[9A9E2BF9].mkv",
+                    "group": "gg",
+                    "hash": "9A9E2BF9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275137",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFFpeeps] Aquarion EVOL - 01+02 [8bit][D1B047D4].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "D1B047D4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277599",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Aquarion EVOL - 01+02 [10bit][0F11C479].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "0F11C479",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277600",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-15T17:35:00",
+            "episode": 3,
+            "score": 7.75,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Aquarion_EVOL_-_03_[8F68A324].mkv",
+                    "group": "gg",
+                    "hash": "8F68A324",
+                    "url": "http://www.nyaa.eu/?page=download&tid=276902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 0,
+                    "filename": "[FFFpeeps] Aquarion EVOL - 03 [8bit][AB89D513].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "AB89D513",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[FFFpeeps] Aquarion EVOL - 03 [10bit][D2273FD1].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "D2273FD1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277602",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-22T17:35:00",
+            "episode": 4,
+            "score": 7.6827250206,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[gg]_Aquarion_EVOL_-_04_[C62BFEB6].mkv",
+                    "group": "gg",
+                    "hash": "C62BFEB6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278867",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit]",
+                    "download_count": 2,
+                    "filename": "[FFFpeeps] Aquarion EVOL - 04 [8bit][A7947C37].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "A7947C37",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[FFFpeeps] Aquarion EVOL - 04 [10bit][BC93939D].mkv",
+                    "group": "FFFpeeps",
+                    "hash": "BC93939D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284910",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-29T17:35:00",
+            "episode": 5,
+            "score": 7.691077147,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Aquarion_EVOL_-_05_[8FA2AB73].mkv",
+                    "group": "gg",
+                    "hash": "8FA2AB73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281756",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-05T17:35:00",
+            "episode": 6,
+            "score": 7.6448366013,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Aquarion_EVOL_-_06_[2C4A8FFC].mkv",
+                    "group": "gg",
+                    "hash": "2C4A8FFC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=284497",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-12T17:35:00",
+            "episode": 7,
+            "score": 7.6297648989,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Aquarion_EVOL_-_07_[F66A8208].mkv",
+                    "group": "gg",
+                    "hash": "F66A8208",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286708",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-19T17:35:00",
+            "episode": 8,
+            "score": 7.6503124687,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Aquarion_EVOL_-_08_[EF2419FB].mkv",
+                    "group": "gg",
+                    "hash": "EF2419FB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=288895",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-26T17:35:00",
+            "episode": 9,
+            "score": 7.645523416,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Aquarion_EVOL_-_09_[CCE6751B].mkv",
+                    "group": "gg",
+                    "hash": "CCE6751B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=291226",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-04T17:35:00",
+            "episode": 10,
+            "score": 7.6652305041,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[gg]_Aquarion_EVOL_-_10_[4504121E].mkv",
+                    "group": "gg",
+                    "hash": "4504121E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=293440",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-11T17:35:00",
+            "episode": 11,
+            "score": 7.6892082651,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Aquarion_EVOL_-_11_[7948FB44].mkv",
+                    "group": "gg",
+                    "hash": "7948FB44",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295662",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-18T17:35:00",
+            "episode": 12,
+            "score": 7.6862878555,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Aquarion_EVOL_-_12_[ABB4D5A9].mkv",
+                    "group": "gg",
+                    "hash": "ABB4D5A9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=297258",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-25T18:35:00",
+            "episode": 13,
+            "score": 7.7097238164,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Aquarion_EVOL_-_13_[E2818A09].mkv",
+                    "group": "gg",
+                    "hash": "E2818A09",
+                    "url": "http://www.nyaa.eu/?page=download&tid=299236",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-01T18:35:00",
+            "episode": 14,
+            "score": 7.70975,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Aquarion_EVOL_-_14_[2CB137D1].mkv",
+                    "group": "gg",
+                    "hash": "2CB137D1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301278",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-08T18:35:00",
+            "episode": 15,
+            "score": 7.718884369,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[gg]_Aquarion_EVOL_-_15_[F75F43B1].mkv",
+                    "group": "gg",
+                    "hash": "F75F43B1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303606",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-15T18:35:00",
+            "episode": 16,
+            "score": 7.7128492984,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 21,
+                    "filename": "[gg]_Aquarion_EVOL_-_16_[B0CD64D3].mkv",
+                    "group": "gg",
+                    "hash": "B0CD64D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305296",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-22T18:35:00",
+            "episode": 17,
+            "score": 7.671171967,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[gg]_Aquarion_EVOL_-_17_[FDB48738].mkv",
+                    "group": "gg",
+                    "hash": "FDB48738",
+                    "url": "http://www.nyaa.eu/?page=download&tid=307617",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-29T18:35:00",
+            "episode": 18,
+            "score": 7.6432698322,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 21,
+                    "filename": "[gg]_Aquarion_EVOL_-_18_[FAD72CA1].mkv",
+                    "group": "gg",
+                    "hash": "FAD72CA1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=309802",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-06T18:35:00",
+            "episode": 19,
+            "score": 7.6475755396,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[gg]_Aquarion_EVOL_-_19_[EB109E34].mkv",
+                    "group": "gg",
+                    "hash": "EB109E34",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312177",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-13T18:35:00",
+            "episode": 20,
+            "score": 7.6290549689,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Aquarion_EVOL_-_20_[063B43C6].mkv",
+                    "group": "gg",
+                    "hash": "063B43C6",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=314082",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-20T18:35:00",
+            "episode": 21,
+            "score": 7.6262974251,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Aquarion_EVOL_-_21_[57A5BD0D].mkv",
+                    "group": "gg",
+                    "hash": "57A5BD0D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316052",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-27T18:35:00",
+            "episode": 22,
+            "score": 7.6184142894,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[gg]_Aquarion_EVOL_-_22_[96AA9AF5].mkv",
+                    "group": "gg",
+                    "hash": "96AA9AF5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318055",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-03T18:35:00",
+            "episode": 23,
+            "score": 7.6107122195,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Aquarion_EVOL_-_23_[BAC9F15C].mkv",
+                    "group": "gg",
+                    "hash": "BAC9F15C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320080",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-10T18:35:00",
+            "episode": 24,
+            "score": 7.611718173,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[ghettogg]_Aquarion_EVOL_-_24_[D3AC0011].mkv",
+                    "group": "ghettogg",
+                    "hash": "D3AC0011",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322019",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Aquarion_EVOL_-_24_[7BBBB082].mkv",
+                    "group": "gg",
+                    "hash": "7BBBB082",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322112",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-17T18:35:00",
+            "episode": 25,
+            "score": 7.5926699577,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Aquarion_EVOL_-_25_[BFAD0969].mkv",
+                    "group": "gg",
+                    "hash": "BFAD0969",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323871",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-24T18:35:00",
+            "episode": 26,
+            "score": 7.6608715881,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Aquarion_EVOL_-_26_[71A8D710].mkv",
+                    "group": "gg",
+                    "hash": "71A8D710",
+                    "url": "http://www.nyaa.eu/?page=download&tid=325715",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 26,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8299,
+        "ann": 12547,
+        "mal": 10447,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/298855c03341457c4384c31d1107635c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3799294ac2fc548261264d2fdf7fa54f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/79ee26ee354e79e5fb9d8633ae5b7229.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/968e8d857b2ef8cc7b4b5d1c62978b61.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5ed3f37b2f136361e783ea126108a79d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d273b83ac1e73a7e262a7795b588aadb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4d0e2a63ab17c73b66c5c17fe2dd1e16.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/508407cefbdd1dbfa40586991ff35b63.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e436847612ee66ea8407ece4fc2e0535.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f3370f840d8d7cfa18a7d29db820f742.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/250927b6612f81b5f5b6611713a7ea4c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6a2a40d19a32d6fdfb4acb71065f34fb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bbd062ed60f0f12d3699020a0ffba449.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a52520ce3c8fad32695a4c0fe037af7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/624ccd36546dd57c7008402b1dbeaefc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/896c9ac6f792558544bddf6f984321a1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6d77acc683801338cf3765e0867a979.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fb5cc9ef1d5ceb2bda96be09f134a02f.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Aquarion Evol (\u30a2\u30af\u30a8\u30ea\u30aa\u30f3EVOL) http://rdir.pl/1mgdft",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7c0483e5790c2faa76747eb1cc2a701f.jpg",
+            "hd": false
+        },
+        {
+            "description": "no to czekamy na wiert\u0142a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a6b6712f44772e82fbff035142fffe04.jpg",
+            "hd": false
+        },
+        {
+            "description": "mur berli\u0144ski: historia prawdziwa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f9d0bc67595ac5f6faa376e5b287629d.jpg",
+            "hd": false
+        },
+        {
+            "description": "po orgazmuj\u0105cej \u017cabie nic nas ju\u017c nie zdziwi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/999787f47a3259c975e521518e70fbd9.jpg",
+            "hd": false
+        },
+        {
+            "description": "Japo\u0144czycy te\u017c maj\u0105 swojego Rejtana",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b2fe8483177ad74a57169130a7025560.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 6466,
+            "date": "2012-09-29T14:04:50",
+            "score": 7.58,
+            "type": "mal"
+        },
+        {
+            "count": 419,
+            "date": "2012-09-29T14:04:50",
+            "score": 6.94,
+            "type": "anidb"
+        },
+        {
+            "count": 314,
+            "date": "2012-09-29T14:04:50",
+            "score": 7.41,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "Sousei no Aquarion",
+    "title": "Aquarion Evol"
+}

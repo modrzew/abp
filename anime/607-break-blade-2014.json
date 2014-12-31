@@ -1,0 +1,155 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d6\u30ec\u30a4\u30af\u30d6\u30ec\u30a4\u30c9 (2014)"
+        }
+    ],
+    "aliases": [
+        "Broken Blade",
+        "Break Blade [TV 2014]"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-04-06T16:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Emi] Break Blade (2014) - 01 - [720p] [404780D4].mkv",
+                    "group": "Emi",
+                    "hash": "404780D4",
+                    "url": "http://www.nyaa.se/?page=download&tid=543804",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[9C4EG9QV]",
+                    "download_count": 0,
+                    "filename": "[SukiDesu] Break Blade (TV 2014) - 01 [9C4EG9QV].mkv",
+                    "group": "SukiDesu",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=547252",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[SukiDesu] Break Blade (TV 2014) - 01 [720p].mkv",
+                    "group": "SukiDesu",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=547330",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-13T16:00:00",
+            "episode": 2,
+            "score": 6.95,
+            "torrents": []
+        },
+        {
+            "date": "2014-04-20T16:00:00",
+            "episode": 3,
+            "score": 7.65,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[TWO] Broken Blade - 03 [827A7843].mkv",
+                    "group": "TWO",
+                    "hash": "827A7843",
+                    "url": "http://www.nyaa.se/?page=download&tid=545600",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-27T16:00:00",
+            "episode": 4,
+            "score": 7.55,
+            "torrents": []
+        },
+        {
+            "date": "2014-05-04T16:00:00",
+            "episode": 5,
+            "score": 7.68,
+            "torrents": []
+        },
+        {
+            "date": "2014-05-11T16:00:00",
+            "episode": 6,
+            "score": 7.64,
+            "torrents": []
+        },
+        {
+            "date": "2014-05-18T16:00:00",
+            "episode": 7,
+            "score": 7.67,
+            "torrents": []
+        },
+        {
+            "date": "2014-05-25T16:00:00",
+            "episode": 8,
+            "score": 7.69,
+            "torrents": []
+        },
+        {
+            "date": "2014-06-01T16:00:00",
+            "episode": 9,
+            "score": 7.62,
+            "torrents": []
+        },
+        {
+            "date": "2014-06-08T16:00:00",
+            "episode": 10,
+            "score": 7.73,
+            "torrents": []
+        },
+        {
+            "date": "2014-06-15T16:00:00",
+            "episode": 11,
+            "score": 7.73,
+            "torrents": []
+        },
+        {
+            "date": "2014-06-22T16:00:00",
+            "episode": 12,
+            "score": 7.62,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 10426,
+        "ann": 0,
+        "mal": 22433,
+        "schedule": 3378
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Note: A recompiled version of all six earlier films with additional new scenes. The updated 12-episode television version of the 2010-2011 films will add previously unanimated scenes, such as the battle to the death between the gifted warrior Girge and the specially selected Spartan robot unit.Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 135,
+            "date": "2014-07-13T04:50:56",
+            "score": 7.35,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2014
+    },
+    "sequel": true,
+    "sequel_parent": "Break Blade",
+    "title": "Break Blade (2014)"
+}

@@ -1,0 +1,746 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30e4\u30de\u30ce\u30b9\u30b9\u30e1"
+        },
+        {
+            "language": "pl",
+            "title": "Zach\u0119ta G\u00f3ry"
+        }
+    ],
+    "aliases": [
+        "Yama no Susume"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1649928839",
+            "content": "Yama no Susume 07 - pingwiny przejmuj\u0105 \u015bwiat muahahahahaha",
+            "episode": 7,
+            "filename": "b30acb1f5743f52fa6ee0e382ef01659.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/302100895204798464"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2013-01-02T17:30:00",
+            "episode": 1,
+            "score": 5.31,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] Yama no Susume - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389054",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Yama no Susume - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389056",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 9,
+                    "filename": "[CR] Yama no Susume - 01 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[t4w] Yama no Susume - 01 [F21D0B36].mkv",
+                    "group": "t4w",
+                    "hash": "F21D0B36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=389149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[AnimeNOW] Yama no Susume - 01 (1280x720 10-bit x264 AAC) [8FD85F99].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "8FD85F99",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391337",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[Commie] Yama no Susume - 01 [25152B28].mkv",
+                    "group": "Commie",
+                    "hash": "25152B28",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391741",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 4,
+                    "filename": "(Hi10)_Yama_no_Susume_-_01_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Yama_no_Susume_-_01_(720p)_(Commie).mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[SHiN-gx] Yama no Susume - 01 [720p][8326D137].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "8326D137",
+                    "url": "http://www.anirena.com/dl/1000",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-09T17:30:00",
+            "episode": 2,
+            "score": 6.5734325581,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Yama no Susume - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Yama no Susume - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 02 (1280x720 10-bit x264 AAC) [6911C925].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "6911C925",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391530",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Yama no Susume - 02 [B293F8E8].mkv",
+                    "group": "Commie",
+                    "hash": "B293F8E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Yama_no_Susume_-_02_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/theblacktac/Torrents/(Hi10)_Yama_no_Susume_-_02_(720p)_(Commie).mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Yama no Susume - 02 [720p][111705DF].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "111705DF",
+                    "url": "http://www.anirena.com/dl/1004",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-16T17:30:00",
+            "episode": 3,
+            "score": 6.5606422018,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Yama no Susume - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Yama no Susume - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393659",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 03 (1280x720 10-bit x264 AAC) [49A9E04E].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "49A9E04E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Yama no Susume - 03 [962CD901].mkv",
+                    "group": "Commie",
+                    "hash": "962CD901",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396819",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Yama no Susume - 03v2 [64CFA57C].mkv",
+                    "group": "Commie",
+                    "hash": "64CFA57C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397164",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[SHiN-gx] Yama no Susume - 03 [720p][2C7EBD21].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "2C7EBD21",
+                    "url": "http://www.anirena.com/dl/1077",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-23T17:30:00",
+            "episode": 4,
+            "score": 6.4965224274,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Yama no Susume - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Yama no Susume - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 04 (1280x720 10-bit x264 AAC) [13F69D9D].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "13F69D9D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396647",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Yama no Susume - 04 [F7087B36].mkv",
+                    "group": "Commie",
+                    "hash": "F7087B36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=397165",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Yama no Susume - 04 [720p][6C9561F6].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "6C9561F6",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yama%20no%20Susume%20-%2004%20%5B720p%5D%5B6C9561F6%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-30T17:30:00",
+            "episode": 5,
+            "score": 6.4883452088,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[t4w] Yama no Susume - 05 [ECBEEE36].mkv",
+                    "group": "t4w",
+                    "hash": "ECBEEE36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399195",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[AnimeNOW] Yama no Susume - 05 (1280x720 10-bit x264 AAC) [5350337A].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "5350337A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399217",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[SHiN-gx] Yama no Susume - 05 [720p][FD95CECF].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "FD95CECF",
+                    "url": "http://www.anirena.com/dl/1163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Yama no Susume - 05 [4FC32398].mkv",
+                    "group": "Commie",
+                    "hash": "4FC32398",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401832",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-06T17:30:00",
+            "episode": 6,
+            "score": 6.4975550324,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Yama no Susume - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401266",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Yama no Susume - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401268",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Yama no Susume - 06 [522FA71C].mkv",
+                    "group": "Commie",
+                    "hash": "522FA71C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401833",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 06 (1280x720 10-bit x264 AAC) [0C91582C].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "0C91582C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401966",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Yama no Susume - 06 [720p][9D0757E5].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "9D0757E5",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yama%20no%20Susume%20-%2006%20%5B720p%5D%5B9D0757E5%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-13T17:30:00",
+            "episode": 7,
+            "score": 6.4996850575,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Yama no Susume - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403685",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Yama no Susume - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403688",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Yama no Susume - 07 [92874D77].mkv",
+                    "group": "Commie",
+                    "hash": "92874D77",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404464",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 07 (1280x720 10-bit x264 AAC) [0F073A0A].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "0F073A0A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404507",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Yama no Susume - 07 [720p][B373BB44].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "B373BB44",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yama%20no%20Susume%20-%2007%20%5B720p%5D%5BB373BB44%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-20T17:30:00",
+            "episode": 8,
+            "score": 6.4872072785,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Yama no Susume - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406025",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Yama no Susume - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Yama no Susume - 08 [6647F660].mkv",
+                    "group": "Commie",
+                    "hash": "6647F660",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 08 (1280x720 10-bit x264 AAC) [9032589F].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "9032589F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=407147",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Yama no Susume - 08 [720p][1237B78C].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "1237B78C",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yama%20no%20Susume%20-%2008%20%5B720p%5D%5B1237B78C%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-27T17:30:00",
+            "episode": 9,
+            "score": 6.4792743902,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Yama no Susume - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408334",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Yama no Susume - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408337",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[AnimeNOW] Yama no Susume - 09 (1280x720 10-bit x264 AAC) [321FB86B].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "321FB86B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408762",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Yama no Susume - 09 [901CE9EB].mkv",
+                    "group": "Commie",
+                    "hash": "901CE9EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[SHiN-gx] Yama no Susume - 09 [720p][41AC8116].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "41AC8116",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yama%20no%20Susume%20-%2009%20%5B720p%5D%5B41AC8116%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-06T17:30:00",
+            "episode": 10,
+            "score": 6.4699951004,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Yama no Susume - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410698",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Yama no Susume - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 10 (1280x720 10-bit x264 AAC) [5D8DD7DD].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "5D8DD7DD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411166",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Yama no Susume - 10 [E3755618].mkv",
+                    "group": "Commie",
+                    "hash": "E3755618",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Yama no Susume - 10 [720p][550F7F50].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "550F7F50",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yama%20no%20Susume%20-%2010%20%5B720p%5D%5B550F7F50%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-13T17:30:00",
+            "episode": 11,
+            "score": 6.4976523382,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Yama no Susume - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412968",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Yama no Susume - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=412970",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Yama no Susume - 11 [C2046AD5].mkv",
+                    "group": "Commie",
+                    "hash": "C2046AD5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413046",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 11 (1280x720 10-bit x264 AAC) [EF3B2467].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "EF3B2467",
+                    "url": "http://www.nyaa.eu/?page=download&tid=414066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[SHiN-gx] Yama no Susume - 11 [720p][143D447D].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "143D447D",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yama%20no%20Susume%20-%2011%20%5B720p%5D%5B143D447D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-20T17:30:00",
+            "episode": 12,
+            "score": 6.6381788321,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Yama no Susume - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415137",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Yama no Susume - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415139",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Yama no Susume - 12 [B84E1679].mkv",
+                    "group": "Commie",
+                    "hash": "B84E1679",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415478",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10-bit x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[AnimeNOW] Yama no Susume - 12 END (1280x720 10-bit x264 AAC) [FD41C4B3].mkv",
+                    "group": "AnimeNOW",
+                    "hash": "FD41C4B3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415559",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[END][720p]",
+                    "download_count": 7,
+                    "filename": "[SHiN-gx] Yama no Susume - 12 [END][720p][A23672CD].mkv",
+                    "group": "SHiN-gx",
+                    "hash": "A23672CD",
+                    "url": "http://shin-gx.fansub-torrents.com/%5BSHiN-gx%5D%20Yama%20no%20Susume%20-%2012%20%5BEND%5D%5B720p%5D%5BA23672CD%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 5,
+    "external_sites": {
+        "anidb": 9257,
+        "ann": 14777,
+        "mal": 14355,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "pingwiny przejmuj\u0105 \u015bwiat muahahahahaha",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b30acb1f5743f52fa6ee0e382ef01659.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "The title tells the story of the childhood friends Aoi, a girl who prefers staying inside and who has acrophobia, and Hinata, a girl who loves mountains. The two decide to climb a mountain in order to once again see the morning sun from its peak as they did when they were young.",
+            "type": "mal"
+        },
+        {
+            "content": "Aoi is an indoors-type girl who is afraid of heights. Hinata likes the outdoors, specifically climbing mountains. When the two were young, they once shared a sunrise on a mountaintop. Now, they decide to attempt to relive that experience. They start small by challenging a small hill nearby. Slowly, they gain experience and comrades. How long will it take before they are able to once again witness a sunrise like they did all those years ago?~ translated and adapted from official site by Cranston",
+            "type": "anidb"
+        },
+        {
+            "content": "Aoi and Hinata are childhood friends. Aoi prefers staying indoors and is afraid of heights, whereas Hinata is outgoing and loves mountaineering. They both decide to climb a mountain, in order to see a sunrise they saw together when they were younger.",
+            "type": "wiki"
+        },
+        {
+            "content": "Hinata and Aoi made a promise to each other when they were very young to climb a mountain. Years later they get in contact again and start acting on that promise. However Aoi has developed a fear of heights, and Hinata has little patience for planning and even less caution.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 90,
+            "date": "2013-03-21T09:02:43",
+            "score": 5.8,
+            "type": "anidb"
+        },
+        {
+            "count": 2011,
+            "date": "2013-03-21T09:02:43",
+            "score": 6.73,
+            "type": "mal"
+        },
+        {
+            "count": 91,
+            "date": "2013-03-21T09:02:43",
+            "score": 5.438,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Yama no Susume"
+}

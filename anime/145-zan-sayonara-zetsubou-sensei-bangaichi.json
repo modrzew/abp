@@ -1,0 +1,87 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u61fa\u3055\u3088\u306a\u3089\u7d76\u671b\u5148\u751f\u756a\u5916\u5730"
+        }
+    ],
+    "aliases": [],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/52698438",
+            "content": "#anime Zan Sayonara Zetsubou Sensei Bangaichi (\u61fa\u3055\u3088\u306a\u3089\u7d76\u671b\u5148\u751f\u756a\u5916\u5730) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/6upht)",
+            "episode": 2,
+            "filename": "33d1e2753d20e7592ec7427721ffd163.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/10176255216"
+        }
+    ],
+    "episodes": [],
+    "episodes_count": 2,
+    "episodes_length": 26,
+    "external_sites": {
+        "anidb": 7214,
+        "ann": 11478,
+        "mal": 7044,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/74697312e3c15c5d78ec4486a6a3ee65.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2132714a2554838ed12106f9e319a8d3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/db63d322cd989b1fed0b6c78de75d2a4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1079d69329fbd28dfb7f457312993d6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime Zan Sayonara Zetsubou Sensei Bangaichi (\u61fa\u3055\u3088\u306a\u3089\u7d76\u671b\u5148\u751f\u756a\u5916\u5730) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/6upht)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/33d1e2753d20e7592ec7427721ffd163.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Prawdopodobnie ostatni tytu\u0142 z tej serii; kontynuacja <a href=\"http://abp.modriv.net/pokaz/37-zan-sayonara-zetsubou-sensei\">Zan Sayonara Zetsubou Sensei</a>.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 4525,
+            "date": "2012-09-29T12:41:39",
+            "score": 8.14,
+            "type": "mal"
+        },
+        {
+            "count": 402,
+            "date": "2012-09-29T12:41:39",
+            "score": 7.89,
+            "type": "anidb"
+        },
+        {
+            "count": 200,
+            "date": "2012-09-29T12:41:39",
+            "score": 8.027,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "37",
+    "title": "Zan Sayonara Zetsubou Sensei Bangaichi"
+}

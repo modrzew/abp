@@ -1,0 +1,522 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ab\u30fc\u30cb\u30d0\u30eb\u30fb\u30d5\u30a1\u30f3\u30bf\u30ba\u30e0"
+        },
+        {
+            "language": "pl",
+            "title": "Karnawa\u0142owe Widziad\u0142o"
+        }
+    ],
+    "aliases": [
+        "Carnival Phantasm"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/685779369",
+            "content": "Carnival Phantasm 03 - Nawet wampiry ciesz\u0105 si\u0119 na my\u015bl o powrocie do szko\u0142y",
+            "episode": 3,
+            "filename": "3b0deb9d0d1648cdb78a67f5aa1ceb73.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/108606469011804160"
+        },
+        {
+            "blip_url": "http://blip.pl/s/691786991",
+            "content": "Carnival Phantasm 04 - To, \u017ce p\u0142yta by\u0142a podpisana \"Pami\u0105tka komunijna\", jeszcze o niczym nie \u015bwiadczy",
+            "episode": 4,
+            "filename": "0a4c17d176f1645a5144ddc0f5c4a1a9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/109997315976200192"
+        },
+        {
+            "blip_url": "http://blip.pl/s/785858469",
+            "content": "Carnival Phantasm 05 - wszyscy chc\u0105 skorzysta\u0107 z promocyjnej oferty Biedronki",
+            "episode": 5,
+            "filename": "66817a48f36878b4a856fabba7c538f1.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/132591904868155392"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-08-14T00:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 8,
+                    "filename": "[UTW]_Carnival_Phantasm_-_01_[BD][h264-720p_AC3][F7FCE7A4].mkv",
+                    "group": "UTW",
+                    "hash": "F7FCE7A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238960",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Carnival_Phantasm_-_01_[BD][h264-1080p_FLAC][AD3F6682].mkv",
+                    "group": "UTW",
+                    "hash": "AD3F6682",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238959",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-14T00:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2011-08-14T00:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Carnival_Phantasm_-_03_[BD][h264-1080p_FLAC][5B861A35].mkv",
+                    "group": "UTW",
+                    "hash": "5B861A35",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 3,
+                    "filename": "[UTW]_Carnival_Phantasm_-_03_[BD][h264-720p_AC3][D8CD42DB].mkv",
+                    "group": "UTW",
+                    "hash": "D8CD42DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=241365",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-14T00:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Carnival_Phantasm_-_04_[BD][h264-720p_AC3][3A831CF8].mkv",
+                    "group": "UTW",
+                    "hash": "3A831CF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242880",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 1,
+                    "filename": "[UTW]_Carnival_Phantasm_-_04_[BD][h264-1080p_FLAC][F6095E80].mkv",
+                    "group": "UTW",
+                    "hash": "F6095E80",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242881",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-28T00:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Carnival_Phantasm_-_05_[BD][h264-1080p_FLAC][078E60EB].mkv",
+                    "group": "UTW",
+                    "hash": "078E60EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257577",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 8,
+                    "filename": "[UTW]_Carnival_Phantasm_-_05_[BD][h264-720p_AC3][B3A88264].mkv",
+                    "group": "UTW",
+                    "hash": "B3A88264",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][1280x720]",
+                    "download_count": 7,
+                    "filename": "[Hatsuyuki]_Carnival_Phantasm_-_05_[BD][1280x720][A4336E0F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A4336E0F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=257666",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-28T00:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Carnival_Phantasm_-_06_[BD][1280x720][EA560B79].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "EA560B79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258020",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Carnival_Phantasm_-_06_[BD][h264-1080p_FLAC][0D9F935D].mkv",
+                    "group": "UTW",
+                    "hash": "0D9F935D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258404",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Carnival_Phantasm_-_06_[BD][h264-720p_AC3][D84D164E].mkv",
+                    "group": "UTW",
+                    "hash": "D84D164E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258405",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-28T00:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Carnival_Phantasm_-_07_[BD][h264-1080p_FLAC][D4853209].mkv",
+                    "group": "UTW",
+                    "hash": "D4853209",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Carnival_Phantasm_-_07_[BD][h264-720p_AC3][EFD33F5F].mkv",
+                    "group": "UTW",
+                    "hash": "EFD33F5F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259160",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-28T00:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 10,
+                    "filename": "[UTW]_Carnival_Phantasm_-_08_[BD][h264-1080p_FLAC][9AD4509C].mkv",
+                    "group": "UTW",
+                    "hash": "9AD4509C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260574",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-31T00:00:00",
+            "episode": 9,
+            "score": 8.1457038516,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 6,
+                    "filename": "[UTW]_Carnival_Phantasm_-_09_[BD][h264-1080p_FLAC][4C24018A].mkv",
+                    "group": "UTW",
+                    "hash": "4C24018A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274924",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 8,
+                    "filename": "[UTW]_Carnival_Phantasm_-_09_[BD][h264-720p_AC3][CEB1D717].mkv",
+                    "group": "UTW",
+                    "hash": "CEB1D717",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274925",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-31T00:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 4,
+                    "filename": "[UTW]_Carnival_Phantasm_-_10_[BD][h264-720p_AC3][0EEFE844].mkv",
+                    "group": "UTW",
+                    "hash": "0EEFE844",
+                    "url": "http://www.nyaa.eu/?page=download&tid=276642",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-31T00:00:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 7,
+                    "filename": "[UTW]_Carnival_Phantasm_-_11_[BD][h264-720p_AC3][4D74F474].mkv",
+                    "group": "UTW",
+                    "hash": "4D74F474",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277671",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Carnival_Phantasm_-_11_[BD][h264-1080p_FLAC][F705AFC5].mkv",
+                    "group": "UTW",
+                    "hash": "F705AFC5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277670",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-31T00:00:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[BD][h264-1080p FLAC]",
+                    "download_count": 2,
+                    "filename": "[UTW]_Carnival_Phantasm_-_12_[BD][h264-1080p_FLAC][47CDAF9C].mkv",
+                    "group": "UTW",
+                    "hash": "47CDAF9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278985",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[BD][h264-720p AC3]",
+                    "download_count": 5,
+                    "filename": "[UTW]_Carnival_Phantasm_-_12_[BD][h264-720p_AC3][97E0017A].mkv",
+                    "group": "UTW",
+                    "hash": "97E0017A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278986",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 12,
+    "external_sites": {
+        "anidb": 8102,
+        "ann": 12270,
+        "mal": 10012,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1bfadd67f3c15b016338ba4506db358d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d54a5000e9c9541dc66b549cd77f23ab.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a55f136fe84c97dfad93954dba5334c7.jpg",
+            "hd": false
+        },
+        {
+            "description": "<3",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a90b29efaea10be3a79da3063726d89d.jpg",
+            "hd": false
+        },
+        {
+            "description": "NIGGER!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3a777cd6569d4d6225df3a2b05a7e2c6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4565c359a26971e2f557f2eddb2d56b7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3cdf0ba38cd6415804d6c5ba6921d542.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8f0cc6dae32c481c862b0a0e9f888ec0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/242e3226d2382957038901d95a6d7290.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a7462d04e128b1a5eed299a709e5b1e8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b95160026b8cb3b52e9f163a20f32eab.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/145408adda4cef1dc629a5008196a75c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8507bffbd890441b51d7b833df4da691.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c4269e6ff905e76c6399f2ef15b35f2c.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ju\u017c za dwa dni, Arc!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4f9e8f76be52a1aaf290beb4da5b74db.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2f6b07916e05a6ba7d12c75db5205c48.jpg",
+            "hd": false
+        },
+        {
+            "description": "Bierzcie i jedzcie z tego wszyscy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/797ad7f0ae38b6ad882b1a93e6ff17ac.jpg",
+            "hd": false
+        },
+        {
+            "description": "Nawet wampiry ciesz\u0105 si\u0119 na my\u015bl o powrocie do szko\u0142y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3b0deb9d0d1648cdb78a67f5aa1ceb73.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e74c95f16cdc8d0d4f9f70bf405c2882.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ec718a6de59279bf21d527a44b49e2e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8104e9e57769871559a59574f3861140.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cae22fd439e7e40b471fce018d8daab4.jpg",
+            "hd": false
+        },
+        {
+            "description": "To, \u017ce p\u0142yta by\u0142a podpisana \"Pami\u0105tka komunijna\", jeszcze o niczym nie \u015bwiadczy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0a4c17d176f1645a5144ddc0f5c4a1a9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ca4532faaa49098b2057d0910e26caf0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a11c8187441cf5e00fc212c26e07bb70.jpg",
+            "hd": false
+        },
+        {
+            "description": "Shiki i Shirou omawiaj\u0105 swoje plany lekcji",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1791fd65c4f684924fa591076a0ad080.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9ac6d53e907a9dd3f90a9c2ff1be3236.jpg",
+            "hd": false
+        },
+        {
+            "description": "Niczym szef",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4af1d5c52c70596c37538ae5e25d8d3b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6b99a561deeb467372d7a5e49b877c12.jpg",
+            "hd": false
+        },
+        {
+            "description": "wszyscy chc\u0105 skorzysta\u0107 z promocyjnej oferty Biedronki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/66817a48f36878b4a856fabba7c538f1.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on Takenashi Eri's Take Moon manga.A collection of comical stories involving characters from the Fate/Stay Night and Tsukihime adult visual novels. The series focuses on funny and absurd situations happening to the various characters from both franchises.Note: Made in commemoration of Type-Moon's 10th anniversary.",
+            "type": "anidb"
+        },
+        {
+            "content": "This anime is based on Takenashi Eri\u2019s Take Moon manga and commemorates Type-Moon\u2019s 10th anniversary. Various characters from Type-Moon\u2019s works such as Kara no Kyoukai, Fate/Stay Night, and Tsukihime are featured in this.",
+            "type": "ann"
+        },
+        {
+            "content": "'Carnival Phantasm' is an adaption of the Manga 'Take Moon' by Type-Moon's Eri Takenashi, to celebrate Type-Moon's 10th Anniversary.  In this show you'll see parodies and new stories loosely based on Type-Moon's original works like Melty Blood, Fate/Stay Night, Tsukihime and more.",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 9559,
+            "date": "2012-09-29T13:38:23",
+            "score": 8.25,
+            "type": "mal"
+        },
+        {
+            "count": 763,
+            "date": "2012-09-29T13:38:23",
+            "score": 7.69,
+            "type": "anidb"
+        },
+        {
+            "count": 365,
+            "date": "2012-09-29T13:38:23",
+            "score": 7.445,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Carnival Phantasm"
+}

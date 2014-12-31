@@ -1,0 +1,555 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ad\u30eb\u30df\u30fc\u30d9\u30a4\u30d9\u30fc"
+        },
+        {
+            "language": "en",
+            "title": "Baby, Please Kill Me!"
+        },
+        {
+            "language": "pl",
+            "title": "Dzieci\u0119, Zabij Mnie"
+        }
+    ],
+    "aliases": [
+        "Kill Me Baby",
+        "Kill Me Baby!"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/882379079",
+            "content": "#anime #Zima2012 Kill Me Baby (\u30ad\u30eb\u30df\u30fc\u30d9\u30a4\u30d9\u30fc) http://rdir.pl/1meidb",
+            "episode": 1,
+            "filename": "d85fe374df470425eb78d24e2307e00e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/156070510692806656"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-05T17:25:00",
+            "episode": 1,
+            "score": 6.7385137861,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 10,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_01_[h264-720p][99001B5A].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "99001B5A",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_01_h264-720p99001B5A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[TBS 1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[ESC-ShinBunBu] Kill Me Baby - 01 (TBS 1280x720 x264 AAC).mkv",
+                    "group": "ESC-ShinBunBu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 2,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_01_[8bit][848x480][AAC][96D6FA6D].mkv",
+                    "group": "Muteki",
+                    "hash": "96D6FA6D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274534",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 2,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_01_[8bit][1280x720][AAC][7EE75517].mkv",
+                    "group": "Muteki",
+                    "hash": "7EE75517",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274533",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 4,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_01_[10bit][1280x720][AAC][FCDC62A8].mkv",
+                    "group": "Muteki",
+                    "hash": "FCDC62A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274532",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-12T17:25:00",
+            "episode": 2,
+            "score": 6.6645861,
+            "torrents": []
+        },
+        {
+            "date": "2012-01-19T17:25:00",
+            "episode": 3,
+            "score": 6.6005411677,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_03_[h264-720p][6DDE5ACE].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "6DDE5ACE",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_03_h264-720p6DDE5ACE.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8-bit][TBS 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[ESC-ShinBunBu] Kill Me Baby - 03 [8-bit] (TBS 1280x720 x264 AAC).mkv",
+                    "group": "ESC-ShinBunBu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278100",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_03_[10bit][1280x720][AAC][65C3A47D].mkv",
+                    "group": "Muteki",
+                    "hash": "65C3A47D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_03_[8bit][1280x720][AAC][E470E774].mkv",
+                    "group": "Muteki",
+                    "hash": "E470E774",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278339",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_03_[8bit][848x480][AAC][040B32C2].mkv",
+                    "group": "Muteki",
+                    "hash": "040B32C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278338",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-26T17:25:00",
+            "episode": 4,
+            "score": 6.6295809142,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_04_[h264-720p][D02084EE].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "D02084EE",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_04_h264-720pD02084EE.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_04v2_[h264-720p][6231C938].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "6231C938",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_04v2_h264-720p6231C938.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 4,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_04_[8bit][1280x720][AAC][CC6FDD08].mkv",
+                    "group": "Muteki",
+                    "hash": "CC6FDD08",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 2,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_04_[10bit][1280x720][AAC][30249958].mkv",
+                    "group": "Muteki",
+                    "hash": "30249958",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 3,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_04v2_[8bit][848x480][AAC][0C435E2D].mkv",
+                    "group": "Muteki",
+                    "hash": "0C435E2D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281119",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8-bit][TBS 1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[ESC-ShinBunBu] Kill Me Baby - 04 [8-bit] (TBS 1280x720 x264 AAC).mkv",
+                    "group": "ESC-ShinBunBu",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281954",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-02T17:25:00",
+            "episode": 5,
+            "score": 6.6015897674,
+            "torrents": []
+        },
+        {
+            "date": "2012-02-09T17:25:00",
+            "episode": 6,
+            "score": 6.5944902133,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 5,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_06_[h264-720p][46401462].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "46401462",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_06_h264-720p46401462.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 2,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_06v2_[h264-720p][66FE0C8F].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "66FE0C8F",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_06v2_h264-720p66FE0C8F.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_06_[8bit][848x480][AAC][AB72A0D9].mkv",
+                    "group": "Muteki",
+                    "hash": "AB72A0D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286010",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_06_[8bit][1280x720][AAC][B31A1275].mkv",
+                    "group": "Muteki",
+                    "hash": "B31A1275",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 3,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_06_[10bit][1280x720][AAC][C5B37C82].mkv",
+                    "group": "Muteki",
+                    "hash": "C5B37C82",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286012",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-16T17:25:00",
+            "episode": 7,
+            "score": 6.5582729535,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_07_[h264-720p][3E82FF36].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "3E82FF36",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_07_h264-720p3E82FF36.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_07_[8bit][848x480][AAC][E13BB975].mkv",
+                    "group": "Muteki",
+                    "hash": "E13BB975",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289517",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_07_[8bit][1280x720][AAC][FA0E4B38].mkv",
+                    "group": "Muteki",
+                    "hash": "FA0E4B38",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289518",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-23T17:25:00",
+            "episode": 8,
+            "score": 6.5503464774,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_08_[h264-720p][FCC27D45].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "FCC27D45",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_08_h264-720pFCC27D45.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_08_[8bit][848x480][AAC][D02BF252].mkv",
+                    "group": "Muteki",
+                    "hash": "D02BF252",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290564",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_08_[8bit][1280x720][AAC][1D44737B].mkv",
+                    "group": "Muteki",
+                    "hash": "1D44737B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290565",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 1,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_08_[10bit][1280x720][AAC][752CB1CD].mkv",
+                    "group": "Muteki",
+                    "hash": "752CB1CD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290566",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-01T17:25:00",
+            "episode": 9,
+            "score": 6.5633280933,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 6,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_09_[h264-720p][3B1FBC3C].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "3B1FBC3C",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_09_h264-720p842D6802.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_09_[8bit][848x480][AAC][285D8FC7].mkv",
+                    "group": "Muteki",
+                    "hash": "285D8FC7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301084",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_09_[8bit][1280x720][AAC][3D2E6839].mkv",
+                    "group": "Muteki",
+                    "hash": "3D2E6839",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_09_[10bit][1280x720][AAC][4971F5D3].mkv",
+                    "group": "Muteki",
+                    "hash": "4971F5D3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301086",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-08T17:25:00",
+            "episode": 10,
+            "score": 6.5648294479,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 4,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_10_[h264-720p][EE97C340].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "EE97C340",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294494",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][848x480][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_10_[8bit][848x480][AAC][E97ECCB3].mkv",
+                    "group": "Muteki",
+                    "hash": "E97ECCB3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301101",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_10_[8bit][1280x720][AAC][BC26904F].mkv",
+                    "group": "Muteki",
+                    "hash": "BC26904F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301102",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720][AAC]",
+                    "download_count": 0,
+                    "filename": "[Muteki]_Kill_Me_Baby!_-_10_[10bit][1280x720][AAC][582B4185].mkv",
+                    "group": "Muteki",
+                    "hash": "582B4185",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301103",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-15T17:25:00",
+            "episode": 11,
+            "score": 6.5598216981,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_11_[h264-720p][01E9FCAE].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "01E9FCAE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296448",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-22T17:25:00",
+            "episode": 12,
+            "score": 6.5729156572,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_12_[h264-720p][6D250A55].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "6D250A55",
+                    "url": "http://mazuisubs.com/torrents/UTW-Mazui_Kill_Me_Baby_-_12_h264-720p6D250A55.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-29T18:25:00",
+            "episode": 13,
+            "score": 6.8776717715,
+            "torrents": [
+                {
+                    "additional_info": "[h264-720p]",
+                    "download_count": 3,
+                    "filename": "[UTW-Mazui]_Kill_Me_Baby_-_13_[h264-720p][565FC8E5].mkv",
+                    "group": "UTW-Mazui",
+                    "hash": "565FC8E5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300288",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8552,
+        "ann": 13289,
+        "mal": 11079,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/230bab197d2f73dbf8dae7ff522de0d4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cc945482ebc6d0b326b4075fb5f7740d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4fc7f657352c9260e27273436d63d7e9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2888db616284e1a0fc142d11d9bb1a20.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2012 Kill Me Baby (\u30ad\u30eb\u30df\u30fc\u30d9\u30a4\u30d9\u30fc) http://rdir.pl/1meidb",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d85fe374df470425eb78d24e2307e00e.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Szkolna komedia ukazuj\u0105ca przygody zwyczajnej dziewczyny Yasuny oraz jej niezbyt zwyczajnej kole\u017canki o morderczych zap\u0119dach.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a 4-koma manga by Kazuho serialised in Manga Time Kirara Carat.Kill Me Baby follows the comedic life of a typical school girl Yasuna and her assassin classmate Sonya. Sonya's attempt to fit in often fails when her natural assassin instincts kick in and Yasuna's attempt to be more friendly with Sonya often gets her hurt or intimidated.",
+            "type": "anidb"
+        },
+        {
+            "content": "Sonya is an assassin attending a normal school. Yasuna is an airhead who follows Sonya around, unaware of how dangerous she is. This adaptation of a 4-panel comic focuses on the adorable ultra-violence that erupts when they try to get along.",
+            "type": "ann"
+        },
+        {
+            "content": "Kill Me Baby is the touching story of Yasuna, a normal (?) high school girl, and Sonya, her best friend who happens to be an assassin. Unfortunately, little Sonya's trained assassin instincts often work against her and others in her daily high school life, as Yasuna's often-broken wrist can attest to. She just wanted a hug, but she ended up with a broken neck. Isn't it sad? No, it's hilarious.  Not even Yasuna's intense ninja training can prepare her for the exciting adventures in this explosive 4-panel manga adaptation.",
+            "type": "mal"
+        },
+        {
+            "content": "The story follows Sonya, a trained assassin who attends regular school alongside her airhead classmate, Yasuna.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7598,
+            "date": "2012-09-29T13:49:50",
+            "score": 6.93,
+            "type": "mal"
+        },
+        {
+            "count": 576,
+            "date": "2012-09-29T13:49:50",
+            "score": 5.97,
+            "type": "anidb"
+        },
+        {
+            "count": 372,
+            "date": "2012-09-29T13:49:50",
+            "score": 6.851,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Kill Me Baby"
+}

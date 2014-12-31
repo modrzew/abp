@@ -1,0 +1,906 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u5922\u55b0\u3044\u30e1\u30ea\u30fc"
+        },
+        {
+            "language": "pl",
+            "title": "Snozjadarka Merry"
+        }
+    ],
+    "aliases": [
+        "Yumekui Merry"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/285083327",
+            "content": "#anime #Zima2011 Yumekui Merry (\u5922\u55b0\u3044\u30e1\u30ea\u30fc) http://rdir.pl/15hzby",
+            "episode": 1,
+            "filename": "b0132887295f8f36975a31acb49cfc5a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/23725150251782145"
+        },
+        {
+            "blip_url": "http://blip.pl/s/296530279",
+            "content": "Yumekui Merry 02 - to #anime ogl\u0105da si\u0119 dla fabu\u0142y",
+            "episode": 2,
+            "filename": "5c8cac867186ee80fc4f920001d3ec4f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26491072976781312"
+        },
+        {
+            "blip_url": "http://blip.pl/s/307179089",
+            "content": "Yumekui Merry 03 - Merry 4 sekundy po zobaczeniu penisa Yumejiego",
+            "episode": 3,
+            "filename": "d60e1473b07324d3fa00064d72fb552e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/29045500455948288"
+        },
+        {
+            "blip_url": "http://blip.pl/s/318164171",
+            "content": "Yumekui Merry 04 - nasze cia\u0142a zdecydowanie nie by\u0142y gotowe",
+            "episode": 4,
+            "filename": "a99b4afa4d36d011cff70898c8a34b11.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/31713923761709056"
+        },
+        {
+            "blip_url": "http://blip.pl/s/327418045",
+            "content": "Yumekui Merry 05 - odrobina wyobra\u017ani i zwyk\u0142e zakupy w markecie staj\u0105 si\u0119 ekscytuj\u0105c\u0105 przygod\u0105",
+            "episode": 5,
+            "filename": "dfad77f38c76154f4809530702f22ce9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/33851489638154240"
+        },
+        {
+            "blip_url": "http://blip.pl/s/341762651",
+            "content": "Yumekui Merry 06 - \u017ceby tylko codziennie mie\u0107 takie sny...",
+            "episode": 6,
+            "filename": "25682009c707cd68f3af423c3ca8c833.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/37336014162894848"
+        },
+        {
+            "blip_url": "http://blip.pl/s/347514589",
+            "content": "Yumekui Merry 07 - odcinek pla\u017cowy, wszyscy bez wyj\u0105tku si\u0119 z tego faktu ciesz\u0105",
+            "episode": 7,
+            "filename": "b51e4091180b58e8aac829e4ff1f95e9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/38574088582594560"
+        },
+        {
+            "blip_url": "http://blip.pl/s/359367437",
+            "content": "Yumekui Merry 08 - jak nie wiadomo o co chodzi, to chodzi o p\u0105czki",
+            "episode": 8,
+            "filename": "1840ab6bafd1b3f8f81e9c59ac486923.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/41212310664122368"
+        },
+        {
+            "blip_url": "http://blip.pl/s/370356727",
+            "content": "Yumekui Merry 09 - jak Merry zosta\u0142a przyzwoitk\u0105",
+            "episode": 9,
+            "filename": "dc6b56f83bec06a1eeeb1bde634133e0.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/43727369655173120"
+        },
+        {
+            "blip_url": "http://blip.pl/s/409826433",
+            "content": "Yumekui Merry 11 - z cyklu \"Rozpoznaj pedofila po lubie\u017cnym u\u015bmiechu\"",
+            "episode": 11,
+            "filename": "792fc5ccf380d9e20a856492020a2b99.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/51809053344673792"
+        },
+        {
+            "blip_url": "http://blip.pl/s/420787641",
+            "content": "Yumekui Merry 12 - i kolejny sen, kt\u00f3ry ka\u017cdy chcia\u0142by mie\u0107 co noc",
+            "episode": 12,
+            "filename": "b599f3274e3e209c20a9f3be83b0395a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/53988361530122240"
+        },
+        {
+            "blip_url": "http://blip.pl/s/437353071",
+            "content": "#anime #Zima2011 Yumekui Merry (\u5922\u55b0\u3044\u30e1\u30ea\u30fc) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/15hzby)",
+            "episode": 13,
+            "filename": "f0c5dd19541beddf6a37f5b0bb88701f.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/57212455180435456"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-01-06T17:55:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Yumekui_Merry_-_01_[FD877DDC].mkv",
+                    "group": "gg",
+                    "hash": "FD877DDC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184427",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[IB] Yumekui Merry - 01 [720p][024CF0F3].mkv",
+                    "group": "IB",
+                    "hash": "024CF0F3",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=184516",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 5,
+                    "filename": "[Ayako]_Yumekui_Merry_-_01_[720p][H264][A18F3BA0].mkv",
+                    "group": "Ayako",
+                    "hash": "A18F3BA0",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=185753",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Shini-subs] Yumekui Merry - 01v0 (1280x720 h264 AAC) [E2C63D59].mkv",
+                    "group": "Shini-subs",
+                    "hash": "E2C63D59",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186168",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Shini-subs] Yumekui Merry - 01v0 (848x480 h264 AAC) [0F882F50].mkv",
+                    "group": "Shini-subs",
+                    "hash": "0F882F50",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186169",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Shini-subs] Yumekui Merry - 01 (1280x720 h264 AAC) [6ECD9661].mkv",
+                    "group": "Shini-subs",
+                    "hash": "6ECD9661",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187588",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Shini-subs] Yumekui Merry - 01 (848x480 h264 AAC) [7C0CCED7].mkv",
+                    "group": "Shini-subs",
+                    "hash": "7C0CCED7",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187591",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-13T18:01:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Yumekui_Merry_-_02_[3DA5CBEF].mkv",
+                    "group": "gg",
+                    "hash": "3DA5CBEF",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ayako]_Yumekui_Merry_-_02_[720p][H264][77B207A9].mkv",
+                    "group": "Ayako",
+                    "hash": "77B207A9",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186331",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Yumekui Merry - 02 [720p][30913274].mkv",
+                    "group": "IB",
+                    "hash": "30913274",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=186427",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Yumekui Merry - 02 (1280x720 h264 AAC) [307CBF64].mkv",
+                    "group": "Shini-subs",
+                    "hash": "307CBF64",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187711",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Shini-subs] Yumekui Merry - 02 (848x480 h264 AAC) [0614126A].mkv",
+                    "group": "Shini-subs",
+                    "hash": "0614126A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187712",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-20T17:55:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Yumekui_Merry_-_03_[D1746EB4].mkv",
+                    "group": "gg",
+                    "hash": "D1746EB4",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Yumekui Merry - 03 [720p][D3234FBB].mkv",
+                    "group": "IB",
+                    "hash": "D3234FBB",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187706",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 3,
+                    "filename": "[Ayako]_Yumekui_Merry_-_03_[720p][H264][E2A6191A].mkv",
+                    "group": "Ayako",
+                    "hash": "E2A6191A",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=187790",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-01-27T17:55:00",
+            "episode": 4,
+            "score": 7.5491175573,
+            "torrents": [
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 6,
+                    "filename": "[Ayako]_Yumekui_Merry_-_04_[720p][H264][15EAA24C].mkv",
+                    "group": "Ayako",
+                    "hash": "15EAA24C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189745",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[gg]_Yumekui_Merry_-_04_[F2574AC7].mkv",
+                    "group": "gg",
+                    "hash": "F2574AC7",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=189750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[IB] Yumekui Merry - 04 [720p] [608E747D].mkv",
+                    "group": "IB",
+                    "hash": "608E747D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=190069",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-03T17:55:00",
+            "episode": 5,
+            "score": 7.5467510778,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Yumekui_Merry_-_05_[FC96B5E4].mkv",
+                    "group": "gg",
+                    "hash": "FC96B5E4",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=191481",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[IB] Yumekui Merry - 05 [720p] [D608CCF3].mkv",
+                    "group": "IB",
+                    "hash": "D608CCF3",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=191966",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 4,
+                    "filename": "[Ayako]_Yumekui_Merry_-_05_[720p][H264][A0FAA4FC].mkv",
+                    "group": "Ayako",
+                    "hash": "A0FAA4FC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=192070",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-10T17:55:00",
+            "episode": 6,
+            "score": 7.5793987896,
+            "torrents": [
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ayako]_Yumekui_Merry_-_06_[720p][H264][C6471BF4].mkv",
+                    "group": "Ayako",
+                    "hash": "C6471BF4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193144",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Yumekui_Merry_-_06_[FD1776E7].mkv",
+                    "group": "gg",
+                    "hash": "FD1776E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193152",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Yumekui Merry - 06 [720p] [F23DEA87].mkv",
+                    "group": "IB",
+                    "hash": "F23DEA87",
+                    "url": "http://www.nyaa.eu/?page=download&tid=193735",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-17T17:55:00",
+            "episode": 7,
+            "score": 7.1957298387,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Yumekui_Merry_-_07_[35F7AA0F].mkv",
+                    "group": "gg",
+                    "hash": "35F7AA0F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194650",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Yumekui Merry - 07 [720p] [4532301F].mkv",
+                    "group": "IB",
+                    "hash": "4532301F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=194751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ayako]_Yumekui_Merry_-_07_[720p][H264][9BC72C98].mkv",
+                    "group": "Ayako",
+                    "hash": "9BC72C98",
+                    "url": "http://www.nyaa.eu/?page=download&tid=195036",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-02-24T17:55:00",
+            "episode": 8,
+            "score": 7.5905747844,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Yumekui_Merry_-_08_[221F02A5].mkv",
+                    "group": "gg",
+                    "hash": "221F02A5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196074",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 4,
+                    "filename": "[Ayako]_Yumekui_Merry_-_08_[720p][H264][83D8629E].mkv",
+                    "group": "Ayako",
+                    "hash": "83D8629E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=196196",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[IB] Yumekui Merry - 08 [720p] [97A626B0].mkv",
+                    "group": "IB",
+                    "hash": "97A626B0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=197687",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-03T17:55:00",
+            "episode": 9,
+            "score": 7.5823093744,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Yumekui_Merry_-_09_[2987543E].mkv",
+                    "group": "gg",
+                    "hash": "2987543E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=197685",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ayako]_Yumekui_Merry_-_09_[720p][H264]_[8317BD2B].mkv",
+                    "group": "Ayako",
+                    "hash": "8317BD2B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=197979",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ayako]_Yumekui_Merry_-_09v2_[720p][H264]_[188D5E8D].mkv",
+                    "group": "Ayako",
+                    "hash": "188D5E8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=197999",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 1,
+                    "filename": "[Ayako]_Yumekui_Merry_-_09_[720p][H264][FDA7D84B].mkv",
+                    "group": "Ayako",
+                    "hash": "FDA7D84B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198226",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Yumekui Merry - 09 [720p] [0DB19CEB].mkv",
+                    "group": "IB",
+                    "hash": "0DB19CEB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=198308",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-10T17:55:00",
+            "episode": 10,
+            "score": 7.6024797938,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Yumekui_Merry_-_10_[3B0DED73].mkv",
+                    "group": "gg",
+                    "hash": "3B0DED73",
+                    "url": "http://www.nyaa.eu/?page=download&tid=199245",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ayako]_Yumekui_Merry_-_10_[720p][H264][0E0C5DC3].mkv",
+                    "group": "Ayako",
+                    "hash": "0E0C5DC3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=199351",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Yumekui Merry - 10 [720p] [77817CFD].mkv",
+                    "group": "IB",
+                    "hash": "77817CFD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=202592",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-24T17:55:00",
+            "episode": 11,
+            "score": 7.5794301928,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Yumekui_Merry_-_11_[353D4A9C].mkv",
+                    "group": "gg",
+                    "hash": "353D4A9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=201752",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 2,
+                    "filename": "[Ayako]_Yumekui_Merry_-_11_[720p][H264][550A7FCB].mkv",
+                    "group": "Ayako",
+                    "hash": "550A7FCB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=201747",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Yumekui Merry - 11 [720p] [64AAB513].mkv",
+                    "group": "IB",
+                    "hash": "64AAB513",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203163",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-03-31T17:55:00",
+            "episode": 12,
+            "score": 7.5721140752,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[gg]_Yumekui_Merry_-_12_[C2CE8EA5].mkv",
+                    "group": "gg",
+                    "hash": "C2CE8EA5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203118",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[IB] Yumekui Merry - 12 [720p] [452951F4].mkv",
+                    "group": "IB",
+                    "hash": "452951F4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=203716",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 3,
+                    "filename": "[Ayako]_Yumekui_Merry_-_12_[720p][H264][2D9D67BC].mkv",
+                    "group": "Ayako",
+                    "hash": "2D9D67BC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 4,
+                    "filename": "[Ayako]_Yumekui_Merry_-_12v2_[720p][H264][744DCC4D].mkv",
+                    "group": "Ayako",
+                    "hash": "744DCC4D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205393",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-04-07T18:55:00",
+            "episode": 13,
+            "score": 7.4267234393,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[gg]_Yumekui_Merry_-_13_[8CE290EE].mkv",
+                    "group": "gg",
+                    "hash": "8CE290EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204638",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[IB] Yumekui Merry - 13 [720p] [772889FA].mkv",
+                    "group": "IB",
+                    "hash": "772889FA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204947",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H264]",
+                    "download_count": 3,
+                    "filename": "[Ayako]_Yumekui_Merry_-_13_[720p][H264][1F7A0964].mkv",
+                    "group": "Ayako",
+                    "hash": "1F7A0964",
+                    "url": "http://www.nyaa.eu/?page=download&tid=205396",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7725,
+        "ann": 11765,
+        "mal": 9331,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/16ef788faa5a8f0e150e4cc9899a47f1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/921ac58fe7f5e5788dd73c043dcb2464.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f93f5b08b4d084b3d6b5b5378a3bcf0b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a863988649ba948e674fab773d27fb00.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/254b8588703d89230164d2ab989007dc.jpg",
+            "hd": false
+        },
+        {
+            "description": "I'M WATCHING YOU PEE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/27e0ee10d78c28c4d5bbed364523f55f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e3621c08f56c3f694dfcd68c304815f2.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2011 Yumekui Merry (\u5922\u55b0\u3044\u30e1\u30ea\u30fc) http://rdir.pl/15hzby",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b0132887295f8f36975a31acb49cfc5a.jpg",
+            "hd": false
+        },
+        {
+            "description": "I tak si\u0119 wszystko zacz\u0119\u0142o",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3800b422069c0935c8655417f8fb762e.jpg",
+            "hd": false
+        },
+        {
+            "description": ":[",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d8f41e6f725eb529f2b26231952bf392.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d920cb14fce35a8372ce6d7d19e73c42.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6725ab7310cb07184865f9af798b4a10.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fb8014d3f8a11016035dc603539895d9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5c94abcf0c4aefaa2d5335f03e775d0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7ddf3156ad88da48eebb677593ce558d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5af1a79a7846456a5a5468c10f586c3a.jpg",
+            "hd": false
+        },
+        {
+            "description": "to #anime ogl\u0105da si\u0119 dla fabu\u0142y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5c8cac867186ee80fc4f920001d3ec4f.jpg",
+            "hd": true
+        },
+        {
+            "description": "Merry 4 sekundy po zobaczeniu penisa Yumejiego",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d60e1473b07324d3fa00064d72fb552e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ba1fcd2cc9c49edb914c4fa7e597ff1.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6c19f3819a14f16f30afd2dd3ea33d23.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e6fb74e5b5bf754cbbb0d3534fc4f7fe.jpg",
+            "hd": false
+        },
+        {
+            "description": "Merry, masz bardzo du\u017ce... r\u0119kawy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/57f9c4814ca426febf1619e3c02ec56b.jpg",
+            "hd": false
+        },
+        {
+            "description": "nasze cia\u0142a zdecydowanie nie by\u0142y gotowe",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a99b4afa4d36d011cff70898c8a34b11.jpg",
+            "hd": true
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e08cc8bee862bd61efff1eac8bf5907f.jpg",
+            "hd": false
+        },
+        {
+            "description": "odrobina wyobra\u017ani i zwyk\u0142e zakupy w markecie staj\u0105 si\u0119 ekscytuj\u0105c\u0105 przygod\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dfad77f38c76154f4809530702f22ce9.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"...na tej Litwie, gdzie zbo\u017ca \u0142any z\u0142ociste...\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b40c1061cf15737a78873ee04476a674.jpg",
+            "hd": false
+        },
+        {
+            "description": "\u017ceby tylko codziennie mie\u0107 takie sny...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/25682009c707cd68f3af423c3ca8c833.jpg",
+            "hd": false
+        },
+        {
+            "description": "odcinek pla\u017cowy, wszyscy bez wyj\u0105tku si\u0119 z tego faktu ciesz\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b51e4091180b58e8aac829e4ff1f95e9.jpg",
+            "hd": false
+        },
+        {
+            "description": "\"Co masz na my\u015bli m\u00f3wi\u0105c o kin\u00f3wce Kejona?\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4673ad56cdbefbf8f0cafbc895a5598.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fa000155221f62ac5f7430ae205df0ad.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a510bbd9cb6485a00855baec4e45729f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/454ae7f3454fa99dc884ff29aeea22f0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1f6f0501cc66cfd34fa7980bbf7adda6.jpg",
+            "hd": false
+        },
+        {
+            "description": "jak nie wiadomo o co chodzi, to chodzi o p\u0105czki",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1840ab6bafd1b3f8f81e9c59ac486923.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a4113ac0fbce0d8f53e00c72c63d17f8.jpg",
+            "hd": false
+        },
+        {
+            "description": "jak Merry zosta\u0142a przyzwoitk\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dc6b56f83bec06a1eeeb1bde634133e0.jpg",
+            "hd": false
+        },
+        {
+            "description": "z cyklu \"Rozpoznaj pedofila po lubie\u017cnym u\u015bmiechu\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/792fc5ccf380d9e20a856492020a2b99.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/626ee87068c5495f06579e6021cd937b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Uuuuuch, ale mocny towar",
+            "filename": "http://s.modriv.net/abp/images/screencaps/23c18f5ecc24839c5d578ac833d0a2bc.jpg",
+            "hd": false
+        },
+        {
+            "description": "i kolejny sen, kt\u00f3ry ka\u017cdy chcia\u0142by mie\u0107 co noc",
+            "filename": "http://s.modriv.net/abp/images/screencaps/b599f3274e3e209c20a9f3be83b0395a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7dbb8cc88e2f9320b6fb09ba56b210a6.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8808623c3562178b8b2aa0794a27ac12.jpg",
+            "hd": false
+        },
+        {
+            "description": "GHRRREEEEEEEEE",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4126bc4b2993dea9a1f6f26b865970bc.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cb2e6ddfcb0f21f07897bfd24d7ca5c8.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Zima2011 Yumekui Merry (\u5922\u55b0\u3044\u30e1\u30ea\u30fc) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/15hzby)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f0c5dd19541beddf6a37f5b0bb88701f.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Przygody m\u0142odego ch\u0142opaka atakowanego w swoich snach przez kota, pragn\u0105cego przedosta\u0107 si\u0119 za jego pomoc\u0105 do prawdziwego \u015bwiata, oraz m\u0142odej niewiasty, kt\u00f3ra pragnie wr\u00f3ci\u0107 z naszego \u015bwiata do \u015bwiata snu.",
+            "type": "abp"
+        },
+        {
+            "content": "Ten years ago Fujiwara noticed he had a power to see multicolored auras surrounding people&#039;s bodies. Ever since then he&#039;s been having a weird dream about a war with cats. One day he meets a mysterious girl, that, after being picked on by crows and fallen from a tree, goes to search for her lost hat. Later that day, Fujiwara finds himself in a daydream, being attacked by the same cats he fights at night.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on a manga by Ushiki Yoshitaka serialised in Manga Time Kirara Forward.High school student Fujiwara Yumeji possesses the unusual ability to see other people's dreams. One day, he meets Merry who had wandered from the Dream World into the Real World. This meeting raises many questions for Yumeji. Who exactly is Merry? What is the Dream World and what are Nightmares? What purpose do the Nightmares have for entering the Real World?On the boundary between the Real World and the Dream World, the duo's battle against the Nightmares begins!\u2014 translated and adapted from official site by Cranston",
+            "type": "anidb"
+        },
+        {
+            "content": "Ten years ago Fujiwara noticed he had a power to see multicolored auras surrounding the person's body. Ever since then he's been having a weird dream about a war with cats. Then one day a mysterious girl falls on top of him...",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 19838,
+            "date": "2012-09-29T13:12:02",
+            "score": 7.2,
+            "type": "mal"
+        },
+        {
+            "count": 1357,
+            "date": "2012-09-29T13:12:02",
+            "score": 6.83,
+            "type": "anidb"
+        },
+        {
+            "count": 989,
+            "date": "2012-09-29T13:12:02",
+            "score": 7.02,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Yumekui Merry"
+}

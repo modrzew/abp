@@ -1,0 +1,116 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3066\u3055\u3050\u308c! \u90e8\u6d3b\u3082\u306e"
+        },
+        {
+            "language": "pl",
+            "title": "Rozgl\u0105daj\u0105ce si\u0119 za R\u0119k\u0105! Klubowiczki"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-05T19:20:00",
+            "episode": 1,
+            "score": 4.9737142857,
+            "torrents": []
+        },
+        {
+            "date": "2013-10-12T20:55:00",
+            "episode": 2,
+            "score": 5.7411764706,
+            "torrents": []
+        },
+        {
+            "date": "2013-10-19T19:20:00",
+            "episode": 3,
+            "score": 5.7309090909,
+            "torrents": []
+        },
+        {
+            "date": "2013-10-26T19:25:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-11-02T18:20:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-11-09T18:35:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-11-16T20:19:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-11-23T18:34:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-11-30T19:34:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-12-07T20:04:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 10010,
+        "ann": 15549,
+        "mal": 19919,
+        "schedule": 3203
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The CG anime centers around the extracurricular activities of students.",
+            "type": "mal"
+        },
+        {
+            "content": "The CG anime centers around the extracurricular activities of students.",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 135,
+            "date": "2013-10-27T09:06:20",
+            "score": 5.89,
+            "type": "mal"
+        },
+        {
+            "count": 10,
+            "date": "2013-12-23T08:34:19",
+            "score": 4.5,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Tesagure! Bukatsu-mono"
+}

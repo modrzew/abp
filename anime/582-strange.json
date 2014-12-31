@@ -1,0 +1,597 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30fb\u30d7\u30e9\u30b9"
+        }
+    ],
+    "aliases": [
+        "Strange+"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-01-09T17:00:00",
+            "episode": 1,
+            "score": 4.98,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Strange+ - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510234",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Strange+ - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=510235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 01 (1280x720 Hi10P AAC) [2E2EA59F].mkv",
+                    "group": "Migoto",
+                    "hash": "2E2EA59F",
+                    "url": "http://www.nyaa.se/?page=download&tid=510330",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 01 (848x480 H264 AAC) [38EC6248].mkv",
+                    "group": "Migoto",
+                    "hash": "38EC6248",
+                    "url": "http://www.nyaa.se/?page=download&tid=510331",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[scribbles] Strange+ - 01 [77FAD49E].mkv",
+                    "group": "scribbles",
+                    "hash": "77FAD49E",
+                    "url": "http://www.nyaa.se/?page=download&tid=510753",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-16T17:00:00",
+            "episode": 2,
+            "score": 5.01,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512840",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Strange+ - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=512841",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 1,
+                    "filename": "[Migoto] Strange+ - 02 (1280x720 Hi10P AAC) [42FCFDA8].mkv",
+                    "group": "Migoto",
+                    "hash": "42FCFDA8",
+                    "url": "http://www.nyaa.se/?page=download&tid=512904",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Migoto] Strange+ - 02 (848x480 H264 AAC) [A03451D6].mkv",
+                    "group": "Migoto",
+                    "hash": "A03451D6",
+                    "url": "http://www.nyaa.se/?page=download&tid=512905",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[scribbles] Strange+ - 02 [A2828497].mkv",
+                    "group": "scribbles",
+                    "hash": "A2828497",
+                    "url": "http://www.nyaa.se/?page=download&tid=514250",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-23T17:00:00",
+            "episode": 3,
+            "score": 4.79,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Strange+ - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=515400",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 03 (1280x720 Hi10P AAC) [8A440CDF].mkv",
+                    "group": "Migoto",
+                    "hash": "8A440CDF",
+                    "url": "http://www.nyaa.se/?page=download&tid=515562",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 03 (848x480 H264 AAC) [AF841FCF].mkv",
+                    "group": "Migoto",
+                    "hash": "AF841FCF",
+                    "url": "http://www.nyaa.se/?page=download&tid=515563",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-01-30T17:00:00",
+            "episode": 4,
+            "score": 4.8740972222,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517988",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Strange+ - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=517989",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=518110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 04 (1280x720 Hi10P AAC) [927A83C3].mkv",
+                    "group": "Migoto",
+                    "hash": "927A83C3",
+                    "url": "http://www.nyaa.se/?page=download&tid=518399",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 04 (848x480 H264 AAC) [738FDD49].mkv",
+                    "group": "Migoto",
+                    "hash": "738FDD49",
+                    "url": "http://www.nyaa.se/?page=download&tid=518400",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-06T17:00:00",
+            "episode": 5,
+            "score": 5.0399727891,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520413",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Strange+ - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=520415",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 05 (1280x720 Hi10P AAC) [C259A9AD].mkv",
+                    "group": "Migoto",
+                    "hash": "C259A9AD",
+                    "url": "http://www.nyaa.se/?page=download&tid=521605",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 05 (848x480 H264 AAC) [1E564639].mkv",
+                    "group": "Migoto",
+                    "hash": "1E564639",
+                    "url": "http://www.nyaa.se/?page=download&tid=521606",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-13T17:00:00",
+            "episode": 6,
+            "score": 5.0314362416,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522727",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Strange+ - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=522728",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 06 (1280x720 Hi10P AAC) [C8CFA2FA].mkv",
+                    "group": "Migoto",
+                    "hash": "C8CFA2FA",
+                    "url": "http://www.nyaa.se/?page=download&tid=525172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 06 (848x480 H264 AAC) [747C8CCC].mkv",
+                    "group": "Migoto",
+                    "hash": "747C8CCC",
+                    "url": "http://www.nyaa.se/?page=download&tid=525173",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-20T17:00:00",
+            "episode": 7,
+            "score": 4.9986322581,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525039",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Strange+ - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=525040",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 07 (1280x720 Hi10P AAC) [ABD78B4B].mkv",
+                    "group": "Migoto",
+                    "hash": "ABD78B4B",
+                    "url": "http://www.nyaa.se/?page=download&tid=525174",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 07 (848x480 H264 AAC) [75BC8BEF].mkv",
+                    "group": "Migoto",
+                    "hash": "75BC8BEF",
+                    "url": "http://www.nyaa.se/?page=download&tid=525175",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-02-27T17:00:00",
+            "episode": 8,
+            "score": 4.9932658228,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Strange+ - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=527389",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 08 (1280x720 Hi10P AAC) [8F994DBE].mkv",
+                    "group": "Migoto",
+                    "hash": "8F994DBE",
+                    "url": "http://www.nyaa.se/?page=download&tid=527883",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 08 (848x480 H264 AAC) [321FE4E9].mkv",
+                    "group": "Migoto",
+                    "hash": "321FE4E9",
+                    "url": "http://www.nyaa.se/?page=download&tid=527884",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-06T17:00:00",
+            "episode": 9,
+            "score": 4.9111925466,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529850",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Strange+ - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=529851",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 09 (1280x720 Hi10P AAC) [7855534B].mkv",
+                    "group": "Migoto",
+                    "hash": "7855534B",
+                    "url": "http://www.nyaa.se/?page=download&tid=530352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 09 (848x480 H264 AAC) [3900486C].mkv",
+                    "group": "Migoto",
+                    "hash": "3900486C",
+                    "url": "http://www.nyaa.se/?page=download&tid=530353",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-13T17:00:00",
+            "episode": 10,
+            "score": 4.9170787879,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Strange+ - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=532134",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 10 (1280x720 Hi10P AAC) [110F62EE].mkv",
+                    "group": "Migoto",
+                    "hash": "110F62EE",
+                    "url": "http://www.nyaa.se/?page=download&tid=533275",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 10 (848x480 H264 AAC) [A68FED01].mkv",
+                    "group": "Migoto",
+                    "hash": "A68FED01",
+                    "url": "http://www.nyaa.se/?page=download&tid=533276",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-20T17:00:00",
+            "episode": 11,
+            "score": 4.9086882353,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Strange+ - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=534258",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 11 (1280x720 Hi10P AAC) [A170868A].mkv",
+                    "group": "Migoto",
+                    "hash": "A170868A",
+                    "url": "http://www.nyaa.se/?page=download&tid=535463",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 11 (848x480 H264 AAC) [6866E105].mkv",
+                    "group": "Migoto",
+                    "hash": "6866E105",
+                    "url": "http://www.nyaa.se/?page=download&tid=535464",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-03-27T17:00:00",
+            "episode": 12,
+            "score": 5.1589230769,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Strange+ - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Strange+ - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=536646",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10P AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 12 (1280x720 Hi10P AAC) [69F7B6C7].mkv",
+                    "group": "Migoto",
+                    "hash": "69F7B6C7",
+                    "url": "http://www.nyaa.se/?page=download&tid=538173",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Migoto] Strange+ - 12 (848x480 H264 AAC) [842C7756].mkv",
+                    "group": "Migoto",
+                    "hash": "842C7756",
+                    "url": "http://www.nyaa.se/?page=download&tid=538174",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 10228,
+        "ann": 15731,
+        "mal": 21067,
+        "schedule": 3278
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Kou is searching for his older brother Takumi, who left home and has gone missing in the city. Worried that he's in trouble, Kou decides not to go home until he's found him, only to find him all too easily. Takumi, it turns out, has become head of the Mikuni Detective Agency, and has no intention of going back home. Kou decides that if he can't make Takumi return, then he'll join the agency himself.",
+            "type": "ann"
+        },
+        {
+            "content": "Kou is searching for his older brother Takumi, who left home and has gone missing in the city. Worried that he is in trouble, Kou decides not to go home until he has found him, only to find him all too easily. Takumi, it turns out, has become head of the Mikuni Detective Agency, and has no intention of going back home. Kou decides that if he cannot make Takumi return, then he will join the agency himself.Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 141,
+            "date": "2014-04-17T13:43:51",
+            "score": 4.64,
+            "type": "anidb"
+        },
+        {
+            "count": 142,
+            "date": "2014-04-15T14:26:44",
+            "score": 5.677,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Strange+"
+}

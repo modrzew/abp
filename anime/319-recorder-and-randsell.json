@@ -1,0 +1,822 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ea\u30b3\u30fc\u30c0\u30fc\u3068\u30e9\u30f3\u30c9\u30bb\u30eb"
+        },
+        {
+            "language": "pl",
+            "title": "Fujarka i Plecak"
+        }
+    ],
+    "aliases": [
+        "Recorder to Randoseru",
+        "Recorder to Randsell "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/890106575",
+            "content": "#anime #Zima2012 Recorder to Randsell (\u30ea\u30b3\u30fc\u30c0\u30fc\u3068\u30e9\u30f3\u30c9\u30bb\u30eb) http://rdir.pl/1mg1ur",
+            "episode": 1,
+            "filename": "ebcfbef4d24ffc2682dfe4fd7a607e93.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/158321265864740867"
+        },
+        {
+            "blip_url": "http://blip.pl/s/904751399",
+            "content": "Recorder and Randsell 03 - kolejny przyk\u0142ad choroby genetycznej u Japo\u0144czyk\u00f3w",
+            "episode": 3,
+            "filename": "d49c689ba37247cc2605358f497495dd.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/161247485921198080"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-01-06T17:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274303",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274304",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[CMS] Recorder to Randoseru 01 [720p][E7D94C81].mkv",
+                    "group": "CMS",
+                    "hash": "E7D94C81",
+                    "url": "http://www.nyaa.eu/?page=download&tid=274361",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Recorder to Randsell 01v2 [1280x720 x264 AAC][F5171E54].mkv",
+                    "group": "Hadena",
+                    "hash": "F5171E54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280341",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-01-11T17:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Recorder to Randsell 02 [848x480 x264 AAC][AD90F89C].mkv",
+                    "group": "Hadena",
+                    "hash": "AD90F89C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275619",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 10,
+                    "filename": "[Hadena] Recorder to Randsell 02 [1280x720 x264 AAC][6854EFDD].mkv",
+                    "group": "Hadena",
+                    "hash": "6854EFDD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=275902",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-18T17:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Recorder to Randsell 03 [1280x720 x264 AAC][6D29C203].mkv",
+                    "group": "Hadena",
+                    "hash": "6D29C203",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277915",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=277916",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Zero-HorribleSubs] Recorder to Randoseru - 03 [720p].mkv",
+                    "group": "Zero-HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278199",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Recorder to Randoseru 03 [720p][4E3DC817].mkv",
+                    "group": "CMS",
+                    "hash": "4E3DC817",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278367",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720][Hi10P]",
+                    "download_count": 2,
+                    "filename": "[CTSS-STINX] Recorder to Randoseru - 03 [H264 AAC 1280x720][Hi10P][ef36c2e5].mkv",
+                    "group": "CTSS-STINX",
+                    "hash": "ef36c2e5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=278474",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-01-25T17:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 12,
+                    "filename": "[Hadena] Recorder to Randsell 04 [1280x720 x264 AAC][F83A8748].mkv",
+                    "group": "Hadena",
+                    "hash": "F83A8748",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280048",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720][Hi10P]",
+                    "download_count": 2,
+                    "filename": "[CTSS-STINX] Recorder to Randoseru - 04 [H264 AAC 1280x720][Hi10P][72955d55].mkv",
+                    "group": "CTSS-STINX",
+                    "hash": "72955d55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=280589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[CMS] Recorder to Randoseru 04 [720p][587BDCCD].mkv",
+                    "group": "CMS",
+                    "hash": "587BDCCD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=281070",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-01T17:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Recorder to Randsell 05 [848x480 x264 AAC][10986BD0].mkv",
+                    "group": "Hadena",
+                    "hash": "10986BD0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282603",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 8,
+                    "filename": "[Hadena] Recorder to Randsell 05 [1280x720 x264 AAC][B68D1DFA].mkv",
+                    "group": "Hadena",
+                    "hash": "B68D1DFA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=282604",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283062",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Recorder to Randoseru - 05 [DFED8785].mkv",
+                    "group": "Asenshi",
+                    "hash": "DFED8785",
+                    "url": "http://www.nyaa.eu/?page=download&tid=283108",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[CMS] Recorder to Randoseru 05 [720p][0AEF8F5C].mkv",
+                    "group": "CMS",
+                    "hash": "0AEF8F5C",
+                    "url": "http://db.tt/jdl2hQJZ",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720][Hi10P]",
+                    "download_count": 1,
+                    "filename": "[CTSS-STINX] Recorder to Randoseru - 05 [H264 AAC 1280x720][Hi10P][42e77c15].mkv",
+                    "group": "CTSS-STINX",
+                    "hash": "42e77c15",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287017",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-08T17:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Recorder to Randsell 06 [848x480 x264 AAC][1F24D726].mkv",
+                    "group": "Hadena",
+                    "hash": "1F24D726",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 8,
+                    "filename": "[Hadena] Recorder to Randsell 06 [1280x720 x264 AAC][9F4E9AD8].mkv",
+                    "group": "Hadena",
+                    "hash": "9F4E9AD8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285118",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Asenshi] Recorder to Randoseru - 06 [C8F56D1F].mkv",
+                    "group": "Asenshi",
+                    "hash": "C8F56D1F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=285838",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Recorder to Randoseru 06 [720p][B174BF6A].mkv",
+                    "group": "CMS",
+                    "hash": "B174BF6A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=286435",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-15T17:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Recorder to Randsell 07 [1280x720 x264 AAC][FFB06544].mkv",
+                    "group": "Hadena",
+                    "hash": "FFB06544",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287237",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Recorder to Randsell 07 [848x480 x264 AAC][E9B6ADF8].mkv",
+                    "group": "Hadena",
+                    "hash": "E9B6ADF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287238",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Recorder to Randsell 07 [Hi10P 1280x720 x264 AAC][08FAAAF8].mkv",
+                    "group": "Hadena",
+                    "hash": "08FAAAF8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287483",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287748",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Asenshi] Recorder to Randoseru - 07 [FF5FF36A].mkv",
+                    "group": "Asenshi",
+                    "hash": "FF5FF36A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287821",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Recorder to Randoseru 07 [720p][F9674E8D].mkv",
+                    "group": "CMS",
+                    "hash": "F9674E8D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=287931",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-22T17:00:00",
+            "episode": 8,
+            "score": 6.8530538901,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Recorder to Randsell 08 [1280x720 x264 AAC][D41D2003].mkv",
+                    "group": "Hadena",
+                    "hash": "D41D2003",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2008%20%5B1280x720%20x264%20AAC%5D%5BD41D2003%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Recorder to Randsell 08 [848x480 x264 AAC][DAC7B7D6].mkv",
+                    "group": "Hadena",
+                    "hash": "DAC7B7D6",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2008%20%5B848x480%20x264%20AAC%5D%5BDAC7B7D6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Recorder to Randsell 08 [Hi10P 1280x720 x264 AAC][EE32F867].mkv",
+                    "group": "Hadena",
+                    "hash": "EE32F867",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2008%20%5BHi10P%201280x720%20x264%20AAC%5D%5BEE32F867%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=289975",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Asenshi] Recorder to Randoseru - 08 [98633377].mkv",
+                    "group": "Asenshi",
+                    "hash": "98633377",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290259",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Recorder to Randoseru 08 [720p][69467E2F].mkv",
+                    "group": "CMS",
+                    "hash": "69467E2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=290417",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-02-29T17:00:00",
+            "episode": 9,
+            "score": 6.8449251982,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Recorder to Randsell 09 [Hi10P 1280x720 x264 AAC][304B6041].mkv",
+                    "group": "Hadena",
+                    "hash": "304B6041",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2009%20%5BHi10P%201280x720%20x264%20AAC%5D%5B304B6041%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Recorder to Randsell 09 [1280x720 x264 AAC][1C4DCF03].mkv",
+                    "group": "Hadena",
+                    "hash": "1C4DCF03",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2009%20%5B1280x720%20x264%20AAC%5D%5B1C4DCF03%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Recorder to Randsell 09 [848x480 x264 AAC][ED3F4B36].mkv",
+                    "group": "Hadena",
+                    "hash": "ED3F4B36",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2009%20%5B848x480%20x264%20AAC%5D%5BED3F4B36%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292447",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Recorder to Randoseru - 09 [A922F570].mkv",
+                    "group": "Asenshi",
+                    "hash": "A922F570",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292660",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[CMS] Recorder to Randoseru 09 [720p][2ACF4061].mkv",
+                    "group": "CMS",
+                    "hash": "2ACF4061",
+                    "url": "http://www.nyaa.eu/?page=download&tid=292757",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-07T17:00:00",
+            "episode": 10,
+            "score": 6.8185481728,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 6,
+                    "filename": "[Hadena] Recorder to Randsell 10 [1280x720 x264 AAC][981F981E].mkv",
+                    "group": "Hadena",
+                    "hash": "981F981E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2010%20%5B1280x720%20x264%20AAC%5D%5B981F981E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Recorder to Randsell 10 [848x480 x264 AAC][938A59D0].mkv",
+                    "group": "Hadena",
+                    "hash": "938A59D0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2010%20%5B848x480%20x264%20AAC%5D%5B938A59D0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294371",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Asenshi] Recorder to Randoseru - 10 [7621506B].mkv",
+                    "group": "Asenshi",
+                    "hash": "7621506B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294452",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Recorder to Randoseru 10 [720p][DFF49333].mkv",
+                    "group": "CMS",
+                    "hash": "DFF49333",
+                    "url": "http://www.nyaa.eu/?page=download&tid=294631",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Recorder to Randsell 10 [Hi10P 1280x720 x264 AAC][5BAB1EF5].mkv",
+                    "group": "Hadena",
+                    "hash": "5BAB1EF5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=295951",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-14T17:00:00",
+            "episode": 11,
+            "score": 6.7907809131,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Recorder to Randsell 11 [Hi10P 1280x720 x264 AAC][D9FAA433].mkv",
+                    "group": "Hadena",
+                    "hash": "D9FAA433",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2011%20%5BHi10P%201280x720%20x264%20AAC%5D%5BD9FAA433%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Recorder to Randsell 11 [1280x720 x264 AAC][396F6205].mkv",
+                    "group": "Hadena",
+                    "hash": "396F6205",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2011%20%5B1280x720%20x264%20AAC%5D%5B396F6205%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Recorder to Randsell 11 [848x480 x264 AAC][4C478120].mkv",
+                    "group": "Hadena",
+                    "hash": "4C478120",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2011%20%5B848x480%20x264%20AAC%5D%5B4C478120%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Asenshi] Recorder to Randoseru - 11 [9E584521].mkv",
+                    "group": "Asenshi",
+                    "hash": "9E584521",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296546",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Recorder to Randoseru 11 [720p][4B340E0D].mkv",
+                    "group": "CMS",
+                    "hash": "4B340E0D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=296714",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-21T17:00:00",
+            "episode": 12,
+            "score": 6.7857916791,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Recorder to Randsell 12 [Hi10P 1280x720 x264 AAC][1DAD0560].mkv",
+                    "group": "Hadena",
+                    "hash": "1DAD0560",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2012%20%5BHi10P%201280x720%20x264%20AAC%5D%5B1DAD0560%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Recorder to Randsell 12 [1280x720 x264 AAC][E8251FA0].mkv",
+                    "group": "Hadena",
+                    "hash": "E8251FA0",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2012%20%5B1280x720%20x264%20AAC%5D%5BE8251FA0%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Recorder to Randsell 12 [848x480 x264 AAC][0C44AF16].mkv",
+                    "group": "Hadena",
+                    "hash": "0C44AF16",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2012%20%5B848x480%20x264%20AAC%5D%5B0C44AF16%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Asenshi] Recorder to Randoseru - 12 [987F4393].mkv",
+                    "group": "Asenshi",
+                    "hash": "987F4393",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298353",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Recorder to Randoseru 12 [720p][5D7AD852].mkv",
+                    "group": "CMS",
+                    "hash": "5D7AD852",
+                    "url": "http://www.nyaa.eu/?page=download&tid=298597",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-03-28T18:00:00",
+            "episode": 13,
+            "score": 6.6862155388,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Recorder to Randsell 13 [1280x720 x264 AAC][6E9570F1].mkv",
+                    "group": "Hadena",
+                    "hash": "6E9570F1",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2013%20%5B1280x720%20x264%20AAC%5D%5B6E9570F1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Recorder to Randsell 13 [848x480 x264 AAC][CC70BBCF].mkv",
+                    "group": "Hadena",
+                    "hash": "CC70BBCF",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2013%20%5B848x480%20x264%20AAC%5D%5BCC70BBCF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Recorder to Randsell 13 [Hi10P 1280x720 x264 AAC][58FE3C5F].mkv",
+                    "group": "Hadena",
+                    "hash": "58FE3C5F",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Recorder%20to%20Randsell%2013%20%5BHi10P%201280x720%20x264%20AAC%5D%5B58FE3C5F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Recorder to Randoseru - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300206",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Asenshi] Recorder to Randoseru - 13 [2D19A662].mkv",
+                    "group": "Asenshi",
+                    "hash": "2D19A662",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300371",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[CMS] Recorder to Randoseru 13 [720p][608E5D1E].mkv",
+                    "group": "CMS",
+                    "hash": "608E5D1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=300853",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 3,
+    "external_sites": {
+        "anidb": 8716,
+        "ann": 13499,
+        "mal": 11491,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "#anime #Zima2012 Recorder to Randsell (\u30ea\u30b3\u30fc\u30c0\u30fc\u3068\u30e9\u30f3\u30c9\u30bb\u30eb) http://rdir.pl/1mg1ur",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ebcfbef4d24ffc2682dfe4fd7a607e93.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/415d18caf12a048fbfa4bcac14f14341.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/65b2930db9935358f076e57cbc669877.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c52d13bff341ba81ef1c431197a39fad.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5cd283a3c98e98a74a5b04da5e4d60ce.jpg",
+            "hd": false
+        },
+        {
+            "description": "kolejny przyk\u0142ad choroby genetycznej u Japo\u0144czyk\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d49c689ba37247cc2605358f497495dd.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Miyagawa Atsushi jest uczniem podstaw\u00f3wki, kt\u00f3ry wygl\u0105da jak doros\u0142y m\u0119\u017cczyzna, natomiast jego siostra Atsumi - na odwr\u00f3t. On ci\u0105gle wpada w tarapaty, a ona opiekuje nim i jego fujark\u0105.",
+            "type": "abp"
+        },
+        {
+            "content": "The story revolves around Miyagawa Atsushi and his sister Miyagawa Atsumi. Atsushi looks like an adult at 180 centimetres (about 71 inches) tall, but he is actually an elementary school boy. Atsumi looks like a little girl at 137 centimetres (54 inches) tall, but she is actually in high school.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "The series is mainly about the Miyagawa siblings: Atsushi\u2014an elementary student whose build and appearance is the same as a typical adult man; and Atsumi\u2014his sister and a high school girl whose appearance is like an elementary student. They live everyday encountering misunderstandings and misadventures, most to be blamed to their ironic age/looks.",
+            "type": "ann"
+        },
+        {
+            "content": "Miyagawa Atsushi is an 11-year-old boy who is 180 centimeters tall. Since he has a grown-up looking build but acts his age, he has always been running into troubles. On the other hand, his 17-year-old elder sister Atsumi is only 137 centimeters tall. Even though she has a childish looking build, Atsumi takes good care of Atsushi.",
+            "type": "mal"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 7127,
+            "date": "2012-09-29T14:01:29",
+            "score": 6.79,
+            "type": "mal"
+        },
+        {
+            "count": 423,
+            "date": "2012-09-29T14:01:29",
+            "score": 6.05,
+            "type": "anidb"
+        },
+        {
+            "count": 321,
+            "date": "2012-09-29T14:01:29",
+            "score": 6.716,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Recorder and Randsell"
+}

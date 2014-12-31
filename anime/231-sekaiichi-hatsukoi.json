@@ -1,0 +1,451 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u4e16\u754c\u4e00\u521d\u604b"
+        },
+        {
+            "language": "pl",
+            "title": "Pierwsza w \u015awiecie Mi\u0142o\u015b\u0107"
+        }
+    ],
+    "aliases": [
+        "Sekai-ichi Hatsukoi",
+        "Sekai - ichi Hatsukoi",
+        "Sekaiichi Hatsukoi"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2011-04-08T18:05:00",
+            "episode": 1,
+            "score": 8.2890158172,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204767",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=204768",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[Ryuumaru]_Sekaiichi_Hatsukoi_-_01_[480p][A6525503].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "A6525503",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210510",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Ryuumaru]_Sekaiichi_Hatsukoi_-_01_[720p][23C943C9].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "23C943C9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210511",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-15T18:05:00",
+            "episode": 2,
+            "score": 8.2863130435,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206572",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=206582",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru]_Sekaiichi_Hatsukoi_-_02_[480p][D77A5BB1].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "D77A5BB1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210512",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Sekaiichi_Hatsukoi_-_02_[720p][3D43EFD6].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "3D43EFD6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210513",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-22T18:05:00",
+            "episode": 3,
+            "score": 8.3226864641,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208349",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=208351",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Ryuumaru]_Sekaiichi_Hatsukoi_-_03_[480p][C8BBDE72].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "C8BBDE72",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ryuumaru]_Sekaiichi_Hatsukoi_-_03_[720p][F82A1A6E].mkv",
+                    "group": "Ryuumaru",
+                    "hash": "F82A1A6E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210752",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-04-29T18:05:00",
+            "episode": 4,
+            "score": 8.3869609208,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=210322",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-06T18:05:00",
+            "episode": 5,
+            "score": 8.3835521445,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 05v2 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212029",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 05v2 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=212030",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2011-05-13T18:05:00",
+            "episode": 6,
+            "score": 8.3727257094,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=213732",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-20T18:05:00",
+            "episode": 7,
+            "score": 8.3734402921,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=215189",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-05-27T18:05:00",
+            "episode": 8,
+            "score": 8.3403888889,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216935",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=216936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hakuyasha] Sekai-ichi Hatsukoi 08 [720p].mkv",
+                    "group": "Hakuyasha",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=217529",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-03T18:05:00",
+            "episode": 9,
+            "score": 8.3876278996,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218602",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[SoftSubs] Sekai-ichi Hatsukoi - 09 [480p].mkv",
+                    "group": "SoftSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218615",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SoftSubs] Sekai-ichi Hatsukoi - 09 [720p].mkv",
+                    "group": "SoftSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=218616",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hakuyasha] Sekai-ichi Hatsukoi 09 [720p].mkv",
+                    "group": "Hakuyasha",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=219063",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-10T18:05:00",
+            "episode": 10,
+            "score": 8.3910355464,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220133",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=220134",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-17T18:05:00",
+            "episode": 11,
+            "score": 8.3906720044,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221767",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=221768",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-06-24T18:05:00",
+            "episode": 12,
+            "score": 8.3191503412,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223356",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Sekai-ichi Hatsukoi - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=223357",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8113,
+        "ann": 12218,
+        "mal": 9926,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Onodera Ritsu has just transferred from his father&#039;s publishing company to Marukawa Shoten. Assigned to the shoujo manga division, he crosses path with the person he&#039;d least expected to meet. Takano Masamune is the editor-in-chief of the division Ritsu&#039;s been assigned to, and the two seem get off on the wrong foot right from the very start when Takano unexpectedly kisses him. However, there is more to than what meets the eye: Takano is actually Saga, Ritsu&#039;s senpai and high school love, whom Ritsu had thought to have played him for a fool by taking his affections for granted when he confessed and summarily dumped him.",
+            "type": "mal"
+        },
+        {
+            "content": "Ritsu Onodera quit working for his father's company and transferred to work at the publishing company, Marukawa Shoten. To his dismay, he's assigned to edit shojo manga in which he has no interest or experience. He works with a strict boss, Takano Masamune, that he has trouble getting along with from the beginning. But, Onodera later discovers that he knows Takano from his past...Source: crunchyroll",
+            "type": "anidb"
+        },
+        {
+            "content": "Because Ritsu Onodera hates to rely on family connections he quits a job as a literature editor at his parents' company, Onodera Publishing, and winds up taking a job at Marukawa Books. To his chagrin, he is assigned to the sh\u014djo manga department in spite of having no interest or experience in it. And on top of that, he has an awful first impression of his high-handed editor-in-chief, Masamune Takano. What comes after is a story of first love full of tears and laughter.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 15314,
+            "date": "2012-09-29T13:14:46",
+            "score": 8.32,
+            "type": "mal"
+        },
+        {
+            "count": 269,
+            "date": "2012-09-29T13:14:46",
+            "score": 7.51,
+            "type": "anidb"
+        },
+        {
+            "count": 542,
+            "date": "2012-09-29T13:14:46",
+            "score": 7.704,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Sekaiichi Hatsukoi"
+}

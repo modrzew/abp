@@ -1,0 +1,934 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d5\u30ea\u30fc\uff01"
+        },
+        {
+            "language": "en",
+            "title": "Free!"
+        },
+        {
+            "language": "it",
+            "title": "Disponibile!"
+        },
+        {
+            "language": "la",
+            "title": "Vacuefacio!"
+        },
+        {
+            "language": "fr",
+            "title": "D\u00e9coincer!"
+        },
+        {
+            "language": "de",
+            "title": "Uneingeschr\u00e4nkt!"
+        },
+        {
+            "language": "pl",
+            "title": "Nieskr\u0119powany!"
+        }
+    ],
+    "aliases": [
+        "Free!",
+        "Free! - Eps.",
+        "Free"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-07-03T17:30:00",
+            "episode": 1,
+            "score": 7.6742441054,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=448957",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Free! - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=448961",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=448964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Free! - 01 [29F0B62D].mkv",
+                    "group": "Commie",
+                    "hash": "29F0B62D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=449000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Free! - 01v2 [FDE4299F].mkv",
+                    "group": "WhyNot",
+                    "hash": "FDE4299F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=449109",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[MangAnime-Bakushin]_Free!_-_Eps.01_[720p][C90769DA].mkv",
+                    "group": "MangAnime-Bakushin",
+                    "hash": "C90769DA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=449440",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free_-_01_[10bit][1280x720][88B07762].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "88B07762",
+                    "url": "http://www.nyaa.eu/?page=download&tid=449692",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[NSOnii]_Free!_-_01_[720p][72744FE8].mkv",
+                    "group": "NSOnii",
+                    "hash": "72744FE8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=449736",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-10T17:30:00",
+            "episode": 2,
+            "score": 7.7605497607,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Free! - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451257",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Free! - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451259",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Free! - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Free! - 02 [10A782E5].mkv",
+                    "group": "Commie",
+                    "hash": "10A782E5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451306",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 02 [A45B3AE9].mkv",
+                    "group": "WhyNot",
+                    "hash": "A45B3AE9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_02_[10bit][1280x720][E29CC0BD].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E29CC0BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451434",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 02 (1280x720 x264 AAC)[282C7709].mkv",
+                    "group": "NSOnii",
+                    "hash": "282C7709",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451415",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-17T17:30:00",
+            "episode": 3,
+            "score": 7.8330642936,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Free! - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453644",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Free! - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 03 [12DD9438].mkv",
+                    "group": "WhyNot",
+                    "hash": "12DD9438",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Free! - 03 [5FB684B5].mkv",
+                    "group": "Commie",
+                    "hash": "5FB684B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_03_[10bit][1280x720][723D8A7E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "723D8A7E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453977",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 03 (1280x720 x264 AAC)[7A0D1A79].mkv",
+                    "group": "NSOnii",
+                    "hash": "7A0D1A79",
+                    "url": "http://www.nyaa.eu/?page=download&tid=454079",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-24T17:30:00",
+            "episode": 4,
+            "score": 7.8738089219,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Free! - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455944",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455948",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Free! - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455947",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 04 [7795057C].mkv",
+                    "group": "WhyNot",
+                    "hash": "7795057C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456044",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Free! - 04 [0D8C6BB2].mkv",
+                    "group": "Commie",
+                    "hash": "0D8C6BB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456045",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_04_[10bit][1280x720][4EBB9BF3].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "4EBB9BF3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456120",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 04 (1280x720 x264 AAC)[4398881D].mkv",
+                    "group": "NSOnii",
+                    "hash": "4398881D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=456394",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-07T17:30:00",
+            "episode": 5,
+            "score": 7.8848621527,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Free! - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460816",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Free! - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460819",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460820",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 05 [F21D8C80].mkv",
+                    "group": "WhyNot",
+                    "hash": "F21D8C80",
+                    "url": "http://www.nyaa.se/?page=download&tid=460879",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Free! - 05 [40CD70C4].mkv",
+                    "group": "Commie",
+                    "hash": "40CD70C4",
+                    "url": "http://www.nyaa.se/?page=download&tid=460890",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_05_[10bit][1280x720][6ED08D21].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "6ED08D21",
+                    "url": "http://www.nyaa.se/?page=download&tid=461229",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 05 (1280x720 x264 AAC)[C95D0E73].mkv",
+                    "group": "NSOnii",
+                    "hash": "C95D0E73",
+                    "url": "http://www.nyaa.se/?page=download&tid=461280",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-14T17:30:00",
+            "episode": 6,
+            "score": 7.8752415538,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Free! - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463154",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Free! - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463155",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=463156",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Free! - 06 [294A3783].mkv",
+                    "group": "Commie",
+                    "hash": "294A3783",
+                    "url": "http://www.nyaa.se/?page=download&tid=463215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 06 [ACB2A60E].mkv",
+                    "group": "WhyNot",
+                    "hash": "ACB2A60E",
+                    "url": "http://www.nyaa.se/?page=download&tid=463235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_06_[10bit][1280x720][7DF9DC5E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7DF9DC5E",
+                    "url": "http://www.nyaa.se/?page=download&tid=463509",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 06 (1280x720 x264 AAC)[F0E84B5B].mkv",
+                    "group": "NSOnii",
+                    "hash": "F0E84B5B",
+                    "url": "http://www.nyaa.se/?page=download&tid=463568",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-21T17:30:00",
+            "episode": 7,
+            "score": 7.8770389268,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Free! - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=465451",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Free! - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=465452",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Free! - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=465457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Free! - 07 [69CCEFD6].mkv",
+                    "group": "Commie",
+                    "hash": "69CCEFD6",
+                    "url": "http://www.nyaa.se/?page=download&tid=465498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Free! - 07 [B8AC076F].mkv",
+                    "group": "WhyNot",
+                    "hash": "B8AC076F",
+                    "url": "http://www.nyaa.se/?page=download&tid=465538",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_07_[10bit][1280x720][C5E3F45B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "C5E3F45B",
+                    "url": "http://www.nyaa.se/?page=download&tid=465865",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 07 (1280x720 x264 AAC)[8DCA3DAC].mkv",
+                    "group": "NSOnii",
+                    "hash": "8DCA3DAC",
+                    "url": "http://www.nyaa.se/?page=download&tid=467383",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-28T17:30:00",
+            "episode": 8,
+            "score": 7.8879251873,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Free! - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=467560",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Free! - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=467561",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Free! - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=467562",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Free! - 08 [4C32835C].mkv",
+                    "group": "Commie",
+                    "hash": "4C32835C",
+                    "url": "http://www.nyaa.se/?page=download&tid=467596",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 08 [2D287730].mkv",
+                    "group": "WhyNot",
+                    "hash": "2D287730",
+                    "url": "http://www.nyaa.se/?page=download&tid=467641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[PuyaSubs!] Free! - 08 [720p][D47E9CD1].mkv",
+                    "group": "PuyaSubs!",
+                    "hash": "D47E9CD1",
+                    "url": "http://www.nyaa.se/?page=download&tid=467581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 08 (1280x720 x264 AAC)[C54595B2].mkv",
+                    "group": "NSOnii",
+                    "hash": "C54595B2",
+                    "url": "http://www.nyaa.se/?page=download&tid=468613",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_08_[10bit][1280x720][693BCC8E].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "693BCC8E",
+                    "url": "http://www.nyaa.se/?page=download&tid=468759",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-04T17:30:00",
+            "episode": 9,
+            "score": 7.8870337841,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Free! - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=469819",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Free! - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=469823",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=469833",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Commie] Free! - 09 [A61DFB1E].mkv",
+                    "group": "Commie",
+                    "hash": "A61DFB1E",
+                    "url": "http://www.nyaa.se/?page=download&tid=470084",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 09 [F3A773AA].mkv",
+                    "group": "WhyNot",
+                    "hash": "F3A773AA",
+                    "url": "http://www.nyaa.se/?page=download&tid=470562",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 09 (1280x720 x264 AAC)[ADFBB55B].mkv",
+                    "group": "NSOnii",
+                    "hash": "ADFBB55B",
+                    "url": "http://www.nyaa.se/?page=download&tid=471832",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_09_[10bit][1280x720][8563FA85].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "8563FA85",
+                    "url": "http://www.nyaa.se/?page=download&tid=472445",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-11T17:30:00",
+            "episode": 10,
+            "score": 7.8890423299,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472077",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Free! - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472078",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Free! - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=472099",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Free! - 10 [38BB370B].mkv",
+                    "group": "Commie",
+                    "hash": "38BB370B",
+                    "url": "http://www.nyaa.se/?page=download&tid=472155",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 10 [692693A9].mkv",
+                    "group": "WhyNot",
+                    "hash": "692693A9",
+                    "url": "http://www.nyaa.se/?page=download&tid=472836",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 0,
+                    "filename": "[NSOnii] Free! - 10 (1280x720 x264 AAC)[954E6F79].mkv",
+                    "group": "NSOnii",
+                    "hash": "954E6F79",
+                    "url": "http://www.nyaa.se/?page=download&tid=474239",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_10_[10bit][1280x720][A45B6D72].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A45B6D72",
+                    "url": "http://www.nyaa.se/?page=download&tid=475713",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-18T17:30:00",
+            "episode": 11,
+            "score": 8.0089116351,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Free! - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=474433",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Free! - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=474435",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Free! - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=474441",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Free! - 11 [9183FCCF].mkv",
+                    "group": "Commie",
+                    "hash": "9183FCCF",
+                    "url": "http://www.nyaa.se/?page=download&tid=474513",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Free! - 11 [C86F0B22].mkv",
+                    "group": "WhyNot",
+                    "hash": "C86F0B22",
+                    "url": "http://www.nyaa.se/?page=download&tid=474756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_11_[10bit][1280x720][19E019B9].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "19E019B9",
+                    "url": "http://www.nyaa.se/?page=download&tid=478100",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-09-25T17:30:00",
+            "episode": 12,
+            "score": 8.0240913928,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Free! - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=476785",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Free! - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=476787",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Free! - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=476790",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Free! - 12 [6733D6B3].mkv",
+                    "group": "Commie",
+                    "hash": "6733D6B3",
+                    "url": "http://www.nyaa.se/?page=download&tid=476802",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[WhyNot] Free! - 12 [730EDC82].mkv",
+                    "group": "WhyNot",
+                    "hash": "730EDC82",
+                    "url": "http://www.nyaa.se/?page=download&tid=477131",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Free!_-_12_END_[10bit][1280x720][99C7EC92].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "99C7EC92",
+                    "url": "http://www.nyaa.se/?page=download&tid=480676",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9858,
+        "ann": 15291,
+        "mal": 18507,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The story revolves around Haruka Nanase, a boy who has always loved to be immersed in water, and to swim in it. Before graduating from elementary school, he participated in a swimming tournament along with his fellow swimming club members, Makoto Tachibana, Nagisa Hazuki, and Rin Matsuoka. After achieving victory, each of the boys went their separate ways.  Time passed, and in the middle of their uneventful high school lives Rin appears and challenges Haruka to a match, showing Haruka his overwhelming power. Not wanting it to end like this, Haruka, gathers together Makoto and Nagisa once again and brings a new member named Rei Ryugazaki to create the Iwatobi High School Swimming Club in order to defeat Rin.  (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "The story revolves around Nanase Haruka, a boy who has always loved to be immersed in water, and to swim in it. Before graduating from elementary school, he participated in a swimming tournament along with his fellow swimming club members, Tachibana Makoto, Hazuki Nagisa and Matsuoka Rin. After achieving victory, each of the boys went their separate ways.Time passed, and in the middle of their uneventful high school lives Rin appears and challenges Haruka to a match, showing Haruka his overwhelming power. Not wanting it to end like this, Haruka, gathers together Makoto and Nagisa once again and brings a new member named Ryuugazaki Rei to create the Iwatobi High School Swimming Club in order to defeat Rin.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "Free! revolves around members of a high school boy's swimming team. Four boys\u2014Haruka, Makoto, Nagisa and Rin\u2014all participated in a swimming tournament shortly before graduating elementary school and later parted ways. Years later, they reunite when Rin challenges Haruka to a race and wins. Not wanting to be defeated so easily, Haruka gathers Makoto and Nagisa and a new recruit named Rei to form the Iwatobi High School Swimming Club.",
+            "type": "wiki"
+        },
+        {
+            "content": "Four boys named Haruka, Makoto, Nagisa and Rin all participated in a swimming tournament shortly before graduating elementary school and later parted ways. Years later, they reunite when Rin challenges Haruka to a race and wins. Not wanting to be defeated so easily, Haruka gathers Makoto and Nagisa and a new recruit named Rei to form the Iwatobi High School Swimming Club.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 21696,
+            "date": "2013-09-27T03:20:22",
+            "score": 8.05,
+            "type": "mal"
+        },
+        {
+            "count": 233,
+            "date": "2013-09-27T03:20:22",
+            "score": 6.8,
+            "type": "anidb"
+        },
+        {
+            "count": 436,
+            "date": "2013-09-27T03:20:22",
+            "score": 7.389,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Free!"
+}

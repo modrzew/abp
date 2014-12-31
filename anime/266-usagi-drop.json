@@ -1,0 +1,1335 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3046\u3055\u304e\u30c9\u30ed\u30c3\u30d7"
+        },
+        {
+            "language": "pl",
+            "title": "Kr\u00f3liczy Upust"
+        }
+    ],
+    "aliases": [
+        "Usagi Drop"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/599439891",
+            "content": "#anime #Lato2011 Usagi Drop (???????) http://rdir.pl/1j688w",
+            "episode": 1,
+            "filename": "d7572e6ce865aa7baa5f78690622d4a3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/89366585072041984"
+        },
+        {
+            "blip_url": "http://blip.pl/s/658882661",
+            "content": "Usagi Drop 06 - pami?tajcie, ?eby podczas zakup\u00f3w uwa?a? na duchy ma?ych dziewczynek z w\u00f3zkami sklepowymi",
+            "episode": 6,
+            "filename": "229de9aaeddadb3dc16887bb0c1a45ee.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/102055090709463042"
+        },
+        {
+            "blip_url": "http://blip.pl/s/671744365",
+            "content": "Usagi Drop 07 - Kouki is disappoint",
+            "episode": 7,
+            "filename": "aefbf76e5786c3d9bbbca8e1d696fdaf.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/105287434505424896"
+        },
+        {
+            "blip_url": "http://blip.pl/s/678405515",
+            "content": "Usagi Drop 08 - podaj mi piwo, kobieto!",
+            "episode": 8,
+            "filename": "78036cbe8664d3cb2b7de455c0db0c98.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/106808044750516224"
+        },
+        {
+            "blip_url": "http://blip.pl/s/690187345",
+            "content": "Usagi Drop 09 - Kouki zdecydowanie nie jest zachwycony faktem, ?e dzi? pierwszy dzie? szko?y",
+            "episode": 9,
+            "filename": "bcecd2e084bac2d78fa18173750fee6a.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/109588154671038465"
+        },
+        {
+            "blip_url": "http://blip.pl/s/702827661",
+            "content": "Usagi Drop 10 - am I kawaii? uguu~",
+            "episode": 10,
+            "filename": "3ec2f2209ee21f19a229d97db882c46d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/112658725671665664"
+        },
+        {
+            "blip_url": "http://blip.pl/s/714723731",
+            "content": "#anime #Lato2011 Usagi Drop (???????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1j688w)",
+            "episode": 11,
+            "filename": "c2cf4d409ba20517a1699b8df772125e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/115561686253056000"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-07T16:45:00",
+            "episode": 1,
+            "score": 8.4152944137,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226374",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226375",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 01 [654EB35F].mkv",
+                    "group": "Commie",
+                    "hash": "654EB35F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=226460",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 01 (1280x720 h264 AAC) [B7BB064E].mkv",
+                    "group": "Doki",
+                    "hash": "B7BB064E",
+                    "url": "http://tracker.minglong.org/torrents/Doki_Usagi_Drop_-_01_1280x720_h264_AAC_B7BB064E.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 01 (848x480 h264 AAC) [42EA9223].mkv",
+                    "group": "Doki",
+                    "hash": "42EA9223",
+                    "url": "http://tracker.minglong.org/torrents/Doki_Usagi_Drop_-_01_848x480_h264_AAC_42EA9223.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 01 (1280x720 x264 AAC) [E3CB6C70].mkv",
+                    "group": "Oyatsu",
+                    "hash": "E3CB6C70",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2001%20(1280x720%20x264%20AAC)%20%5BE3CB6C70%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 01v2 (1280x720 x264 AAC) [D0738522].mkv",
+                    "group": "Oyatsu",
+                    "hash": "D0738522",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2001v2%20(1280x720%20x264%20AAC)%20%5BD0738522%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_01_[1280x720][310D95B4].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "310D95B4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229071",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Usagi_Drop_-_01_[848x480_H.264_AAC][D7A2416D].mkv",
+                    "group": "Chihiro",
+                    "hash": "D7A2416D",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Usagi_Drop_-_01_%5B848x480_H.264_AAC%5D%5BD7A2416D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Usagi_Drop_-_01_[1280x720_H.264_AAC][540F78A7].mkv",
+                    "group": "Chihiro",
+                    "hash": "540F78A7",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Usagi_Drop_-_01_%5B1280x720_H.264_AAC%5D%5B540F78A7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_01_[720p][AC57ECD8].mkv",
+                    "group": "Taka",
+                    "hash": "AC57ECD8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229678",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_01_[480p][B6F4B81E].mkv",
+                    "group": "Taka",
+                    "hash": "B6F4B81E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229677",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-14T16:45:00",
+            "episode": 2,
+            "score": 8.4894942813,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228246",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228247",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 02 [C929F4A4].mkv",
+                    "group": "Commie",
+                    "hash": "C929F4A4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=228289",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 02 (848x480 h264 AAC) [49E836F2].mkv",
+                    "group": "Doki",
+                    "hash": "49E836F2",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_02_848x480_h264_AAC_49E836F2.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 02 (1280x720 h264 AAC) [401A8A02].mkv",
+                    "group": "Doki",
+                    "hash": "401A8A02",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_02_1280x720_h264_AAC_401A8A02.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 02 (1280x720 x264 AAC) [A405DF38].mkv",
+                    "group": "Oyatsu",
+                    "hash": "A405DF38",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2002%20(1280x720%20x264%20AAC)%20%5BA405DF38%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_02_[1280x720][DF16C530].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DF16C530",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229073",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_02_[480p][16A2B6C4].mkv",
+                    "group": "Taka",
+                    "hash": "16A2B6C4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231935",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_02_[720p][1A03BD81].mkv",
+                    "group": "Taka",
+                    "hash": "1A03BD81",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Usagi_Drop_-_02_[848x480_H.264_AAC][B89F2820].mkv",
+                    "group": "Chihiro",
+                    "hash": "B89F2820",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Usagi_Drop_-_02_%5B848x480_H.264_AAC%5D%5BB89F2820%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H.264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Chihiro]_Usagi_Drop_-_02_[1280x720_H.264_AAC][5F8FD0EF].mkv",
+                    "group": "Chihiro",
+                    "hash": "5F8FD0EF",
+                    "url": "http://tracker.minglong.org/torrents/%5BChihiro%5D_Usagi_Drop_-_02_%5B1280x720_H.264_AAC%5D%5B5F8FD0EF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 02.5 [BD 720p AAC] [81B18F97].mkv",
+                    "group": "Commie",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256776",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop 2.5 (1280x720 BD AAC) [BA947310].mkv",
+                    "group": "Oyatsu",
+                    "hash": "",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%202.5%20(1280x720%20BD%20AAC)%20%5BBA947310%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_2.5_[1280x720][E045CADD].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260151",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-21T16:45:00",
+            "episode": 3,
+            "score": 8.5479113157,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230124",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230125",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 03 [C2C6D8D4].mkv",
+                    "group": "Commie",
+                    "hash": "C2C6D8D4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230139",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 03 (1280x720 h264 AAC) [902F30AD].mkv",
+                    "group": "Doki",
+                    "hash": "902F30AD",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_03_1280x720_h264_AAC_902F30AD.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 03 (848x480 h264 AAC) [8B430D74].mkv",
+                    "group": "Doki",
+                    "hash": "8B430D74",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_03_848x480_h264_AAC_8B430D74.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 03 (1280x720 x264 AAC) [0511EEF8].mkv",
+                    "group": "Oyatsu",
+                    "hash": "0511EEF8",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2003%20(1280x720%20x264%20AAC)%20%5B0511EEF8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_03_[1280x720][591D14CB].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "591D14CB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=230912",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_03_[720p][BAE52EF1].mkv",
+                    "group": "Taka",
+                    "hash": "BAE52EF1",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_03_%5B720p%5D%5BBAE52EF1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_03_[480p][C1F6156B].mkv",
+                    "group": "Taka",
+                    "hash": "C1F6156B",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_03_%5B480p%5D%5BC1F6156B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Oyatsu] Usagi Drop 3.5 (1280x720 BD AAC) [F45B0840].mkv",
+                    "group": "Oyatsu",
+                    "hash": "",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%203.5%20(1280x720%20BD%20AAC)%20%5BF45B0840%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Oyatsu] Usagi Drop 3.5 (1920x1080 BD AAC) [3BD8DFF6].mkv",
+                    "group": "Oyatsu",
+                    "hash": "",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%203.5%20(1920x1080%20BD%20AAC)%20%5B3BD8DFF6%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_3.5_[1280x720][D0DCF06B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265216",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-28T16:45:00",
+            "episode": 4,
+            "score": 8.6120498163,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231984",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Horrible] Usagi Drop - 04 [480p].mkv",
+                    "group": "Horrible",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=231997",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Usagi Drop - 04 [A8083F5D].mkv",
+                    "group": "Commie",
+                    "hash": "A8083F5D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232072",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 04 (1280x720 h264 AAC) [94BD6B2E].mkv",
+                    "group": "Doki",
+                    "hash": "94BD6B2E",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_04_1280x720_h264_AAC_94BD6B2E.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 04 (848x480 h264 AAC) [00EF9944].mkv",
+                    "group": "Doki",
+                    "hash": "00EF9944",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_04_848x480_h264_AAC_00EF9944.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Usagi Drop - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=232112",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 04 (1280x720 x264 AAC) [7E7D36F3].mkv",
+                    "group": "Oyatsu",
+                    "hash": "7E7D36F3",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2004%20(1280x720%20x264%20AAC)%20%5B7E7D36F3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_04_[1280x720][B49242B9].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B49242B9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233181",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_04_[720p][6C5C16F6].mkv",
+                    "group": "Taka",
+                    "hash": "6C5C16F6",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_04_%5B720p%5D%5B6C5C16F6%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_04_[480p][BF3DC12A].mkv",
+                    "group": "Taka",
+                    "hash": "BF3DC12A",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_04_%5B480p%5D%5BBF3DC12A%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-04T16:45:00",
+            "episode": 5,
+            "score": 8.6578122367,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234028",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234030",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 05 (1280x720 h264 AAC) [58BED2F5].mkv",
+                    "group": "Doki",
+                    "hash": "58BED2F5",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_05_1280x720_h264_AAC_58BED2F5.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 05 (848x480 h264 AAC) [5FB41F04].mkv",
+                    "group": "Doki",
+                    "hash": "5FB41F04",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_05_848x480_h264_AAC_5FB41F04.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 05 [CA9B8995].mkv",
+                    "group": "Commie",
+                    "hash": "CA9B8995",
+                    "url": "http://www.nyaa.eu/?page=download&tid=234191",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 05 (1280x720 x264 AAC) [4E33BC9F].mkv",
+                    "group": "Oyatsu",
+                    "hash": "4E33BC9F",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2005%20(1280x720%20x264%20AAC)%20%5B4E33BC9F%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_05_[1280x720][DB80CDE0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "DB80CDE0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235264",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Taka]_Usagi_Drop_05_[720p][423AFCFA].mkv",
+                    "group": "Taka",
+                    "hash": "423AFCFA",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_05_%5B720p%5D%5B423AFCFA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Taka]_Usagi_Drop_05_[480p][A0B2E303].mkv",
+                    "group": "Taka",
+                    "hash": "A0B2E303",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_05_%5B480p%5D%5BA0B2E303%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-11T16:45:00",
+            "episode": 6,
+            "score": 8.685562224,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Usagi Drop - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Usagi Drop - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235916",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 06 (1280x720 h264 AAC) [9D814356].mkv",
+                    "group": "Doki",
+                    "hash": "9D814356",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_06_1280x720_h264_AAC_9D814356.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 06 (848x480 h264 AAC) [901A98FB].mkv",
+                    "group": "Doki",
+                    "hash": "901A98FB",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_06_848x480_h264_AAC_901A98FB.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Usagi Drop - 06 [549D4C84].mkv",
+                    "group": "Commie",
+                    "hash": "549D4C84",
+                    "url": "http://www.nyaa.eu/?page=download&tid=236260",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280\u00d7720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop \u2013 06 (1280\u00d7720 x264 AAC) [0BA3FFD4].mkv",
+                    "group": "Oyatsu",
+                    "hash": "0BA3FFD4",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20%E2%80%93%2006%20(1280%C3%97720%20x264%20AAC)%20%5B0BA3FFD4%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_06_[1280x720][A1133D1B].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "A1133D1B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_06_[480p][7FF16B9B].mkv",
+                    "group": "Taka",
+                    "hash": "7FF16B9B",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_06_%5B480p%5D%5B7FF16B9B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_06_[720p][68CF2D2B].mkv",
+                    "group": "Taka",
+                    "hash": "68CF2D2B",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_06_%5B720p%5D%5B68CF2D2B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Usagi Drop 6.5 (1280x720 BD AAC) [75997BBB].mkv",
+                    "group": "Oyatsu",
+                    "hash": "",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%206.5%20(1280x720%20BD%20AAC)%20%5B75997BBB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop 6.5 (1920x1080 BD AAC) [741610CB].mkv",
+                    "group": "Oyatsu",
+                    "hash": "",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%206.5%20(1920x1080%20BD%20AAC)%20%5B741610CB%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-18T16:45:00",
+            "episode": 7,
+            "score": 8.6974001509,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238092",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238097",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 07 (1280x720 h264 AAC) [FD1D5093].mkv",
+                    "group": "Doki",
+                    "hash": "FD1D5093",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_07_1280x720_h264_AAC_FD1D5093.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 07 (848x480 h264 AAC) [2AE3B055].mkv",
+                    "group": "Doki",
+                    "hash": "2AE3B055",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_07_848x480_h264_AAC_2AE3B055.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280\u00d7720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop \u2013 07 (1280\u00d7720 x264 AAC) [4FBAEEEA].mkv",
+                    "group": "Oyatsu",
+                    "hash": "4FBAEEEA",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20%E2%80%93%2007%20(1280%C3%97720%20x264%20AAC)%20%5B4FBAEEEA%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 07 [2F9020DB].mkv",
+                    "group": "Commie",
+                    "hash": "2F9020DB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=238804",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_07_[1280x720][02AA3D55].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "02AA3D55",
+                    "url": "http://goo.gl/FIm5J",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_07_[480p][62739F25].mkv",
+                    "group": "Taka",
+                    "hash": "62739F25",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_07_%5B480p%5D%5B62739F25%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_07_[720p][3379EB16].mkv",
+                    "group": "Taka",
+                    "hash": "3379EB16",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_07_%5B720p%5D%5B3379EB16%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-25T16:45:00",
+            "episode": 8,
+            "score": 8.7010719798,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Usagi Drop - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu.nyud.net/?page=download&tid=239978",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu.nyud.net/?page=download&tid=239981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Usagi Drop - 08 [720p][H.264][3A534C93].mkv",
+                    "group": "OX-",
+                    "hash": "3A534C93",
+                    "url": "http://1337x.org/download/235710/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 08 (1280x720 x264 AAC) [416ADF15].mkv",
+                    "group": "Oyatsu",
+                    "hash": "416ADF15",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2008%20(1280x720%20x264%20AAC)%20%5B416ADF15%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 08 (1280x720 h264 AAC) [2FE15F16].mkv",
+                    "group": "Doki",
+                    "hash": "2FE15F16",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_08_1280x720_h264_AAC_2FE15F16.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 08 (848x480 h264 AAC) [B7B0ADFA].mkv",
+                    "group": "Doki",
+                    "hash": "B7B0ADFA",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_08_848x480_h264_AAC_B7B0ADFA.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_08_[480p][4D61C4DF].mkv",
+                    "group": "Taka",
+                    "hash": "4D61C4DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_08_[720p][687EEBBD].mkv",
+                    "group": "Taka",
+                    "hash": "687EEBBD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246365",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-01T16:45:00",
+            "episode": 9,
+            "score": 8.7193000657,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242081",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242082",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Usagi Drop - 09 [720p][H.264][58B5632F].mkv",
+                    "group": "OX-",
+                    "hash": "58B5632F",
+                    "url": "http://1337x.org/download/237675/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 09 (1280x720 h264 AAC) [B0C0B7DA].mkv",
+                    "group": "Doki",
+                    "hash": "B0C0B7DA",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_09_1280x720_h264_AAC_B0C0B7DA.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 09 (848x480 h264 AAC) [5FC72C57].mkv",
+                    "group": "Doki",
+                    "hash": "5FC72C57",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_09_848x480_h264_AAC_5FC72C57.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 09 [1B7E4943].mkv",
+                    "group": "Commie",
+                    "hash": "1B7E4943",
+                    "url": "http://www.nyaa.eu/?page=download&tid=242493",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 09 (1280x720 x264 AAC) [40C974C8].mkv",
+                    "group": "Oyatsu",
+                    "hash": "40C974C8",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2009%20(1280x720%20x264%20AAC)%20%5B40C974C8%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_09_[1280x720][41C8507F].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "41C8507F",
+                    "url": "http://wilders.sleepsub.nl/torrents/%5BHatsuyuki%5D_Usagi_Drop_-_09_%5B1280x720%5D%5B41C8507F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_09_[480p][C3342969].mkv",
+                    "group": "Taka",
+                    "hash": "C3342969",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247218",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_09_[720p][E442A887].mkv",
+                    "group": "Taka",
+                    "hash": "E442A887",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247217",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-08T16:45:00",
+            "episode": 10,
+            "score": 8.7307196571,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243914",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243916",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Usagi Drop - 10 [720p][H.264][FC0A07D7].mkv",
+                    "group": "OX-",
+                    "hash": "FC0A07D7",
+                    "url": "http://1337x.org/download/240111/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 10 (1280x720 h264 AAC) [3BE33D62].mkv",
+                    "group": "Doki",
+                    "hash": "3BE33D62",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_10_1280x720_h264_AAC_3BE33D62.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 10 (848x480 h264 AAC) [5FFE9443].mkv",
+                    "group": "Doki",
+                    "hash": "5FFE9443",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_10_848x480_h264_AAC_5FFE9443.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 10 (1280x720 x264 AAC) [EA2A62C3].mkv",
+                    "group": "Oyatsu",
+                    "hash": "EA2A62C3",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2010%20(1280x720%20x264%20AAC)%20%5BEA2A62C3%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 10 [1C64D9DF].mkv",
+                    "group": "Commie",
+                    "hash": "1C64D9DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244379",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_10_[1280x720][328A6315].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "328A6315",
+                    "url": "http://wilders.sleepsub.nl/torrents/%5BHatsuyuki%5D_Usagi_Drop_-_10_%5B1280x720%5D%5B328A6315%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_10_[480p][2181CCCC].mkv",
+                    "group": "Taka",
+                    "hash": "2181CCCC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250425",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_10_[720p][70055CA2].mkv",
+                    "group": "Taka",
+                    "hash": "70055CA2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250426",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-15T16:45:00",
+            "episode": 11,
+            "score": 8.7869462615,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Usagi Drop - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][H.264]",
+                    "download_count": 1,
+                    "filename": "[OX-] Usagi Drop - 11 [720p][H.264][B8080E0D].mkv",
+                    "group": "OX-",
+                    "hash": "B8080E0D",
+                    "url": "http://1337x.org/download/242776/",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 11 (1280x720 h264 AAC) [264E0B63].mkv",
+                    "group": "Doki",
+                    "hash": "264E0B63",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_11_1280x720_h264_AAC_264E0B63.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Usagi Drop - 11 (848x480 h264 AAC) [A3519564].mkv",
+                    "group": "Doki",
+                    "hash": "A3519564",
+                    "url": "http://tracker.anime-index.org/Doki_Usagi_Drop_-_11_848x480_h264_AAC_A3519564.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Usagi Drop - 11 [CB268AB7].mkv",
+                    "group": "Commie",
+                    "hash": "CB268AB7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=245959",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Usagi Drop - 11 END (1280x720 x264 AAC) [63E84B8E].mkv",
+                    "group": "Oyatsu",
+                    "hash": "63E84B8E",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Usagi%20Drop%20-%2011%20END%20(1280x720%20x264%20AAC)%20%5B63E84B8E%5D.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Usagi_Drop_-_11_END_[1280x720][5284443D].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "5284443D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=247156",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_11_[480p][06F0F174].mkv",
+                    "group": "Taka",
+                    "hash": "06F0F174",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_11_%5B480p%5D%5B06F0F174%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Taka]_Usagi_Drop_11_[720p][23CDAC7E].mkv",
+                    "group": "Taka",
+                    "hash": "23CDAC7E",
+                    "url": "http://www.takafansubs.com/torrents/%5BTaka%5D_Usagi_Drop_11_%5B720p%5D%5B23CDAC7E%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 11,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8211,
+        "ann": 12398,
+        "mal": 10162,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Ooooj, ale impra by?a",
+            "filename": "http://s.modriv.net/abp/images/screencaps/482d5ab3d90cb68b7ec132ca3208cc90.jpg",
+            "hd": false
+        },
+        {
+            "description": "A dzisiaj poniedzia?ek, czyli do roboty, niech to...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/446166137994a108f8f1f21a08f7f4a0.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0fb8d653e24c072f0c2b6d0966f458a1.jpg",
+            "hd": false
+        },
+        {
+            "description": "what is this I don't even",
+            "filename": "http://s.modriv.net/abp/images/screencaps/19a6e8ad801f666433b41bd583de0cea.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Usagi Drop (???????) http://rdir.pl/1j688w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d7572e6ce865aa7baa5f78690622d4a3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/815a4f9e6d68e1b5293cb4143ee1a008.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/01c4e3c789f0d79be36229918709bdfd.jpg",
+            "hd": false
+        },
+        {
+            "description": "pami?tajcie, ?eby podczas zakup\u00f3w uwa?a? na duchy ma?ych dziewczynek z w\u00f3zkami sklepowymi",
+            "filename": "http://s.modriv.net/abp/images/screencaps/229de9aaeddadb3dc16887bb0c1a45ee.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/386b20cd12a3a75f99c5a9c882aef849.jpg",
+            "hd": false
+        },
+        {
+            "description": "dawa? mi tego dzieciaka, widzowie czekaj? na FABU??",
+            "filename": "http://s.modriv.net/abp/images/screencaps/463e72f7b1b62027b556becd232339a8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8000dbab32712f0bc2e6e572f6d9f953.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2643aee9214b3cc6895475ac46c99b07.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kouki is disappoint",
+            "filename": "http://s.modriv.net/abp/images/screencaps/aefbf76e5786c3d9bbbca8e1d696fdaf.jpg",
+            "hd": false
+        },
+        {
+            "description": "podaj mi piwo, kobieto!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/78036cbe8664d3cb2b7de455c0db0c98.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9f4a63ad992dd199b612d46639e14c07.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/291466ddfa184d84e48cd973d0166a20.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bbcc762ee75d5cd03a32236e68a6d8b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kouki zdecydowanie nie jest zachwycony faktem, ?e dzi? pierwszy dzie? szko?y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bcecd2e084bac2d78fa18173750fee6a.jpg",
+            "hd": false
+        },
+        {
+            "description": "am I kawaii? uguu~",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ec2f2209ee21f19a229d97db882c46d.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Usagi Drop (???????) - nasza ocena: ujdzie w t?oku (wi?cej: http://rdir.pl/1j688w)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c2cf4d409ba20517a1699b8df772125e.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Trzydziestolatek odziedzicza po swoim dziadku ma\u0142\u0105 dziewczynk\u0119, kt\u00f3ra jest jego ciotk\u0105. Od tej pory mieszkaj\u0105 razem.",
+            "type": "abp"
+        },
+        {
+            "content": "While attending his grandfather&#039;s funeral, thirty-year-old bachelor Daikichi is surprised to discover that his grandfather had an illegitimate child with an unknown mother! The rest of his family, fearing the obligation and embarrassment, want nothing to do with the silent little girl, Rin. Sensing her imminent abandonment and outraged by his complacent family members, Daikichi decides to adopt her himself! ...yet he may have underestimated the difficulty of balancing his work, family, and love life with his role as her guardian.",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on josei manga series Usagi Drop by Unita Yumi, serialised in Feel Young magazine.Going home for his grandfather's funeral, thirty-year-old bachelor Daikichi is floored to discover that the old man had an illegitimate child with a younger lover! The rest of his family is equally shocked and embarrassed by this surprise development, and not one of them wants anything to do with the silent little girl, Rin. In a fit of angry spontaneity, Daikichi decides to take her in himself! But will living with this overgrown teenager of man help Rin come out of her shell? And hang on, won't this turn of events spell doom for Daikichi's love life?!",
+            "type": "anidb"
+        },
+        {
+            "content": "Going home from his grandfather's funeral, thirty-year-old Daikichi is floored to discover that the old man had an illegitimate child with a younger lover. The rest of his family is equally shocked and embarrassed by this surprise development, and not one of them wants anything to do with the silent little girl, Rin Kaga. In a fit of anger, Daikichi decides to take her in himself. As Daikichi nurtures Rin, he started to understand the struggle while at the same time the joy of parenting.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 30518,
+            "date": "2012-09-29T13:34:52",
+            "score": 8.68,
+            "type": "mal"
+        },
+        {
+            "count": 2686,
+            "date": "2012-09-29T13:34:52",
+            "score": 8.88,
+            "type": "anidb"
+        },
+        {
+            "count": 1556,
+            "date": "2012-09-29T13:34:52",
+            "score": 8.896,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Usagi Drop"
+}

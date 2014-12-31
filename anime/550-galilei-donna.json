@@ -1,0 +1,883 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30ac\u30ea\u30ec\u30a4\u30c9\u30f3\u30ca"
+        },
+        {
+            "language": "pl",
+            "title": "Jaki\u015b Galileusz"
+        }
+    ],
+    "aliases": [
+        "Galilei Donna"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-10T17:50:00",
+            "episode": 1,
+            "score": 7.4153701773,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Galilei Donna - 01 [C9CF4AD3].mkv",
+                    "group": "FFF",
+                    "hash": "C9CF4AD3",
+                    "url": "http://www.nyaa.se/?page=download&tid=481996",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Galilei Donna - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=481644",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Galilei Donna - 01 [D5E88F36].mkv",
+                    "group": "Commie",
+                    "hash": "D5E88F36",
+                    "url": "http://www.nyaa.se/?page=download&tid=481770",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 01 v0 (1280x720 10bit AAC) [DF5C9400].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "DF5C9400",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2001%20v0%20(1280x720%2010bit%20AAC)%20%5BDF5C9400%5D.mkv.torrent",
+                    "version": 0
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 01 v1 (1280x720 10bit AAC) [2BEB7C4E].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "2BEB7C4E",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2001%20v1%20(1280x720%2010bit%20AAC)%20%5B2BEB7C4E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Galilei Donna - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Galilei Donna - 01 [E5C1B6A0].mkv",
+                    "group": "WhyNot",
+                    "hash": "E5C1B6A0",
+                    "url": "http://www.nyaa.se/?page=download&tid=481860",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-17T17:50:00",
+            "episode": 2,
+            "score": 7.3528822355,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483852",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Galilei Donna - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483854",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Galilei Donna - 02 [6D379869].mkv",
+                    "group": "Commie",
+                    "hash": "6D379869",
+                    "url": "http://www.nyaa.se/?page=download&tid=483904",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Galilei Donna - 02 [CCB78BDE].mkv",
+                    "group": "WhyNot",
+                    "hash": "CCB78BDE",
+                    "url": "http://www.nyaa.se/?page=download&tid=483975",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[FFF] Galilei Donna - 02 [FBB5E65F].mkv",
+                    "group": "FFF",
+                    "hash": "FBB5E65F",
+                    "url": "http://www.nyaa.se/?page=download&tid=484207",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna 02 (1280x720 10bit AAC) [D224FCB0].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "D224FCB0",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%2002%20(1280x720%2010bit%20AAC)%20%5BD224FCB0%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-24T17:50:00",
+            "episode": 3,
+            "score": 6.8928629442,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Galilei Donna - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486215",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Galilei Donna - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486217",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=486220",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Galilei Donna - 03 [08CCD2CC].mkv",
+                    "group": "Commie",
+                    "hash": "08CCD2CC",
+                    "url": "http://www.nyaa.se/?page=download&tid=486283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Galilei Donna - 03 [ECFCA895].mkv",
+                    "group": "WhyNot",
+                    "hash": "ECFCA895",
+                    "url": "http://www.nyaa.se/?page=download&tid=486346",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Galilei Donna - 03 [6FA31041].mkv",
+                    "group": "FFF",
+                    "hash": "6FA31041",
+                    "url": "http://www.nyaa.se/?page=download&tid=486634",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna 03 (1280x720 10bit AAC) [5CBDA923].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "5CBDA923",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%2003%20(1280x720%2010bit%20AAC)%20%5B5CBDA923%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-31T17:00:00",
+            "episode": 4,
+            "score": 6.6069196429,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488586",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Galilei Donna - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488594",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Galilei Donna - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=488598",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Galilei Donna - 04 [58647B8E].mkv",
+                    "group": "Commie",
+                    "hash": "58647B8E",
+                    "url": "http://www.nyaa.se/?page=download&tid=488654",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Galilei Donna - 04 [30B3CC57].mkv",
+                    "group": "WhyNot",
+                    "hash": "30B3CC57",
+                    "url": "http://www.nyaa.se/?page=download&tid=488708",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Galilei Donna - 04v2 [1C4C4291].mkv",
+                    "group": "WhyNot",
+                    "hash": "1C4C4291",
+                    "url": "http://www.nyaa.se/?page=download&tid=488760",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 04 (1280x720 10bit AAC) [AA2472AE].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "AA2472AE",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2004%20(1280x720%2010bit%20AAC)%20%5BAA2472AE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Galilei Donna - 04 [34D027CC].mkv",
+                    "group": "FFF",
+                    "hash": "34D027CC",
+                    "url": "http://www.nyaa.se/?page=download&tid=489010",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-07T17:00:00",
+            "episode": 5,
+            "score": 6.7080686695,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490889",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490891",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Galilei Donna - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=490892",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Galilei Donna - 05 [057CAD8B].mkv",
+                    "group": "Commie",
+                    "hash": "057CAD8B",
+                    "url": "http://www.nyaa.se/?page=download&tid=490942",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Galilei Donna - 05 [C42A007E].mkv",
+                    "group": "WhyNot",
+                    "hash": "C42A007E",
+                    "url": "http://www.nyaa.se/?page=download&tid=490983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[FFF] Galilei Donna - 05 [D1278120].mkv",
+                    "group": "FFF",
+                    "hash": "D1278120",
+                    "url": "http://www.nyaa.se/?page=download&tid=491153",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 05 (1280x720 10bit AAC) [BBFB2C0B].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "BBFB2C0B",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2005%20(1280x720%2010bit%20AAC)%20%5BBBFB2C0B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-14T16:50:00",
+            "episode": 6,
+            "score": 6.479844358,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493084",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=493085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Galilei Donna - 06 [D80F2AB0].mkv",
+                    "group": "Commie",
+                    "hash": "D80F2AB0",
+                    "url": "http://www.nyaa.se/?page=download&tid=493121",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Galilei Donna - 06 [43EC7934].mkv",
+                    "group": "WhyNot",
+                    "hash": "43EC7934",
+                    "url": "http://www.nyaa.se/?page=download&tid=493203",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[FFF] Galilei Donna - 06 [D4F63FD6].mkv",
+                    "group": "FFF",
+                    "hash": "D4F63FD6",
+                    "url": "http://www.nyaa.se/?page=download&tid=493369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 06 (1280x720 10bit AAC) [539D4BB6].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "539D4BB6",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2006%20(1280x720%2010bit%20AAC)%20%5B539D4BB6%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-21T16:50:00",
+            "episode": 7,
+            "score": 6.3648539326,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495249",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=495284",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Galilei Donna - 07 [A128F55D].mkv",
+                    "group": "Commie",
+                    "hash": "A128F55D",
+                    "url": "http://www.nyaa.se/?page=download&tid=495333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Galilei Donna - 07 [B1C6A178].mkv",
+                    "group": "WhyNot",
+                    "hash": "B1C6A178",
+                    "url": "http://www.nyaa.se/?page=download&tid=495349",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Galilei Donna - 07 [C6F4AC1F].mkv",
+                    "group": "FFF",
+                    "hash": "C6F4AC1F",
+                    "url": "http://www.nyaa.se/?page=download&tid=495601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 07 (1280x720 10bit AAC) [AB630455].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "AB630455",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2007%20(1280x720%2010bit%20AAC)%20%5BAB630455%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-28T16:50:00",
+            "episode": 8,
+            "score": 6.2012922535,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497621",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Galilei Donna - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497623",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=497664",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] Galilei Donna - 08 [15B6EC5D].mkv",
+                    "group": "Commie",
+                    "hash": "15B6EC5D",
+                    "url": "http://www.nyaa.se/?page=download&tid=497674",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Galilei_Donna_-_08_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://www.anirena.com/dl/5887",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Galilei Donna - 08 [CC8C59B9].mkv",
+                    "group": "FFF",
+                    "hash": "CC8C59B9",
+                    "url": "http://www.nyaa.se/?page=download&tid=498113",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 08 (1280x720 10bit AAC) [FA49668E].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "FA49668E",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2008%20(1280x720%2010bit%20AAC)%20%5BFA49668E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Galilei Donna - 08 [0667FC31].mkv",
+                    "group": "WhyNot",
+                    "hash": "0667FC31",
+                    "url": "http://www.nyaa.se/?page=download&tid=498278",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-05T16:50:00",
+            "episode": 9,
+            "score": 6.2089553265,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499657",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499658",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Galilei Donna - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=499663",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Galilei Donna - 09 [B31475C6].mkv",
+                    "group": "Commie",
+                    "hash": "B31475C6",
+                    "url": "http://www.nyaa.se/?page=download&tid=499709",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[WhyNot] Galilei Donna - 09 [80A48698].mkv",
+                    "group": "WhyNot",
+                    "hash": "80A48698",
+                    "url": "http://www.nyaa.se/?page=download&tid=499809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Galilei_Donna_-_09_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://www.anirena.com/dl/6003",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 09 (1280x720 10bit AAC) [A361B414].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "A361B414",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2009%20(1280x720%2010bit%20AAC)%20%5BA361B414%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Galilei Donna - 09 [AFBEF801].mkv",
+                    "group": "FFF",
+                    "hash": "AFBEF801",
+                    "url": "http://www.nyaa.se/?page=download&tid=500294",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-12T17:09:00",
+            "episode": 10,
+            "score": 6.2362781457,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501828",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=501833",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[Commie] Galilei Donna - 10 [BA662722].mkv",
+                    "group": "Commie",
+                    "hash": "BA662722",
+                    "url": "http://www.nyaa.se/?page=download&tid=501898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 10 (1280x720 10bit AAC) [E39BF929].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "E39BF929",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2010%20(1280x720%2010bit%20AAC)%20%5BE39BF929%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Galilei Donna - 10 [0E680C8B].mkv",
+                    "group": "WhyNot",
+                    "hash": "0E680C8B",
+                    "url": "http://www.nyaa.se/?page=download&tid=501994",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Galilei_Donna_-_10_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://www.anirena.com/dl/6123",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Galilei Donna - 10 [20C6936F].mkv",
+                    "group": "FFF",
+                    "hash": "20C6936F",
+                    "url": "http://www.nyaa.se/?page=download&tid=503077",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-12-19T17:00:00",
+            "episode": 11,
+            "score": 6.1451816239,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Galilei Donna - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503908",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503909",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Galilei Donna - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=503911",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Galilei Donna - 11 [99AA5317].mkv",
+                    "group": "Commie",
+                    "hash": "99AA5317",
+                    "url": "http://www.nyaa.se/?page=download&tid=503952",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 0,
+                    "filename": "(Hi10)_Galilei_Donna_-_11_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://www.anirena.com/dl/6210",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit AAC]",
+                    "download_count": 0,
+                    "filename": "[DameDesuYo] Galilei Donna - 11 (1280x720 10bit AAC) [25EB1143].mkv",
+                    "group": "DameDesuYo",
+                    "hash": "25EB1143",
+                    "url": "http://tracker.minglong.org/torrents/%5BDameDesuYo%5D%20Galilei%20Donna%20-%2011%20(1280x720%2010bit%20AAC)%20%5B25EB1143%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[WhyNot] Galilei Donna - 11 [FEFF557A].mkv",
+                    "group": "WhyNot",
+                    "hash": "FEFF557A",
+                    "url": "http://www.nyaa.se/?page=download&tid=504644",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[FFF] Galilei Donna - 11 [F2C4ECB6].mkv",
+                    "group": "FFF",
+                    "hash": "F2C4ECB6",
+                    "url": "http://www.nyaa.se/?page=download&tid=505661",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 9966,
+        "ann": 15497,
+        "mal": 19367,
+        "schedule": 3191
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The story is about three moons in the form of three of Italian astronomer Galileo's female descendants who are on international wanted lists.",
+            "type": "mal"
+        },
+        {
+            "content": "The story is about three moons in the form of three of Italian astronomer Galileo's female descendants who are on international wanted lists.",
+            "type": "anidb"
+        },
+        {
+            "content": "In 2061, global warming is a thing of the past as a new ice age covers the world. Hozuki, Hazaki, and Kazaki Ferrari, three descendents of Galileo, live in Tuscany. A mysterious organization is searching for the \"Galilei Donna,\" and put out an international arrest warrant for the three sisters. The sisters must put aside their differences to join forces in fighting the organization and learning their true destiny.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2767,
+            "date": "2013-10-27T04:06:37",
+            "score": 7.31,
+            "type": "mal"
+        },
+        {
+            "count": 351,
+            "date": "2014-01-09T04:20:40",
+            "score": 5.99,
+            "type": "anidb"
+        },
+        {
+            "count": 272,
+            "date": "2014-01-09T04:20:40",
+            "score": 6.237,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Galilei Donna"
+}

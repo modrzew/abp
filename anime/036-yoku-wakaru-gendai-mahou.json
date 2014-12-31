@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3088\u304f\u308f\u304b\u308b\u73fe\u4ee3\u9b54\u6cd5"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6332,
+        "ann": 10356,
+        "mal": 5454,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Przygody m\u0142odej adeptki wsp\u00f3\u0142czesnej magii, kt\u00f3rej najpot\u0119\u017cniejszym (i jedynym) zakl\u0119ciem jest wyczarowanie blaszanej miski, oraz jej przyjaci\u00f3\u0142.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on the light novel series by author Sakurazaka Hiroshi, with illustrations by Miyashita Miki.Life hasn't been fair to Morishita Koyomi. Even though she's in High School, she's so short that everyone assumes she's still in grade school. The boys and girls in her school tease her mercilessly and she's not exactly graceful either. On the other hand, she's still better off than Yumiko, who has a magician trying to kill her. Or at least Koyomi was until their paths crossed! Fortunately, salvation arrives in the form of master mage and graduate student Anehara Misa, who agrees to take Koyomi under her wing in learning the new style of magic, which breaks enchantment down into sequences of code. That will be quite a task, given that so far Koyomi's talent seems to consist of making washbasins randomly fall out of the sky. But if it was easy, it wouldn't be magic, would it? Get ready for a whole new kind of spelling lesson as Koyomi takes a desperately needed crash course in charm school.",
+            "type": "anidb"
+        },
+        {
+            "content": "The story revolves around Koyomi Morishita, a clumsy high school freshman girl who is often mistaken for a grade-schooler because of her shortness. Koyomi becomes a disciple of Misa Anehara, a 25-year-old graduate student who happens to be one of the most powerful modern-day magicians.     (Source: ANN)",
+            "type": "mal"
+        },
+        {
+            "content": "The story revolves around Koyomi Morishita, a clumsy high school freshman girl who is often mistaken for a grade-schooler because of her shortness. Koyomi becomes a disciple of Misa Anehara, a 25-year-old graduate student who happens to be one of the most powerful modern-day magicians.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 4161,
+            "date": "2012-09-29T02:08:11",
+            "score": 6.75,
+            "type": "mal"
+        },
+        {
+            "count": 603,
+            "date": "2012-09-29T02:08:11",
+            "score": 6.29,
+            "type": "anidb"
+        },
+        {
+            "count": 445,
+            "date": "2012-09-29T02:08:11",
+            "score": 6.452,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Yoku Wakaru Gendai Mahou"
+}

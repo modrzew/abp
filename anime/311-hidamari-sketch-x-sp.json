@@ -1,0 +1,120 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u3072\u3060\u307e\u308a\u30b9\u30b1\u30c3\u30c1\u00d7SP"
+        }
+    ],
+    "aliases": [
+        "Hidamari Sketch SP",
+        "Hidamari Sketch x SP"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2011-10-30T00:00:00",
+            "episode": 1,
+            "score": 8.16,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Nutbladder]_Hidamari_Sketch_SP_-_01_[D0C77CD2].mkv",
+                    "group": "Nutbladder",
+                    "hash": "D0C77CD2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256780",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Nutbladder-modified]",
+                    "download_count": 7,
+                    "filename": "[ReinWeiss] Hidamari Sketch SP - 01 [Nutbladder-modified].mkv",
+                    "group": "ReinWeiss",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=257504",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[AonE]_Hidamari_Sketch_x_SP_-_01_[EFE45A6A].mkv",
+                    "group": "AonE",
+                    "hash": "EFE45A6A",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Hidamari_Sketch_x_SP_-_01_%5BEFE45A6A%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-05T23:00:00",
+            "episode": 2,
+            "score": 8.1481550802,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Hidamari_Sketch_SP_-_02_[BC86F084].mkv",
+                    "group": "Nutbladder",
+                    "hash": "BC86F084",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258812",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit-480p]",
+                    "download_count": 1,
+                    "filename": "[Nutbladder]_Hidamari_Sketch_SP_-_02_[8bit-480p]_[AB526A46].mkv",
+                    "group": "Nutbladder",
+                    "hash": "AB526A46",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258813",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[AonE]_Hidamari_Sketch_x_SP_-_02_[D3CBE79F].mkv",
+                    "group": "AonE",
+                    "hash": "D3CBE79F",
+                    "url": "http://www.gotwoot.net/torrents/%5BAonE%5D_Hidamari_Sketch_x_SP_-_02_%5BD3CBE79F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 2,
+    "episodes_length": 30,
+    "external_sites": {
+        "anidb": 8577,
+        "ann": 13353,
+        "mal": 11237,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 1342,
+            "date": "2012-09-29T13:49:33",
+            "score": 8.13,
+            "type": "mal"
+        },
+        {
+            "count": 94,
+            "date": "2012-09-29T13:49:33",
+            "score": 7.889,
+            "type": "ann"
+        },
+        {
+            "count": 210,
+            "date": "2012-09-29T13:49:33",
+            "score": 7.68,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": true,
+    "sequel_parent": "104",
+    "title": "Hidamari Sketch x SP"
+}

@@ -1,0 +1,3388 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u8056\u95d8\u58eb\u661f\u77e2\u03a9"
+        },
+        {
+            "language": "pl",
+            "title": "Rycerze Zodiaku \u03a9"
+        }
+    ],
+    "aliases": [
+        "Saint Seiya Omega",
+        "Saint Seiya Omega -  "
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1104116779",
+            "content": "Saint Seiya \u03a9 02 - przyczajony Pegaz, Czekaj\u0105cy Lew",
+            "episode": 2,
+            "filename": "a7c3b6262bcd7c11fe051aabffcc1e5e.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190783270726803456"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1121959263",
+            "content": "Saint Seiya \u03a9 03 - latka lec\u0105, brzuszek ro\u015bnie",
+            "episode": 3,
+            "filename": "3be31da6c57b55b37970949f594bbe1b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/193063908414722048"
+        },
+        {
+            "blip_url": "http://blip.pl/s/1135673967",
+            "content": "Saint Seiya \u03a9 04 - fajnie wygl\u0105da, acz i tak zginie",
+            "episode": 4,
+            "filename": "3cbb86a94d62de2c446a1a1cbf1effd6.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/194844037184897025"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-03-31T23:30:00",
+            "episode": 1,
+            "score": 7.18575,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[uh] Saint Seiya Omega - 01 [B255D1EB].mkv",
+                    "group": "uh",
+                    "hash": "B255D1EB",
+                    "url": "http://db.tt/iitJ5DaG",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301933",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301934",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301935",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 5,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_ 01_[8bit][1280x720][27C91736].mkv",
+                    "group": "Tsuki",
+                    "hash": "27C91736",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302541",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 01.mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=302635",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 7,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 01v2 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=303682",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-04-07T23:30:00",
+            "episode": 2,
+            "score": 7.0417647059,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 5,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 02v2 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=303390",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304081",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304084",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304086",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_ 02_[1280x720][2D70DC55].mkv",
+                    "group": "Tsuki",
+                    "hash": "2D70DC55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304797",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-14T23:30:00",
+            "episode": 3,
+            "score": 7.0028520815,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 03 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=305224",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 03v2 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=305573",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306162",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306164",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_ 03_[1280x720][78EF4233].mkv",
+                    "group": "Tsuki",
+                    "hash": "78EF4233",
+                    "url": "http://www.nyaa.eu/?page=download&tid=306286",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-21T23:30:00",
+            "episode": 4,
+            "score": 6.9813202203,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 7,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 04 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=307777",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308474",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308475",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308476",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 5,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_ 04_[1280x720][80520576].mkv",
+                    "group": "Tsuki",
+                    "hash": "80520576",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310332",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-28T23:30:00",
+            "episode": 5,
+            "score": 6.9553302752,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 2,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 05 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=309740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310734",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310735",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_ 05_[1280x720][72239084].mkv",
+                    "group": "Tsuki",
+                    "hash": "72239084",
+                    "url": "http://www.nyaa.eu/?page=download&tid=311183",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-05T23:30:00",
+            "episode": 6,
+            "score": 6.920538411,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 06 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=312104",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312896",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_06_[1280x720][B333FC0B].mkv",
+                    "group": "Tsuki",
+                    "hash": "B333FC0B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313725",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-12T23:30:00",
+            "episode": 7,
+            "score": 6.90651875,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 07 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=314031",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314725",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314726",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=314727",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_07_[1280x720][F375E122].mkv",
+                    "group": "Tsuki",
+                    "hash": "F375E122",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316692",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-19T23:30:00",
+            "episode": 8,
+            "score": 6.8843329312,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 2,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 08 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=315953",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316698",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316699",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_08_[1280x720][4B42B876].mkv",
+                    "group": "Tsuki",
+                    "hash": "4B42B876",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318564",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-26T23:30:00",
+            "episode": 9,
+            "score": 6.8688878505,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 5,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 09 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317906",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318811",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 6,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_09_[1280x720][6A3016EA].mkv",
+                    "group": "Tsuki",
+                    "hash": "6A3016EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319546",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-02T23:30:00",
+            "episode": 10,
+            "score": 6.8599443207,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 10 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320765",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320766",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320768",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_10_[1280x720][30A9FAA4].mkv",
+                    "group": "Tsuki",
+                    "hash": "30A9FAA4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321580",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-09T23:30:00",
+            "episode": 11,
+            "score": 6.8414524064,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 3,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 11 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=322011",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322760",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322763",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_11_[1280x720][2F699A55].mkv",
+                    "group": "Tsuki",
+                    "hash": "2F699A55",
+                    "url": "http://www.nyaa.eu/?page=download&tid=323580",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-16T23:30:00",
+            "episode": 12,
+            "score": 6.8308076923,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 12 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=323881",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324540",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324541",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324544",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_12_[1280x720][B8564A50].mkv",
+                    "group": "Tsuki",
+                    "hash": "B8564A50",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326270",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-23T23:30:00",
+            "episode": 13,
+            "score": 6.8113910448,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 13 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=325488",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326478",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326479",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 13 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326480",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_13_[1280x720][F1E84FE6].mkv",
+                    "group": "Tsuki",
+                    "hash": "F1E84FE6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=327235",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-30T23:30:00",
+            "episode": 14,
+            "score": 6.8122509579,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 3,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 14 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=327575",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328718",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 14 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=328720",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_14_[1280x720][969A0168].mkv",
+                    "group": "Tsuki",
+                    "hash": "969A0168",
+                    "url": "http://www.nyaa.eu/?page=download&tid=330630",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-14T23:30:00",
+            "episode": 15,
+            "score": 6.7815974955,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333089",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 15 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333094",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 - x264 AAC - Hi10p]",
+                    "download_count": 0,
+                    "filename": "[ShinSekai] Saint Seiya Omega 15 [1280x720 - x264 AAC - Hi10p] [A8DEA1E2].mkv",
+                    "group": "ShinSekai",
+                    "hash": "A8DEA1E2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=333870",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_15_[1280x720][E3D1EFD9].mkv",
+                    "group": "Tsuki",
+                    "hash": "E3D1EFD9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 15 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=337850",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-21T23:30:00",
+            "episode": 16,
+            "score": 6.748381993,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335201",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 16 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=335202",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_16_[1280x720][70F9AEEF].mkv",
+                    "group": "Tsuki",
+                    "hash": "70F9AEEF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340058",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 0,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 16 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=341823",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-07-28T23:30:00",
+            "episode": 17,
+            "score": 6.7219777493,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 3,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 17 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=336788",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337417",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337420",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 17 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=337421",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_17_[1280x720][0867705E].mkv",
+                    "group": "Tsuki",
+                    "hash": "0867705E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340059",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-04T23:30:00",
+            "episode": 18,
+            "score": 6.7037892095,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 18 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=338975",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339739",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339741",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 18 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=339742",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_18_[1280x720][11E86924].mkv",
+                    "group": "Tsuki",
+                    "hash": "11E86924",
+                    "url": "http://www.nyaa.eu/?page=download&tid=340060",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-11T23:30:00",
+            "episode": 19,
+            "score": 6.6713659035,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 3,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 19 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=341198",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342159",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342160",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 19 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 10,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_19_[1280x720][CAE65151].mkv",
+                    "group": "Tsuki",
+                    "hash": "CAE65151",
+                    "url": "http://www.nyaa.eu/?page=download&tid=342435",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-18T23:30:00",
+            "episode": 20,
+            "score": 6.66021666,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 20 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=343402",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344577",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 20 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=344606",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_20_[1280x720][33E7D061].mkv",
+                    "group": "Tsuki",
+                    "hash": "33E7D061",
+                    "url": "http://www.nyaa.eu/?page=download&tid=345305",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-08-25T23:30:00",
+            "episode": 21,
+            "score": 6.6443478261,
+            "torrents": [
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 21 [10bit].mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=346083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346866",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 1,
+                    "filename": "[CR] Saint Seiya Omega - 21 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1669",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346868",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 21 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=346871",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[CR] Saint Seiya Omega - 21 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1670",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Saint Seiya Omega - 21 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1671",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_21_[1280x720][B38BAA02].mkv",
+                    "group": "Tsuki",
+                    "hash": "B38BAA02",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355341",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-01T23:30:00",
+            "episode": 22,
+            "score": 6.6452690238,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349246",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349247",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 22 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=349248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Saint Seiya Omega - 22 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1872",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Saint Seiya Omega - 22 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1874",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Saint Seiya Omega - 22 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&1876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 22.mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=349448",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_22_[1280x720][3E6C3F0D].mkv",
+                    "group": "Tsuki",
+                    "hash": "3E6C3F0D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355342",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-08T23:30:00",
+            "episode": 23,
+            "score": 6.6292208381,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 23.mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=350601",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 23 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 23 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351760",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 23 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=351761",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_23_[1280x720][E3854E36].mkv",
+                    "group": "Tsuki",
+                    "hash": "E3854E36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355343",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-15T23:30:00",
+            "episode": 24,
+            "score": 6.6155533259,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[BURNING COSMO] Saint Seiya Omega - 24.mkv",
+                    "group": "BURNING COSMO",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353044",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 24 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353981",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 24 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353982",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 24 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=353984",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_24_[1280x720][2536A8CB].mkv",
+                    "group": "Tsuki",
+                    "hash": "2536A8CB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=355344",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-22T23:30:00",
+            "episode": 25,
+            "score": 6.5967898975,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 25 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=356052",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 25 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=356053",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 25 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=356055",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_25_[1280x720][1545A4E7].mkv",
+                    "group": "Tsuki",
+                    "hash": "1545A4E7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360329",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-09-29T23:30:00",
+            "episode": 26,
+            "score": 6.5819946237,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 26 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358371",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 26 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358376",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 26 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358378",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 5,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_26_[1280x720][F12AA44C].mkv",
+                    "group": "Tsuki",
+                    "hash": "F12AA44C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360330",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-06T23:30:00",
+            "episode": 27,
+            "score": 6.5715441435,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 27 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360919",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 27 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360920",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 27 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360921",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_27_[1280x720][85E9829D].mkv",
+                    "group": "Tsuki",
+                    "hash": "85E9829D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374462",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-13T23:30:00",
+            "episode": 28,
+            "score": 6.5611744666,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 28 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363625",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 28 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363628",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 28 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363630",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_28_[1280x720][785A38F2].mkv",
+                    "group": "Tsuki",
+                    "hash": "785A38F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374463",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-20T23:30:00",
+            "episode": 29,
+            "score": 6.5627792916,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 29 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366307",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 29 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 29 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366315",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_29_[1280x720][F89719E9].mkv",
+                    "group": "Tsuki",
+                    "hash": "F89719E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374464",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-27T23:30:00",
+            "episode": 30,
+            "score": 6.5633704078,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 30 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368940",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 30 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368947",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 30 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368951",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_30_[1280x720][97E272C3].mkv",
+                    "group": "Tsuki",
+                    "hash": "97E272C3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374465",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-03T22:30:00",
+            "episode": 31,
+            "score": 6.5640225689,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 31 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371461",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 31 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371463",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 31 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371465",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_31_[1280x720][A463296C].mkv",
+                    "group": "Tsuki",
+                    "hash": "A463296C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374466",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-10T22:30:00",
+            "episode": 32,
+            "score": 6.5462836507,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 32 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374111",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 32 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 32 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374119",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_32_[1280x720][47D32B2F].mkv",
+                    "group": "Tsuki",
+                    "hash": "47D32B2F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374467",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-17T22:30:00",
+            "episode": 33,
+            "score": 6.5470039012,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 33 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376367",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 33 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 33 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376371",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_33_[1280x720][46D87464].mkv",
+                    "group": "Tsuki",
+                    "hash": "46D87464",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380008",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-24T22:30:00",
+            "episode": 34,
+            "score": 6.5479716312,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 34 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378651",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 34 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 34 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378657",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_34_[1280x720][42F9E80F].mkv",
+                    "group": "Tsuki",
+                    "hash": "42F9E80F",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380009",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-01T22:30:00",
+            "episode": 35,
+            "score": 6.5491914622,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 35 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380717",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 35 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380720",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 35 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380729",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_35_[1280x720][3EDE4EC7].mkv",
+                    "group": "Tsuki",
+                    "hash": "3EDE4EC7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386373",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-08T22:30:00",
+            "episode": 36,
+            "score": 6.542914403,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 36 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382858",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 36 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382855",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 36 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382861",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_36_[1280x720][C89045EB].mkv",
+                    "group": "Tsuki",
+                    "hash": "C89045EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386374",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-15T22:30:00",
+            "episode": 37,
+            "score": 6.532237325,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 37 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384804",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 37 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384808",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 37 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384812",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_37_[1280x720][D66BE518].mkv",
+                    "group": "Tsuki",
+                    "hash": "D66BE518",
+                    "url": "http://www.nyaa.eu/?page=download&tid=386375",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-22T22:30:00",
+            "episode": 38,
+            "score": 6.5321548822,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 38 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387085",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 38 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387088",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 38 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=387090",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_38_[1280x720][B76D2A54].mkv",
+                    "group": "Tsuki",
+                    "hash": "B76D2A54",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399182",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-05T22:30:00",
+            "episode": 39,
+            "score": 6.5254496564,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 39 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391251",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 39 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391253",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 39 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391256",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_39_[1280x720][322D8426].mkv",
+                    "group": "Tsuki",
+                    "hash": "322D8426",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399183",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-12T22:30:00",
+            "episode": 40,
+            "score": 6.5169742389,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 40 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393692",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 40 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393695",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 40 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=393696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_40_[1280x720][26612DFA].mkv",
+                    "group": "Tsuki",
+                    "hash": "26612DFA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399184",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-19T22:30:00",
+            "episode": 41,
+            "score": 6.5056528422,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 41 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396375",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 41 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396377",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 41 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396378",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_41_[1280x720][48A3ACA4].mkv",
+                    "group": "Tsuki",
+                    "hash": "48A3ACA4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399185",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-26T22:30:00",
+            "episode": 42,
+            "score": 6.5083063269,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 42 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=398809",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_42_[1280x720][B69AFEE4].mkv",
+                    "group": "Tsuki",
+                    "hash": "B69AFEE4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399186",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-02T22:30:00",
+            "episode": 43,
+            "score": 6.4949985888,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 43 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401298",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 43 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401302",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 43 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401304",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_43_[1280x720][D7A8F10A].mkv",
+                    "group": "Tsuki",
+                    "hash": "D7A8F10A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=402384",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-09T22:30:00",
+            "episode": 44,
+            "score": 6.4940195804,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 44 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 44 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403732",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 44 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=403739",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_44_[1280x720][1AB0E351].mkv",
+                    "group": "Tsuki",
+                    "hash": "1AB0E351",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404181",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-16T22:30:00",
+            "episode": 45,
+            "score": 6.4829227147,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 45 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 45 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406068",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 45 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406070",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_45_[1280x720][606BD701].mkv",
+                    "group": "Tsuki",
+                    "hash": "606BD701",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406563",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-23T22:30:00",
+            "episode": 46,
+            "score": 6.4733904788,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 46 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408379",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 46 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408382",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 46 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408405",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_46_[1280x720][00FF197D].mkv",
+                    "group": "Tsuki",
+                    "hash": "00FF197D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410630",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-02T22:30:00",
+            "episode": 47,
+            "score": 6.4734517185,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 47 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410742",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 47 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410744",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 47 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=410755",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_47_[1280x720][81F07FA0].mkv",
+                    "group": "Tsuki",
+                    "hash": "81F07FA0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411184",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-09T22:30:00",
+            "episode": 48,
+            "score": 6.4723556034,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 48 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413003",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 48 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413005",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 48 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413012",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_48_[1280x720][CCA65BA7].mkv",
+                    "group": "Tsuki",
+                    "hash": "CCA65BA7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413646",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-16T22:30:00",
+            "episode": 49,
+            "score": 6.4746579439,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 49 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415184",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 49 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 49 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415193",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_49_[1280x720][E9CA9E17].mkv",
+                    "group": "Tsuki",
+                    "hash": "E9CA9E17",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415958",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-23T22:30:00",
+            "episode": 50,
+            "score": 6.4725779067,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 50 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417357",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 50 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417358",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 50 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=417365",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_50_[1280x720][B7C26628].mkv",
+                    "group": "Tsuki",
+                    "hash": "B7C26628",
+                    "url": "http://www.nyaa.eu/?page=download&tid=418942",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-30T22:30:00",
+            "episode": 51,
+            "score": 6.4716212279,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 51 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419817",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 51 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419820",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 51 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=419823",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_51_[1280x720][199296EB].mkv",
+                    "group": "Tsuki",
+                    "hash": "199296EB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=421984",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-06T22:30:00",
+            "episode": 52,
+            "score": 6.464425978,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 52 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=422351",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 52 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=422352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 52 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=422354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_52_[1280x720][680461C2].mkv",
+                    "group": "Tsuki",
+                    "hash": "680461C2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=424848",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-13T23:30:00",
+            "episode": 53,
+            "score": 6.4651961529,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 53 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=424551",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 53 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=424553",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 53 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=424554",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_53_[1280x720][008E8232].mkv",
+                    "group": "Tsuki",
+                    "hash": "008E8232",
+                    "url": "http://www.nyaa.eu/?page=download&tid=425601",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-20T23:30:00",
+            "episode": 54,
+            "score": 6.4647249435,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 54 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=426962",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 54 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=426963",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 54 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=426964",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_54_[1280x720][7E37F9AA].mkv",
+                    "group": "Tsuki",
+                    "hash": "7E37F9AA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=428484",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-04-27T23:30:00",
+            "episode": 55,
+            "score": 6.4552837302,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 55 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=429388",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 55 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=429389",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 55 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=429391",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_55_[1280x720][F3CCD2AC].mkv",
+                    "group": "Tsuki",
+                    "hash": "F3CCD2AC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=435621",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-04T23:30:00",
+            "episode": 56,
+            "score": 6.461223177,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 56 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=431688",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 56 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=431689",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 56 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=431690",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_56_[1280x720][2F92FD9D].mkv",
+                    "group": "Tsuki",
+                    "hash": "2F92FD9D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=435622",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-11T23:30:00",
+            "episode": 57,
+            "score": 6.4521270151,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 57 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=433936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 57 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=433938",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 57 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=433941",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_57_[1280x720][69249EB5].mkv",
+                    "group": "Tsuki",
+                    "hash": "69249EB5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=435623",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-18T23:30:00",
+            "episode": 58,
+            "score": 6.441668523,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 58 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 58 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436001",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 58 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=436003",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_58_[1280x720][4C6024EA].mkv",
+                    "group": "Tsuki",
+                    "hash": "4C6024EA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=437369",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-05-25T23:30:00",
+            "episode": 59,
+            "score": 6.4405645703,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 59 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 59 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438164",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 59 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=438166",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_59_[1280x720][9CB75136].mkv",
+                    "group": "Tsuki",
+                    "hash": "9CB75136",
+                    "url": "http://www.nyaa.eu/?page=download&tid=440010",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-01T23:30:00",
+            "episode": 60,
+            "score": 6.4263547619,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 60 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=440240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 60 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=440241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 60 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=440243",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_60_[1280x720][06B70922].mkv",
+                    "group": "Tsuki",
+                    "hash": "06B70922",
+                    "url": "http://www.nyaa.eu/?page=download&tid=446014",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-08T23:30:00",
+            "episode": 61,
+            "score": 6.4264457062,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 61 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=442364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 61 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=442365",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 61 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=442366",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_61_[1280x720][26AD7A78].mkv",
+                    "group": "Tsuki",
+                    "hash": "26AD7A78",
+                    "url": "http://www.nyaa.eu/?page=download&tid=446015",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-15T23:30:00",
+            "episode": 62,
+            "score": 6.4267575972,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 62 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=446524",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 62 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=446527",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 62 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=446531",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_62_[1280x720][A727F85D].mkv",
+                    "group": "Tsuki",
+                    "hash": "A727F85D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=447270",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-06-22T23:30:00",
+            "episode": 63,
+            "score": 6.4273225806,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 63 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451251",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 63 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451252",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 63 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=451253",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_63_[1280x720][886046B8].mkv",
+                    "group": "Tsuki",
+                    "hash": "886046B8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453034",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-13T23:30:00",
+            "episode": 64,
+            "score": 6.4211877699,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 64 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 64 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453641",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 64 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=453643",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-20T23:30:00",
+            "episode": 65,
+            "score": 6.4134791901,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 65 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455937",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 65 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455939",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 65 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=455940",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-07-27T23:30:00",
+            "episode": 66,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 66 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=458409",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 66 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=458412",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 66 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=458413",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-03T23:30:00",
+            "episode": 67,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 67 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460812",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 67 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460813",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 67 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=460814",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-08-10T23:30:00",
+            "episode": 68,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-08-17T23:30:00",
+            "episode": 69,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-08-31T23:30:00",
+            "episode": 70,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-09-14T23:30:00",
+            "episode": 71,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-09-21T23:30:00",
+            "episode": 72,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2013-09-28T23:30:00",
+            "episode": 73,
+            "score": 6.3934886725,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 73 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478937",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 73 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478938",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 73 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=478943",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-05T23:30:00",
+            "episode": 74,
+            "score": 6.3937019798,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 74 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481353",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 74 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481357",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 74 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=481358",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-12T23:30:00",
+            "episode": 75,
+            "score": 6.403036952,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 75 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 75 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483581",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Saint Seiya Omega - 75 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=483590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Tsuki]_Saint_Seiya_Omega_-_75_[1280x720][958120D3].mkv",
+                    "group": "Tsuki",
+                    "hash": "958120D3",
+                    "url": "http://www.nyaa.se/?page=download&tid=484993",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8963,
+        "ann": 14016,
+        "mal": 12929,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Za 3 tygodnie matura....",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a9f6888af2bdfc5e57ee32ef42c7f6e7.jpg",
+            "hd": false
+        },
+        {
+            "description": "...a ty \u015bmieszne obrazki ogl\u0105dasz....",
+            "filename": "http://s.modriv.net/abp/images/screencaps/49f9c22691a97bf740bb28b5ca5dca9c.jpg",
+            "hd": false
+        },
+        {
+            "description": "...wstyd\u017a si\u0119",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7b72b086b6c0831c2773b2075dcb5b8d.jpg",
+            "hd": false
+        },
+        {
+            "description": "przyczajony Pegaz, Czekaj\u0105cy Lew",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a7c3b6262bcd7c11fe051aabffcc1e5e.jpg",
+            "hd": false
+        },
+        {
+            "description": "latka lec\u0105, brzuszek ro\u015bnie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3be31da6c57b55b37970949f594bbe1b.jpg",
+            "hd": false
+        },
+        {
+            "description": "R\u00f3wnouprawnienie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d1b68932cba9d6b7b4e318ae6114c2f.jpg",
+            "hd": false
+        },
+        {
+            "description": "fajnie wygl\u0105da, acz i tak zginie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3cbb86a94d62de2c446a1a1cbf1effd6.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 4468,
+            "date": "2013-10-27T08:15:41",
+            "score": 6.48,
+            "type": "mal"
+        },
+        {
+            "count": 169,
+            "date": "2013-10-21T08:04:52",
+            "score": 5.18,
+            "type": "anidb"
+        },
+        {
+            "count": 173,
+            "date": "2013-10-05T05:11:41",
+            "score": 5.619,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "Saint Seiya",
+    "title": "Saint Seiya \u03a9"
+}

@@ -1,0 +1,808 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30cf\u30e4\u30c6\u306e\u3054\u3068\u304f\uff01 CAN'T TAKE MY EYES OFF YOU"
+        },
+        {
+            "language": "pl",
+            "title": "Hayate Waleczny Lokaj: Przesta\u0107 Gapi\u0107 Si\u0119 Na Ciebie Nie Mog\u0119"
+        }
+    ],
+    "aliases": [
+        "Hayate no Gotoku Can't Take My Eyes Off You",
+        "Hayate no Gotoku! - Can't Take My Eyes Off You",
+        "Hayate no Gotoku - Cant Take My Eyes Off You",
+        "Hayate no Gotoku - Can't Take My Eyes Off You"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2012-10-03T19:05:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358367",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 01 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 01 [64CA1875].mkv",
+                    "group": "Commie",
+                    "hash": "64CA1875",
+                    "url": "http://www.nyaa.eu/?page=download&tid=358500",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[AniBlaze] Hayate no Gotoku Can't Take My Eyes Off You - 01 [720p][93272F33].mkv",
+                    "group": "AniBlaze",
+                    "hash": "93272F33",
+                    "url": "http://www.nyaa.eu/?page=download&tid=359659",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10p h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Hayate no Gotoku - Cant Take My Eyes Off You - 01 (1280x720 Hi10p h264 AAC) [7A5EBDA5].mkv",
+                    "group": "Shini-subs",
+                    "hash": "7A5EBDA5",
+                    "url": "http://tracker.shini-subs.com:6969/torrents/%5BShini-subs%5D%20Hayate%20no%20Gotoku%20-%20Cant%20Take%20My%20Eyes%20Off%20You%20-%2001%20%281280x720%20Hi10p%20h264%20AAC%29%20%5B7A5EBDA5%5D.mkv.torrent?C874ED248EF4B743983D8AA9657E7486DB73CB27",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Hayate no Gotoku - Cant Take My Eyes Off You - 01 (1280x720 h264 AAC) [A79701A2].mkv",
+                    "group": "Shini-subs",
+                    "hash": "A79701A2",
+                    "url": "http://tracker.shini-subs.com:6969/torrents/%5BShini-subs%5D%20Hayate%20no%20Gotoku%20-%20Cant%20Take%20My%20Eyes%20Off%20You%20-%2001%20%281280x720%20h264%20AAC%29%20%5BA79701A2%5D.mkv.torrent?BED70E08A083A235425E1F4F4A3E66EE0B9097B1",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Hayate no Gotoku - Cant Take My Eyes Off You - 01 (848x480 h264 AAC) [6142F1C4].mkv",
+                    "group": "Shini-subs",
+                    "hash": "6142F1C4",
+                    "url": "http://tracker.shini-subs.com:6969/torrents/%5BShini-subs%5D%20Hayate%20no%20Gotoku%20-%20Cant%20Take%20My%20Eyes%20Off%20You%20-%2001%20%28848x480%20h264%20AAC%29%20%5B6142F1C4%5D.mkv.torrent?C131B3E3DB8711C364496F4CDFCDEC852BCA7F71",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 01 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2347",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 01 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2350",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 01 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2353",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-10T19:05:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360881",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360882",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 02 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=360884",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 02 [8883B499].mkv",
+                    "group": "Commie",
+                    "hash": "8883B499",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361471",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10p h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Hayate no Gotoku - Cant Take My Eyes Off You - 02 (1280x720 Hi10p h264 AAC) [5817CFC9].mkv",
+                    "group": "Shini-subs",
+                    "hash": "5817CFC9",
+                    "url": "http://tracker.shini-subs.com:6969/torrents/%5BShini-subs%5D%20Hayate%20no%20Gotoku%20-%20Cant%20Take%20My%20Eyes%20Off%20You%20-%2002%20%281280x720%20Hi10p%20h264%20AAC%29%20%5B5817CFC9%5D.mkv.torrent?42DAB9E7217A1158D6117DDA796A5D8366A79491",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Hayate no Gotoku - Cant Take My Eyes Off You - 02 (1280x720 h264 AAC) [0B38BD62].mkv",
+                    "group": "Shini-subs",
+                    "hash": "0B38BD62",
+                    "url": "http://tracker.shini-subs.com:6969/torrents/%5BShini-subs%5D%20Hayate%20no%20Gotoku%20-%20Cant%20Take%20My%20Eyes%20Off%20You%20-%2002%20%281280x720%20h264%20AAC%29%20%5B0B38BD62%5D.mkv.torrent?C1EA2A56310E9EB77EA5E4FFB35509698975B144",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Hayate no Gotoku - Cant Take My Eyes Off You - 02 (848x480 h264 AAC) [A2051F06].mkv",
+                    "group": "Shini-subs",
+                    "hash": "A2051F06",
+                    "url": "http://tracker.shini-subs.com:6969/torrents/%5BShini-subs%5D%20Hayate%20no%20Gotoku%20-%20Cant%20Take%20My%20Eyes%20Off%20You%20-%2002%20%28848x480%20h264%20AAC%29%20%5BA2051F06%5D.mkv.torrent?15A400094CD898C0FDA02ABB06ACF36C2230ED93",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 02 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2348",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 02 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2351",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 02 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2354",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Aniblaze]_Hayate_no_Gotoku_Can't_Take_My_Eyes_Off_You_-_02_[720p][1DDD9740].mkv",
+                    "group": "Aniblaze",
+                    "hash": "1DDD9740",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371969",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-17T19:05:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363606",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363607",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 03 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363612",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 03 [5A3D41B4].mkv",
+                    "group": "Commie",
+                    "hash": "5A3D41B4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364097",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 03 [848x480].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2349",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 03 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2352",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku! - Can't Take My Eyes Off You - 03 [1920x1080].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2355",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[Aniblaze]_Hayate_no_Gotoku_Can't_Take_My_Eyes_Off_You_-_03_[720p][7EFA2141].mkv",
+                    "group": "Aniblaze",
+                    "hash": "7EFA2141",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371976",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 Hi10p h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Hayate no Gotoku - Can't Take My Eyes Off You - 03 (1280x720 Hi10p h264 AAC) [74398986].mkv",
+                    "group": "Shini-subs",
+                    "hash": "74398986",
+                    "url": "http://tracker.shini-subs.com/download.php?id=60e9cd2f51fa37ef57d823fad285e6b964436b66&f=%5BShini-subs%5D%20Hayate%20no%20Gotoku%20-%20Can%27t%20Take%20My%20Eyes%20Off%20You%20-%2003%20(1280x720%20Hi10p%20h264%20AAC)%20%5B74398986%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Shini-subs] Hayate no Gotoku - Can't Take My Eyes Off You - 03 (1280x720 h264 AAC) [D0F411F2].mkv",
+                    "group": "Shini-subs",
+                    "hash": "D0F411F2",
+                    "url": "http://tracker.shini-subs.com/download.php?id=52964576af3e763c076d287a60c04e4f29c56627&f=%5BShini-subs%5D%20Hayate%20no%20Gotoku%20-%20Can%27t%20Take%20My%20Eyes%20Off%20You%20-%2003%20(1280x720%20h264%20AAC)%20%5BD0F411F2%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-24T19:05:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366283",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366287",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 04 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366291",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 04 [E68A34D6].mkv",
+                    "group": "Commie",
+                    "hash": "E68A34D6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366908",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-31T18:05:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368976",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368977",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 05 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368989",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 05 [9C65C565].mkv",
+                    "group": "Commie",
+                    "hash": "9C65C565",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369535",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-07T18:05:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371438",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371439",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 06 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371440",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 06 [7B81625B].mkv",
+                    "group": "Commie",
+                    "hash": "7B81625B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 06v2 [D228C439].mkv",
+                    "group": "Commie",
+                    "hash": "D228C439",
+                    "url": "http://www.nyaa.eu/?page=download&tid=372084",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-11-14T18:05:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374072",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374082",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 07 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 07 [EDDCC847].mkv",
+                    "group": "Commie",
+                    "hash": "EDDCC847",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375232",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 07v2 [0D542B91].mkv",
+                    "group": "Commie",
+                    "hash": "0D542B91",
+                    "url": "http://www.nyaa.eu/?page=download&tid=375273",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-11-21T18:05:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376340",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376341",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 08 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376347",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku - Can't Take My Eyes Off You - 08 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2529",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 08 [3FB1AF40].mkv",
+                    "group": "Commie",
+                    "hash": "3FB1AF40",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379117",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 08v2 [FEA53453].mkv",
+                    "group": "Commie",
+                    "hash": "FEA53453",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382640",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-11-28T18:05:00",
+            "episode": 9,
+            "score": 6.9808261576,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378631",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378634",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 09 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378636",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Hayate no Gotoku - Can't Take My Eyes Off You - 09 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 09 [EA405197].mkv",
+                    "group": "Commie",
+                    "hash": "EA405197",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379118",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 09v2 [7C859DBF].mkv",
+                    "group": "Commie",
+                    "hash": "7C859DBF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382641",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2012-12-05T18:05:00",
+            "episode": 10,
+            "score": 6.9589818463,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380700",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 10 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=380730",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 10 [22963BC7].mkv",
+                    "group": "Commie",
+                    "hash": "22963BC7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382642",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-12T18:05:00",
+            "episode": 11,
+            "score": 6.9506053124,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382840",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382841",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 11 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=382843",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 11 [6F2DFA41].mkv",
+                    "group": "Commie",
+                    "hash": "6F2DFA41",
+                    "url": "http://www.nyaa.eu/?page=download&tid=388622",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-19T18:05:00",
+            "episode": 12,
+            "score": 6.9717060387,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384799",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384800",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1080p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Hayate no Gotoku Can't Take My Eyes Off You - 12 [1080p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=384801",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 12 [9DA15143].mkv",
+                    "group": "Commie",
+                    "hash": "9DA15143",
+                    "url": "http://www.nyaa.eu/?page=download&tid=388623",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9291,
+        "ann": 14552,
+        "mal": 14653,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [],
+    "ranks": [
+        {
+            "count": 2353,
+            "date": "2012-12-21T03:52:24",
+            "score": 7.08,
+            "type": "mal"
+        },
+        {
+            "count": 134,
+            "date": "2012-12-21T03:52:24",
+            "score": 5.62,
+            "type": "anidb"
+        },
+        {
+            "count": 146,
+            "date": "2012-12-21T03:52:24",
+            "score": 6.467,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2012
+    },
+    "sequel": true,
+    "sequel_parent": "Hayate no Gotoku!",
+    "title": "Hayate no Gotoku! Can't Take My Eyes Off You"
+}

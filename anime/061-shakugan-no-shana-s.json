@@ -1,0 +1,120 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u707c\u773c\u306e\u30b7\u30e3\u30ca S"
+        },
+        {
+            "language": "pl",
+            "title": "Ognistooka Shana S"
+        }
+    ],
+    "aliases": [
+        "Shakugan no Shana S"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/53341782",
+            "content": "Shakugan no Shana S 02 - ca\u0142y ten odcinek sprowadza\u0142 si\u0119 do jednej rzeczy, widocznej na obrazku...",
+            "episode": 2,
+            "filename": "fe64451103b0e12cd083c2fefdc70292.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/10249058590"
+        },
+        {
+            "blip_url": "http://blip.pl/s/176544476",
+            "content": "#anime #Jesie\u01442009 Shakugan no Shana S (\u707c\u773c\u306e\u30b7\u30e3\u30ca S) - nasza ocena: ogl\u0105daj tylko je\u015bli si\u0119 nudzisz (wi\u0119cej: http://rdir.pl/sy7my)",
+            "episode": 4,
+            "filename": "f0b16430acddc3b6e0827fc4ff7b7d51.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26305420327"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2009-10-23T00:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2010-02-26T00:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-25T00:00:00",
+            "episode": 3,
+            "score": 8.0265300569,
+            "torrents": []
+        },
+        {
+            "date": "2010-09-29T00:00:00",
+            "episode": 4,
+            "score": 7.8258366609,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 h264] ",
+                    "download_count": 1,
+                    "filename": "[SS-Eclipse] Shakugan no Shana S - 04 (1280x720 h264) [C47036F2].mkv",
+                    "group": "SS-Eclipse",
+                    "hash": "C47036F2",
+                    "url": "http://torrents.speedsubs.org/eclipse/%5bSS-Eclipse%5d%20Shakugan%20no%20Shana%20S%20-%2004%20(1280x720%20h264)%20%5bC47036F2%5d.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 4,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6757,
+        "ann": 10956,
+        "mal": 6572,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "ca\u0142y ten odcinek sprowadza\u0142 si\u0119 do jednej rzeczy, widocznej na obrazku...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/fe64451103b0e12cd083c2fefdc70292.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442009 Shakugan no Shana S (\u707c\u773c\u306e\u30b7\u30e3\u30ca S) - nasza ocena: ogl\u0105daj tylko je\u015bli si\u0119 nudzisz (wi\u0119cej: http://rdir.pl/sy7my)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f0b16430acddc3b6e0827fc4ff7b7d51.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Trzy niepowi\u0105zane ze sob\u0105 historie z \u017cycia Shany.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 13607,
+            "date": "2012-09-29T02:15:27",
+            "score": 7.64,
+            "type": "mal"
+        },
+        {
+            "count": 1067,
+            "date": "2012-09-29T02:15:27",
+            "score": 7.11,
+            "type": "anidb"
+        },
+        {
+            "count": 877,
+            "date": "2012-09-29T02:15:27",
+            "score": 7.659,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": true,
+    "sequel_parent": "Shakugan no Shana II",
+    "title": "Shakugan no Shana S"
+}

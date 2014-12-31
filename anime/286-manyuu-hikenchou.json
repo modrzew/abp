@@ -1,0 +1,554 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u9b54\u4e73\u79d8\u5263\u5e16"
+        },
+        {
+            "language": "pl",
+            "title": "Skryty Miecz i Tarcza Wied\u017amiego Mleka"
+        }
+    ],
+    "aliases": [
+        "Manyuu Hikenchou",
+        "Manyuu Hiken-chou"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/605622353",
+            "content": "#anime #Lato2011 Manyuu Hikenchou (?????) http://rdir.pl/1jez4y",
+            "episode": 1,
+            "filename": "9a89d4ef007bda5b7748e4b898c2d5ac.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/90907357860737025"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-07-10T18:00:00",
+            "episode": 1,
+            "score": 6.0693627451,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X]",
+                    "download_count": 3,
+                    "filename": "[Anon.]Manyuu_Hikenchou_-_01_(AT-X).mkv",
+                    "group": "Anon.",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC AT-X]",
+                    "download_count": 3,
+                    "filename": "[Anon.] Manyuu Hiken-chou - 01 (1280x720 x264 AAC AT-X).mkv",
+                    "group": "Anon.",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229119",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 01 [AT-X 1280x720 H264] [B4C966EE].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "B4C966EE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=229631",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-17T18:00:00",
+            "episode": 2,
+            "score": 5.7787212276,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 02 [AT-X 1280x720 H264] [016F3B65].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "016F3B65",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=232355",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-24T18:00:00",
+            "episode": 3,
+            "score": 5.7583300199,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 03 [AT-X 1280x720 H264] [C83EEA0E].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "C83EEA0E",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=233518",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Manyuu Hikenchou - 03 (1280x720) [D470E271].mkv",
+                    "group": "SubDESU",
+                    "hash": "D470E271",
+                    "url": "http://www.nyaa.eu/?page=download&tid=233590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Manyuu Hikenchou - 03 [10CA3D36].mkv",
+                    "group": "SubDESU",
+                    "hash": "10CA3D36",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235070",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-07-31T18:00:00",
+            "episode": 4,
+            "score": 5.8164080944,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 04 [AT-X 1280x720 H264] [237EBBCA].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "237EBBCA",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=235444",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Manyuu Hiken-chou - 04 (1280x720 x264 AAC) [7B80388E].mkv",
+                    "group": "SubDESU",
+                    "hash": "7B80388E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235595",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[DC][1280x720]",
+                    "download_count": 2,
+                    "filename": "[SubDESU] Manyuu Hikenchou - 04 ~DC~ (1280x720) [D8244AC8].mkv",
+                    "group": "SubDESU",
+                    "hash": "D8244AC8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=235681",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-07T18:00:00",
+            "episode": 5,
+            "score": 5.8720116618,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Manyuu Hikenchou - 05 [874AB560].mkv",
+                    "group": "SubDESU",
+                    "hash": "874AB560",
+                    "url": "http://www.nyaa.eu/?page=download&tid=237712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 05 [AT-X 1280x720 H264] [FA63C186].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "FA63C186",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=237843",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-14T18:00:00",
+            "episode": 6,
+            "score": 5.9024128686,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 5,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 06 [AT-X 1280x720 H264] [67DD873B].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "67DD873B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=239568",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[SubDESU] Manyuu Hikenchou - 06 [1E8D2B9A].mkv",
+                    "group": "SubDESU",
+                    "hash": "1E8D2B9A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244392",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-21T18:00:00",
+            "episode": 7,
+            "score": 5.8536953808,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 07 [AT-X 1280x720 H264] [39C3A512].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "39C3A512",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243527",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Manyuu Hikenchou - 07 [25129706].mkv",
+                    "group": "SubDESU",
+                    "hash": "25129706",
+                    "url": "http://www.nyaa.eu/?page=download&tid=244468",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_07_(1280x720_x264_AAC)_[892FE449].mkv",
+                    "group": "SubDESU",
+                    "hash": "892FE449",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270526",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080 x264 FLAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_07_(1920x1080_x264_FLAC)_[EA1AD48A].mkv",
+                    "group": "SubDESU",
+                    "hash": "EA1AD48A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270527",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-08-28T18:00:00",
+            "episode": 8,
+            "score": 5.8517751479,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Manyuu Hikenchou - 08 [A9D25803].mkv",
+                    "group": "SubDESU",
+                    "hash": "A9D25803",
+                    "url": "http://www.nyaa.eu/?page=download&tid=243712",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 6,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 08 [AT-X 1280x720 H264] [42E87526].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "42E87526",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=243985",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_08_(1280x720_x264_AAC)_[FAD05E8E].mkv",
+                    "group": "SubDESU",
+                    "hash": "FAD05E8E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270529",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080 x264 FLAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_08_(1920x1080_x264_FLAC)_[A33C29A3].mkv",
+                    "group": "SubDESU",
+                    "hash": "A33C29A3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270530",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-04T18:00:00",
+            "episode": 9,
+            "score": 5.9101096491,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_09_[2AE72AF7].mkv",
+                    "group": "SubDESU",
+                    "hash": "2AE72AF7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246255",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 09 [AT-X 1280x720 H264] [C023F9EE].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "C023F9EE",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=247385",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_09_(1280x720_x264_AAC)_[7F630CAC].mkv",
+                    "group": "SubDESU",
+                    "hash": "7F630CAC",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270531",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1920x1080 x264 FLAC]",
+                    "download_count": 4,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_09_(1920x1080_x264_FLAC)_[B0B903F2].mkv",
+                    "group": "SubDESU",
+                    "hash": "B0B903F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270532",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-11T18:00:00",
+            "episode": 10,
+            "score": 5.8859875905,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SubDESU] Manyuu Hikenchou - 10 [909BBD3C].mkv",
+                    "group": "SubDESU",
+                    "hash": "909BBD3C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=246116",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 10 [AT-X 1280x720 H264] [5022A363].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "5022A363",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=247622",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-18T18:00:00",
+            "episode": 11,
+            "score": 5.8674703557,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_11_[D56DCD5B].mkv",
+                    "group": "SubDESU",
+                    "hash": "D56DCD5B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249241",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 11 [AT-X 1280x720 H264] [49A8EB86].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "49A8EB86",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249823",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-09-25T18:00:00",
+            "episode": 12,
+            "score": 6.46,
+            "torrents": [
+                {
+                    "additional_info": "[AT-X 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu-Kira] Manyuu Hikenchou 12 [AT-X 1280x720 H264] [CE8E0A46].mkv",
+                    "group": "Hiryuu-Kira",
+                    "hash": "CE8E0A46",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=251240",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[SubDESU]_Manyuu_Hikenchou_-_12_[3CAE567C].mkv",
+                    "group": "SubDESU",
+                    "hash": "3CAE567C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251791",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8338,
+        "ann": 12728,
+        "mal": 10465,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5400f9502312570aa70a02411376317b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a95f16be99a2770f7c4ad11dfe001169.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/785f201e9d399de55b0ba80f1b0776fd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2e0ce6a12764a9921627d1910c972a59.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/29bb6be291f36f15d5442707bb624e43.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d57567453618e280187af44c74cae88d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8ff9834e689eae358e43c08c9dd6ab54.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/48909216450b435ff654dd9d37149c9d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/54d0f7c45f6ce1117baf8651ea832011.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c992776200b69bbf527aec84f4196a0c.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2069bfc64b905f36e76624d1b2b2995e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ad1a2e9aa5bf5d2c3f0838baeee18769.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/967b0eb80019166cc3feebdb496a7389.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a61d2ce75111bd2eec48aad87bb36de0.jpg",
+            "hd": false
+        },
+        {
+            "description": "SUDDENLY, BRAK CENZURY",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c5d00acec37c5ec7765738c72bd9414a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/42b1a38b15d64bc0268698e662f22459.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/661c1931aa7d508bc990417cf58242b7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/bb6da444c2409a656f180893ba1032f0.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2011 Manyuu Hikenchou (?????) http://rdir.pl/1jez4y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9a89d4ef007bda5b7748e4b898c2d5ac.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/14cfa885bf7cbcaddd44655ef9569ef9.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Era Taiheimeji - era, w kt\u00f3rej jedyne, co si\u0119 liczy, to rozmiar biustu. Im wi\u0119kszy, tym wi\u0119ksze uznanie w spo\u0142eczno\u015bci. Nieformalne rz\u0105dy sprawuje klan Manyuu: posiada tajny zw\u00f3j, na kt\u00f3rym zapisano instrukcje, jak wyhodowa\u0107 du\u017cy i zdrowy biust - jednocze\u015bnie dba o to, \u017ceby nikt nienale\u017c\u0105cy do klanu nie mia\u0142 du\u017cych cyck\u00f3w. Jednak\u017ce nie podoba si\u0119 to przysz\u0142ej g\u0142owie klanu, kt\u00f3ra wykrada tajny zw\u00f3j i postanawia walczy\u0107 z chorym systemem.",
+            "type": "abp"
+        },
+        {
+            "content": "It is currently the Taiheimeji Era. It is a reign ruled by the Tokugawa shogunate. Inside this shogunate, there is a group of warriors that support the government. They are the Manyuu Clan.    In this current era, breasts mean everything. If you have breasts, you are guaranteed wealth and popularity. If you lack them, you are rarely considered &ldquo;human&rdquo;. Members of the Manyuu Clan help raise the future big breasts. Written on a secret scroll possessed by the clan, there is said to be various techniques on how to grow big and beautiful breasts.    Chifusa is to be successor of the clan. However, she takes the secret scroll and runs away with it, hoping to fight against the cruel world that the Manyuu Clan has created&hellip;    (Source: Operation Boredom)",
+            "type": "mal"
+        },
+        {
+            "content": "It is currently the Taiheimeji Era. It is a reign ruled by the Tokugawa shogunate. Inside this shogunate, there is a group of warriors that support the government. They are the Manyuu Clan.In this current era, breasts mean everything. If you have breasts, you are guaranteed wealth and popularity. If you lack them, you are rarely considered human. Members of the Manyuu Clan help raise the future big breasts. Written on a secret scroll possessed by the clan, there is said to be various techniques on how to grow big and beautiful breasts.Chifusa is to be successor of the clan. However, she takes the secret scroll and runs away with it, hoping to fight against the cruel world that the Manyuu Clan has created...Source: Baka-Updates MangaNote: Although the regular TV broadcasts were censored (AT-X broadcast was semi-uncensored), the available web broadcast wasn't.",
+            "type": "anidb"
+        },
+        {
+            "content": "It is currently the Taiheimeji era, during the rule of the Tokugawa shogunate. In this era, breasts mean everything. If you have breasts, you are guaranteed wealth and popularity, but if you lack them, you are rarely considered human. Inside the shogunate, there is a group of warriors that support the government\u2014the Many\u016b Clan, which helps raise the future big breasts. Written on a secret scroll possessed by the clan, there are said to be various techniques on how to grow big and beautiful breasts. Chifusa is the heir of the clan. However, she takes the secret scroll and runs away with it, hoping to fight against the cruel world that the Many\u016b Clan has created\u2026",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 3158,
+            "date": "2012-09-29T13:40:57",
+            "score": 6.45,
+            "type": "mal"
+        },
+        {
+            "count": 350,
+            "date": "2012-09-29T13:40:57",
+            "score": 5.62,
+            "type": "anidb"
+        },
+        {
+            "count": 179,
+            "date": "2012-09-29T13:40:57",
+            "score": 5.593,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Manyuu Hikenchou"
+}

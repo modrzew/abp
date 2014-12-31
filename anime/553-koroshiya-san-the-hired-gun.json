@@ -1,0 +1,171 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u6bba\u3057\u5c4b\u3055\u3093 The hired gun"
+        },
+        {
+            "language": "pl",
+            "title": "Pan Zab\u00f3jca Wynaj\u0119ty Pistolet"
+        }
+    ],
+    "aliases": [
+        "Koroshiya-san "
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2013-10-10T18:00:00",
+            "episode": 1,
+            "score": 5.4510344828,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[IB] Koroshiya-san 01 [720p] [53607315].mkv",
+                    "group": "IB",
+                    "hash": "53607315",
+                    "url": "http://www.nyaa.se/?page=download&tid=485449",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-17T18:00:00",
+            "episode": 2,
+            "score": 5.6407142857,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[IB] Koroshiya-san 02 [720p] [00190CC4].mkv",
+                    "group": "IB",
+                    "hash": "00190CC4",
+                    "url": "http://www.nyaa.se/?page=download&tid=485451",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[IB] Koroshiya-san 02 [720p] [A8485DA0].mkv",
+                    "group": "IB",
+                    "hash": "A8485DA0",
+                    "url": "http://www.nyaa.se/?page=download&tid=485463",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-24T18:00:00",
+            "episode": 3,
+            "score": 4.56,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[IB] Koroshiya-san 03 [720p] [0D379CA9].mkv",
+                    "group": "IB",
+                    "hash": "0D379CA9",
+                    "url": "http://www.nyaa.se/?page=download&tid=488039",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-10-31T17:00:00",
+            "episode": 4,
+            "score": 4.77,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 0,
+                    "filename": "[IB] Koroshiya-san 04 [720p] [1FFC8937].mkv",
+                    "group": "IB",
+                    "hash": "1FFC8937",
+                    "url": "http://www.nyaa.se/?page=download&tid=499518",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-11-07T17:00:00",
+            "episode": 5,
+            "score": 4.77,
+            "torrents": []
+        },
+        {
+            "date": "2013-11-14T17:00:00",
+            "episode": 6,
+            "score": 4.77,
+            "torrents": []
+        },
+        {
+            "date": "2013-11-21T17:00:00",
+            "episode": 7,
+            "score": 4.83,
+            "torrents": []
+        },
+        {
+            "date": "2013-11-28T17:00:00",
+            "episode": 8,
+            "score": 4.88,
+            "torrents": []
+        },
+        {
+            "date": "2013-12-05T17:00:00",
+            "episode": 9,
+            "score": 5.02,
+            "torrents": []
+        },
+        {
+            "date": "2013-12-12T17:00:00",
+            "episode": 10,
+            "score": 5.19,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 9979,
+        "ann": 15569,
+        "mal": 20329,
+        "schedule": 3204
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "The comedy story follows the title character, who is regarded by himself and others as the best hit man in Japan. He goes by the motto, \"If I have an assignment, I will kill anything.\" However, his \"killing\" assignments have expanded to include everything from summer vacation homework to housekeeping. \"The hit man never fails to kill the target. Though he does not aim to, he also never misses the laughter.\"",
+            "type": "mal"
+        },
+        {
+            "content": "The comedy story follows the title character, who is regarded by himself and others as the best hit man in Japan. He goes by the motto, \"If I have an assignment, I will kill anything.\" However, his \"killing\" assignments have expanded to include everything from summer vacation homework to housekeeping. \"The hit man never fails to kill the target. Though he does not aim to, he also never misses the laughter.\"",
+            "type": "anidb"
+        },
+        {
+            "content": "The Hired Gun is Japan's #1 hitman who lives by the motto \"Whatever the request, I'll kill it.\" But he's just as likely to be \"killing\" summer homework or a housewife's chores as it is a human.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 217,
+            "date": "2013-10-27T05:42:34",
+            "score": 5.91,
+            "type": "mal"
+        },
+        {
+            "count": 45,
+            "date": "2014-01-01T05:21:05",
+            "score": 4.83,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2013
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Koroshiya-san: The Hired Gun"
+}

@@ -1,0 +1,655 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u661f\u523b\u306e\u7adc\u9a0e\u58eb"
+        }
+    ],
+    "aliases": [
+        "Seikoku no Dragonar"
+    ],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2014-04-05T13:30:00",
+            "episode": 1,
+            "score": 6.37,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=539590",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=539591",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Watashi-Koi]_Seikoku_no_Dragonar_-_01_[720p][996638C8].mkv",
+                    "group": "Watashi-Koi",
+                    "hash": "996638C8",
+                    "url": "http://www.nyaa.se/?page=download&tid=539821",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 01 (1280x720 10bit h264 AAC) [E7EF9FB3].mkv",
+                    "group": "Oyatsu",
+                    "hash": "E7EF9FB3",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2001%20(1280x720%2010bit%20h264%20AAC)%20%5BE7EF9FB3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Watashi-Koi]_Seikoku_no_Dragonar_-_01v2_[720p][39AC3370].mkv",
+                    "group": "Watashi-Koi",
+                    "hash": "39AC3370",
+                    "url": "http://www.nyaa.se/?page=download&tid=540175",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Watashi-Koi]_Seikoku_no_Dragonar_-_01v2_[720p][44B81F8D].mkv",
+                    "group": "Watashi-Koi",
+                    "hash": "44B81F8D",
+                    "url": "http://www.nyaa.se/?page=download&tid=540195",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[FFF] Seikoku no Dragonar - 01 [1FB538B5].mkv",
+                    "group": "FFF",
+                    "hash": "1FB538B5",
+                    "url": "http://www.nyaa.se/?page=download&tid=540252",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Seikoku_no_Dragonar_-_01_[1280x720][B547B7C5].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "B547B7C5",
+                    "url": "http://www.nyaa.se/?page=download&tid=541310",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-12T13:30:00",
+            "episode": 2,
+            "score": 6.0,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=542171",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=542172",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[FFF] Seikoku no Dragonar - 02 [152B1D1E].mkv",
+                    "group": "FFF",
+                    "hash": "152B1D1E",
+                    "url": "http://www.nyaa.se/?page=download&tid=542443",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 02 (1280x720 10bit h264 AAC) [08238309].mkv",
+                    "group": "Oyatsu",
+                    "hash": "08238309",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2002%20(1280x720%2010bit%20h264%20AAC)%20%5B08238309%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Seikoku no Dragonar - 02 [88918709].mkv",
+                    "group": "FFF",
+                    "hash": "88918709",
+                    "url": "http://www.nyaa.se/?page=download&tid=542685",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki]_Seikoku_no_Dragonar_-_02_[1280x720][7877D9E0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "7877D9E0",
+                    "url": "http://www.nyaa.se/?page=download&tid=544738",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-19T13:30:00",
+            "episode": 3,
+            "score": 5.95,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=544919",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=544925",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 03 (1280x720 10bit h264 AAC) [E725B13E].mkv",
+                    "group": "Oyatsu",
+                    "hash": "E725B13E",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2003%20(1280x720%2010bit%20h264%20AAC)%20%5BE725B13E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[FFF] Seikoku no Dragonar - 03 [E6A1FC3B].mkv",
+                    "group": "FFF",
+                    "hash": "E6A1FC3B",
+                    "url": "http://www.nyaa.se/?page=download&tid=545573",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[Hatsuyuki]_Seikoku_no_Dragonar_-_03_[1280x720][8B5456D7].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "8B5456D7",
+                    "url": "http://www.nyaa.se/?page=download&tid=547008",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-04-26T13:30:00",
+            "episode": 4,
+            "score": 5.6667164179,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=547701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=547702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 04 (1280x720 10bit h264 AAC) [8E5692E4].mkv",
+                    "group": "Oyatsu",
+                    "hash": "8E5692E4",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2004%20(1280x720%2010bit%20h264%20AAC)%20%5B8E5692E4%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Seikoku no Dragonar - 04 [FDE586CB].mkv",
+                    "group": "FFF",
+                    "hash": "FDE586CB",
+                    "url": "http://www.nyaa.se/?page=download&tid=548922",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Seikoku_no_Dragonar_-_04_[1280x720][E49C7EC0].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "E49C7EC0",
+                    "url": "http://www.nyaa.se/?page=download&tid=568469",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-03T13:30:00",
+            "episode": 5,
+            "score": 5.5397260274,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=550295",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=550296",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[FFF] Seikoku no Dragonar - 05 [D397B2C7].mkv",
+                    "group": "FFF",
+                    "hash": "D397B2C7",
+                    "url": "http://www.nyaa.se/?page=download&tid=550936",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 05 (1280x720 10bit h264 AAC) [028DA8DF].mkv",
+                    "group": "Oyatsu",
+                    "hash": "028DA8DF",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2005%20(1280x720%2010bit%20h264%20AAC)%20%5B028DA8DF%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki]_Seikoku_no_Dragonar_-_05_[1280x720][1C705F7C].mkv",
+                    "group": "Hatsuyuki",
+                    "hash": "1C705F7C",
+                    "url": "http://www.nyaa.se/?page=download&tid=568866",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-10T13:30:00",
+            "episode": 6,
+            "score": 5.8440869565,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=552821",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=552822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Seikoku no Dragonar - 06 [49F9399E].mkv",
+                    "group": "FFF",
+                    "hash": "49F9399E",
+                    "url": "http://www.nyaa.se/?page=download&tid=553256",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu]Seikoku no Dragonar - 06 (1280x720 10bit h264 AAC) [E1429F79].mkv",
+                    "group": "Oyatsu",
+                    "hash": "E1429F79",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5DSeikoku%20no%20Dragonar%20-%2006%20(1280x720%2010bit%20h264%20AAC)%20%5BE1429F79%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 06 (1280x720 10bit h264 AAC) [E1429F79].mkv",
+                    "group": "Oyatsu",
+                    "hash": "E1429F79",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2006%20(1280x720%2010bit%20h264%20AAC)%20%5BE1429F79%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-17T13:30:00",
+            "episode": 7,
+            "score": 5.8508438819,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=555227",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=555228",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Seikoku no Dragonar - 07 [19069ED3].mkv",
+                    "group": "FFF",
+                    "hash": "19069ED3",
+                    "url": "http://www.nyaa.se/?page=download&tid=555781",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu]Seikoku no Dragonar - 07 (1280x720 10bit h264 AAC) [621A1043].mkv",
+                    "group": "Oyatsu",
+                    "hash": "621A1043",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5DSeikoku%20no%20Dragonar%20-%2007%20(1280x720%2010bit%20h264%20AAC)%20%5B621A1043%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 07 (1280x720 10bit h264 AAC) [621A1043].mkv",
+                    "group": "Oyatsu",
+                    "hash": "621A1043",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2007%20(1280x720%2010bit%20h264%20AAC)%20%5B621A1043%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-24T13:30:00",
+            "episode": 8,
+            "score": 5.9174193548,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=557772",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=557774",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[FFF] Seikoku no Dragonar - 08 [999FCFF9].mkv",
+                    "group": "FFF",
+                    "hash": "999FCFF9",
+                    "url": "http://www.nyaa.se/?page=download&tid=558418",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 08 (1280x720 10bit h264 AAC) [67694D7B].mkv",
+                    "group": "Oyatsu",
+                    "hash": "67694D7B",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2008%20(1280x720%2010bit%20h264%20AAC)%20%5B67694D7B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-05-31T13:30:00",
+            "episode": 9,
+            "score": 5.864872093,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=560053",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=560054",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[FFF] Seikoku no Dragonar - 09 [BEA923F8].mkv",
+                    "group": "FFF",
+                    "hash": "BEA923F8",
+                    "url": "http://www.nyaa.se/?page=download&tid=560898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 09 (1280x720 10bit h264 AAC) [EB5F480B].mkv",
+                    "group": "Oyatsu",
+                    "hash": "EB5F480B",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2009%20(1280x720%2010bit%20h264%20AAC)%20%5BEB5F480B%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-07T13:30:00",
+            "episode": 10,
+            "score": 5.9463197026,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=562309",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=562310",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Seikoku no Dragonar - 10 [81B786E6].mkv",
+                    "group": "FFF",
+                    "hash": "81B786E6",
+                    "url": "http://www.nyaa.se/?page=download&tid=562885",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 10bit h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Oyatsu] Seikoku no Dragonar - 10 (1280x720 10bit h264 AAC) [6332D175].mkv",
+                    "group": "Oyatsu",
+                    "hash": "6332D175",
+                    "url": "http://tracker.minglong.org/torrents/%5BOyatsu%5D%20Seikoku%20no%20Dragonar%20-%2010%20(1280x720%2010bit%20h264%20AAC)%20%5B6332D175%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-14T13:30:00",
+            "episode": 11,
+            "score": 5.8877777778,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=564567",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=564573",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Seikoku no Dragonar - 11 [641B05D0].mkv",
+                    "group": "FFF",
+                    "hash": "641B05D0",
+                    "url": "http://www.nyaa.se/?page=download&tid=564767",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2014-06-21T13:30:00",
+            "episode": 12,
+            "score": 5.9739965217,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 0,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=566743",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] Seikoku no Dragonar - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.se/?page=download&tid=566749",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[FFF] Seikoku no Dragonar - 12 [3EE026B1].mkv",
+                    "group": "FFF",
+                    "hash": "3EE026B1",
+                    "url": "http://www.nyaa.se/?page=download&tid=567203",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 0,
+    "episodes_length": 0,
+    "external_sites": {
+        "anidb": 9996,
+        "ann": 15707,
+        "mal": 21033,
+        "schedule": 3313
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Learning to ride and tame dragons comes easy to most students at Ansarivan Dragonar Academy\u2014except for first-year student Ash Blake, who is known by his classmates as the \u201cnumber one problem child.\u201d Poor Ash is the laughing stock at school because, despite his unfashionably large star-shaped brand that marks him as a future dragon master, he has nothing to show for it. His dragon has never appeared. Until now, that is. One fateful day, Ash's dragon awakes in full glory, but appears different than any dragon ever seen before\u2014in the form of a beautiful girl! What's worse, Ash soon discovers that this new dragon has attitude to spare, as she promptly informs him that she is the master, and he, the servant. Ash's problems with dragon riding have only just begun.",
+            "type": "wiki"
+        },
+        {
+            "content": "Ash is a student at Ansalivan Dragon Academy, attended by children who have formed contracts with dragons. He possesses the \"star mark,\" the sign of a contract, but since his partner hasn't been born yet, he seems insignificant. The awakening of the dragon he's raising inside his body is triggered by an incident, and it emerges in the form of a young girl.",
+            "type": "ann"
+        },
+        {
+            "content": "Learning to ride and tame dragons comes easy to most students at Ansarivan Dragonar Academy - except for first-year student Ash Blake, who is known by his fellow classmates as the \"number one problem child.\" Poor Ash is the laughing stock at school because, despite his unfashionably large star-shaped brand that marks him as a future dragon master, he has nothing to show for it. His dragon has never appeared.Until now, that is. One fateful day, Ash's dragon awakes in full glory, but appears different than any dragon ever seen before - in the form of a beautiful girl! What's worse, Ash soon discovers that this new dragon has attitude to spare, as she promptly informs him that she is the master, and he, the servant.Ash's problems with dragon riding have only just begun.Source: ANN",
+            "type": "anidb"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 418,
+            "date": "2014-07-11T12:24:19",
+            "score": 5.79,
+            "type": "anidb"
+        },
+        {
+            "count": 253,
+            "date": "2014-07-11T12:24:19",
+            "score": 6.218,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2014
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Seikoku no Dragonar"
+}

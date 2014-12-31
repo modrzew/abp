@@ -1,0 +1,65 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30e9\u30d0\u30fc\uff01"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6438,
+        "ann": 10699,
+        "mal": 6201,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Przygody m\u0142odego ch\u0142opaka, kt\u00f3ry z biedaka przeistacza si\u0119 w arystokrat\u0119 i trafia do szko\u0142y dla dzieci z bogatych dom\u00f3w.",
+            "type": "abp"
+        },
+        {
+            "content": "Arima Teppei is a second-year high school student who lost both of his parents in a traffic accident on their way home from a family trip. His grandfather, Arima Isshin, happens to wield the puppet strings in Japan's vast economy and demands that Teppei becomes his successor as the head of the Arima Group. To prepare for his debut into high society, Teppei enrols in an elite academy for the scions of the rich and powerful.",
+            "type": "anidb"
+        },
+        {
+            "content": "Arima Teppei lost his parents in a traffic accident. His grandfather Isshin adopted him by force and ordered him to succeed the head of Arima Group Corporation. At Shuuhou Gakuen, a high school only for wealthly students, Teppei&#039;s new life as a celebrity starts.",
+            "type": "mal"
+        },
+        {
+            "content": "Teppei Arima is a second-year high school student who lost both of his parents in a traffic accident on their way home from a family trip. His grandfather, Isshin Arima, happens to wield the puppet strings in Japan\u2019s vast economy and demands that Teppei becomes his successor as the head of the Arima Group. To prepare for his debut into high society, Teppei enrolls in an elite academy for the scions of the rich and powerful.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 23165,
+            "date": "2012-09-29T02:08:48",
+            "score": 7.2,
+            "type": "mal"
+        },
+        {
+            "count": 1840,
+            "date": "2012-09-29T02:08:48",
+            "score": 6.69,
+            "type": "anidb"
+        },
+        {
+            "count": 1563,
+            "date": "2012-09-29T02:08:48",
+            "score": 5.865,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Princess Lover!"
+}

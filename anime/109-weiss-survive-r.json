@@ -1,0 +1,82 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30f4\u30a1\u30a4\u30b9\u30fb\u30b5\u30f4\u30a1\u30a4\u30f4"
+        }
+    ],
+    "aliases": [],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/31827314",
+            "content": "#Zima2010 Wei\u00df Survive R - druga seria #anime o do\u015b\u0107 specyficznej grze karcianej (s\u0105 cycki!) (wi\u0119cej: http://rdir.pl/38l9h)",
+            "episode": 1,
+            "filename": "92f440399f41f6d9adc21acffc5826c9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/6907244290"
+        }
+    ],
+    "episodes": [],
+    "episodes_count": 12,
+    "episodes_length": 3,
+    "external_sites": {
+        "anidb": 7207,
+        "ann": 11165,
+        "mal": 7463,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Jedna z ciekawszych postaci",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9753f7d396faf9a24400dc2567d6bea2.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c70a34d0c7a9b130d34a403cbf360f66.jpg",
+            "hd": false
+        },
+        {
+            "description": "...anime o grze karcianej, jak wida\u0107",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6587595e54a35d408314645a0e30d504.jpg",
+            "hd": false
+        },
+        {
+            "description": "#Zima2010 Wei\u00df Survive R - druga seria #anime o do\u015b\u0107 specyficznej grze karcianej (s\u0105 cycki!) (wi\u0119cej: http://rdir.pl/38l9h)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/92f440399f41f6d9adc21acffc5826c9.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Bezpo\u015brednia kontynuacja <a href=\"http://abp.modriv.net/pokaz/84-wei-survive\">Wei\u00df Survive</a>.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 1683,
+            "date": "2012-09-29T02:42:23",
+            "score": 6.56,
+            "type": "mal"
+        },
+        {
+            "count": 210,
+            "date": "2012-09-29T02:42:23",
+            "score": 5.61,
+            "type": "anidb"
+        },
+        {
+            "count": 67,
+            "date": "2012-09-29T02:42:23",
+            "score": 6.448,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 1,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "84",
+    "title": "Wei\u00df Survive R"
+}

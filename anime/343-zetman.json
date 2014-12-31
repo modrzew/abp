@@ -1,0 +1,1145 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30bc\u30c3\u30c8\u30de\u30f3"
+        },
+        {
+            "language": "pl",
+            "title": "Zetcz\u0142owiek"
+        }
+    ],
+    "aliases": [
+        "Zetman"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1099949587",
+            "content": "#anime #Wiosna2012 Zetman (\u30bc\u30c3\u30c8\u30de\u30f3) http://rdir.pl/1nawex",
+            "episode": 1,
+            "filename": "5ca75137b2bb2225a44e2a7329a7e2b8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/190189884626046976"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-04-02T19:38:00",
+            "episode": 1,
+            "score": 7.6657680965,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[SFW]_Zetman_-_01_[720p][BC07BF77].mkv",
+                    "group": "SFW",
+                    "hash": "BC07BF77",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFW%5D_Zetman_-_01_%5B720p%5D%5BBC07BF77%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Zetman - 01 [720p][463392A9].mkv",
+                    "group": "Hadena",
+                    "hash": "463392A9",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2001%20%5B720p%5D%5B463392A9%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 1,
+                    "filename": "[SFW]_Zetman_-_01_[720p][10bit][2609B35C].mkv",
+                    "group": "SFW",
+                    "hash": "2609B35C",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFW%5D_Zetman_-_01_%5B720p%5D%5B10bit%5D%5B2609B35C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Zetman - 01 [88A8164D].mkv",
+                    "group": "WhyNot",
+                    "hash": "88A8164D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301699",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Zetman - 01 [10bit][720p][A1D1B3E8].mkv",
+                    "group": "Hadena",
+                    "hash": "A1D1B3E8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2001%20%5B10bit%5D%5B720p%5D%5BA1D1B3E8%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 01 [480p][D4833085].mkv",
+                    "group": "Hadena",
+                    "hash": "D4833085",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2001%20%5B480p%5D%5BD4833085%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Zetman - 01v2 [720p][BBF6A6A8].mkv",
+                    "group": "Hadena",
+                    "hash": "BBF6A6A8",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2001v2%20%5B720p%5D%5BBBF6A6A8%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_01_[8bit][1280x720][59DB95F4].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "59DB95F4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=301980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_01_[10bit][1280x720][77f48E9C].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "77f48E9C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=302225",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 01 (1280x720 h264 AAC) [EAE6EBE9].mkv",
+                    "group": "Doki",
+                    "hash": "EAE6EBE9",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_01_1280x720_h264_AAC_EAE6EBE9.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 01 (848x480 h264 AAC) [3D3441EF].mkv",
+                    "group": "Doki",
+                    "hash": "3D3441EF",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_01_848x480_h264_AAC_3D3441EF.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-09T19:38:00",
+            "episode": 2,
+            "score": 7.5864290042,
+            "torrents": [
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 2,
+                    "filename": "[SFW]_Zetman_-_02_[720p][10bit][936E7496].mkv",
+                    "group": "SFW",
+                    "hash": "936E7496",
+                    "url": "http://dev.jjhosting.org/sfw/torrents/%5BSFW%5D_Zetman_-_02_%5B720p%5D%5B10bit%5D%5B936E7496%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Zetman - 02 [720p][0E68FAD5].mkv",
+                    "group": "Hadena",
+                    "hash": "0E68FAD5",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2002%20%5B720p%5D%5B0E68FAD5%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Zetman - 02 [C65405BA].mkv",
+                    "group": "WhyNot",
+                    "hash": "C65405BA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=303617",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Zetman - 02v2 [10bit][720p][E9C2757A].mkv",
+                    "group": "Hadena",
+                    "hash": "E9C2757A",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2002v2%20%5B10bit%5D%5B720p%5D%5BE9C2757A%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Zetman - 02 [720p][1F07BE96].mkv",
+                    "group": "Hadena",
+                    "hash": "1F07BE96",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2002%20%5B720p%5D%5B1F07BE96%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 02 [480p][301E9411].mkv",
+                    "group": "Hadena",
+                    "hash": "301E9411",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2002%20%5B480p%5D%5B301E9411%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_02_[8bit][1280x720][D8940882].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "D8940882",
+                    "url": "http://www.nyaa.eu/?page=download&tid=304654",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 02 (1280x720 h264 AAC) [D991BF1A].mkv",
+                    "group": "Doki",
+                    "hash": "D991BF1A",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_02_1280x720_h264_AAC_D991BF1A.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Zetman - 02 (848x480 h264 AAC) [E378395D].mkv",
+                    "group": "Doki",
+                    "hash": "E378395D",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_02_848x480_h264_AAC_E378395D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_02_[10bit][1280x720][16C54DE7].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "16C54DE7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321551",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-16T19:38:00",
+            "episode": 3,
+            "score": 7.4983100154,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 03 [720p][66C940BB].mkv",
+                    "group": "Hadena",
+                    "hash": "66C940BB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2003%20%5B720p%5D%5B66C940BB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Zetman - 03v2 [720p][E3A8C98E].mkv",
+                    "group": "Hadena",
+                    "hash": "E3A8C98E",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2003v2%20%5B720p%5D%5BE3A8C98E%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Zetman - 03 [B0A5213C].mkv",
+                    "group": "WhyNot",
+                    "hash": "B0A5213C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305879",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 03 [480p][D49441D3].mkv",
+                    "group": "Hadena",
+                    "hash": "D49441D3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2003%20%5B480p%5D%5BD49441D3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Zetman - 03 [10bit][720p][18DA58BD].mkv",
+                    "group": "Hadena",
+                    "hash": "18DA58BD",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2003%20%5B10bit%5D%5B720p%5D%5B18DA58BD%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 03 (1280x720 h264 AAC) [FE175067].mkv",
+                    "group": "Doki",
+                    "hash": "FE175067",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_03_1280x720_h264_AAC_FE175067.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 03 (848x480 h264 AAC) [77393E54].mkv",
+                    "group": "Doki",
+                    "hash": "77393E54",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_03_848x480_h264_AAC_77393E54.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 1,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_03_[8bit][1280x720][81F7B335].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "81F7B335",
+                    "url": "http://www.nyaa.eu/?page=download&tid=305999",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_03_[10bit][1280x720][FEC2ABA2].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "FEC2ABA2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321552",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-23T19:38:00",
+            "episode": 4,
+            "score": 7.4411357589,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[Hadena] Zetman - 04 [720p][9A119488].mkv",
+                    "group": "Hadena",
+                    "hash": "9A119488",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308029",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Zetman - 04 [10bit][720p][661AE6E1].mkv",
+                    "group": "Hadena",
+                    "hash": "661AE6E1",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2004%20%5B10bit%5D%5B720p%5D%5B661AE6E1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Zetman - 04 [480p][4F0BF4DE].mkv",
+                    "group": "Hadena",
+                    "hash": "4F0BF4DE",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2004%20%5B480p%5D%5B4F0BF4DE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[WhyNot] Zetman - 04 [7F844723].mkv",
+                    "group": "WhyNot",
+                    "hash": "7F844723",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308247",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 04 (1280x720 h264 AAC) [41FBC5DE].mkv",
+                    "group": "Doki",
+                    "hash": "41FBC5DE",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_04_1280x720_h264_AAC_41FBC5DE.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 04 (848x480 h264 AAC) [6BF2CF88].mkv",
+                    "group": "Doki",
+                    "hash": "6BF2CF88",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_04_848x480_h264_AAC_6BF2CF88.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_04_[8bit][1280x720][0D4AE3E8].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "0D4AE3E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=308510",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_04_[10bit][1280x720][FF81638B].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "FF81638B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321553",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-04-30T19:38:00",
+            "episode": 5,
+            "score": 7.4124206291,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Zetman - 05 [720p][1A3CBC41].mkv",
+                    "group": "Hadena",
+                    "hash": "1A3CBC41",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2005%20%5B720p%5D%5B1A3CBC41%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Zetman - 05 [65285382].mkv",
+                    "group": "WhyNot",
+                    "hash": "65285382",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310475",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Zetman - 05 [480p][2C2A9BA2].mkv",
+                    "group": "Hadena",
+                    "hash": "2C2A9BA2",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2005%20%5B480p%5D%5B2C2A9BA2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Zetman - 05 [10bit][720p][4B4CEC03].mkv",
+                    "group": "Hadena",
+                    "hash": "4B4CEC03",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2005%20%5B10bit%5D%5B720p%5D%5B4B4CEC03%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_05_[8bit][1280x720][04E17EF6].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "04E17EF6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=310795",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 05 (1280x720 h264 AAC) [245ED396].mkv",
+                    "group": "Doki",
+                    "hash": "245ED396",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_05_1280x720_h264_AAC_245ED396.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 05 (848x480 h264 AAC) [9C003A1D].mkv",
+                    "group": "Doki",
+                    "hash": "9C003A1D",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_05_848x480_h264_AAC_9C003A1D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_05_[10bit][1280x720][1C0EBB41].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "1C0EBB41",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321554",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-07T19:38:00",
+            "episode": 6,
+            "score": 7.3933514986,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Hadena] Zetman - 06 [720p][DC16D44C].mkv",
+                    "group": "Hadena",
+                    "hash": "DC16D44C",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2006%20%5B720p%5D%5BDC16D44C%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 06 [480p][703B4A71].mkv",
+                    "group": "Hadena",
+                    "hash": "703B4A71",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2006%20%5B480p%5D%5B703B4A71%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 06 [10bit][720p][8DC6EF30].mkv",
+                    "group": "Hadena",
+                    "hash": "8DC6EF30",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2006%20%5B10bit%5D%5B720p%5D%5B8DC6EF30%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Zetman - 06 [0A458670].mkv",
+                    "group": "WhyNot",
+                    "hash": "0A458670",
+                    "url": "http://www.nyaa.eu/?page=download&tid=312497",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 06 (1280x720 h264 AAC) [2423503C].mkv",
+                    "group": "Doki",
+                    "hash": "2423503C",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_06_1280x720_h264_AAC_2423503C.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 06 (848x480 h264 AAC) [722DB5FF].mkv",
+                    "group": "Doki",
+                    "hash": "722DB5FF",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_06_848x480_h264_AAC_722DB5FF.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_06_[8bit][1280x720][3DE9D062].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "3DE9D062",
+                    "url": "http://www.nyaa.eu/?page=download&tid=313682",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_06_[10bit][1280x720][42C7F08A].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "42C7F08A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321555",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-14T19:38:00",
+            "episode": 7,
+            "score": 7.3639783025,
+            "torrents": [
+                {
+                    "additional_info": "[The Ring of Exposure][720p]",
+                    "download_count": 0,
+                    "filename": "[Warui] Zetman - 07 (The Ring of Exposure) [720p] [A5090C5E].mkv",
+                    "group": "Warui",
+                    "hash": "A5090C5E",
+                    "url": "http://dl.dropbox.com/u/48237311/TORRENTS/%5BWarui%5D%20Zetman%20-%2007%20(The%20Ring%20of%20Exposure)%20%5B720p%5D%20%5BA5090C5E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Zetman - 07 [720p][21985AD3].mkv",
+                    "group": "Hadena",
+                    "hash": "21985AD3",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2007%20%5B720p%5D%5B21985AD3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 07 [480p][4B151002].mkv",
+                    "group": "Hadena",
+                    "hash": "4B151002",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2007%20%5B480p%5D%5B4B151002%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 07 [10bit][720p][1626295B].mkv",
+                    "group": "Hadena",
+                    "hash": "1626295B",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2007%20%5B10bit%5D%5B720p%5D%5B1626295B%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Doki] Zetman - 07 (1280x720 h264 AAC) [C7AF6FA8].mkv",
+                    "group": "Doki",
+                    "hash": "C7AF6FA8",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_07_1280x720_h264_AAC_C7AF6FA8.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 07 (848x480 h264 AAC) [B62AE410].mkv",
+                    "group": "Doki",
+                    "hash": "B62AE410",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_07_848x480_h264_AAC_B62AE410.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Zetman - 07 [7CCCCB69].mkv",
+                    "group": "WhyNot",
+                    "hash": "7CCCCB69",
+                    "url": "http://www.nyaa.eu/?page=download&tid=315065",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_07_[8bit][1280x720][63DC78F6].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "63DC78F6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317804",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_07_[10bit][1280x720][26B84E94].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "26B84E94",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321556",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-21T19:38:00",
+            "episode": 8,
+            "score": 7.3523568094,
+            "torrents": [
+                {
+                    "additional_info": "[SD]",
+                    "download_count": 0,
+                    "filename": "[Warui] Zetman - 08v0 [SD] [00A2E6A9].mkv",
+                    "group": "Warui",
+                    "hash": "00A2E6A9",
+                    "url": "http://dl.dropbox.com/u/48237311/TORRENTS/%5BWarui%5D%20Zetman%20-%2008v0%20%5BSD%5D%20%5B00A2E6A9%5D.mkv.torrent",
+                    "version": 0
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Zetman - 08 [26CD61E8].mkv",
+                    "group": "WhyNot",
+                    "hash": "26CD61E8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=316365",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Zetman - 08 [720p][F782F0BB].mkv",
+                    "group": "Hadena",
+                    "hash": "F782F0BB",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2008%20%5B720p%5D%5BF782F0BB%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[Warui] Zetman - 08v2 [720p] [3C141534].mkv",
+                    "group": "Warui",
+                    "hash": "3C141534",
+                    "url": "http://dl.dropbox.com/u/48237311/TORRENTS/%5BWarui%5D%20Zetman%20-%2008v2%20%5B720p%5D%20%5B3C141534%5D.mkv.torrent",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Zetman - 08 [10bit][720p][A70F8E14].mkv",
+                    "group": "Hadena",
+                    "hash": "A70F8E14",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2008%20%5B10bit%5D%5B720p%5D%5BA70F8E14%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 08 (1280x720 h264 AAC) [4322A696].mkv",
+                    "group": "Doki",
+                    "hash": "4322A696",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_08_1280x720_h264_AAC_4322A696.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 08 (848x480 h264 AAC) [3E9B54B3].mkv",
+                    "group": "Doki",
+                    "hash": "3E9B54B3",
+                    "url": "http://tracker.anime-index.org/Doki_Zetman_-_08_848x480_h264_AAC_3E9B54B3.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_08_[8bit][1280x720][C3E3AB2A].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "C3E3AB2A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=317805",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-05-28T19:38:00",
+            "episode": 9,
+            "score": 7.3348042885,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 8,
+                    "filename": "[WhyNot] Zetman - 09 [CDA96D5D].mkv",
+                    "group": "WhyNot",
+                    "hash": "CDA96D5D",
+                    "url": "http://www.nyaa.eu/?page=download&tid=318359",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Zetman - 09 [720p][E8898207].mkv",
+                    "group": "Hadena",
+                    "hash": "E8898207",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2009%20%5B720p%5D%5BE8898207%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_09_[8bit][1280x720][E0C7D3B5].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "E0C7D3B5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=319535",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 0,
+                    "filename": "[Hadena] Zetman - 09 [10bit][720p][71037251].mkv",
+                    "group": "Hadena",
+                    "hash": "71037251",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2009%20%5B10bit%5D%5B720p%5D%5B71037251%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 09 (1280x720 h264 AAC) [D53AB575].mkv",
+                    "group": "Doki",
+                    "hash": "D53AB575",
+                    "url": "http://tracker.anime-index.org/download.php?id=017d457a0e5a7d1c28a64b92e8653493f7f27119&f=%5BDoki%5D+Zetman+-+09+%281280x720+h264+AAC%29+%5BD53AB575%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 09 (848x480 h264 AAC) [5F0DCB34].mkv",
+                    "group": "Doki",
+                    "hash": "5F0DCB34",
+                    "url": "http://tracker.anime-index.org/download.php?id=7ad961074f74197e3e35b8995d393e12b1d20e3c&f=%5BDoki%5D+Zetman+-+09+%28848x480+h264+AAC%29+%5B5F0DCB34%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-04T19:38:00",
+            "episode": 10,
+            "score": 7.3342488359,
+            "torrents": [
+                {
+                    "additional_info": "[Party][480p]",
+                    "download_count": 1,
+                    "filename": "[Warui] Zetman - 10 (Party) [480p] [555E8AF7].mkv",
+                    "group": "Warui",
+                    "hash": "555E8AF7",
+                    "url": "http://dl.dropbox.com/u/48237311/TORRENTS/%5BWarui%5D%20Zetman%20-%2010%20(Party)%20%5B480p%5D%20%5B555E8AF7%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Zetman - 10 [B8152307].mkv",
+                    "group": "WhyNot",
+                    "hash": "B8152307",
+                    "url": "http://www.nyaa.eu/?page=download&tid=320333",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit][720p]",
+                    "download_count": 1,
+                    "filename": "[Hadena] Zetman - 10 [10bit][720p][E40F35CC].mkv",
+                    "group": "Hadena",
+                    "hash": "E40F35CC",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2010%20%5B10bit%5D%5B720p%5D%5BE40F35CC%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Hadena] Zetman - 10 [720p][1D4BBE87].mkv",
+                    "group": "Hadena",
+                    "hash": "1D4BBE87",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2010%20%5B720p%5D%5B1D4BBE87%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_10_[8bit][1280x720][0E47123E].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "0E47123E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=321315",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 10 (1280x720 h264 AAC) [16225349].mkv",
+                    "group": "Doki",
+                    "hash": "16225349",
+                    "url": "http://tracker.anime-index.org/download.php?id=a4be4c67a8a4fcc10c3c85c67183f37805cbe1d3&f=%5BDoki%5D+Zetman+-+10+%281280x720+h264+AAC%29+%5B16225349%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 10 (848x480 h264 AAC) [FEB3973F].mkv",
+                    "group": "Doki",
+                    "hash": "FEB3973F",
+                    "url": "http://tracker.anime-index.org/download.php?id=d76aaa3c9f36bddcb121b264d74f3ca8c465de4e&f=%5BDoki%5D+Zetman+-+10+%28848x480+h264+AAC%29+%5BFEB3973F%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-11T19:38:00",
+            "episode": 11,
+            "score": 7.325120057,
+            "torrents": [
+                {
+                    "additional_info": "[Puppet][480p]",
+                    "download_count": 0,
+                    "filename": "[Warui] Zetman - 11 (Puppet) [480p] [66EBA77F].mkv",
+                    "group": "Warui",
+                    "hash": "66EBA77F",
+                    "url": "http://dl.dropbox.com/u/48237311/TORRENTS/%5BWarui%5D%20Zetman%20-%2011%20(Puppet)%20%5B480p%5D%20%5B66EBA77F%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Hadena] Zetman - 11 [720p][35BB66E1].mkv",
+                    "group": "Hadena",
+                    "hash": "35BB66E1",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2011%20%5B720p%5D%5B35BB66E1%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[WhyNot] Zetman - 11 [6C345234].mkv",
+                    "group": "WhyNot",
+                    "hash": "6C345234",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322391",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_11_[8bit][1280x720][F3252AF0].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "F3252AF0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=322784",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 11 (1280x720 h264 AAC) [45FD02BA].mkv",
+                    "group": "Doki",
+                    "hash": "45FD02BA",
+                    "url": "http://tracker.anime-index.org/download.php?id=c3271ec4dd748ecff9b8ad3ffd6b5af6dffea771&f=%5BDoki%5D+Zetman+-+11+%281280x720+h264+AAC%29+%5B45FD02BA%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 11 (848x480 h264 AAC) [65DB289A].mkv",
+                    "group": "Doki",
+                    "hash": "65DB289A",
+                    "url": "http://tracker.anime-index.org/download.php?id=f0c9eef56850ec27984fd40e82485f09819898df&f=%5BDoki%5D+Zetman+-+11+%28848x480+h264+AAC%29+%5B65DB289A%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-18T19:38:00",
+            "episode": 12,
+            "score": 7.2974439919,
+            "torrents": [
+                {
+                    "additional_info": "[The Red Stake][480p][WebRip]",
+                    "download_count": 0,
+                    "filename": "[Warui] Zetman - 12 (The Red Stake) [480p][WebRip] [98F364CE].mkv",
+                    "group": "Warui",
+                    "hash": "98F364CE",
+                    "url": "http://dl.dropbox.com/u/48237311/TORRENTS/%5BWarui%5D%20Zetman%20-%2012%20(The%20Red%20Stake)%20%5B480p%5D%5BWebRip%5D%20%5B98F364CE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Zetman - 12 [720p][68742137].mkv",
+                    "group": "Hadena",
+                    "hash": "68742137",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2012%20%5B720p%5D%5B68742137%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[WhyNot] Zetman - 12 [8FC12014].mkv",
+                    "group": "WhyNot",
+                    "hash": "8FC12014",
+                    "url": "http://www.nyaa.eu/?page=download&tid=324261",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 12 (1280x720 h264 AAC) [AEE8D86E].mkv",
+                    "group": "Doki",
+                    "hash": "AEE8D86E",
+                    "url": "http://tracker.anime-index.org/download.php?id=0e324bbf73870611fdf17fb4f649165fecc6f2a8&f=%5BDoki%5D+Zetman+-+12+%281280x720+h264+AAC%29+%5BAEE8D86E%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 12 (848x480 h264 AAC) [B786328D].mkv",
+                    "group": "Doki",
+                    "hash": "B786328D",
+                    "url": "http://tracker.anime-index.org/download.php?id=f2690d5a440c9782158957c4817a9994c2c841c0&f=%5BDoki%5D+Zetman+-+12+%28848x480+h264+AAC%29+%5BB786328D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_12_[8bit][1280x720][A6AD670B].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "A6AD670B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326526",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-06-25T19:38:00",
+            "episode": 13,
+            "score": 7.1153356271,
+            "torrents": [
+                {
+                    "additional_info": "[Funeral Procession][480p][WebRip]",
+                    "download_count": 1,
+                    "filename": "[Warui] Zetman - 13 (Funeral Procession) [480p][WebRip] [9A119D2D].mkv",
+                    "group": "Warui",
+                    "hash": "9A119D2D",
+                    "url": "http://dl.dropbox.com/u/48237311/TORRENTS/%5BWarui%5D%20Zetman%20-%2013%20(Funeral%20Procession)%20%5B480p%5D%5BWebRip%5D%20%5B9A119D2D%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Hadena] Zetman - 13 END [720p][C7D07E13].mkv",
+                    "group": "Hadena",
+                    "hash": "C7D07E13",
+                    "url": "http://tracker.minglong.org/torrents/%5BHadena%5D%20Zetman%20-%2013%20END%20%5B720p%5D%5BC7D07E13%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 h264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Doki] Zetman - 13 (1280x720 h264 AAC) [B6DEE4E3].mkv",
+                    "group": "Doki",
+                    "hash": "B6DEE4E3",
+                    "url": "http://tracker.anime-index.org/download.php?id=58c2cacd087c118eec8d945703bd04afab8b4aa3&f=%5BDoki%5D+Zetman+-+13+%281280x720+h264+AAC%29+%5BB6DEE4E3%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[848x480 h264 AAC]",
+                    "download_count": 0,
+                    "filename": "[Doki] Zetman - 13 (848x480 h264 AAC) [3B3BBBBE].mkv",
+                    "group": "Doki",
+                    "hash": "3B3BBBBE",
+                    "url": "http://tracker.anime-index.org/download.php?id=2d559eef50017b6c97449a1ccc5eac0490c697c7&f=%5BDoki%5D+Zetman+-+13+%28848x480+h264+AAC%29+%5B3B3BBBBE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 7,
+                    "filename": "[WhyNot] Zetman - 13 [92F4B772].mkv",
+                    "group": "WhyNot",
+                    "hash": "92F4B772",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326274",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[8bit][1280x720]",
+                    "download_count": 0,
+                    "filename": "[Hatsuyuki-Tsuki]_Zetman_-_13_END_[8bit][1280x720][DE4381D1].mkv",
+                    "group": "Hatsuyuki-Tsuki",
+                    "hash": "DE4381D1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=326527",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8728,
+        "ann": 13736,
+        "mal": 11837,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Arakawa pod Mostem",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6f61efbe8c00a8c932e3855200955ec8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/73fdb3b4ff095fa730bb4ca396ea7c1d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/05affcbd1a20c211ed5ab3958a038c70.jpg",
+            "hd": false
+        },
+        {
+            "description": "HEHE K\u00d3\u0141KO MU WYSZ\u0141O NA D\u0141ONI",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d28ab71431f26ce449091364650741c2.jpg",
+            "hd": false
+        },
+        {
+            "description": "Tak powsta\u0142y Gundamy",
+            "filename": "http://s.modriv.net/abp/images/screencaps/26c2b2740e3cd1e9239e414193afcc92.jpg",
+            "hd": false
+        },
+        {
+            "description": "Gandalf, co ty robisz w mojej chi\u0144skiej bajce?!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/29a7e5e50ab3ef136962e608d4a68da6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Jin nie wygra\u0142 20000 z\u0142 w loterii smsowej...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b650fbaad02bc738f72cc3e36b97495.jpg",
+            "hd": false
+        },
+        {
+            "description": "A potem b\u0119dzie, \u017ce chi\u0144skie bajki s\u0105 zboczone",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dcab913ba66754ee7c0a8580568e2963.jpg",
+            "hd": false
+        },
+        {
+            "description": "Bleeeeee",
+            "filename": "http://s.modriv.net/abp/images/screencaps/adc4dd5375c53442566e616293e81186.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Wiosna2012 Zetman (\u30bc\u30c3\u30c8\u30de\u30f3) http://rdir.pl/1nawex",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5ca75137b2bb2225a44e2a7329a7e2b8.jpg",
+            "hd": false
+        },
+        {
+            "description": "Supersajanie wsz\u0119dzie si\u0119 wcisn\u0105",
+            "filename": "http://s.modriv.net/abp/images/screencaps/70db058f4248055b5bbd19b2ce6afc06.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "* Based on a manga by Katsura Masakazu, serialised in Weekly Young Jump.Jin is a strange kid with an angel mark on his hand. He lives a poor but peaceful life with his grandfather, along with the other destitute and abandoned vagabonds near the river. One day, his peaceful life changes when a strange monster, a so-called Player appears, chopping off heads and killing everyone in sight.Note: The first two episodes received an early screening on Friday, March 30, 2012 at Toho Cinemas Roppongi Hills in Tokyo. Regular television broadcast started on April 3, 2012.",
+            "type": "anidb"
+        },
+        {
+            "content": "There are two forces in the world: the Zet, who are entrusted with the survival of humanity, and the Alphas, who have chosen an extreme form of justice. In a certain city, Jin lives under a bridge with an old man, struggling to pay off debts. He carries the destiny of humanity's survival. Kouga lives on a hill and stands to inherit vast wealth. In his admiration for heroes, he seeks out the meaning of justice. They don't know it now, but they are destined to one day meet.",
+            "type": "ann"
+        },
+        {
+            "content": "The story starts off with a face-off between two rival heroes, ZET and ALPHAS, and then traces their origins - Jin Kanzaki, a young man with the ability to transform into a superhuman being known as ZET, and Kouga Amagi, a young man with a strong sense of justice who uses technology to fight as ALPHAS.   The fates of these two men and those around them intertwine as they fight to protect mankind and destroy monstrous abominations known as Players, who ironically are the creations of the Amagi Corporation, the company founded by Kouga\u2019s grandfather, Mitsugai Amagi.  (Source: ytv ENGLISH)",
+            "type": "mal"
+        },
+        {
+            "content": "The story starts off with a face-off between two rival heroes, ZET and Alphasz, and then traces their origins - Jin Kanzaki, a young man with the ability to transform into a superhuman being known as ZET, and Kouga Amagi, a young man with a strong sense of justice who uses technology to fight as Alphasz.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 351,
+            "date": "2012-09-29T14:09:09",
+            "score": 6.707,
+            "type": "ann"
+        },
+        {
+            "count": 10448,
+            "date": "2012-09-29T14:09:09",
+            "score": 7.11,
+            "type": "mal"
+        },
+        {
+            "count": 550,
+            "date": "2012-09-29T14:09:09",
+            "score": 6.29,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Zetman"
+}

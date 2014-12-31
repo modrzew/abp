@@ -1,0 +1,965 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u30b5\u30a4\u30b3\u30d1\u30b9"
+        },
+        {
+            "language": "pl",
+            "title": "Psychoprzej\u015bcie"
+        }
+    ],
+    "aliases": [
+        "PSYCHO-PASS"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/1589906573",
+            "content": "Psycho-Pass 02 - dzia\u0142anie najnowszego wyrobu naszych po\u0142udniowych s\u0105siad\u00f3w, specjalnie dla mi\u0142o\u015bnik\u00f3w r\u00f3\u017cu i stworze\u0144 morskich",
+            "episode": 2,
+            "filename": "c0e5917c65bf76c327aa5ae5a364bf01.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2012-10-11T17:45:00",
+            "episode": 1,
+            "score": 7.9175501114,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 21,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361180",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 01 [360p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361182",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 17,
+                    "filename": "[Commie] Psycho-Pass - 01 [F4BCFB1E].mkv",
+                    "group": "Commie",
+                    "hash": "F4BCFB1E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=361392",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Psycho-Pass 01 [71F6C51A].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "71F6C51A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=362873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Genjo-Sigh] Psycho-Pass - 01 [720p][EBEF984C].mkv",
+                    "group": "Genjo-Sigh",
+                    "hash": "EBEF984C",
+                    "url": "http://www.nyaa.eu/?page=download&tid=365407",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-18T17:45:00",
+            "episode": 2,
+            "score": 7.9283098592,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363916",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 19,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=363917",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Psycho-Pass - 02 [3406ADD5].mkv",
+                    "group": "Commie",
+                    "hash": "3406ADD5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=364017",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Kanade] Psycho-Pass 02 [DA00294B].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "DA00294B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=365552",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-10-25T17:45:00",
+            "episode": 3,
+            "score": 7.9366788639,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 18,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366666",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366667",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Psycho-Pass - 03 [CFEDD526].mkv",
+                    "group": "Commie",
+                    "hash": "CFEDD526",
+                    "url": "http://www.nyaa.eu/?page=download&tid=366698",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[Diogo4D-Kanade] Psycho-Pass 03 [74841247].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "74841247",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369007",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-01T16:45:00",
+            "episode": 4,
+            "score": 7.9503542875,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369278",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 17,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369279",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Psycho-Pass - 04 [F79C11D9].mkv",
+                    "group": "Commie",
+                    "hash": "F79C11D9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=369581",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-08T16:45:00",
+            "episode": 5,
+            "score": 7.9697016162,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371876",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 9,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371877",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Psycho-Pass - 05 [D67745F5].mkv",
+                    "group": "Commie",
+                    "hash": "D67745F5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=371921",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-15T16:45:00",
+            "episode": 6,
+            "score": 7.9800090226,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[NWTC] Psycho Pass - 06.mkv",
+                    "group": "NWTC",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374431",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374439",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374443",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Psycho-Pass - 06 [73D2A325].mkv",
+                    "group": "Commie",
+                    "hash": "73D2A325",
+                    "url": "http://www.nyaa.eu/?page=download&tid=374461",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-22T16:45:00",
+            "episode": 7,
+            "score": 7.9817310905,
+            "torrents": [
+                {
+                    "additional_info": "[640x360]",
+                    "download_count": 2,
+                    "filename": "[CR] Psycho-Pass - 07 [640x360].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2548",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376696",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376725",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Psycho-Pass - 07 [78AC663E].mkv",
+                    "group": "Commie",
+                    "hash": "78AC663E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=376749",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Psycho-Pass - 07 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2551",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-11-29T16:45:00",
+            "episode": 8,
+            "score": 8.0152887601,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 4,
+                    "filename": "[CR] Psycho-Pass - 08 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2595",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378983",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 10,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=378984",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Psycho-Pass - 08 [13DE3D26].mkv",
+                    "group": "Commie",
+                    "hash": "13DE3D26",
+                    "url": "http://www.nyaa.eu/?page=download&tid=379001",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-06T16:45:00",
+            "episode": 9,
+            "score": 8.0244918986,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 3,
+                    "filename": "[CR] Psycho-Pass - 09 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2627",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Psycho-Pass - 09 [E69CD437].mkv",
+                    "group": "Commie",
+                    "hash": "E69CD437",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381000",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381003",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=381004",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-13T16:45:00",
+            "episode": 10,
+            "score": 8.0570795113,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383111",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Psycho-Pass - 10 [68A122AD].mkv",
+                    "group": "Commie",
+                    "hash": "68A122AD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=383216",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2012-12-20T16:45:00",
+            "episode": 11,
+            "score": 8.1252459596,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 0,
+                    "filename": "[CR] Psycho-Pass - 11 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385109",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385110",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Psycho-Pass - 11 [FDE8B4BB].mkv",
+                    "group": "Commie",
+                    "hash": "FDE8B4BB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=385133",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-10T16:45:00",
+            "episode": 12,
+            "score": 8.1739839613,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391578",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 19,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391579",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Psycho-Pass - 12 [D1E46532].mkv",
+                    "group": "Commie",
+                    "hash": "D1E46532",
+                    "url": "http://www.nyaa.eu/?page=download&tid=391673",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][Commie]",
+                    "download_count": 2,
+                    "filename": "(Hi10)_Psycho-Pass_-_12_(720p)_(Commie).mkv",
+                    "group": "Hi10",
+                    "hash": "",
+                    "url": "http://85.25.226.211/hi10anime/%5BHi10%5D_Psycho-Pass_%5B720p%5D/(Hi10)_Psycho-Pass_-_12_(720p)_(Commie).mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-17T16:45:00",
+            "episode": 13,
+            "score": 8.1955925307,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394023",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Psycho-Pass - 13 [F5384328].mkv",
+                    "group": "Commie",
+                    "hash": "F5384328",
+                    "url": "http://www.nyaa.eu/?page=download&tid=394069",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-01-24T16:45:00",
+            "episode": 14,
+            "score": 8.2257731169,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 14 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396701",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 14 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 5,
+                    "filename": "[Commie] Psycho-Pass - 14 [2DC07AB2].mkv",
+                    "group": "Commie",
+                    "hash": "2DC07AB2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 9,
+                    "filename": "[Commie] Psycho-Pass - 14v2 [50082657].mkv",
+                    "group": "Commie",
+                    "hash": "50082657",
+                    "url": "http://www.nyaa.eu/?page=download&tid=396850",
+                    "version": 2
+                }
+            ]
+        },
+        {
+            "date": "2013-01-31T16:45:00",
+            "episode": 15,
+            "score": 8.2349848096,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 15 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399170",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 15 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399190",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Psycho-Pass - 15 [376FAAD3].mkv",
+                    "group": "Commie",
+                    "hash": "376FAAD3",
+                    "url": "http://www.nyaa.eu/?page=download&tid=399312",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-07T16:45:00",
+            "episode": 16,
+            "score": 8.2741096715,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Psycho-Pass - 16 [417F7BFB].mkv",
+                    "group": "Commie",
+                    "hash": "417F7BFB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401653",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 16 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401708",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 13,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 16 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=401709",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-14T16:45:00",
+            "episode": 17,
+            "score": 8.2860816952,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 17 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404066",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 17 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404067",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Psycho-Pass - 17 [59E361B7].mkv",
+                    "group": "Commie",
+                    "hash": "59E361B7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=404125",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-21T16:45:00",
+            "episode": 18,
+            "score": 8.3141424967,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Psycho-Pass - 18 [22412BC8].mkv",
+                    "group": "Commie",
+                    "hash": "22412BC8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406380",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 18 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406390",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 18 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=406403",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-02-28T16:45:00",
+            "episode": 19,
+            "score": 8.3331428986,
+            "torrents": [
+                {
+                    "additional_info": "[640x360]",
+                    "download_count": 2,
+                    "filename": "[CR] Psycho-Pass - 19 [640x360].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&2961",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 19 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408698",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 19 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408702",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 11,
+                    "filename": "[Commie] Psycho-Pass - 19 [55C3D16B].mkv",
+                    "group": "Commie",
+                    "hash": "55C3D16B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=408716",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-07T16:45:00",
+            "episode": 20,
+            "score": 8.3424004726,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 20 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411115",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 20 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411116",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 14,
+                    "filename": "[Commie] Psycho-Pass - 20 [F7CAD90B].mkv",
+                    "group": "Commie",
+                    "hash": "F7CAD90B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=411156",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-14T16:45:00",
+            "episode": 21,
+            "score": 8.3632381619,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720]",
+                    "download_count": 2,
+                    "filename": "[CR] Psycho-Pass - 21 [1280x720].mkv",
+                    "group": "CR",
+                    "hash": "",
+                    "url": "http://www.aniwana.com/dl&3022",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 21 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413321",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 14,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 21 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 12,
+                    "filename": "[Commie] Psycho-Pass - 21 [B4FBC7C1].mkv",
+                    "group": "Commie",
+                    "hash": "B4FBC7C1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=413529",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2013-03-21T16:45:00",
+            "episode": 22,
+            "score": 8.4853732321,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 22 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415480",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 15,
+                    "filename": "[HorribleSubs] PSYCHO-PASS - 22 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415481",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 10,
+                    "filename": "[Commie] Psycho-Pass - 22 [0A6AC268].mkv",
+                    "group": "Commie",
+                    "hash": "0A6AC268",
+                    "url": "http://www.nyaa.eu/?page=download&tid=415550",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 22,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 9127,
+        "ann": 14195,
+        "mal": 13601,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f1ae9128f9ff24bbd6603380c512887b.jpg",
+            "hd": false
+        },
+        {
+            "description": "dzia\u0142anie najnowszego wyrobu naszych po\u0142udniowych s\u0105siad\u00f3w, specjalnie dla mi\u0142o\u015bnik\u00f3w r\u00f3\u017cu i stworze\u0144 morskich",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c0e5917c65bf76c327aa5ae5a364bf01.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "The series takes place in the near future, when it is possible to instantaneously measure and quantify a person's state of mind and personality. This information is recorded and processed, and the term \"Psycho-Pass\" refers to a standard used to measure an individual's being. The story centers around the \"enforcement officer\" Shinya Kougami, who is tasked with managing crime in such a world.",
+            "type": "mal"
+        },
+        {
+            "content": "In the future, it is possible to quantitatively measure a person's emotions, desires, and every inclination. In this way, it is also possible to measure a person's criminal tendency factor, which is used to judge criminals.This is the story of a team of policemen dedicated to maintaining public order. Some of them work in the Enforcement Division, responsible for the apprehension of criminals, while others belong to the Supervisory Division which oversees their colleagues in Enforcement.",
+            "type": "anidb"
+        },
+        {
+            "content": "The series takes place in the near future, when it is possible to instantaneously measure and quantify a person's state of mind and personality. This information is recorded and processed, and the term \"Psycho-Pass\" in the anime's title refers to a standard used to measure an individual's being. The story centers around the \"enforcement officer\" Shinya K\u014dgami, who is tasked with managing crime in such a world.",
+            "type": "ann"
+        },
+        {
+            "content": "In the near future it is possible to instantaneously measure a person's mental state, personality, and the probability that a person will commit crimes with a device installed on each citizen's body called the Psycho-Pass. When this probability, measured by the \"Crime Coefficient\" index, is too high in some individuals those individuals are pursued and apprehended -- with lethal force, if necessary. This task is performed by a special team of potential criminals called Enforcers, who are supervised by police officers known as Inspectors; the Inspectors ensure that Enforcers perform their duties within the constraints of the law. Enforcers and Inspectors employ special weapons called \"Dominators\" that are designed to fire only on those with a higher than normal Crime Coefficient. The story follows Unit 1 of the Public Safety Bureau's Criminal Investigation Division.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 17976,
+            "date": "2013-03-23T06:58:46",
+            "score": 8.5,
+            "type": "mal"
+        },
+        {
+            "count": 670,
+            "date": "2013-03-23T06:58:46",
+            "score": 8.13,
+            "type": "anidb"
+        },
+        {
+            "count": 586,
+            "date": "2013-03-23T06:58:46",
+            "score": 8.443,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2012
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Psycho-Pass"
+}

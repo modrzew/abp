@@ -1,0 +1,69 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u751f\u5f92\u4f1a\u306e\u4e00\u5b58"
+        },
+        {
+            "language": "pl",
+            "title": "Rozwaga Samorz\u0105du Uczniowskiego"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 6556,
+        "ann": 10587,
+        "mal": 5909,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Wyobra\u017a sobie <a href=\"http://abp.modriv.net/pokaz/13-k-on-\">K-ON</a> jako samorz\u0105d uczniowski, w kt\u00f3rym Ritsu jest ch\u0142opakiem.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a light novel series by Aoi Sekina, with illustrations by Inugami Kira.A private high school has a student council chosen entirely by popular vote. Sugisaki Ken is the only male in an otherwise all-girl student council who may enter the \"hallowed halls\" of the council's meeting room. The council president records the minutes of the meetings, which consist of daily conversations about the students.",
+            "type": "anidb"
+        },
+        {
+            "content": "The members of the student council of Hekiyou Gakuen are chosen by a popularity vote. As a result, all the members are cute girls except for Sugisaki Ken, who studied hard to enter the council. The story features the endless chattering of the members full of parodies of &quot;The Melancholy of Haruhi Suzumiya&quot;, &quot;Dragon Ball&quot;, &quot;Death Note&quot;, etc.",
+            "type": "mal"
+        },
+        {
+            "content": "The series, which is also called Hekiy\u014d Gakuen Seito-kaigi Jiroku (The Records of the Hekiy\u014d Academy Student Council\u2019s Activities), revolves around a private high school whose student council is chosen entirely by popularity vote. Because of this, Ken Sugisaki is the only male representative, in the otherwise all bish\u014djo student council, that may enter the \u201csacred sanctuary\u201d of the council\u2019s meeting room. At the behest of Council President Kurimu Sakurano (pictured at right), Sugisaki records the minutes of the council meetings, which devolve into daily conversations about the students\u2019 lives and interests.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 23246,
+            "date": "2012-09-29T02:11:33",
+            "score": 7.78,
+            "type": "mal"
+        },
+        {
+            "count": 1875,
+            "date": "2012-09-29T02:11:33",
+            "score": 7.5,
+            "type": "anidb"
+        },
+        {
+            "count": 1268,
+            "date": "2012-09-29T02:11:33",
+            "score": 7.395,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2009
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Seitokai no Ichizon"
+}

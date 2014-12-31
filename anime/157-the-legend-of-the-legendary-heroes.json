@@ -1,0 +1,730 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u4f1d\u8aac\u306e\u52c7\u8005\u306e\u4f1d\u8aac"
+        },
+        {
+            "language": "pl",
+            "title": "Legenda Legendarnych Wojownik\u00f3w"
+        }
+    ],
+    "aliases": [
+        "Densetsu no Yuusha no Densetsu",
+        "Legend of the Legendary Heroes",
+        "The Legend of the Legendary Heroes"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/113697110",
+            "content": "#anime #Lato2010 The Legend of the Legendary Heroes (\u4f1d\u8aac\u306e\u52c7\u8005\u306e\u4f1d\u8aac) http://rdir.pl/hj3ms",
+            "episode": 1,
+            "filename": "1137b459d84e32a2802010266af4154c.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18530597073"
+        },
+        {
+            "blip_url": "http://blip.pl/s/114929045",
+            "content": "The Legend of the Legendary Heroes 02 - pozornie niegro\u017ana loli, kt\u00f3rej kto\u015b da\u0142 gwo\u017adzie? Zdecydowanie nie r\u00f3bcie tego w domu",
+            "episode": 2,
+            "filename": "9daca6c7e92ea78199e2b943821e4d69.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18641457014"
+        },
+        {
+            "blip_url": "http://blip.pl/s/117561992",
+            "content": "The Legend of the Legendary Heroes 03 - Legenda Leniwych \u015apioch\u00f3w",
+            "episode": 3,
+            "filename": "95f63dd36aacb7a8ff4f22c6b35b7d8d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/18945049601"
+        },
+        {
+            "blip_url": "http://blip.pl/s/137738644",
+            "content": "The Legend of the Legendary Heroes 07 - 1. Przywo\u0142a\u0107 smoka 2. Odej\u015b\u0107 sobie 3. ??? 4. PROFIT!",
+            "episode": 7,
+            "filename": "190befa995118b0fa9712b9ad1382ba3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/21186531725"
+        },
+        {
+            "blip_url": "http://blip.pl/s/151728510",
+            "content": "The Legend of the Legendary Heroes 09 - z serii \"Jak obchodzi\u0107 si\u0119 z m\u0142odszym rodze\u0144stwem\": prawid\u0142owy spos\u00f3b trzymania",
+            "episode": 9,
+            "filename": "c1431af74f8cf23df79956fe3f9465b9.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/22741601204"
+        },
+        {
+            "blip_url": "http://blip.pl/s/153787171",
+            "content": "The Legend of the Legendary Heroes 10 - strach my\u015ble\u0107, kt\u00f3re z nich jest bardziej niebezpieczne dla otoczenia",
+            "episode": 10,
+            "filename": "385e4a77755b37d2deef19ee6b972bd8.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/0"
+        },
+        {
+            "blip_url": "http://blip.pl/s/160497664",
+            "content": "The Legend of the Legendary Heroes 11 - z Rynera by\u0142by \u015bwietny tatu\u015b: jak dziecko pyskuje, to z kamienn\u0105 twarz\u0105 w \u017co\u0142\u0105dek mu",
+            "episode": 11,
+            "filename": "8c9d3af244bf05668037eccaea92a258.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/24414949842"
+        },
+        {
+            "blip_url": "http://blip.pl/s/165641788",
+            "content": "The Legend of the Legendary Heroes 12 - Legenda Legendarnych Pokemon\u00f3w",
+            "episode": 12,
+            "filename": "c65a5723a1bf94b075a87e6ad99a646b.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/25038180758"
+        },
+        {
+            "blip_url": "http://blip.pl/s/171630188",
+            "content": "The Legend of the Legendary Heroes 13 - Ryner Lute: Cz\u0142owiek, kt\u00f3ry si\u0119 Zdrzemn\u0105\u0142",
+            "episode": 13,
+            "filename": "8c861681347384bc685aafcd388a2e79.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/25726221908"
+        },
+        {
+            "blip_url": "http://blip.pl/s/184274685",
+            "content": "The Legend of the Legendary Heroes 15 - dobry kr\u00f3l cechuje si\u0119 mi\u0119dzy innymi szacunkiem swoich podw\u0142adnych",
+            "episode": 15,
+            "filename": "1d2129d61c41763f0439d94b5e33c1aa.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26974504670"
+        },
+        {
+            "blip_url": "http://blip.pl/s/204269555",
+            "content": "The Legend of the Legendary Heroes 18 - ju\u017c my\u015bleli\u015bmy, \u017ce Sion te\u017c jest wampirem, kiedy to tylko s\u0142o\u0144ce...",
+            "episode": 18,
+            "filename": "f65fbce49cd5888e6d9ed2e785ea8b74.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/1621192830091264"
+        },
+        {
+            "blip_url": "http://blip.pl/s/233057595",
+            "content": "The Legend of the Legendary Heroes 21 - nie ma to jak rozpocz\u0105\u0107 dzie\u0144 od porannego kaca",
+            "episode": 21,
+            "filename": "46527d9979984ee3c34de3a90cd9d821.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/9626026640412672"
+        },
+        {
+            "blip_url": "http://blip.pl/s/241141813",
+            "content": "The Legend of the Legendary Heroes 22 - Uderzenie Falcona: Niespodziewana Aborcja - dzia\u0142a za ka\u017cdym razem!",
+            "episode": 22,
+            "filename": "e7a2b1d2bf28ad6da4fc2811d1d84799.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/11924482075660288"
+        },
+        {
+            "blip_url": "http://blip.pl/s/248250501",
+            "content": "The Legend of the Legendary Heroes 23 - Rynera dopad\u0142 \"syndrom studenta w trakcie sesji\"",
+            "episode": 23,
+            "filename": "23ffe08ac74b8add1ec1aa331b566f89.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/13761743394185216"
+        },
+        {
+            "blip_url": "http://blip.pl/s/256765683",
+            "content": "#anime #Lato2010 The Legend of the Legendary Heroes (\u4f1d\u8aac\u306e\u52c7\u8005\u306e\u4f1d\u8aac) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/hj3ms)",
+            "episode": 24,
+            "filename": "c777f9f67d6b3b9cfe08ad6111bf1de3.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/15976777742557185"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-07-01T19:15:00",
+            "episode": 1,
+            "score": 7.532295082,
+            "torrents": [
+                {
+                    "additional_info": "[BD 1920x1080 x264 AAC] ",
+                    "download_count": 4,
+                    "filename": "[Kira-Fansub] Densetsu no Yuusha no Densetsu - 01 (BD 1920x1080 x264 AAC) [90BA79B6].mkv",
+                    "group": "Kira-Fansub",
+                    "hash": "90BA79B6",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=168459",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-07-08T19:15:00",
+            "episode": 2,
+            "score": 7.2223681416,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-15T19:15:00",
+            "episode": 3,
+            "score": 7.3893485958,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-22T19:15:00",
+            "episode": 4,
+            "score": 7.4630810127,
+            "torrents": []
+        },
+        {
+            "date": "2010-07-29T19:15:00",
+            "episode": 5,
+            "score": 7.5033603969,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-05T19:15:00",
+            "episode": 6,
+            "score": 7.573005969,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-12T19:15:00",
+            "episode": 7,
+            "score": 7.6087024793,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-19T19:15:00",
+            "episode": 8,
+            "score": 7.5890717639,
+            "torrents": []
+        },
+        {
+            "date": "2010-08-26T19:15:00",
+            "episode": 9,
+            "score": 7.6355642317,
+            "torrents": [
+                {
+                    "additional_info": "[704x400 h264]",
+                    "download_count": 3,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 09(704x400 h264)[4E2091A7].mkv",
+                    "group": "EC",
+                    "hash": "4E2091A7",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2009%28704x400%20h264%29%5B4E2091A7%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-02T19:15:00",
+            "episode": 10,
+            "score": 7.6847031296,
+            "torrents": [
+                {
+                    "additional_info": "[1024x576 h264]",
+                    "download_count": 2,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 10(1024x576 h264)[215C42FE].mkv",
+                    "group": "EC",
+                    "hash": "215C42FE",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2010%281024x576%20h264%29%5B215C42FE%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[704x400 h264]",
+                    "download_count": 2,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 10(704x400 h264)[FF83D536].mkv",
+                    "group": "EC",
+                    "hash": "FF83D536",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2010%28704x400%20h264%29%5BFF83D536%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-09T19:15:00",
+            "episode": 11,
+            "score": 7.6697452935,
+            "torrents": [
+                {
+                    "additional_info": "[1024x576 h264]",
+                    "download_count": 2,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 11(1024x576 h264)[A4986281].mkv",
+                    "group": "EC",
+                    "hash": "A4986281",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2011%281024x576%20h264%29%5BA4986281%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[704x400 h264]",
+                    "download_count": 2,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 11(704x400 h264)[6BBCCB6D].mkv",
+                    "group": "EC",
+                    "hash": "6BBCCB6D",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2011%28704x400%20h264%29%5B6BBCCB6D%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-16T19:45:00",
+            "episode": 12,
+            "score": 7.6945712046,
+            "torrents": [
+                {
+                    "additional_info": "[704x400 h264]",
+                    "download_count": 2,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 12(704x400 h264)[3AAEB8A2].mkv",
+                    "group": "EC",
+                    "hash": "3AAEB8A2",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2012%28704x400%20h264%29%5B3AAEB8A2%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1024x576 h264]",
+                    "download_count": 2,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 12(1024x576 h264)[A7A16D70].mkv",
+                    "group": "EC",
+                    "hash": "A7A16D70",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2012%281024x576%20h264%29%5BA7A16D70%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-23T19:15:00",
+            "episode": 13,
+            "score": 7.7124229426,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] The Legend of the Legendary Heroes - 13 [9036D5AA].mkv",
+                    "group": "Commie",
+                    "hash": "9036D5AA",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166288",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-09-30T19:15:00",
+            "episode": 14,
+            "score": 7.7425233869,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] The Legend of the Legendary Heroes - 14 [FF437897].mkv",
+                    "group": "Commie",
+                    "hash": "FF437897",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=166394",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-07T19:15:00",
+            "episode": 15,
+            "score": 7.7439125432,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 2,
+                    "filename": "[FUNiGuys] Densetsu no Yuusha no Densetsu - 15 [360p].mkv",
+                    "group": "FUNiGuys",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=163740",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 2,
+                    "filename": "[Derp]_Legend_of_the_Legendary_Heroes_-_15_(1280x720_x264_AAC).mkv",
+                    "group": "Derp",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=164094",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] The Legend of the Legendary Heroes - 15 [CABC0643].mkv",
+                    "group": "Commie",
+                    "hash": "CABC0643",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169154",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-14T19:45:00",
+            "episode": 16,
+            "score": 7.7568983592,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 1,
+                    "filename": "[Derp]_Legend_of_the_Legendary_Heroes_-_16_(1280x720_x264_AAC).mkv",
+                    "group": "Derp",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=168212",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Commie] The Legend of the Legendary Heroes - 16 [682B2FB3].mkv",
+                    "group": "Commie",
+                    "hash": "682B2FB3",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=171372",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-28T19:15:00",
+            "episode": 17,
+            "score": 7.7538724423,
+            "torrents": [
+                {
+                    "additional_info": "[360p]",
+                    "download_count": 2,
+                    "filename": "[CrunchySubs] Densetsu no Yuusha no Densetsu - 17 [360p].mkv",
+                    "group": "CrunchySubs",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169192",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 5,
+                    "filename": "[Derp]_Legend_of_the_Legendary_Heroes_-_17_(1280x720_x264_AAC).mkv",
+                    "group": "Derp",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169270",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-04T18:15:00",
+            "episode": 18,
+            "score": 7.7434347826,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Derp]_Legend_of_the_Legendary_Heroes_-_18_(1280x720_x264_AAC).mkv",
+                    "group": "Derp",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171106",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-11T18:15:00",
+            "episode": 19,
+            "score": 7.7575268195,
+            "torrents": [
+                {
+                    "additional_info": "[1024x576 h264]",
+                    "download_count": 3,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 19(1024x576 h264)[1E543333].mkv",
+                    "group": "EC",
+                    "hash": "1E543333",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2019%281024x576%20h264%29%5B1E543333%5D.mkv.torrent",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[704x400 h264]",
+                    "download_count": 9,
+                    "filename": "[EC]The Legend of the Legendary Heroes - 19(704x400 h264)[29F21AE4].mkv",
+                    "group": "EC",
+                    "hash": "29F21AE4",
+                    "url": "http://enigmacollective.fansub-torrents.com/%5BEC%5DThe%20Legend%20of%20the%20Legendary%20Heroes%20-%2019%28704x400%20h264%29%5B29F21AE4%5D.mkv.torrent",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-18T18:15:00",
+            "episode": 20,
+            "score": 7.7916780413,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-25T18:15:00",
+            "episode": 21,
+            "score": 7.8092218038,
+            "torrents": []
+        },
+        {
+            "date": "2010-12-02T18:15:00",
+            "episode": 22,
+            "score": 7.8269062099,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] The Legend of the Legendary Heroes - 22 [FF9A003D].mkv",
+                    "group": "Commie",
+                    "hash": "FF9A003D",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=178300",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-09T18:15:00",
+            "episode": 23,
+            "score": 7.8427634752,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] The Legend of the Legendary Heroes - 23 [E23CE2EE].mkv",
+                    "group": "Commie",
+                    "hash": "E23CE2EE",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179200",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 3,
+                    "filename": "[Derp]_Legend_of_the_Legendary_Heroes_-_23_(1280x720_x264_AAC).mkv",
+                    "group": "Derp",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179291",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-16T18:15:00",
+            "episode": 24,
+            "score": 8.0069071467,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 x264 AAC]",
+                    "download_count": 4,
+                    "filename": "[Derp]_Legend_of_the_Legendary_Heroes_-_24_(1280x720_x264_AAC).mkv",
+                    "group": "Derp",
+                    "hash": "",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180520",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Commie] The Legend of the Legendary Heroes - 24 [280F2272].mkv",
+                    "group": "Commie",
+                    "hash": "280F2272",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180799",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 24,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7315,
+        "ann": 11250,
+        "mal": 8086,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "Ryner b\u0142yszczy si\u0119 niczym Edward",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f8fe8740b722ef8023ecde8413803aa3.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dobre relacje z towarzyszem podr\u00f3\u017cy to podstawa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9125285be7457b31e5be88aa61694579.jpg",
+            "hd": false
+        },
+        {
+            "description": "Naczelny Bisz",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d3ffbfb180854954fb4515803295a3d6.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ach te mechy... nawet w tym anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3ee4ff20918fce3baba2b6c0f8de0ca3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/59fa3ae374665938fa5769cad6d526a9.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2010 The Legend of the Legendary Heroes (\u4f1d\u8aac\u306e\u52c7\u8005\u306e\u4f1d\u8aac) http://rdir.pl/hj3ms",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1137b459d84e32a2802010266af4154c.jpg",
+            "hd": false
+        },
+        {
+            "description": "pozornie niegro\u017ana loli, kt\u00f3rej kto\u015b da\u0142 gwo\u017adzie? Zdecydowanie nie r\u00f3bcie tego w domu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9daca6c7e92ea78199e2b943821e4d69.jpg",
+            "hd": false
+        },
+        {
+            "description": "Legenda Leniwych \u015apioch\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/95f63dd36aacb7a8ff4f22c6b35b7d8d.jpg",
+            "hd": false
+        },
+        {
+            "description": "1. Przywo\u0142a\u0107 smoka 2. Odej\u015b\u0107 sobie 3. ??? 4. PROFIT!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/190befa995118b0fa9712b9ad1382ba3.jpg",
+            "hd": false
+        },
+        {
+            "description": "z serii \"Jak obchodzi\u0107 si\u0119 z m\u0142odszym rodze\u0144stwem\": prawid\u0142owy spos\u00f3b trzymania",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c1431af74f8cf23df79956fe3f9465b9.jpg",
+            "hd": false
+        },
+        {
+            "description": "strach my\u015ble\u0107, kt\u00f3re z nich jest bardziej niebezpieczne dla otoczenia",
+            "filename": "http://s.modriv.net/abp/images/screencaps/385e4a77755b37d2deef19ee6b972bd8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0bd884146cdc03a4973b856ffa652175.jpg",
+            "hd": true
+        },
+        {
+            "description": "z Rynera by\u0142by \u015bwietny tatu\u015b: jak dziecko pyskuje, to z kamienn\u0105 twarz\u0105 w \u017co\u0142\u0105dek mu",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8c9d3af244bf05668037eccaea92a258.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ae22233b5f5f6f4c0701dbe43c1daea4.jpg",
+            "hd": false
+        },
+        {
+            "description": "Legenda Legendarnych Pokemon\u00f3w",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c65a5723a1bf94b075a87e6ad99a646b.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ryner Lute: Cz\u0142owiek, kt\u00f3ry si\u0119 Zdrzemn\u0105\u0142",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8c861681347384bc685aafcd388a2e79.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a8bd94ce0438b20e66c260312f148d4a.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d1ceef18405c92adc179a059c589f3bf.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4c652c140445e6bb88d1a081efce0f40.jpg",
+            "hd": false
+        },
+        {
+            "description": "dobry kr\u00f3l cechuje si\u0119 mi\u0119dzy innymi szacunkiem swoich podw\u0142adnych",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1d2129d61c41763f0439d94b5e33c1aa.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1f9d953ff310972636e0873a27874a72.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/9f7f4724884c8eb4fbf43e70655b47e1.jpg",
+            "hd": true
+        },
+        {
+            "description": "ju\u017c my\u015bleli\u015bmy, \u017ce Sion te\u017c jest wampirem, kiedy to tylko s\u0142o\u0144ce...",
+            "filename": "http://s.modriv.net/abp/images/screencaps/f65fbce49cd5888e6d9ed2e785ea8b74.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4fff549ddb5e59a977232477f9035628.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/cb7b18fa37da5dda6dbf89eeda739071.jpg",
+            "hd": false
+        },
+        {
+            "description": "nie ma to jak rozpocz\u0105\u0107 dzie\u0144 od porannego kaca",
+            "filename": "http://s.modriv.net/abp/images/screencaps/46527d9979984ee3c34de3a90cd9d821.jpg",
+            "hd": false
+        },
+        {
+            "description": "Uderzenie Falcona: Niespodziewana Aborcja - dzia\u0142a za ka\u017cdym razem!",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e7a2b1d2bf28ad6da4fc2811d1d84799.jpg",
+            "hd": false
+        },
+        {
+            "description": "Kr\u00f3lowie to nawet gluty maj\u0105 ze z\u0142ota",
+            "filename": "http://s.modriv.net/abp/images/screencaps/36fb3c7d86e40ecca89b6264a1d4e1be.jpg",
+            "hd": false
+        },
+        {
+            "description": "Rynera dopad\u0142 \"syndrom studenta w trakcie sesji\"",
+            "filename": "http://s.modriv.net/abp/images/screencaps/23ffe08ac74b8add1ec1aa331b566f89.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/0aff6d72f46ba7a7a1eb091e80d5384e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4e89763cab14ad160292e3f35a7850bb.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Lato2010 The Legend of the Legendary Heroes (\u4f1d\u8aac\u306e\u52c7\u8005\u306e\u4f1d\u8aac) - nasza ocena: ujdzie w t\u0142oku (wi\u0119cej: http://rdir.pl/hj3ms)",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c777f9f67d6b3b9cfe08ad6111bf1de3.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/497e121d176979eddfe28505531f7816.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Przygody kilku \u015bmia\u0142k\u00f3w z pewnego kr\u00f3lestwa (w tym go\u015bcia z magicznymi oczyma), kt\u00f3rzy pr\u00f3buj\u0105 zmieni\u0107 \u015bwiat na lepsze i w tym celu je\u017cd\u017c\u0105 po \u015bwiecie poszukuj\u0105c starych artefakt\u00f3w.",
+            "type": "abp"
+        },
+        {
+            "content": "Ryner Lute is a lazy student of the Roland Empire Royal Magician&#039;s Academy. One day, the Roland Empire goes to war against their neighboring country Estabul, and Ryner loses his classmates in the war. After the war, Ryner sets out on a journey to search the relics of a &quot;Legendary Hero&quot; at King Sion Astal&#039;s command and finds out that a deadly curse is spreading throughout the continent.    (Source: Wikipedia)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on the light novel series by Kagami Takaya with illustrations by Toyota Saori.This is a world in which many legends have been left.In the southern parts of the continent is the Roland Empire. A country in which its people are oppressed by the decadent nobility. By command of King Sion, Ryner and Ferris are sent on a journey.Ryner is an extremely lethargic person. All he desires is a life of peaceful indolence. However, destiny has other plans and they are soon caught up in a war. What is the future that lies before the light shining from Ryner's \"eyes\"?- translated and adapted from the official Japanese site by CranstonNote: The first episode was screened during a promotional event on June 26, 2010 in Tokyo. Participants were chosen amongst people who registered for the anime's e-mail newsletter. The actual television broadcast started on July 2.",
+            "type": "anidb"
+        },
+        {
+            "content": "Ryner Lute is a lazy student of the Roland Empire Royal Magician's School. One day, the Roland Empire goes to war against a neighboring country Estabul, and Ryner loses his classmates in the battle. After the war, at Emperor Sion Astarl's command, Ryner sets out on a journey to find the relics of a \"Legendary Hero\". During his quest, he finds out that a deadly curse is spreading across the continent.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 17342,
+            "date": "2012-09-29T12:44:33",
+            "score": 8.03,
+            "type": "mal"
+        },
+        {
+            "count": 1423,
+            "date": "2012-09-29T12:44:33",
+            "score": 7.71,
+            "type": "anidb"
+        },
+        {
+            "count": 1092,
+            "date": "2012-09-29T12:44:33",
+            "score": 6.358,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 3,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "The Legend of the Legendary Heroes"
+}

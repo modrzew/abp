@@ -1,0 +1,924 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u771f\u5263\u3067\u79c1\u306b\u604b\u3057\u306a\u3055\u3044!!"
+        },
+        {
+            "language": "en",
+            "title": "Majikoi ~ Oh! Samurai Girls!"
+        },
+        {
+            "language": "pl",
+            "title": "Uczy\u0144 ze Mn\u0105 Mi\u0142o\u015b\u0107 na Powa\u017cnie!!"
+        }
+    ],
+    "aliases": [
+        "Maji de Watashi ni Koi Shinasai!",
+        "Maji de Watashi ni Koi Shinasai!! ",
+        "Maji de Watashi ni Koi Shinasai",
+        "Majikoi~Oh! Samurai Girls"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/742789907",
+            "content": "#anime #Jesie\u01442011 Maji de Watashi ni Koi Shinasai!! (\u771f\u5263\u3067\u79c1\u306b\u604b\u3057\u306a\u3055\u3044!!) http://rdir.pl/1lplx1",
+            "episode": 1,
+            "filename": "e73bbf3ea08375767e394a374c5f8bf7.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/122416291393978368"
+        },
+        {
+            "blip_url": "http://blip.pl/s/748595595",
+            "content": "Maji de Watashi ni Koi Shinasai!! 02 - Dziewcz\u0119ta zobaczy\u0142y, jak Yamato klepie Zidana po g\u0142owie",
+            "episode": 2,
+            "filename": "071c766080bf2c078489d30de4d341c4.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/124192418395455488"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-01T18:00:00",
+            "episode": 1,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 01 [720p][819976DF].mkv",
+                    "group": "Ahodomo",
+                    "hash": "819976DF",
+                    "url": "http://www.nyaa.eu/?page=download&tid=249902",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 01 [1280x720 H264] [8A03B1B2].mkv",
+                    "group": "Hiryuu",
+                    "hash": "8A03B1B2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250128",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 01 [D0244B9E].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "D0244B9E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250320",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 01 [Hi10P 1280x720 H264] [103D3322].mkv",
+                    "group": "Hiryuu",
+                    "hash": "103D3322",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250396",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253039",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253041",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-08T18:00:00",
+            "episode": 2,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 5,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 02 [1280x720 H264] [923E2F8B].mkv",
+                    "group": "Hiryuu",
+                    "hash": "923E2F8B",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=251550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 02 [720p][8BFC4E06].mkv",
+                    "group": "Ahodomo",
+                    "hash": "8BFC4E06",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251580",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 7,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 02 [Hi10P 1280x720 H264] [7D9258B7].mkv",
+                    "group": "Hiryuu",
+                    "hash": "7D9258B7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=252183",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 02 [E8FAAC30].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "E8FAAC30",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253441",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-15T18:00:00",
+            "episode": 3,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 6,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 03 [1280x720 H264] [145BAAA5].mkv",
+                    "group": "Hiryuu",
+                    "hash": "145BAAA5",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=253149",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 6,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 03 [Hi10P 1280x720 H264] [039313FC].mkv",
+                    "group": "Hiryuu",
+                    "hash": "039313FC",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=253697",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 03 [720p][98C43634].mkv",
+                    "group": "Ahodomo",
+                    "hash": "98C43634",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253768",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254589",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254592",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 03 [32DCA36B].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "32DCA36B",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254911",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-22T18:00:00",
+            "episode": 4,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 04 [720p][FB3547F2].mkv",
+                    "group": "Ahodomo",
+                    "hash": "FB3547F2",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254759",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 04 [1280x720 H264] [16D067D0].mkv",
+                    "group": "Hiryuu",
+                    "hash": "16D067D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254927",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 04 [Hi10P 1280x720 H264] [9DD8C522].mkv",
+                    "group": "Hiryuu",
+                    "hash": "9DD8C522",
+                    "url": "http://www.nyaa.eu/?page=download&tid=254928",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 04 [BF37ADDE].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "BF37ADDE",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255839",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256270",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256272",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p HQ]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 04 [720p HQ][F73296BD].mkv",
+                    "group": "Ahodomo",
+                    "hash": "F73296BD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258248",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p Hi10]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 04 [720p Hi10][E0501B24].mkv",
+                    "group": "Ahodomo",
+                    "hash": "E0501B24",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258245",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-29T18:00:00",
+            "episode": 5,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 05 [1280x720 H264] [FE163F10].mkv",
+                    "group": "Hiryuu",
+                    "hash": "FE163F10",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256645",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258079",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258083",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p Hi10]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 05v2 [720p Hi10][1A040AA8].mkv",
+                    "group": "Ahodomo",
+                    "hash": "1A040AA8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258515",
+                    "version": 2
+                },
+                {
+                    "additional_info": "[720p HQ]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 05v2 [720p HQ][F2A3771A].mkv",
+                    "group": "Ahodomo",
+                    "hash": "F2A3771A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258516",
+                    "version": 2
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 05 [90925459].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "90925459",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259142",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-05T17:00:00",
+            "episode": 6,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 06 [1280x720 H264] [F492CB4F].mkv",
+                    "group": "Hiryuu",
+                    "hash": "F492CB4F",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=258498",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 06 [720p][3BDDE297].mkv",
+                    "group": "Ahodomo",
+                    "hash": "3BDDE297",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258526",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 06 [Hi10P 1280x720 H264] [7642D7A8].mkv",
+                    "group": "Hiryuu",
+                    "hash": "7642D7A8",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=258710",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259757",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 06 [C7D027C8].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "C7D027C8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261743",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-12T17:00:00",
+            "episode": 7,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 07 [720p][A619F1F8].mkv",
+                    "group": "Ahodomo",
+                    "hash": "A619F1F8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260135",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 7,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 07 [Hi10P 1280x720 H264] [031E1062].mkv",
+                    "group": "Hiryuu",
+                    "hash": "031E1062",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=261335",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 6,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 07 [1280x720 H264] [27565284].mkv",
+                    "group": "Hiryuu",
+                    "hash": "27565284",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=261334",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 07 [05726198].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "05726198",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262322",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267961",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267962",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-19T17:00:00",
+            "episode": 8,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 7,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 08 [Hi10P 1280x720 H264] [57608CBC].mkv",
+                    "group": "Hiryuu",
+                    "hash": "57608CBC",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=261564",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 7,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 08 [1280x720 H264] [47A2AD4A].mkv",
+                    "group": "Hiryuu",
+                    "hash": "47A2AD4A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=261563",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 08 [720p][A3E0F8A8].mkv",
+                    "group": "Ahodomo",
+                    "hash": "A3E0F8A8",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261597",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263013",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263017",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 3,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 08 [7CAEF6FD].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "7CAEF6FD",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264027",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-26T17:00:00",
+            "episode": 9,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 8,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 09 [1280x720 H264] [6164D390].mkv",
+                    "group": "Hiryuu",
+                    "hash": "6164D390",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=263448",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 7,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 09 [Hi10P 1280x720 H264] [34D239A4].mkv",
+                    "group": "Hiryuu",
+                    "hash": "34D239A4",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=263450",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 09 [720p][3CA2E278].mkv",
+                    "group": "Ahodomo",
+                    "hash": "3CA2E278",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264069",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264866",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264867",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-03T17:00:00",
+            "episode": 10,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 10 [720p][BB32E6CA].mkv",
+                    "group": "Ahodomo",
+                    "hash": "BB32E6CA",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265059",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 10 [1280x720 H264] [1D0F0C2E].mkv",
+                    "group": "Hiryuu",
+                    "hash": "1D0F0C2E",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=265234",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 4,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 10 [Hi10P 1280x720 H264] [CDE2A555].mkv",
+                    "group": "Hiryuu",
+                    "hash": "CDE2A555",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=265235",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266971",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=266972",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 0,
+                    "filename": "[Diogo4D-Kanade] Maji de Watashi ni Koi Shinasai!! 10 [977F7C2A].mkv",
+                    "group": "Diogo4D-Kanade",
+                    "hash": "977F7C2A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=368684",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-10T17:00:00",
+            "episode": 11,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 11 [720p][4C9A5F09].mkv",
+                    "group": "Ahodomo",
+                    "hash": "4C9A5F09",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=267373",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 11 [1280x720 H264] [F33A19EA].mkv",
+                    "group": "Hiryuu",
+                    "hash": "F33A19EA",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=267457",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 3,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 11 [Hi10P 1280x720 H264] [177A98C5].mkv",
+                    "group": "Hiryuu",
+                    "hash": "177A98C5",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=267458",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269265",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269268",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-17T17:00:00",
+            "episode": 12,
+            "score": 6.9044300203,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 16,
+                    "filename": "[Ahodomo] Maji de Watashi ni Koi Shinasai! - 12 FINAL [720p][A05814E9].mkv",
+                    "group": "Ahodomo",
+                    "hash": "A05814E9",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269756",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[1280x720 H264]",
+                    "download_count": 1,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 12 [1280x720 H264] [C3E6C290].mkv",
+                    "group": "Hiryuu",
+                    "hash": "C3E6C290",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=271055",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[Hi10P 1280x720 H264]",
+                    "download_count": 2,
+                    "filename": "[Hiryuu] Maji de Watashi ni Koi Shinasai!! 12 [Hi10P 1280x720 H264] [5661D1D5].mkv",
+                    "group": "Hiryuu",
+                    "hash": "5661D1D5",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=271056",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271262",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Majikoi~Oh! Samurai Girls - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271264",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8230,
+        "ann": 12425,
+        "mal": 10213,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/190f50f95919c8f9904dd0a528339ca8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/8bb5500f468513693c1dbb1f20612da9.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/346c2d15c2a450e8a3d6f96247d16bc8.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/30e4fd209117eeb179812858432f5beb.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1d763363c9d019914132418b6e64b245.jpg",
+            "hd": false
+        },
+        {
+            "description": "Wut",
+            "filename": "http://s.modriv.net/abp/images/screencaps/123ae61c816aa8efebc0eecfe035df49.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7e7fb14ef1f351b57b2a5a3cdb9368c5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/1f16be57fe867da839d8550b354bbe36.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d6d3ca42438d13a43a9e352d2f3ef9dc.jpg",
+            "hd": false
+        },
+        {
+            "description": "Ch\u0142\u00f3d",
+            "filename": "http://s.modriv.net/abp/images/screencaps/497ba2fe7a32f426346bec6e85bc6301.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/83bb9a0f0e794671459c01bbbb8d5733.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6875a6ad7129f90f747ae236a63dd302.jpg",
+            "hd": false
+        },
+        {
+            "description": "CAPSLOCK MODE ON",
+            "filename": "http://s.modriv.net/abp/images/screencaps/dec52e657a2550300d704f753b675ce0.jpg",
+            "hd": false
+        },
+        {
+            "description": "Pierwszy raz zobaczy\u0142a penisa",
+            "filename": "http://s.modriv.net/abp/images/screencaps/6ba505a22464b973944ded8d44475713.jpg",
+            "hd": false
+        },
+        {
+            "description": "...3 sekundy p\u00f3\u017aniej",
+            "filename": "http://s.modriv.net/abp/images/screencaps/25168f77106bf7a03a77553495978b62.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/228fa27def4701135138cd70a132ffe4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2f0132f81ec05cc7e9526dc7037d13ce.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/872fde51a3c9d2e11a8c28dce0d097e5.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/4b33c13e32481e5cbf08c02c165faa87.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Maji de Watashi ni Koi Shinasai!! (\u771f\u5263\u3067\u79c1\u306b\u604b\u3057\u306a\u3055\u3044!!) http://rdir.pl/1lplx1",
+            "filename": "http://s.modriv.net/abp/images/screencaps/e73bbf3ea08375767e394a374c5f8bf7.jpg",
+            "hd": false
+        },
+        {
+            "description": "Dziewcz\u0119ta zobaczy\u0142y, jak Yamato klepie Zidana po g\u0142owie",
+            "filename": "http://s.modriv.net/abp/images/screencaps/071c766080bf2c078489d30de4d341c4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/73038fbf2a85501c0581929695ee85e4.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d201b4f278cc2242bda651e09d4e63b7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/35d33097a05ee4c7ce611bec4c12fa15.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "W szkole, w kt\u00f3rej kultywowane s\u0105 najlepsze tradycje epoki Sengoku (masz jaki\u015b problem, to bierz swoj\u0105 bro\u0144 i po lekcjach na boisku) \u017cyje sobie si\u00f3demka przyjaci\u00f3\u0142 (4 m\u0142odzie\u0144c\u00f3w i 3 niewiasty), kt\u00f3rych \u0142\u0105czy nierozerwalna wi\u0119\u017a. Do czasu, gdy w nowym semestrze do grupy do\u0142\u0105czaj\u0105 dwie dziewczyny...",
+            "type": "abp"
+        },
+        {
+            "content": "2nd year student Naoe Yamato's and his precious comrades are present here at Kawakami Academy. This group of four boys and three girls have been together through thick and thin since their earliest years.Now, their ranks are about to swell with the addition of another two members, and things will become livelier than before. This is especially so seeing as how all the girls are superb fighters for whom blood and violence is a daily occurrence!~ translated and adapted from official site by Cranston",
+            "type": "anidb"
+        },
+        {
+            "content": "Kawakami City is famous for its strong dedication to its samurai ancestors. A healthy fighting spirit is always valued and it's even an important factor for success at school. Yamato, a second year student from Kawakami High school, is always with his close friends (4 boys and 3 girls). They have all known each other since they were young and have done many things together. While they have many other friends, this group of seven is a close-knit, inseparable group. They even have a secret base where they meet. With the new semester, they welcome two girls into their group and shortly after things begin to change...",
+            "type": "ann"
+        },
+        {
+            "content": "Kawakami City is famous for its strong dedication to its samurai ancestors. A healthy fighting spirit is always valued and it's even an important factor for success at school.   Yamato, a second year student from Kawakami Highchool is always with his close friends (4 boys and 3 girls). They have all known each other since they were young and have done many things together. While they have many other friends, this group of seven is a close-knit, inseparable group. They even have a secret base where they meet.   With the new semester, they welcome two girls into their group and shortly after things begin to change...   (Source: VNDB)",
+            "type": "mal"
+        },
+        {
+            "content": "Kawakami City is famous for its strong dedication to its samurai ancestors. A healthy fighting spirit is always valued and it's even an important factor for success at school. Yamato, a second year student from Kawakami High School is always with his close friends (4 boys and 3 girls). They have all known each other since they were young and have done many things together. While they have many other friends, this group of seven is a close-knit, inseparable group. They even have a secret base where they meet. With the new semester, they welcome two girls into their group and shortly after things begin to change.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 11533,
+            "date": "2012-09-29T13:47:51",
+            "score": 6.97,
+            "type": "mal"
+        },
+        {
+            "count": 503,
+            "date": "2012-09-29T13:47:51",
+            "score": 6.236,
+            "type": "ann"
+        },
+        {
+            "count": 649,
+            "date": "2012-09-29T13:47:51",
+            "score": 6.22,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Maji de Watashi ni Koi Shinasai!!"
+}

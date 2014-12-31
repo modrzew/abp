@@ -1,0 +1,130 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u771f\u604b\u59eb\u2020\u7121\u53cc ~\u4e59\u5973\u5927\u4e71~"
+        },
+        {
+            "language": "pl",
+            "title": "Nowe Niepokonane Ksi\u0119\u017cniczki Mi\u0142o\u015bci ~Dziewicze Powstanie~"
+        }
+    ],
+    "aliases": [],
+    "blips": [],
+    "episodes": [
+        {
+            "date": "2010-04-01T02:00:00",
+            "episode": 1,
+            "score": 7.13015625,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-08T02:00:00",
+            "episode": 2,
+            "score": 7.1683333333,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-15T02:00:00",
+            "episode": 3,
+            "score": 7.3903829787,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-22T02:00:00",
+            "episode": 4,
+            "score": 7.3820577617,
+            "torrents": []
+        },
+        {
+            "date": "2010-04-29T02:00:00",
+            "episode": 5,
+            "score": 7.3649342105,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-06T02:00:00",
+            "episode": 6,
+            "score": 7.3797560976,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-13T02:00:00",
+            "episode": 7,
+            "score": 7.3829226361,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-20T02:00:00",
+            "episode": 8,
+            "score": 7.3554010695,
+            "torrents": []
+        },
+        {
+            "date": "2010-05-27T02:00:00",
+            "episode": 9,
+            "score": 7.3575247525,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-03T02:00:00",
+            "episode": 10,
+            "score": 7.3575177305,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-10T02:00:00",
+            "episode": 11,
+            "score": 7.3772517321,
+            "torrents": []
+        },
+        {
+            "date": "2010-06-17T02:00:00",
+            "episode": 12,
+            "score": 7.4000965406,
+            "torrents": []
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7277,
+        "ann": 11215,
+        "mal": 8057,
+        "schedule": null
+    },
+    "images": [],
+    "plots": [
+        {
+            "content": "Trzeci tytu\u0142 z serii Koihime\u2020Musou.",
+            "type": "abp"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 2578,
+            "date": "2012-09-29T12:41:04",
+            "score": 7.36,
+            "type": "mal"
+        },
+        {
+            "count": 299,
+            "date": "2012-09-29T12:41:04",
+            "score": 6.81,
+            "type": "anidb"
+        },
+        {
+            "count": 255,
+            "date": "2012-09-29T12:41:04",
+            "score": 7.553,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 2,
+        "year": 2010
+    },
+    "sequel": true,
+    "sequel_parent": "59",
+    "title": "Shin Koihime\u2020Musou ~Otome Tairan~"
+}

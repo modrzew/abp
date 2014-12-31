@@ -1,0 +1,892 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u541b\u3068\u50d5."
+        },
+        {
+            "language": "pl",
+            "title": "Ty i Ja."
+        }
+    ],
+    "aliases": [
+        "Kimi to Boku"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/742730875",
+            "content": "#anime #Jesie\u01442011 Kimi to Boku. (\u541b\u3068\u50d5.) http://rdir.pl/1lplnm",
+            "episode": 1,
+            "filename": "facd03d0efd14feba17b20ccfc8cb155.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/122405223061925888"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2011-10-03T18:30:00",
+            "episode": 1,
+            "score": 7.17,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kimi to Boku - 01 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250161",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kimi to Boku - 01 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250163",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 4,
+                    "filename": "[sage]_Kimi_to_Boku_-_01_[720p][10bit][E6379F9E].mkv",
+                    "group": "sage",
+                    "hash": "E6379F9E",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250176",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_01_[480p][D06B2BD0].mkv",
+                    "group": "sage",
+                    "hash": "D06B2BD0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250177",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[Yagami]_Kimi_to_Boku_-_01_[F7B587D4].mkv",
+                    "group": "Yagami",
+                    "hash": "F7B587D4",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250220",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 3,
+                    "filename": "[Yagami]_Kimi_to_Boku_-_01_[10bit][4ED74C3A].mkv",
+                    "group": "Yagami",
+                    "hash": "4ED74C3A",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250221",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HeteroSubs] Kimi to Watashi - 01 [720p][B4F254D0].mkv",
+                    "group": "HeteroSubs",
+                    "hash": "B4F254D0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250612",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 3,
+                    "filename": "[CTSS] Kimi to Boku - 01 [H264 AAC 1280x720][db51a323].mkv",
+                    "group": "CTSS",
+                    "hash": "db51a323",
+                    "url": "http://www.nyaa.eu/?page=download&tid=250579",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-10T18:30:00",
+            "episode": 2,
+            "score": 7.12,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kimi to Boku - 02 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251708",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kimi to Boku - 02 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251715",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 1,
+                    "filename": "[sage]_Kimi_to_Boku_-_02_[720p][10bit][E61E36CD].mkv",
+                    "group": "sage",
+                    "hash": "E61E36CD",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=251774",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[sage]_Kimi_to_Boku_-_02_[480p][8726E59A].mkv",
+                    "group": "sage",
+                    "hash": "8726E59A",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=251775",
+                    "version": 1
+                },
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[Yagami]_Kimi_to_Boku_-_02_[7E04FAA6].mkv",
+                    "group": "Yagami",
+                    "hash": "7E04FAA6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251872",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[10bit]",
+                    "download_count": 1,
+                    "filename": "[Yagami]_Kimi_to_Boku_-_02_[10bit][F8C29EC6].mkv",
+                    "group": "Yagami",
+                    "hash": "F8C29EC6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=251873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 2,
+                    "filename": "[CTSS] Kimi to Boku - 02 [H264 AAC 1280x720][de847270].mkv",
+                    "group": "CTSS",
+                    "hash": "de847270",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253235",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-17T18:30:00",
+            "episode": 3,
+            "score": 7.1172071358,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kimi to Boku - 03 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253369",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kimi to Boku - 03 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253389",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_03_[720p][10bit][054626F0].mkv",
+                    "group": "sage",
+                    "hash": "054626F0",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253474",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_03_[480p][174FBB23].mkv",
+                    "group": "sage",
+                    "hash": "174FBB23",
+                    "url": "http://www.nyaa.eu/?page=download&tid=253475",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 3,
+                    "filename": "[CTSS] Kimi to Boku - 03 [H264 AAC 1280x720][3c396267].mkv",
+                    "group": "CTSS",
+                    "hash": "3c396267",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255016",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-24T18:30:00",
+            "episode": 4,
+            "score": 7.1699568966,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kimi to Boku - 04 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255122",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kimi to Boku - 04 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255123",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_04_[720p][10bit][85D75748].mkv",
+                    "group": "sage",
+                    "hash": "85D75748",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=255220",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[sage]_Kimi_to_Boku_-_04_[480p][78C9C704].mkv",
+                    "group": "sage",
+                    "hash": "78C9C704",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=255221",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CTSS] Kimi to Boku - 04 [H264 AAC 1280x720][b232446c].mkv",
+                    "group": "CTSS",
+                    "hash": "b232446c",
+                    "url": "http://www.nyaa.eu/?page=download&tid=255457",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-10-31T17:30:00",
+            "episode": 5,
+            "score": 7.1871235248,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kimi to Boku - 05 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256872",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Kimi to Boku - 05 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256873",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 5,
+                    "filename": "[CTSS] Kimi to Boku - 05 [H264 AAC 1280x720][93e0bd76].mkv",
+                    "group": "CTSS",
+                    "hash": "93e0bd76",
+                    "url": "http://www.nyaa.eu/?page=download&tid=256980",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[sage]_Kimi_to_Boku_-_05_[480p][F2C86846].mkv",
+                    "group": "sage",
+                    "hash": "F2C86846",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=257036",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 7,
+                    "filename": "[sage]_Kimi_to_Boku_-_05_[720p][10bit][BF0A410F].mkv",
+                    "group": "sage",
+                    "hash": "BF0A410F",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=257035",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-07T17:30:00",
+            "episode": 6,
+            "score": 7.2320344343,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kimi to Boku - 06 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258750",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kimi to Boku - 06 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=258751",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_06_[720p][10bit][0C35F047].mkv",
+                    "group": "sage",
+                    "hash": "0C35F047",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=258822",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[sage]_Kimi_to_Boku_-_06_[480p][2CD15CD4].mkv",
+                    "group": "sage",
+                    "hash": "2CD15CD4",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=258823",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 2,
+                    "filename": "[CTSS] Kimi to Boku - 06 [H264 AAC 1280x720][b6dc722a].mkv",
+                    "group": "CTSS",
+                    "hash": "b6dc722a",
+                    "url": "http://www.nyaa.eu/?page=download&tid=259420",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-14T17:30:00",
+            "episode": 7,
+            "score": 7.2711045665,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[HorribleSubs] Kimi to Boku - 07 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260276",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Kimi to Boku - 07 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=260277",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 9,
+                    "filename": "[sage]_Kimi_to_Boku_-_07_[720p][10bit][15E18232].mkv",
+                    "group": "sage",
+                    "hash": "15E18232",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=260364",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 6,
+                    "filename": "[sage]_Kimi_to_Boku_-_07_[480p][7BE35690].mkv",
+                    "group": "sage",
+                    "hash": "7BE35690",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=260365",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 4,
+                    "filename": "[CTSS] Kimi to Boku - 07 [H264 AAC 1280x720][b29b31e7].mkv",
+                    "group": "CTSS",
+                    "hash": "b29b31e7",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262354",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-21T17:30:00",
+            "episode": 8,
+            "score": 7.305967026,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[HorribleSubs] Kimi to Boku - 08 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261826",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Kimi to Boku - 08 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=261829",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_08_[480p][8EAF5B22].mkv",
+                    "group": "sage",
+                    "hash": "8EAF5B22",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=261955",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 6,
+                    "filename": "[sage]_Kimi_to_Boku_-_08_[720p][10bit][0D56EE09].mkv",
+                    "group": "sage",
+                    "hash": "0D56EE09",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=261954",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 2,
+                    "filename": "[CTSS] Kimi to Boku - 08 [H264 AAC 1280x720][2e90277e].mkv",
+                    "group": "CTSS",
+                    "hash": "2e90277e",
+                    "url": "http://www.nyaa.eu/?page=download&tid=262355",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-11-28T17:30:00",
+            "episode": 9,
+            "score": 7.3412513401,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 7,
+                    "filename": "[HorribleSubs] Kimi to Boku - 09 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263437",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 11,
+                    "filename": "[HorribleSubs] Kimi to Boku - 09 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=263438",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 9,
+                    "filename": "[sage]_Kimi_to_Boku_-_09_[720p][10bit][34F2E0FA].mkv",
+                    "group": "sage",
+                    "hash": "34F2E0FA",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=263611",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[sage]_Kimi_to_Boku_-_09_[480p][4BD5A6EA].mkv",
+                    "group": "sage",
+                    "hash": "4BD5A6EA",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=263612",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 6,
+                    "filename": "[CTSS] Kimi to Boku - 09 [H264 AAC 1280x720][fbd5ada5].mkv",
+                    "group": "CTSS",
+                    "hash": "fbd5ada5",
+                    "url": "http://www.nyaa.eu/?page=download&tid=264080",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-05T17:30:00",
+            "episode": 10,
+            "score": 7.3615304323,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Kimi to Boku - 10 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265536",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 12,
+                    "filename": "[HorribleSubs] Kimi to Boku - 10 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=265537",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 10,
+                    "filename": "[sage]_Kimi_to_Boku_-_10_[720p][10bit][B2555ADF].mkv",
+                    "group": "sage",
+                    "hash": "B2555ADF",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=265625",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 8,
+                    "filename": "[sage]_Kimi_to_Boku_-_10_[480p][6DAD85CD].mkv",
+                    "group": "sage",
+                    "hash": "6DAD85CD",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=265626",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 5,
+                    "filename": "[CTSS] Kimi to Boku - 10 [H264 AAC 1280x720][441d17fc].mkv",
+                    "group": "CTSS",
+                    "hash": "441d17fc",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267097",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-12T17:30:00",
+            "episode": 11,
+            "score": 7.3842913364,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[AnimeUltima] Kimi to Boku - 11 [480p].mkv",
+                    "group": "AnimeUltima",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267775",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[AnimeUltima] Kimi to Boku - 11 [720p].mkv",
+                    "group": "AnimeUltima",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267778",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 1,
+                    "filename": "[HorribleSubs] Kimi to Boku - 11 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267859",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kimi to Boku - 11 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=267860",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 2,
+                    "filename": "[sage]_Kimi_to_Boku_-_11_[720p][10bit][B23CE75F].mkv",
+                    "group": "sage",
+                    "hash": "B23CE75F",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=268187",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[sage]_Kimi_to_Boku_-_11_[480p][04C592E8].mkv",
+                    "group": "sage",
+                    "hash": "04C592E8",
+                    "url": "http://www.nyaa.eu/?page=torrentinfo&tid=268188",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 1,
+                    "filename": "[CTSS] Kimi to Boku - 11 [H264 AAC 1280x720][86f0b5ea].mkv",
+                    "group": "CTSS",
+                    "hash": "86f0b5ea",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269039",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-19T17:30:00",
+            "episode": 12,
+            "score": 7.4255541981,
+            "torrents": [
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[AnimeUltima] Kimi to Boku - 12 [720p].mkv",
+                    "group": "AnimeUltima",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269897",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 4,
+                    "filename": "[AnimeUltima] Kimi to Boku - 12 [480p].mkv",
+                    "group": "AnimeUltima",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269898",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 5,
+                    "filename": "[HorribleSubs] Kimi to Boku - 12 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269928",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 8,
+                    "filename": "[HorribleSubs] Kimi to Boku - 12 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=269929",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_12_[720p][10bit][C36C4ACB].mkv",
+                    "group": "sage",
+                    "hash": "C36C4ACB",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270016",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_12_[480p][C2AD9C98].mkv",
+                    "group": "sage",
+                    "hash": "C2AD9C98",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270015",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 3,
+                    "filename": "[CTSS] Kimi to Boku - 12 [H264 AAC 1280x720][1bc8ac21].mkv",
+                    "group": "CTSS",
+                    "hash": "1bc8ac21",
+                    "url": "http://www.nyaa.eu/?page=download&tid=270172",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2011-12-26T17:30:00",
+            "episode": 13,
+            "score": 7.8377053171,
+            "torrents": [
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 3,
+                    "filename": "[HorribleSubs] Kimi to Boku - 13 [480p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271549",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[HorribleSubs] Kimi to Boku - 13 [720p].mkv",
+                    "group": "HorribleSubs",
+                    "hash": "",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271550",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p][10bit]",
+                    "download_count": 3,
+                    "filename": "[sage]_Kimi_to_Boku_-_13_[720p][10bit][4A0FD239].mkv",
+                    "group": "sage",
+                    "hash": "4A0FD239",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271945",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[480p]",
+                    "download_count": 2,
+                    "filename": "[sage]_Kimi_to_Boku_-_13_[480p][9BCFACD6].mkv",
+                    "group": "sage",
+                    "hash": "9BCFACD6",
+                    "url": "http://www.nyaa.eu/?page=download&tid=271946",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[H264 AAC 1280x720]",
+                    "download_count": 2,
+                    "filename": "[CTSS] Kimi to Boku - 13 [H264 AAC 1280x720][82d477c1].mkv",
+                    "group": "CTSS",
+                    "hash": "82d477c1",
+                    "url": "http://www.nyaa.eu/?page=download&tid=272111",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 13,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 8367,
+        "ann": 12727,
+        "mal": 10460,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c6ae807d7a02d59e1eae61d77509838f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/515eeea9a965b58dc9e5517e61aa00e7.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ba00f98793bb9fc99535bbdc78b7931a.jpg",
+            "hd": false
+        },
+        {
+            "description": "Alem zniewie\u015bcia\u0142y",
+            "filename": "http://s.modriv.net/abp/images/screencaps/ca59ee3dfaf9f9d52b1d653994f6096d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/c39df10eab28d18ca29bfce1ff88884b.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/7d61c4a64125dab3a2263e7266485349.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/26abf4f9ee7b96b2b9e052788632916f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2e6f9cb0b233e8786f65695855d8ce18.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442011 Kimi to Boku. (\u541b\u3068\u50d5.) http://rdir.pl/1lplnm",
+            "filename": "http://s.modriv.net/abp/images/screencaps/facd03d0efd14feba17b20ccfc8cb155.jpg",
+            "hd": false
+        },
+        {
+            "description": "Zez",
+            "filename": "http://s.modriv.net/abp/images/screencaps/71213c324c0b673f20712eab686cd288.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Reverse K-ON: <del>czterech</del> pi\u0119ciu m\u0142odzie\u0144c\u00f3w przyjemnie sp\u0119dza swoje szkolne lata. Innej fabu\u0142y nie stwierdzono.",
+            "type": "abp"
+        },
+        {
+            "content": "* Based on a manga by Hotta Kiichi, serialised in Gangan Powered and later in Monthly GFantasy.The story revolves around four teens - the good-looking twins Asaba Yuuta and Yuuki, the effeminate Matsuoka Shun, and the class head Tsukahara Kaname - who have known each other since early childhood. While they are not necessarily good or bad friends, they continue to hang out well into high school. The half-Japanese transfer student Tachibana Chizuru joins the circle of friends in this comedy about the everyday life of adolescence.Source: ANN",
+            "type": "anidb"
+        },
+        {
+            "content": "About 4 friends, twins Yuta and Yuki Asaba, the cute and girly Shun Matsuoka, and the class head Kaname Tsukahara, who have known each other since kindergarden. When a half-Japanese transfer student named Chizuru Tachibana joins their group, he brings a new dynamic to their friendship.",
+            "type": "ann"
+        },
+        {
+            "content": "The story revolves around four teens \u2014 the good-looking twins Yuuta and Yuuki Asaba, the effeminate Shun Matsuoka, and the class head Kaname Tsukahara \u2014 who have known each other since early childhood. While they are not necessarily good or bad friends, they continue to hang out well into high school. The half-Japanese transfer student Chizuru Tachibana joins the circle of friends in this comedy about the everyday life of adolescence.",
+            "type": "mal"
+        },
+        {
+            "content": "The story revolves around four teens \u2014 the good-looking twins Yuuta and Yuuki Asaba, the effeminate Shun Matsuoka, and the class head Kaname Tsukahara \u2014 who have known each other since early childhood. While they are not necessarily good or bad friends, they continue to hang out well into high school. The half-Japanese transfer student Chizuru Tachibana joins the circle of friends in this comedy about the everyday life of adolescence.",
+            "type": "wiki"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 11125,
+            "date": "2012-09-29T13:45:08",
+            "score": 7.94,
+            "type": "mal"
+        },
+        {
+            "count": 381,
+            "date": "2012-09-29T13:45:08",
+            "score": 7.148,
+            "type": "ann"
+        },
+        {
+            "count": 452,
+            "date": "2012-09-29T13:45:08",
+            "score": 7.14,
+            "type": "anidb"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2011
+    },
+    "sequel": false,
+    "sequel_parent": null,
+    "title": "Kimi to Boku."
+}

@@ -1,0 +1,318 @@
+{
+    "additional_titles": [
+        {
+            "language": "jp",
+            "title": "\u548e\u72d7\u306e\u8840"
+        },
+        {
+            "language": "pl",
+            "title": "Krew Skarconego Psa"
+        }
+    ],
+    "aliases": [
+        "Togainu no Chi"
+    ],
+    "blips": [
+        {
+            "blip_url": "http://blip.pl/s/182349805",
+            "content": "#anime #Jesie\u01442010 Togainu no Chi (\u548e\u72d7\u306e\u8840) http://rdir.pl/tuesh",
+            "episode": 1,
+            "filename": "2b97a1adb0d7537f0af2dbfcdac7297d.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/26791563509"
+        },
+        {
+            "blip_url": "http://blip.pl/s/189684119",
+            "content": "Togainu no Chi 02 - kolejny nudny dzie\u0144 w \u017cyciu bisza",
+            "episode": 2,
+            "filename": "abed02fba44c08bc339060bd3ae1cb45.jpg",
+            "twitter_url": "http://twitter.com/animeblippl/status/27670133689"
+        }
+    ],
+    "episodes": [
+        {
+            "date": "2010-10-07T18:25:00",
+            "episode": 1,
+            "score": 7.4218923933,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Togainu_no_Chi_-_01_[DAE73FDF].mkv",
+                    "group": "gg",
+                    "hash": "DAE73FDF",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=163640",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 6,
+                    "filename": "[Freeze-subs] Togainu no Chi 1 [720p][01E5BD95].mkv",
+                    "group": "Freeze-subs",
+                    "hash": "01E5BD95",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=165865",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-14T18:25:00",
+            "episode": 2,
+            "score": 7.3846970859,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Togainu_no_Chi_-_02_[13697BB6].mkv",
+                    "group": "gg",
+                    "hash": "13697BB6",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=165814",
+                    "version": 1
+                },
+                {
+                    "additional_info": "[720p]",
+                    "download_count": 4,
+                    "filename": "[Freeze-subs] Togainu no Chi 2 [720p][BBD312AB].mkv",
+                    "group": "Freeze-subs",
+                    "hash": "BBD312AB",
+                    "url": "http://www.nyaatorrents.org/?page=torrentinfo&tid=169555",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-21T18:25:00",
+            "episode": 3,
+            "score": 7.3084628225,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Togainu_no_Chi_-_03_[4C9CDA20].mkv",
+                    "group": "gg",
+                    "hash": "4C9CDA20",
+                    "url": "http://nyaatorrents.org/?page=download&tid=167928",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-10-28T18:25:00",
+            "episode": 4,
+            "score": 7.2829790329,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Togainu_no_Chi_-_04_[75CCD3BF].mkv",
+                    "group": "gg",
+                    "hash": "75CCD3BF",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=169211",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-04T17:25:00",
+            "episode": 5,
+            "score": 7.2340989264,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 4,
+                    "filename": "[gg]_Togainu_no_Chi_-_05_[27295EFC].mkv",
+                    "group": "gg",
+                    "hash": "27295EFC",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=171740",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-11-11T17:25:00",
+            "episode": 6,
+            "score": 7.1962918125,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-18T17:25:00",
+            "episode": 7,
+            "score": 7.1695741767,
+            "torrents": []
+        },
+        {
+            "date": "2010-11-25T17:25:00",
+            "episode": 8,
+            "score": 7.1785904321,
+            "torrents": []
+        },
+        {
+            "date": "2010-12-02T17:25:00",
+            "episode": 9,
+            "score": 7.1492688361,
+            "torrents": []
+        },
+        {
+            "date": "2010-12-09T17:25:00",
+            "episode": 10,
+            "score": 7.1336748603,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 1,
+                    "filename": "[gg]_Togainu_no_Chi_-_10_[0033EA8F].mkv",
+                    "group": "gg",
+                    "hash": "0033EA8F",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=179019",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-16T17:25:00",
+            "episode": 11,
+            "score": 7.1084488805,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 6,
+                    "filename": "[gg]_Togainu_no_Chi_-_11_[B3BC3D06].mkv",
+                    "group": "gg",
+                    "hash": "B3BC3D06",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=180383",
+                    "version": 1
+                }
+            ]
+        },
+        {
+            "date": "2010-12-23T17:25:00",
+            "episode": 12,
+            "score": 0.0,
+            "torrents": [
+                {
+                    "additional_info": "",
+                    "download_count": 2,
+                    "filename": "[gg]_Togainu_no_Chi_-_12_[562E7B9C].mkv",
+                    "group": "gg",
+                    "hash": "562E7B9C",
+                    "url": "http://www.nyaatorrents.org/?page=download&tid=181803",
+                    "version": 1
+                }
+            ]
+        }
+    ],
+    "episodes_count": 12,
+    "episodes_length": 24,
+    "external_sites": {
+        "anidb": 7477,
+        "ann": 11371,
+        "mal": 8449,
+        "schedule": null
+    },
+    "images": [
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5f04583e531e827ef12caf464f39671.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/5b647a4fc7024c25379a96514b1be83e.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/78fbbea21722af279b5a3ad0fdbf2a1f.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d8dd56c63848a99c888b8985d04a5040.jpg",
+            "hd": false
+        },
+        {
+            "description": "Prawdopodobnie jedyna kobieta w tym anime",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a5e8492e9efe1b280d59246538a82830.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/135eed08b8c3948afa3d323190ec5dcd.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/d2f0be5463640f83f93257d40097931d.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/a66a74a7fda4464905b6b38fdb85a105.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/3bc716ac903899822e12f17ca4bf5108.jpg",
+            "hd": false
+        },
+        {
+            "description": "#anime #Jesie\u01442010 Togainu no Chi (\u548e\u72d7\u306e\u8840) http://rdir.pl/tuesh",
+            "filename": "http://s.modriv.net/abp/images/screencaps/2b97a1adb0d7537f0af2dbfcdac7297d.jpg",
+            "hd": false
+        },
+        {
+            "description": "kolejny nudny dzie\u0144 w \u017cyciu bisza",
+            "filename": "http://s.modriv.net/abp/images/screencaps/abed02fba44c08bc339060bd3ae1cb45.jpg",
+            "hd": false
+        },
+        {
+            "description": "",
+            "filename": "http://s.modriv.net/abp/images/screencaps/24c92980526b940239a060cf6aa865cd.jpg",
+            "hd": false
+        }
+    ],
+    "plots": [
+        {
+            "content": "Miasto bisz\u00f3w. Bisz oskar\u017cony o zamordowanie innego bisza, aby unikn\u0105\u0107 do\u017cywotniego wi\u0119zienia, musi uda\u0107 si\u0119 do dzielnicy bezprawia i walczy\u0107 na \u015bmier\u0107 i \u017cycie z innymi biszami w celu obalenia kartelu narkotykowego.",
+            "type": "abp"
+        },
+        {
+            "content": "After being devastated in the third World War (known as The Third Division), Japan was divided in two. Several years after the end of the war, a crime organization called Vischio has taken control of the destroyed city of Toshima (formerly Tokyo, Japan&#039;s capital city), where they are holding a battle game known as &quot;Igura&quot;. The main character, a young man named Akira, is falsely accused of a crime. Once arrested, a mysterious woman appears before him, offering him freedom if he agrees to participate in Igura and defeat Igura&#039;s strongest man: the king, or &quot;Il-re&quot;. The story follows Akira&#039;s life in the harsh, lawless Toshima as he fights both to survive and to unravel the mysteries developing around him.    (Source: Wikipedia)",
+            "type": "mal"
+        },
+        {
+            "content": "* Based on the popular boys love visual novel game Togainu no Chi (Blood of the Reprimanded Hound) from Nitro+chiral.After being devastated in the third World War (known as The Third Division), Japan was divided in two. Several years after the end of the war, a crime organization called Vischio has taken control of the destroyed city of Toshima (formerly Tokyo, Japan's capital city), where they are holding a battle game known as Igura. The game's main character, a young man named Akira, is falsely accused of a crime. Once arrested, a mysterious woman appears before him, offering him freedom if he agrees to participate in Igura and defeat Igura's strongest man: the king, or Il-re. The story follows Akira's life in the harsh, lawless Toshima as he fights both to survive and to unravel the mysteries developing around him.Note: The first episode was streamed online on NicoNico Douga and U-stream as part of a special preview event on September 23, 2010. The regular television broadcast started on October 8, 2010.",
+            "type": "anidb"
+        },
+        {
+            "content": "Several years after the end of a war, the city of Toshima has fallen into decay and been taken over by the crime syndicate Viscio. There, the head of the syndicate, Il Rey, has convened the battle game \"Igura.\" Meanwhile, Akira, falsely accused of a crime, has made a deal to earn his pardon: go to Toshima, defeat Il Rey, and destroy the syndicate.",
+            "type": "ann"
+        }
+    ],
+    "ranks": [
+        {
+            "count": 10788,
+            "date": "2012-09-29T12:49:23",
+            "score": 6.47,
+            "type": "mal"
+        },
+        {
+            "count": 426,
+            "date": "2012-09-29T12:49:23",
+            "score": 5.29,
+            "type": "anidb"
+        },
+        {
+            "count": 529,
+            "date": "2012-09-29T12:49:23",
+            "score": 5.222,
+            "type": "ann"
+        }
+    ],
+    "season": {
+        "quarter": 4,
+        "year": 2010
+    },
+    "sequel": false,
+    "sequel_parent": "",
+    "title": "Togainu no Chi"
+}
